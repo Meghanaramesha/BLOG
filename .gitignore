@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Except these directories/files
+!.gitignore
+!GitBook_Content/
+
+# Only track Markdown files inside GitBook_Content
+GitBook_Content/**/*.md
+# Allow GitBook content
+!README.md
+!GitBook_Content/
+!GitBook_Content/Agency/
