@@ -1,4 +1,4 @@
-# Top Reseller Platforms: Exploring the Best Options for 2023
+﻿# Top Reseller Platforms: Exploring the Best Options for 2023
 
 applovin.com, 85d07cdbfc3f0cf44d57cdb1a9240216, DIRECT
 

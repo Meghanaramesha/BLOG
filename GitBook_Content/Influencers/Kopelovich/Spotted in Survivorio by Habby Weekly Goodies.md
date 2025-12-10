@@ -1,11 +1,11 @@
-# Spotted in Survivor.io by Habby: Weekly Goodies
+﻿# Spotted in Survivor.io by Habby: Weekly Goodies
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/10/Spotted-in-Survivor.io-by-Habby-Weekly-Goodies.jpg)
@@ -45,12 +45,12 @@ October 6
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Spotted-in-Survivor.io-by-Habby-Weekly-Goodies.jpg)
 
-🗝️ Spotted in [Survivor.io](http://Survivor.io) (Habby): Weekly Goodies 🎁  
+ðŸ—ï¸ Spotted in [Survivor.io](http://Survivor.io) (Habby):Â Weekly GoodiesÂ ðŸŽ  
 Players can log in during the first 2 days of the week to claim surprise gems & items.
 
 A simple but smart way to:  
-✅ Encourage early-week logins  
-✅ Add surprise & delight to routine engagement  
+âœ… Encourage early-week logins  
+âœ… Add surprise & delight to routine engagement  
   
 Sometimes small touches helps drive retention.
 
@@ -125,20 +125,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fspotted-in-survivor-io-by-habby-weekly-goodies%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -147,4 +147,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

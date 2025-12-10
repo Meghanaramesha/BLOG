@@ -1,11 +1,11 @@
-# Com2uS’ Minion Rumble is featuring Habby’s Capybara Go!
+﻿# Com2uSâ€™ Minion Rumble is featuring Habbyâ€™s Capybara Go!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/09/Collaboration-beats-Isolation-A-nice-reminder-that-in-todays-crowded-mobile-space.jpg)
@@ -27,7 +27,7 @@
 * *arrow\_back*[Home](https://www.gamigion.com/)
 * *keyboard\_arrow\_right* [Journal](https://www.gamigion.com/category/journal/)
 
-# Com2uS’ Minion Rumble is featuring Habby’s Capybara Go!
+# Com2uSâ€™ Minion Rumble is featuring Habbyâ€™s Capybara Go!
 
 [Journal](https://www.gamigion.com/category/journal/) 
 28
@@ -45,20 +45,20 @@ September 30
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Collaboration-beats-Isolation-A-nice-reminder-that-in-todays-crowded-mobile-space.jpg)
 
-\*As far as I know (and after checking around) there’s no obvious connection between Com2uS and Habby — but I may be mistaken.
+\*As far as I know (and after checking around) thereâ€™sÂ no obvious connectionÂ betweenÂ Com2uSÂ andÂ HabbyÂ â€” but I may be mistaken.
 
-🚨 That’s why this cross-promo in Minion Rumble (Com2uS) caught my eye: it’s featuring Capybara Go!, which is published by Habby.  
+ðŸš¨ Thatâ€™s why this cross-promo inÂ Minion RumbleÂ (Com2uS) caught my eye: itâ€™s featuringÂ Capybara Go!, which is published byÂ Habby.  
   
-Normally, cross-promotions stay within a publisher’s own portfolio. But here we see two different companies sharing real estate — which suggests either a partnership, a distribution deal, or just a smart test of mutual promotion.  
+Normally, cross-promotions stayÂ withinÂ a publisherâ€™s own portfolio. But here we see two different companies sharing real estate â€” which suggests either a partnership, a distribution deal, or just a smart test of mutual promotion.  
   
 I like how this breaks the usual mold:  
-✅ Expands reach beyond a single publisher’s ecosystem  
-✅ Taps into overlapping audiences of casual players  
-✅ Creates win-win visibility for both titles  
+âœ… Expands reach beyond a single publisherâ€™s ecosystem  
+âœ… Taps into overlapping audiences of casual players  
+âœ… Creates win-win visibility for both titles  
   
-A nice reminder that in today’s crowded mobile space, collaboration beats isolation.  
+A nice reminder that in todayâ€™s crowded mobile space,Â collaboration beats isolation.  
   
-👉 Have you seen other cases where publishers promote outside their own catalog?
+ðŸ‘‰ Have you seen other cases where publishers promoteÂ outsideÂ their own catalog?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/07/cropped-Kopelovich-100x100.jpeg)
 
@@ -131,20 +131,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fcom2us-minion-rumble-is-featuring-habbys-capybara-go%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -153,4 +153,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

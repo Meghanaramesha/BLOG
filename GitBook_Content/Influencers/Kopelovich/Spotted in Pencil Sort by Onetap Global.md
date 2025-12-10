@@ -1,11 +1,11 @@
-# Spotted in Pencil Sort by Onetap Global
+﻿# Spotted in Pencil Sort by Onetap Global
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/11/image-218.png)
@@ -27,7 +27,7 @@
 * *arrow\_back*[Home](https://www.gamigion.com/)
 * *keyboard\_arrow\_right* [Journal](https://www.gamigion.com/category/journal/)
 
-# Spotted in Pencil Sort by Onetap Global
+# Spotted inÂ Pencil Sort by Onetap Global
 
 [Journal](https://www.gamigion.com/category/journal/) 
 27
@@ -43,16 +43,16 @@ November 17
 
 169 Posts
 
-A neat example of offering multiple recovery paths when players run out of moves.  
+A neat example of offeringÂ multiple recovery pathsÂ when players run out of moves.  
   
 The pop-up gives three clear options:  
-1️⃣ Spend in-game currency  
-2️⃣ Watch a rewarded video  
-3️⃣ Purchase a premium pack  
+1ï¸âƒ£ Spend in-game currency  
+2ï¸âƒ£ Watch a rewarded video  
+3ï¸âƒ£ Purchase a premium pack  
   
-I like how it layers progression options for different player types — from free to ad-supported to paid.  
+I like how it layers progression options for different player types â€” from free to ad-supported to paid.  
   
-It’s a simple design that keeps everyone in the game, no matter their spending style.
+Itâ€™s a simple design that keeps everyone in the game, no matter their spending style.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/11/image-218.png)
 
@@ -127,20 +127,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fspotted-in-pencil-sort-by-onetap-global%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -149,4 +149,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

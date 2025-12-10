@@ -1,4 +1,4 @@
-# Maximizing Profit with Direct-to-Consumer Web Shops in Gaming
+﻿# Maximizing Profit with Direct-to-Consumer Web Shops in Gaming
 
 ![A beautifully decorated indoor market featuring large red ornaments, golden bells, and festive lights hanging from the ceiling, with patrons walking below.](https://i0.wp.com/miro.medium.com/v2/resize%3Afit%3A1400/1%2AKt2Suod_xQVecJENDgKJFg.jpeg?ssl=1)
 
@@ -14,11 +14,11 @@ The shift towards direct-to-consumer (D2C) web shops represents one of the most 
 
 * Direct Margin Expansion: A web shop transaction can improve net margin by approximately 25 percentage points (30% platform fee minus ~5% payment processing costs).
 * Increased Player LTV: Features like enhanced loyalty programs and personalized offers increase player retention and lifetime value.
-* Defensible D2C Channel: Builds a valuable, owned asset — a direct relationship with your highest-value players — reducing reliance on platform-owned channels.
+* Defensible D2C Channel: Builds a valuable, owned asset â€” a direct relationship with your highest-value players â€” reducing reliance on platform-owned channels.
 
 ## The Critical UA Perspective: Restoring Signal Quality
 
-* The Post-ATT Problem: Apple’s AppTrackingTransparency (ATT) framework severely degraded the quality of user-level data, making UA less efficient and more expensive. Marketers now operate with aggregated, modeled data, leading to signal loss and higher customer acquisition costs (CAC).
+* The Post-ATT Problem: Appleâ€™s AppTrackingTransparency (ATT) framework severely degraded the quality of user-level data, making UA less efficient and more expensive. Marketers now operate with aggregated, modeled data, leading to signal loss and higher customer acquisition costs (CAC).
 * Web Shops as a Data Haven: Purchases made on a developer-owned web shop are not subject to the data restrictions of the app store. This provides a direct, unmediated view of player spend and behavior.
 
 ## The Virtuous Circle
@@ -32,9 +32,9 @@ The shift towards direct-to-consumer (D2C) web shops represents one of the most 
 
 1. In-App Strategies (Navigating Policy):
 
-* The “Two-Click” Rule: Link to high-value, non-commercial features (loyalty programs, mini-games), placing the store just “two clicks away.”
-* Loyalty as a Trojan Horse: Use in-game notifications to create a recurring “pull” to the web property.
-* Harvest First-Party Data: The #1 in-app priority is collecting player emails — the foundational asset for all out-of-app marketing.
+* The â€œTwo-Clickâ€ Rule: Link to high-value, non-commercial features (loyalty programs, mini-games), placing the store just â€œtwo clicks away.â€
+* Loyalty as a Trojan Horse: Use in-game notifications to create a recurring â€œpullâ€ to the web property.
+* Harvest First-Party Data: The #1 in-app priority is collecting player emails â€” the foundational asset for all out-of-app marketing.
 
 1. Out-of-App Strategies (Driving Adoption):
 
@@ -52,13 +52,13 @@ The companies that will win are those that:
 * Leverage web purchase data to refine UA models and restore post-ATT signal loss.
 * Integrate web value propositions directly into the core game loop.
 
-### Partager :
+### PartagerÂ :
 
-* [Cliquer pour partager sur X(ouvre dans une nouvelle fenêtre)
+* [Cliquer pour partager sur X(ouvre dans une nouvelle fenÃªtre)
   X](https://rzain.blog/games/the-web-shop-opportunity-in-mobile-gaming/?share=twitter)
-* [Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
+* [Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenÃªtre)
   Facebook](https://rzain.blog/games/the-web-shop-opportunity-in-mobile-gaming/?share=facebook)
 
-### J’aime ça :
+### Jâ€™aime Ã§aÂ :
 
-J’aime chargement…
+Jâ€™aime chargementâ€¦

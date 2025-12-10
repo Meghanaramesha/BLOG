@@ -1,11 +1,11 @@
-# Warner Bros Deal? Netflix wanted the prestige assets. Paramount wants the entire empire.
+﻿# Warner Bros Deal? Netflix wanted the prestige assets. Paramount wants the entire empire.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/12/PRWB.jpeg)
@@ -43,35 +43,35 @@ December 9
 
 55 Posts
 
-Plot twist: [Paramount](https://www.linkedin.com/company/paramountco/) just went full Doctor Evil and said “ONE HUNDRED BILLION DOLLARS MWAHAHA” with a hostile takeover bid for [Warner Bros. Discovery](https://www.linkedin.com/company/warner-bros-discovery/), basically stepping in front of [Netflix](https://www.linkedin.com/company/netflix/) and saying not today sunshine.
+Plot twist: [Paramount](https://www.linkedin.com/company/paramountco/) just went full Doctor Evil and said â€œONE HUNDRED BILLION DOLLARS MWAHAHAâ€ with a hostile takeover bid for [Warner Bros. Discovery](https://www.linkedin.com/company/warner-bros-discovery/), basically stepping in front of [Netflix](https://www.linkedin.com/company/netflix/) and saying not today sunshine.
 
-And they didn’t whisper it they got a megaphone and shouted hard for all of us to hear:  
-💰 All cash  
-💰 $30/share  
-💰 ~$108B total money  
+And they didnâ€™t whisper it they got a megaphone and shouted hard for all of us to hear:  
+ðŸ’° All cash  
+ðŸ’° $30/share  
+ðŸ’° ~$108B total money  
   
-That’s massively above Netflix’s $80isn billion offer. When someone adds an extra $25–30bn to the table, they’re not negotiating, they’re making a statement.  
+Thatâ€™s massively above Netflixâ€™s $80isn billion offer. When someone adds an extra $25â€“30bn to the table, theyâ€™re not negotiating, theyâ€™re making a statement.  
   
 Netflix wanted the prestige assets. Paramount wants the entire empire. Bold, risky, and extremely on-brand for a studio trying to reinvent itself post-Skydance merger.  
   
-🎮 Now, the gaming angle (aka the part I actually care about)  
+ðŸŽ® Now, the gaming angle (aka the part I actually care about)  
   
-I’ll be honest: I still prefer Netflix here. They’re the only one treating games as a strategic engine, not a merch and licensing afterthought.  
+Iâ€™ll be honest: I still prefer Netflix here. Theyâ€™re the only one treating games as a strategic engine, not a merch and licensing afterthought.  
 Paramount has some momentum (thanks, Skydance), but, as I mentioned on Sunday, acquiring [Warner Bros. Games](https://www.linkedin.com/company/warnerbrosgames/) means inheriting one of the strongest IP arsenals in the industry, Mortal Kombat, Hogwarts Legacy, DC, Rocksteady, NetherRealm.  
   
 Under Netflix? That becomes a transmedia machine and bigger part of their existing gaming focus.   
   
 Under Paramount? I have no actual idea.  
   
-⚖️ And of course, regulators are about to have a field day.  
+âš–ï¸ And of course, regulators are about to have a field day.  
   
 Deals this big take years to unwind, reshape, and approve, if they get approved at all.  
   
-But one thing’s clear:  
-This isn’t just a fight over HBO or The Batman.  
+But one thingâ€™s clear:  
+This isnâ€™t just a fight over HBO or The Batman.  
 This is a battle to control the next decade of Transmedia entertainment, where games sit right at the centre.  
   
-I tell you one thing, this industry is nothing if not entertaining 😂  
+I tell you one thing, this industry is nothing if not entertaining ðŸ˜‚  
   
 Wrighty out.
 
@@ -146,20 +146,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwarner-bros-deal-netflix-wanted-the-prestige-assets-paramount-wants-the-entire-empire%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -168,4 +168,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

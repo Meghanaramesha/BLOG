@@ -1,4 +1,4 @@
-# Politique de confidentialité : Comprendre vos données personnelles
+﻿# Politique de confidentialitÃ© : Comprendre vos donnÃ©es personnelles
 
 ## 
 
@@ -12,7 +12,7 @@ Developer: Sistersoundfr
 **App Name:** Sistersound  
 **Developer:** Sistersoundfr a Rzain Consulting company
 
-Rzain Consulting (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application.
+Rzain Consulting (â€œwe,â€ â€œour,â€ or â€œusâ€) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application.
 
 ---
 
@@ -62,9 +62,9 @@ These third-party services have their own privacy policies.
 
 ---
 
-## **5. Children’s Privacy**
+## **5. Childrenâ€™s Privacy**
 
-Our app is not directed towards children under 13. Parents or guardians should supervise children’s use of the app.
+Our app is not directed towards children under 13. Parents or guardians should supervise childrenâ€™s use of the app.
 
 ---
 
@@ -90,7 +90,7 @@ You may:
 
 ## **8. Changes to this Privacy Policy**
 
-We may update this Privacy Policy from time to time. Updates will be posted within the app with a new “Effective Date.”
+We may update this Privacy Policy from time to time. Updates will be posted within the app with a new â€œEffective Date.â€
 
 ---
 
@@ -102,7 +102,7 @@ If you have any questions or concerns about this Privacy Policy, please contact:
 
 **9 Rue de Montaigne,**
 
-**La Rochelle, France**Email: crozain.marketing@gmail.com
+**La Rochelle, France**Email:Â crozain.marketing@gmail.com
 
 ## **Privacy Policy for SisterBody**
 
@@ -110,7 +110,7 @@ If you have any questions or concerns about this Privacy Policy, please contact:
 **App Name:** SisterBody  
 **Developer:** Rzain Consulting
 
-Rzain Consulting (“we”, “our”, “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the **SisterBody app**.
+Rzain Consulting (â€œweâ€, â€œourâ€, â€œusâ€) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the **SisterBody app**.
 
 ---
 
@@ -147,7 +147,7 @@ Rzain Consulting (“we”, “our”, “us”) respects your privacy. This Pri
 
 ---
 
-## **5. Children’s Privacy**
+## **5. Childrenâ€™s Privacy**
 
 * App is not intended for children under 13.
 * We do not knowingly collect data from children.
@@ -176,7 +176,7 @@ La Rochelle, France
 **App Name:** SisterFit  
 **Developer:** Rzain Consulting
 
-Rzain Consulting (“we”, “our”, “us”) is committed to protecting your privacy. This Privacy Policy explains how we handle your information in the **SisterFit app**.
+Rzain Consulting (â€œweâ€, â€œourâ€, â€œusâ€) is committed to protecting your privacy. This Privacy Policy explains how we handle your information in the **SisterFit app**.
 
 ---
 
@@ -213,7 +213,7 @@ Rzain Consulting (“we”, “our”, “us”) is committed to protecting your
 
 ---
 
-## **5. Children’s Privacy**
+## **5. Childrenâ€™s Privacy**
 
 * App is intended for adults only; not for users under 13.
 * No intentional collection of data from children.

@@ -1,11 +1,11 @@
-# Spotted in Water Out Puzzle by HM Games
+﻿# Spotted in Water Out Puzzle by HM Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/10/Spotted-in-Water-Out-Puzzle-by-HM-Games.jpg)
@@ -47,16 +47,16 @@ October 20
 
 ###### 
 
-An interesting offer design — players can buy “Infinite Time Tickets” that remove the time limit for puzzle levels.  
+An interesting offer design â€” players can buyÂ â€œInfinite Time Ticketsâ€Â that remove the time limit for puzzle levels.  
   
-It’s not something you often see in puzzle games, where timers are usually fixed or extendable via ads. Here, it’s sold as a premium option — turning time itself into a monetizable resource.  
+Itâ€™s not something you often see in puzzle games, where timers are usually fixed or extendable via ads. Here, itâ€™s sold as a premium option â€” turningÂ timeÂ itself into a monetizable resource.  
   
-Why I think this fits 👇  
-✅ Works well for highly challenging games where time pressure creates frustration  
-✅ Offers a clear value exchange — pay for a calmer, more strategic experience  
-✅ Appeals to completionists who don’t want streaks or progress gated by timers  
+Why I think this fits ðŸ‘‡  
+âœ… Works well for highly challenging games where time pressure creates frustration  
+âœ… Offers a clear value exchange â€” pay for a calmer, more strategic experience  
+âœ… Appeals to completionists who donâ€™t want streaks or progress gated by timers  
   
-A good reminder that sometimes the best monetization comes from giving players control over their own pacing.
+A good reminder that sometimes the best monetization comes from giving playersÂ control over their own pacing.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/07/cropped-Kopelovich-100x100.jpeg)
 
@@ -129,20 +129,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fspotted-in-water-out-puzzle-by-hm-games%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -151,4 +151,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

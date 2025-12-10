@@ -1,11 +1,11 @@
-# Spotted a clever retention trick on iOS in Block Jam
+﻿# Spotted a clever retention trick on iOS in Block Jam
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/10/Spotted-a-clever-retention-trick-on-iOS-in-Block-Jam.jpg)
@@ -45,18 +45,18 @@ October 1
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Spotted-a-clever-retention-trick-on-iOS-in-Block-Jam.jpg)
 
-🚨 Spotted a clever retention trick on iOS in Block Jam:
+ðŸš¨ Spotted a clever retention trick on iOS inÂ Block Jam:
 
-When you long-press the app as if you want to remove it, instead of just saying goodbye, the game tries one last save with a “Don’t leave!” prompt 😅 — offering free boosters if you stay.  
+When you long-press the app as if you want to remove it, instead of just saying goodbye, the game tries one last save with a â€œDonâ€™t leave!â€ prompt ðŸ˜… â€” offering free boosters if you stay.  
   
-If you click on it, you’re sent back to the game where you’re instantly rewarded with coins and 1 day of unlimited lives ❤️.  
+If you click on it, youâ€™re sent back to the game where youâ€™re instantly rewarded with coins and 1 day of unlimited lives â¤ï¸.  
   
 Why it works:  
-✅ Catches players at the exact moment of churn  
-✅ Turns uninstall intent into a surprise reward  
-✅ Makes leaving harder (and staying feels rewarding)  
+âœ… Catches players at the exact moment of churn  
+âœ… Turns uninstall intent into a surprise reward  
+âœ… Makes leaving harder (and staying feels rewarding)  
   
-A small but smart design choice that shows how every touchpoint with the player can be an opportunity for engagement.
+A small but smart design choice that shows howÂ every touchpointÂ with the player can be an opportunity for engagement.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/07/cropped-Kopelovich-100x100.jpeg)
 
@@ -129,20 +129,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fspotted-a-clever-retention-trick-on-ios-in-block-jam%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -151,4 +151,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

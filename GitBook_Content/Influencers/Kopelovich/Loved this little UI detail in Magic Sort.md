@@ -1,11 +1,11 @@
-# Loved this little UI detail in Magic Sort!
+﻿# Loved this little UI detail in Magic Sort!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/09/Loved-this-little-UI-detail-in-Magic-Sort.jpg)
@@ -43,19 +43,19 @@ September 25
 
 169 Posts
 
-✨ Loved this little UI detail in Magic Sort.
+âœ¨ Loved this little UI detail inÂ Magic Sort.
 
-The game uses a multiplier streak mechanic (x2 → x5 → x10 → x25 → x100) during events. What’s clever is how they reinforce it:  
-🔹 Once on the win screen (to celebrate the moment)  
-🔹 And again in the event progress bar (to keep the pressure/excitement alive)  
+The game uses aÂ multiplier streak mechanicÂ (x2 â†’ x5 â†’ x10 â†’ x25 â†’ x100) during events. Whatâ€™s clever is how they reinforce it:  
+ðŸ”¹ Once on theÂ win screenÂ (to celebrate the moment)  
+ðŸ”¹ And again in theÂ event progress barÂ (to keep the pressure/excitement alive)  
   
 This dual placement does two things:  
-✅ Makes the multiplier feel more tangible and rewarding  
-✅ Keeps players aware of the stakes if they break the streak  
+âœ… Makes the multiplier feel moreÂ tangibleÂ and rewarding  
+âœ… Keeps players aware of the stakes if they break the streak  
   
-A simple UI choice — but one that amplifies both engagement and tension.  
+A simple UI choice â€” but one that amplifies bothÂ engagement and tension.  
   
-👉 Would you want to see this mechanic in more casual puzzle games?
+ðŸ‘‰ Would you want to see this mechanic in more casual puzzle games?
 
 [](https://www.gamigion.com/wp-content/uploads/2025/09/Loved-this-little-UI-detail-in-Magic-Sort.mp4)
 
@@ -130,20 +130,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Floved-this-little-ui-detail-in-magic-sort%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -152,4 +152,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

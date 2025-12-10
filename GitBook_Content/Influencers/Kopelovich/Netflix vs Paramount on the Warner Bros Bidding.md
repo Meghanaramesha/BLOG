@@ -1,11 +1,11 @@
-# Netflix vs. Paramount on the Warner Bros Bidding
+﻿# Netflix vs. Paramount on the Warner Bros Bidding
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/12/PRWB.jpeg)
@@ -43,20 +43,20 @@ December 8
 
 441 Posts
 
-*It’s not “we want to talk.”*
+*Itâ€™s not â€œwe want to talk.â€*
 
-This is a live, financed, all cash bid aimed straight at WBD’s shareholder base.
+This is a live, financed, all cash bid aimed straight at WBDâ€™s shareholder base.
 
 ---
 
 #### TL;DR
 
 1. **Cash on the table**
-   * “Paramount is basically telling WBD: forget complex spin offs and Netflix stock. Here is 30 dollars per share, all cash, for the entire company.”
+   * â€œParamount is basically telling WBD: forget complex spin offs and Netflix stock. Here is 30 dollars per share, all cash, for the entire company.â€
 2. **Regulators vs gravity**
-   * “Netflix has the strategic logic, Paramount has the regulatory story. Shareholders are stuck between headline synergy and antitrust reality.”
+   * â€œNetflix has the strategic logic, Paramount has the regulatory story. Shareholders are stuck between headline synergy and antitrust reality.â€
 3. **For games, the question is the owner, not the sale**
-   * “Rocksteady, NetherRealm, TT Games and co are getting a new parent either way. The real question is whether they plug into Netflix’s subscription funnel or into a rebuilt Paramount plus HBO plus sports stack.”
+   * â€œRocksteady, NetherRealm, TT Games and co are getting a new parent either way. The real question is whether they plug into Netflixâ€™s subscription funnel or into a rebuilt Paramount plus HBO plus sports stack.â€
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/PRWB-1240x827.jpeg)
 
@@ -67,7 +67,7 @@ This is a live, financed, all cash bid aimed straight at WBD’s shareholder bas
 * **Price**: $30 per WBD share, **ALL CASH**.
 * **Implied enterprise value**: about $**108.4 billion** for the whole of WBD, including Global Networks
 * **Cash vs Netflix**: Paramount says its bid gives WBD shareholders **$18 billion more in cash** than the Netflix consideration
-* **Scope**: buys **all of WBD** – studios, HBO, streaming, sports, plus Global Networks. No leftover “spinco” stub.
+* **Scope**: buys **all of WBD** â€“ studios, HBO, streaming, sports, plus Global Networks. No leftover â€œspincoâ€ stub.
 * **Structure**: hostile **tender offer directly to shareholders**, expiring 8 January 2026 unless extended
 * **Financing**:  
   Equity backstopped by the **Ellison family** and **RedBird Capital**  
@@ -84,7 +84,7 @@ This is a live, financed, all cash bid aimed straight at WBD’s shareholder bas
 * **Scope**: Netflix buys the **Warner Bros studios + HBO + games + streaming**, but **not** the linear networks, which go into a separate Discovery Global spin off
 * **Timing and risk**: Netflix itself is guiding to **12 to 18 months** of multi region antitrust review, including heavy scrutiny in the US and EU, with breakup fees if it fails.
 
-### **Paramount’s main arguments**
+### **Paramountâ€™s main arguments**
 
 Paramount is basically telling WBD shareholders:
 
@@ -92,40 +92,40 @@ Paramount is basically telling WBD shareholders:
    * 30 dollars vs 27.75 dollars per share
    * All cash vs a cash plus stock mix
 2. **Cleaner structure**
-   * You sell **the entire company**, no “orphan” Global Networks stub with leverage and uncertain trading value.
+   * You sell **the entire company**, no â€œorphanâ€ Global Networks stub with leverage and uncertain trading value.
 3. **Regulatory story**
    * Paramount + WBD creates a **stronger challenger to Netflix and Disney**, not a streaming giant with around 40 plus percent global SVOD share. That is how they will sell it to regulators. [PR Newswire+1](https://www.prnewswire.com/news-releases/paramount-launches-all-cash-tender-offer-to-acquire-warner-bros-discovery-for-30-per-share-302635412.html?utm_source=chatgpt.com)
    * Netflix deal is framed as anticompetitive and slow. Paramount is pitching its deal as **more likely and faster** to clear.
 4. **Execution risk**
    * Netflix has never digested a mega acquisition of this size before.
-   * Paramount is positioning itself as the “Hollywood native” that knows how to integrate studios and networks.
+   * Paramount is positioning itself as the â€œHollywood nativeâ€ that knows how to integrate studios and networks.
 
 ---
 
 ### 3. What it means right now
 
-* **WBD board still officially backs the Netflix deal.** The boards of Netflix and WBD have signed a merger agreement. Any switch to Paramount could trigger a **multi billion dollar breakup fee** in Netflix’s favor. [TechCrunch+1](https://techcrunch.com/2025/12/06/how-would-the-netflix-warner-bros-deal-reshape-hollywood/?utm_source=chatgpt.com)
-* **Paramount is going over the board’s head.** The tender offer is aimed straight at shareholders with the message “your board did not engage properly; here is a clearly superior alternative.” [PR Newswire+1](https://www.prnewswire.com/news-releases/paramount-launches-all-cash-tender-offer-to-acquire-warner-bros-discovery-for-30-per-share-302635412.html?utm_source=chatgpt.com)
+* **WBD board still officially backs the Netflix deal.** The boards of Netflix and WBD have signed a merger agreement. Any switch to Paramount could trigger a **multi billion dollar breakup fee** in Netflixâ€™s favor. [TechCrunch+1](https://techcrunch.com/2025/12/06/how-would-the-netflix-warner-bros-deal-reshape-hollywood/?utm_source=chatgpt.com)
+* **Paramount is going over the boardâ€™s head.** The tender offer is aimed straight at shareholders with the message â€œyour board did not engage properly; here is a clearly superior alternative.â€ [PR Newswire+1](https://www.prnewswire.com/news-releases/paramount-launches-all-cash-tender-offer-to-acquire-warner-bros-discovery-for-30-per-share-302635412.html?utm_source=chatgpt.com)
 * **Regulators just became even more central.**
   + Netflix: massive vertical and horizontal integration in streaming, clear big tech narrative, lots of antitrust heat.
-  + Paramount: more “traditional” studio plus networks combo. Still large, but easier to present as pro competitive compared to a Netflix mega stack.
+  + Paramount: more â€œtraditionalâ€ studio plus networks combo. Still large, but easier to present as pro competitive compared to a Netflix mega stack.
 
-We are now in **full bidding war territory**, with Netflix’s signed deal sitting in the middle as the thing Paramount is trying to blow up.
+We are now in **full bidding war territory**, with Netflixâ€™s signed deal sitting in the middle as the thing Paramount is trying to blow up.
 
 ---
 
 ### 4. WB Games Angle
 
-Under **either** deal, WB Games and its studios (Rocksteady, NetherRealm, TT Games, Avalanche, WB Montréal) are part of the package.
+Under **either** deal, WB Games and its studios (Rocksteady, NetherRealm, TT Games, Avalanche, WB MontrÃ©al) are part of the package.
 
 The difference is the strategic parent:
 
 * **Netflix scenario**
   + Games sit inside a subscription plus transmedia machine that already leans hard into mobile and cross platform experiments.
-  + Strong push into “games as retention lever” for 270 million members, low focus on traditional UA, heavy focus on IP driven engagement loops.
+  + Strong push into â€œgames as retention leverâ€ for 270 million members, low focus on traditional UA, heavy focus on IP driven engagement loops.
 * **Paramount scenario**
   + Games become part of a **Hollywood plus sports plus broadcast** cluster that needs a stronger DTC play.
-  + Paramount is signaling more belief in theatrical plus event content, and a “bigger Hollywood” vision with higher content spend and more theatrical releases, which could also drive more classic licensed titles and franchise games.
+  + Paramount is signaling more belief in theatrical plus event content, and a â€œbigger Hollywoodâ€ vision with higher content spend and more theatrical releases, which could also drive more classic licensed titles and franchise games.
 
 From a pure **Mobile & Games Ecosystem** point of view:
 
@@ -203,20 +203,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fnetflix-vs-paramount-on-the-warner-bros-bidding%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -225,4 +225,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

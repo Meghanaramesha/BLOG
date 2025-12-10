@@ -1,4 +1,4 @@
-# Freelancers & Influencers / Consultants
+﻿# Freelancers & Influencers / Consultants
 
 Welcome to our curated collection of **freelancers, influencers, and consultants**. This GitBook repository provides insights and blog content from leading professionals in their respective fields.
 

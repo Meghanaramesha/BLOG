@@ -1,11 +1,11 @@
-# Brawl Stars x Stranger Things
+﻿# Brawl Stars x Stranger Things
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/10/Brawl-Stars-x-Stranger-Things.jpg)
@@ -45,21 +45,21 @@ October 27
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Brawl-Stars-x-Stranger-Things.jpg)
 
-###### 👾🎬 Brawl Stars x Stranger Things
+###### ðŸ‘¾ðŸŽ¬Â Brawl Stars x Stranger Things
 
-Supercell officially revealed its new collaboration with Stranger Things, one of the biggest seasonal crossovers the game has ever done.  
+Supercell officially revealed its new collaboration withÂ Stranger Things, one of the biggest seasonal crossovers the game has ever done.  
   
-The event brings the Upside Down to Starr Park, featuring themed skins, a new roguelite mode, and waffles as a collectible event currency 🍽️  
+The event brings theÂ Upside DownÂ to Starr Park, featuring themed skins, a new roguelite mode, and waffles as a collectible event currency ðŸ½ï¸  
   
-Highlights from the collab 👇  
-✅ New roguelite mode “Upside Showdown” where players progress through five stages, pick powers, and battle for trophies and waffles  
-✅ New event currency “Waffles” that can be traded for cards and rewards in a special shop  
-✅ Boss fights against Vecna and the Demogorgon  
-✅ Stranger Things–inspired skins including Eleven Lumi, Dustin Nita, Hopper Bull, and more  
+Highlights from the collab ðŸ‘‡  
+âœ…Â New roguelite mode â€œUpside Showdownâ€Â where players progress through five stages, pick powers, and battle for trophies and waffles  
+âœ…Â New event currency â€œWafflesâ€Â that can be traded for cards and rewards in a special shop  
+âœ…Â Boss fightsÂ against Vecna and the Demogorgon  
+âœ…Â Stranger Thingsâ€“inspired skinsÂ including Eleven Lumi, Dustin Nita, Hopper Bull, and more  
   
-This crossover blends Brawl Stars’ fast-paced gameplay with Stranger Things’ dark world, while also introducing fresh mechanics like card-based upgrades and roguelite runs. It’s a big step in design depth for a seasonal event.
+This crossover blendsÂ Brawl Starsâ€™ fast-paced gameplayÂ withÂ Stranger Thingsâ€™ dark world, while also introducing fresh mechanics like card-based upgrades and roguelite runs. Itâ€™s a big step in design depth for a seasonal event.
 
-🎥 Check the official teaser:
+ðŸŽ¥ Check the official teaser:
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/07/cropped-Kopelovich-100x100.jpeg)
 
@@ -132,20 +132,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fbrawl-stars-x-stranger-things%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -154,4 +154,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

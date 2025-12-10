@@ -1,11 +1,11 @@
-# Journal - Gamigion: Mobile Games Industry News
+﻿# Journal - Gamigion: Mobile Games Industry News
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2024/05/typify-header-background-1.jpg)
@@ -123,7 +123,7 @@ December 8
 
 [Journal](https://www.gamigion.com/category/journal/)
 
-##### [SuperPlay did the one thing we’re all trying to crack!](https://www.gamigion.com/superplay-did-the-one-thing-were-all-trying-to-crack/)
+##### [SuperPlay did the one thing weâ€™re all trying to crack!](https://www.gamigion.com/superplay-did-the-one-thing-were-all-trying-to-crack/)
 
 [Capucine Thiebault](https://www.gamigion.com/author/capucinethiebault/)
 
@@ -159,7 +159,7 @@ December 8
 
 [Journal](https://www.gamigion.com/category/journal/)
 
-##### [It’s remarkable how long Blizzard has avoided the obvious.](https://www.gamigion.com/its-remarkable-how-long-blizzard-has-avoided-the-obvious/)
+##### [Itâ€™s remarkable how long Blizzard has avoided the obvious.](https://www.gamigion.com/its-remarkable-how-long-blizzard-has-avoided-the-obvious/)
 
 [Phillip Black](https://www.gamigion.com/author/phillipblack/)
 
@@ -173,7 +173,7 @@ December 8
 
 ##### [New Mobile Games: Puzzles 49](https://www.gamigion.com/new-mobile-games-puzzles-49/)
 
-[Gökhan Üzmez](https://www.gamigion.com/author/gokhanuzmez/)
+[GÃ¶khan Ãœzmez](https://www.gamigion.com/author/gokhanuzmez/)
 
 December 8
 
@@ -209,9 +209,9 @@ December 8
 
 #### [Aylin YAZICI](https://www.gamigion.com/author/aylinyazici/)
 
-[![Božo Janković](https://www.gamigion.com/wp-content/uploads/2024/09/cropped-Bozo-J.jpeg)](https://www.gamigion.com/author/bozojankovic/)
+[![BoÅ¾o JankoviÄ‡](https://www.gamigion.com/wp-content/uploads/2024/09/cropped-Bozo-J.jpeg)](https://www.gamigion.com/author/bozojankovic/)
 
-#### [Božo Janković](https://www.gamigion.com/author/bozojankovic/)
+#### [BoÅ¾o JankoviÄ‡](https://www.gamigion.com/author/bozojankovic/)
 
 [![Brijesh Bharadwaj](https://www.gamigion.com/wp-content/uploads/2025/04/BRJ.jpeg)](https://www.gamigion.com/author/brijeshbharadwaj/)
 
@@ -245,9 +245,9 @@ December 8
 
 #### [Emmanuel Rosier](https://www.gamigion.com/author/emmanuelrosier/)
 
-[![Eva Juretić](https://www.gamigion.com/wp-content/uploads/2025/10/EvaJ.jpeg)](https://www.gamigion.com/author/evajuretic/)
+[![Eva JuretiÄ‡](https://www.gamigion.com/wp-content/uploads/2025/10/EvaJ.jpeg)](https://www.gamigion.com/author/evajuretic/)
 
-#### [Eva Juretić](https://www.gamigion.com/author/evajuretic/)
+#### [Eva JuretiÄ‡](https://www.gamigion.com/author/evajuretic/)
 
 [![Felix Braberg](https://www.gamigion.com/wp-content/uploads/2024/09/Felix-.jpeg)](https://www.gamigion.com/author/felixbraberg/)
 
@@ -257,9 +257,9 @@ December 8
 
 #### [Gil Tov-Ly](https://www.gamigion.com/author/giltov/)
 
-[![Gökhan Üzmez](https://www.gamigion.com/wp-content/uploads/2024/08/cropped-Gokhan-Uzmez.jpeg)](https://www.gamigion.com/author/gokhanuzmez/)
+[![GÃ¶khan Ãœzmez](https://www.gamigion.com/wp-content/uploads/2024/08/cropped-Gokhan-Uzmez.jpeg)](https://www.gamigion.com/author/gokhanuzmez/)
 
-#### [Gökhan Üzmez](https://www.gamigion.com/author/gokhanuzmez/)
+#### [GÃ¶khan Ãœzmez](https://www.gamigion.com/author/gokhanuzmez/)
 
 [![Guy Yogev](https://www.gamigion.com/wp-content/uploads/2024/09/Guy-Y.jpeg)](https://www.gamigion.com/author/guyyogev/)
 
@@ -309,9 +309,9 @@ December 8
 
 #### [Marion Balinoff](https://www.gamigion.com/author/marionbalinoff/)
 
-[![Mariusz Gąsiewski](https://www.gamigion.com/wp-content/uploads/2024/10/Mariusz.jpeg)](https://www.gamigion.com/author/mariuszgasiewski/)
+[![Mariusz GÄ…siewski](https://www.gamigion.com/wp-content/uploads/2024/10/Mariusz.jpeg)](https://www.gamigion.com/author/mariuszgasiewski/)
 
-#### [Mariusz Gąsiewski](https://www.gamigion.com/author/mariuszgasiewski/)
+#### [Mariusz GÄ…siewski](https://www.gamigion.com/author/mariuszgasiewski/)
 
 [![Matej Lancaric](https://www.gamigion.com/wp-content/uploads/2024/07/cropped-1633711616244.jpeg)](https://www.gamigion.com/author/matejlancaric/)
 
@@ -333,9 +333,9 @@ December 8
 
 #### [Olha Semykina](https://www.gamigion.com/author/olhasemykina/)
 
-[![Ömer Yakabagi](https://www.gamigion.com/wp-content/uploads/2024/08/cropped-Omer.jpeg)](https://www.gamigion.com/author/omeryakabagi/)
+[![Ã–mer Yakabagi](https://www.gamigion.com/wp-content/uploads/2024/08/cropped-Omer.jpeg)](https://www.gamigion.com/author/omeryakabagi/)
 
-#### [Ömer Yakabagi](https://www.gamigion.com/author/omeryakabagi/)
+#### [Ã–mer Yakabagi](https://www.gamigion.com/author/omeryakabagi/)
 
 [![Oxana Fomina](https://www.gamigion.com/wp-content/uploads/2024/07/cropped-Oxana.jpeg)](https://www.gamigion.com/author/oxanafomina/)
 
@@ -387,20 +387,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fjournal%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -409,4 +409,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

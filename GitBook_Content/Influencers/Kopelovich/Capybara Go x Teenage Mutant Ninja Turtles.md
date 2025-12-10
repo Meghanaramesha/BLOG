@@ -1,11 +1,11 @@
-# Capybara Go! x Teenage Mutant Ninja Turtles!
+﻿# Capybara Go! x Teenage Mutant Ninja Turtles!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/09/Capybara-Go-x-Teenage-Mutant-Ninja-Turtles.jpg)
@@ -45,15 +45,15 @@ September 22
 
 ###### 
 
-Another big crossover in mobile gaming — this time Capybara Go! teamed up with the Teenage Mutant Ninja Turtlesfor a special multi-phase event.  
+Another big crossover in mobile gaming â€” this timeÂ Capybara Go!Â teamed up with theÂ Teenage Mutant Ninja Turtlesfor a special multi-phase event.  
   
 Phase 2 brings a mix of:  
-🎰 TMNT-themed gacha raids  
-🎟️ An event pass with free & premium rewards  
-⚔️ Boss battles featuring Krang  
-🎁 Daily logins & tasks tied into the collab  
+ðŸŽ° TMNT-themed gacha raids  
+ðŸŽŸï¸ An event pass with free & premium rewards  
+âš”ï¸ Boss battles featuring Krang  
+ðŸŽ Daily logins & tasks tied into the collab  
   
-What I really like here is that it’s not just a cosmetic skin drop — the IP is deeply woven into the event loops, progression, and monetization design.
+What I really like here is that itâ€™s not just a cosmetic skin drop â€” the IP is deeply woven into the event loops, progression, and monetization design.
 
 [](https://www.gamigion.com/wp-content/uploads/2025/09/Capybara-Go-x-Teenage-Mutant-Ninja-Turtles.mp4)
 
@@ -128,20 +128,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fcapybara-go-x-teenage-mutant-ninja-turtles%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -150,4 +150,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–

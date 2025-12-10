@@ -1,4 +1,4 @@
-# Cart
+﻿# Cart
 
 [ART](#)
 
@@ -16,7 +16,7 @@ Though thoughtful, bold, and always curious, Emma's blog is a space for those wh
 
 # Cart
 
-## You may be interested in…
+## You may be interested inâ€¦
 
 ## [Cart](https://rzain.blog/cart/)
 

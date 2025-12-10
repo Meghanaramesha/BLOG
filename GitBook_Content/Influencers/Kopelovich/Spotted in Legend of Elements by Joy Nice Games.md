@@ -1,11 +1,11 @@
-# Spotted in Legend of Elements by Joy Nice Games
+﻿# Spotted in Legend of Elements by Joy Nice Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
-* [🌍 Journal](https://www.gamigion.com/journal/)
-* [🧩 Analysis](https://www.gamigion.com/reports/)
-* [🗓️ Events](https://www.gamigion.com/events/)
+* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
+* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
+* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
+* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/12/image-7.png)
@@ -43,20 +43,20 @@ December 3
 
 169 Posts
 
-I shared before how some games use an in-game event calendar to give players a clear roadmap of what’s coming. It’s a great UX touch that sets expectations and keeps players engaged.
+I shared before how some games use an in-game event calendar to give players a clear roadmap of whatâ€™s coming. Itâ€™s a great UX touch that sets expectations and keeps players engaged.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/image-7.png)
 
 
 ---
 
-What’s interesting here is that Joy Nice Games took it a step further.  
+Whatâ€™s interesting here is that Joy Nice Games took it a step further.  
 Right under the calendar, they added a live spotlight for the current event, making it super easy for players to jump straight in without searching through menus.  
   
 Why I like it:  
-✅ Clear monthly overview + instant call to action  
-✅ Smooth transition from “planning” to “playing”  
-✅ Keeps the current event front and center where players can’t miss it  
+âœ… Clear monthly overview + instant call to action  
+âœ… Smooth transition from â€œplanningâ€ to â€œplayingâ€  
+âœ… Keeps the current event front and center where players canâ€™t miss it  
   
 A small but smart design choice that improves discoverability and boosts event participation.
 
@@ -131,20 +131,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fspotted-in-legend-of-elements-by-joy-nice-games%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-✖
+âœ–
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-✖
+âœ–
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-✖
+âœ–
 
 #### Cancel subscription
 
@@ -153,4 +153,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-✖
+âœ–
