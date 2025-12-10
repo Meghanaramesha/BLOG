@@ -1,13 +1,16 @@
-# Ignore everything
+# ignore everything by default
 *
 
-# Except these directories/files
+# allow gitignore itself
 !.gitignore
-!GitBook_Content/
 
-# Only track Markdown files inside GitBook_Content
-GitBook_Content/**/*.md
-# Allow GitBook content
-!README.md
+# allow folders we need
 !GitBook_Content/
-!GitBook_Content/Agency/
+!GitBook_Content/Influencers/
+!GitBook_Content/Influencers/**
+
+# allow all markdown files under Influencers
+!GitBook_Content/Influencers/**/*.md
+
+# optional: allow top-level README
+!README.md
