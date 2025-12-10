@@ -1,46 +1,46 @@
-﻿# The Emotional Psychology Behind Free-to-Play Games
+# The Emotional Psychology Behind Free-to-Play Games
 
 [![A stylized illustration of a woman's mouth with bright red lips, holding a small blue object near her tongue, against a colorful background.](https://i0.wp.com/rzain.blog/wp-content/uploads/2025/06/image-15.png?resize=1024%2C1024&ssl=1)](https://www.journal-du-design.fr/pop-culture/graphisme/illustrations-de-malika-favre-38647/)
 
-It says â€œfreeâ€  
+It says “free”  
 But something happens the moment you tap play
 
-Youâ€™re not buying a game  
-Youâ€™re buying a rhythm  
+You’re not buying a game  
+You’re buying a rhythm  
 A feeling  
 A little bit of control in a system designed to make you want more
 
-Free-to-play isnâ€™t the absence of a price  
-Itâ€™s the presence of design that knows exactly when youâ€™ll say yes
+Free-to-play isn’t the absence of a price  
+It’s the presence of design that knows exactly when you’ll say yes
 
 Not right away  
 Later  
-When youâ€™re tired  
-When youâ€™ve almost won  
+When you’re tired  
+When you’ve almost won  
 When something inside you says  
 Just this once
 
-## ðŸŽ¯ Itâ€™s not about value. Itâ€™s about timing.
+## 🎯 It’s not about value. It’s about timing.
 
 **Example: Royal Match**
 
 ![A game interface displaying a message about continuing play by adding moves, along with a congratulatory message and rewards in virtual currency. The screen shows the player options and in-game graphics.](https://i0.wp.com/rzain.blog/wp-content/uploads/2025/06/image-16.png?resize=640%2C480&ssl=1)
 
 You lose a level in *Royal Match* with one tile left  
-A banner appears: â€œContinue for 900 coins?â€  
+A banner appears: “Continue for 900 coins?”  
 It flashes softly  
 You have 860 coins  
 You need 40 more
 
-What youâ€™re paying for isnâ€™t the win  
-Youâ€™re paying to avoid the *re-do*  
+What you’re paying for isn’t the win  
+You’re paying to avoid the *re-do*  
 To protect your momentum  
 To not feel like the last ten minutes were wasted
 
-Itâ€™s friction design  
+It’s friction design  
 Disguised as convenience
 
-## ðŸ§  Itâ€™s not manipulation. Itâ€™s emotion.
+## 🧠 It’s not manipulation. It’s emotion.
 
 **Example: Merge Mansion**
 
@@ -49,21 +49,21 @@ Disguised as convenience
 In *Merge Mansion*, your progress is based on waiting  
 Timers. Energy. Resource drops.  
 Right before you hit a block  
-Youâ€™re offered a bundle: energy, rare items, one-time price
+You’re offered a bundle: energy, rare items, one-time price
 
-Itâ€™s always *just enough* to finish what you started  
-It doesnâ€™t feel like spending  
+It’s always *just enough* to finish what you started  
+It doesn’t feel like spending  
 It feels like solving a problem
 
-Youâ€™re not buying items  
-Youâ€™re buying resolution
+You’re not buying items  
+You’re buying resolution
 
 This is predictive monetization  
 Trained on real player behavior  
-It knows when youâ€™re impatient  
-And it whispers, â€œHere, take the shortcutâ€
+It knows when you’re impatient  
+And it whispers, “Here, take the shortcut”
 
-## ðŸ’… Aesthetic is armor
+## 💅 Aesthetic is armor
 
 **Example: Zen Match**
 
@@ -78,20 +78,20 @@ Bundles
 Random drops
 
 The monetization is gentle  
-But itâ€™s still present  
+But it’s still present  
 It just hides under the language of wellness
 
-Youâ€™re not being sold coins  
-Youâ€™re being offered balance  
-For â‚¬2.99
+You’re not being sold coins  
+You’re being offered balance  
+For €2.99
 
-Itâ€™s design therapy  
+It’s design therapy  
 With a checkout button
 
-## âœŠ So whatâ€™s next?
+## ✊ So what’s next?
 
-We donâ€™t need to shame monetization  
-We need to ask what itâ€™s asking from us
+We don’t need to shame monetization  
+We need to ask what it’s asking from us
 
 Can we build offers that feel like care  
 Not traps?
@@ -102,22 +102,22 @@ Not urgency?
 Can we create paths where players feel respected  
 Even when they say no?
 
-Letâ€™s design in ways that feel human  
-Letâ€™s write copy that feels like consent  
-Letâ€™s remember the real price of play isnâ€™t coins  
-Itâ€™s trust
+Let’s design in ways that feel human  
+Let’s write copy that feels like consent  
+Let’s remember the real price of play isn’t coins  
+It’s trust
 
-Because what weâ€™re really paying for  
+Because what we’re really paying for  
 Is how a game makes us feel about ourselves  
 After we click
 
-### PartagerÂ :
+### Partager :
 
-* [Cliquer pour partager sur X(ouvre dans une nouvelle fenÃªtre)
+* [Cliquer pour partager sur X(ouvre dans une nouvelle fenêtre)
   X](https://rzain.blog/games/what-are-we-really-paying-for-the-quiet-psychology-of-free-to-play/?share=twitter)
-* [Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenÃªtre)
+* [Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
   Facebook](https://rzain.blog/games/what-are-we-really-paying-for-the-quiet-psychology-of-free-to-play/?share=facebook)
 
-### Jâ€™aime Ã§aÂ :
+### J’aime ça :
 
-Jâ€™aime chargementâ€¦
+J’aime chargement…

@@ -1,9 +1,6 @@
-﻿# Influencers
+# Agency Blogs
 
-Welcome! Select an influencer to explore their articles:
-
-- [Matej Lanceric](Lanceric/README.md)
-- [Claire Rozain](ClaireRozain/README.md)
-- [Michael Kopelovich](Kopelovich/README.md)
-- [Ramiz Trtovac](RamizTrtovac/README.md)
-
+- [Lanceric](Lanceric/README.md)
+- [RamizTrtovac](RamizTrtovac/README.md)
+- [Kopelovich](Kopelovich/README.md)
+- [RZain](RZain/README.md)

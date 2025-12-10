@@ -1,11 +1,11 @@
-﻿# Where money is moving across Strategy, RPG, Puzzle, Casino, Simulation & HC
+# Where money is moving across Strategy, RPG, Puzzle, Casino, Simulation & HC
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
-* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
-* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
-* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
+* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
+* [🌍 Journal](https://www.gamigion.com/journal/)
+* [🧩 Analysis](https://www.gamigion.com/reports/)
+* [🗓️ Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
-* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
-* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
-* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
+* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
+* [🌍 Journal](https://www.gamigion.com/journal/)
+* [🧩 Analysis](https://www.gamigion.com/reports/)
+* [🗓️ Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/12/Where-money-is-moving-across-Strategy-RPG-Puzzle-Casino-Simulation-HC.jpg)
@@ -45,27 +45,27 @@ December 9
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/Where-money-is-moving-across-Strategy-RPG-Puzzle-Casino-Simulation-HC.jpg)
 
-Thinking about how youâ€™re going to lift spend in 2026? [AppMagic](https://www.linkedin.com/company/appmagicrocks/) just dropped a detailed report on where money is moving across Strategy, RPG, Puzzle, Casino, Simulation and Hybrid-casual.
+Thinking about how you’re going to lift spend in 2026? [AppMagic](https://www.linkedin.com/company/appmagicrocks/) just dropped a detailed report on where money is moving across Strategy, RPG, Puzzle, Casino, Simulation and Hybrid-casual.
 
 A few things that caught my eye:  
   
-1, Hybrid-casual isnâ€™t â€œjust ad gamesâ€ any more  
+1, Hybrid-casual isn’t “just ad games” any more  
   
-âž¡ï¸ IAP revenue is up around 90 percent year-on-year across stores, and by day 90 a third of App Store payers in the US are now over $100 ARPPU. Small currency packs and offers triggered by failure are doing a lot of the heavy lifting, no-ads SKUs have dropped off significantly (makes sense).  
+➡️ IAP revenue is up around 90 percent year-on-year across stores, and by day 90 a third of App Store payers in the US are now over $100 ARPPU. Small currency packs and offers triggered by failure are doing a lot of the heavy lifting, no-ads SKUs have dropped off significantly (makes sense).  
   
 2, Puzzle growth is coming from simple sub-genres, not just match 3  
   
-âž¡ï¸ Block Puzzle (Color Block Jam, Block Blast) revenue is up 10x and the Sort sub-genre (Pixel Flow, Magic Sort) is also 2.5x. Merge (Gossip Harbor and Tasty Travels, which I covered last week) is the only complex sub-genre growing, but itâ€™s doing very well at 1.6x. See the data on slide 2 below.  
+➡️ Block Puzzle (Color Block Jam, Block Blast) revenue is up 10x and the Sort sub-genre (Pixel Flow, Magic Sort) is also 2.5x. Merge (Gossip Harbor and Tasty Travels, which I covered last week) is the only complex sub-genre growing, but it’s doing very well at 1.6x. See the data on slide 2 below.  
   
 3, Strategy players now outspend Casino by a lot  
   
-âž¡ï¸ By day 90, paying Strategy users in the US are spending roughly 2x Casino players, with App Store ARPPU up to 8x Google Play in some cases (data on slide 3). Top 4X games have pushed their highest price point from S99.99 to $149.99.  
+➡️ By day 90, paying Strategy users in the US are spending roughly 2x Casino players, with App Store ARPPU up to 8x Google Play in some cases (data on slide 3). Top 4X games have pushed their highest price point from S99.99 to $149.99.  
   
 4, Alternative payments and D2C are no longer edge cases  
   
-âž¡ï¸ For the 2025 US top one hundred, D2C revenue is up forty six percent year over year and payment SDK usage keeps climbing, but only ~60% of top games are using them (slide 4). It is becoming a serious lever for mature titles rather than something every new launch rushes into.  
+➡️ For the 2025 US top one hundred, D2C revenue is up forty six percent year over year and payment SDK usage keeps climbing, but only ~60% of top games are using them (slide 4). It is becoming a serious lever for mature titles rather than something every new launch rushes into.  
   
-If youâ€™re planning features, pricing tests, or new monetisation flows for the next year, this is a great benchmark of what is working right now.
+If you’re planning features, pricing tests, or new monetisation flows for the next year, this is a great benchmark of what is working right now.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/TomS-100x100.jpeg)
 
@@ -138,20 +138,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwhere-money-is-moving-across-strategy-rpg-puzzle-casino-simulation-hc%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-âœ–
+✖
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-âœ–
+✖
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-âœ–
+✖
 
 #### Cancel subscription
 
@@ -160,4 +160,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-âœ–
+✖

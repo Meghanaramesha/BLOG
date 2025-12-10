@@ -1,4 +1,4 @@
-﻿# Games â€“ RZAIN
+# Games – RZAIN
 
 [ART](#)
 
@@ -16,42 +16,42 @@ Though thoughtful, bold, and always curious, Emma's blog is a space for those wh
 
 # Games
 
-* ## [The AI-Powered Publishing Engine â€“ Insights from Supercent](https://rzain.blog/games/the-ai-powered-publishing-engine-insights-from-supercent/)
+* ## [The AI-Powered Publishing Engine – Insights from Supercent](https://rzain.blog/games/the-ai-powered-publishing-engine-insights-from-supercent/)
 
-  â†—
-* ## [Unityâ€™s Strategic Pivot A New Ecosystem for Game Discovery, Distribution, and Monetization â€” Unite 2025](https://rzain.blog/games/unitys-strategic-pivot-a-new-ecosystem-for-game-discovery-distribution-and-monetization-unite-2025/)
+  ↗
+* ## [Unity’s Strategic Pivot A New Ecosystem for Game Discovery, Distribution, and Monetization — Unite 2025](https://rzain.blog/games/unitys-strategic-pivot-a-new-ecosystem-for-game-discovery-distribution-and-monetization-unite-2025/)
 
-  â†—
+  ↗
 * ## [The New UA Gold Rush: How to Unlock 48%+ ROAS in the Era of Signal Loss](https://rzain.blog/games/the-new-ua-gold-rush-how-to-unlock-48-roas-in-the-era-of-signal-loss/)
 
-  â†—
+  ↗
 * ## [The Web Shop Opportunity in Mobile Gaming](https://rzain.blog/games/the-web-shop-opportunity-in-mobile-gaming/)
 
-  â†—
+  ↗
 
   [![The Web Shop Opportunity in Mobile Gaming](https://rzain.blog/wp-content/uploads/2025/11/PXL_20251119_171314978.MP_.jpg)](https://rzain.blog/games/the-web-shop-opportunity-in-mobile-gaming/)
-* ## [ðŸŽ® The Hidden Classroom: How Video Games Are Quietly Revolutionising Education](https://rzain.blog/games/%f0%9f%8e%ae-the-hidden-classroom-how-video-games-are-quietly-revolutionising-education/)
+* ## [🎮 The Hidden Classroom: How Video Games Are Quietly Revolutionising Education](https://rzain.blog/games/%f0%9f%8e%ae-the-hidden-classroom-how-video-games-are-quietly-revolutionising-education/)
 
-  â†—
+  ↗
 
-  [![ðŸŽ® The Hidden Classroom: How Video Games Are Quietly Revolutionising Education](https://rzain.blog/wp-content/uploads/2025/06/image-20.png)](https://rzain.blog/games/%f0%9f%8e%ae-the-hidden-classroom-how-video-games-are-quietly-revolutionising-education/)
+  [![🎮 The Hidden Classroom: How Video Games Are Quietly Revolutionising Education](https://rzain.blog/wp-content/uploads/2025/06/image-20.png)](https://rzain.blog/games/%f0%9f%8e%ae-the-hidden-classroom-how-video-games-are-quietly-revolutionising-education/)
 * ## [What Are We Really Paying For? The quiet psychology of free-to-play](https://rzain.blog/games/what-are-we-really-paying-for-the-quiet-psychology-of-free-to-play/)
 
-  â†—
+  ↗
 * ## [Decrypting mobile game trends, emotionally](https://rzain.blog/games/decrypting-mobile-game-trends-emotionally/)
 
-  â†—
+  ↗
 * ## [Five Poetic Apps to Slow Down](https://rzain.blog/games/five-poetic-apps-to-slow-down/)
 
-  â†—
+  ↗
 
   [![Five Poetic Apps to Slow Down](https://rzain.blog/wp-content/uploads/2025/06/Screenshot-2025-06-13-at-19.08.21.png)](https://rzain.blog/games/five-poetic-apps-to-slow-down/)
 * ## [When death lives inside the game](https://rzain.blog/games/when-death-lives-inside-the-game/)
 
-  â†—
-* ## [Exploring Queerness in Black Mirrorâ€™s Striking Vipers](https://rzain.blog/games/exploring-queerness-in-black-mirrors-striking-vipers/)
+  ↗
+* ## [Exploring Queerness in Black Mirror’s Striking Vipers](https://rzain.blog/games/exploring-queerness-in-black-mirrors-striking-vipers/)
 
-  â†—
+  ↗
 
 1
 [2](https://rzain.blog/games/page/2/)

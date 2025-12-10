@@ -1,11 +1,11 @@
-﻿# New Mobile Games: Puzzles 49
+# New Mobile Games: Puzzles 49
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)
 
-* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
-* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
-* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
-* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
+* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
+* [🌍 Journal](https://www.gamigion.com/journal/)
+* [🧩 Analysis](https://www.gamigion.com/reports/)
+* [🗓️ Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 *search*
@@ -16,10 +16,10 @@
 
 *close*
 
-* [ðŸš¨ Games Radar](https://www.gamigion.com/games-radar/)
-* [ðŸŒÂ Journal](https://www.gamigion.com/journal/)
-* [ðŸ§© Analysis](https://www.gamigion.com/reports/)
-* [ðŸ—“ï¸Â Events](https://www.gamigion.com/events/)
+* [🚨 Games Radar](https://www.gamigion.com/games-radar/)
+* [🌍 Journal](https://www.gamigion.com/journal/)
+* [🧩 Analysis](https://www.gamigion.com/reports/)
+* [🗓️ Events](https://www.gamigion.com/events/)
 * [ABOUT](https://www.gamigion.com/about/)
 
 ![Background](https://www.gamigion.com/wp-content/uploads/2025/12/New-Mobile-Games-Puzzles-49.jpg)
@@ -33,13 +33,13 @@
 14
 
 
-[GÃ¶khan Ãœzmez](https://www.gamigion.com/author/gokhanuzmez/)
+[Gökhan Üzmez](https://www.gamigion.com/author/gokhanuzmez/)
 
 December 8
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/cropped-Gokhan-Uzmez-100x100.jpeg)
 
-##### [GÃ¶khan Ãœzmez](https://www.gamigion.com/author/gokhanuzmez/)
+##### [Gökhan Üzmez](https://www.gamigion.com/author/gokhanuzmez/)
 
 164 Posts
 
@@ -71,12 +71,12 @@ Crowd Order -> Add Stickmen to ANYTHING.
 Tiny Transit -> Block Puzzles still have potential.  
   
 Tip of this episode? Work on static block puzzles  
-And investigate that Feedle mechanic furtherâ€¦.  
+And investigate that Feedle mechanic further….  
   
 Happy Monday!  
   
 PS: This week, another bundle of last bitesizes.  
-Also BIG UPDATE on Arrowslike games because every game developer on the planet is working on a clone. So, whats gonna happen? â€“> Find out Soon!  
+Also BIG UPDATE on Arrowslike games because every game developer on the planet is working on a clone. So, whats gonna happen? –> Find out Soon!  
   
 Cheers!
 
@@ -84,7 +84,7 @@ Cheers!
 
 About the author
 
-#### [GÃ¶khan Ãœzmez](https://www.gamigion.com/author/gokhanuzmez/)
+#### [Gökhan Üzmez](https://www.gamigion.com/author/gokhanuzmez/)
 
 With a wealth of expertise in game production, analysis, and design, my goal is to add value to the gaming sector globally, connecting with and inspiring individuals who are part of or aspire to join the industry, helping them navigate and excel in this dynamic field.
 
@@ -151,20 +151,20 @@ Remember Me
 
 [No account? Register](https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fnew-mobile-games-puzzles-49%2F&action=register) | [Lost password](https://www.gamigion.com/wp-login.php?action=lostpassword)
 
-âœ–
+✖
 
 ### Go Premium!
 
 ##### Enjoy the full advantage of the premium access.
 
-âœ–
+✖
 
 #### Stop following
 
 [Unfollow](#)
 [Cancel](#)
 
-âœ–
+✖
 
 #### Cancel subscription
 
@@ -173,4 +173,4 @@ Are you sure you want to cancel your subscription? You will lose your Premium ac
 [Go back](#)
 [Confirm cancellation](#)
 
-âœ–
+✖
