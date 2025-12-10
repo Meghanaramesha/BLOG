@@ -33,6 +33,18 @@ MARKETING](https://www.gamigion.com/tag/useracquisition/)
 [*![BUSINESS](https://www.gamigion.com/wp-content/uploads/2024/10/business-purple.png)*
 BUSINESS](https://www.gamigion.com/tag/gamingbusiness/)
 
+[![](https://www.gamigion.com/wp-content/uploads/2025/12/COOKIER-551x620.jpeg)](https://www.gamigion.com/cookierun/) 
+
+[*trending\_flat*](https://www.gamigion.com/cookierun/)
+
+[Highlights](https://www.gamigion.com/category/highlights/)
+
+##### [IP-Driven & Organic-heavy Games keep rocking.](https://www.gamigion.com/cookierun/)
+
+[Gamigion](https://www.gamigion.com/author/admin/)
+
+December 10
+
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/HYPM-620x342.webp)](https://www.gamigion.com/strategy-games-rock-hypemasters-raised-1m/) 
 
 [*trending\_flat*](https://www.gamigion.com/strategy-games-rock-hypemasters-raised-1m/)
@@ -162,18 +174,6 @@ December 8
 ##### [It’s remarkable how long Blizzard has avoided the obvious.](https://www.gamigion.com/its-remarkable-how-long-blizzard-has-avoided-the-obvious/)
 
 [Phillip Black](https://www.gamigion.com/author/phillipblack/)
-
-December 8
-
-[![](https://www.gamigion.com/wp-content/uploads/2025/12/New-Mobile-Games-Puzzles-49-496x620.jpg)](https://www.gamigion.com/new-mobile-games-puzzles-49/) 
-
-[*trending\_flat*](https://www.gamigion.com/new-mobile-games-puzzles-49/)
-
-[Journal](https://www.gamigion.com/category/journal/)
-
-##### [New Mobile Games: Puzzles 49](https://www.gamigion.com/new-mobile-games-puzzles-49/)
-
-[Gökhan Üzmez](https://www.gamigion.com/author/gokhanuzmez/)
 
 December 8
 

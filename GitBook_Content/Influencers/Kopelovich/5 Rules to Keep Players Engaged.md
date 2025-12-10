@@ -30,7 +30,7 @@
 # 5 Rules to Keep Players Engaged
 
 [Journal](https://www.gamigion.com/category/journal/) 
-16
+17
 
 
 [Anton Slashcev](https://www.gamigion.com/author/antonslashcev/)
@@ -98,6 +98,18 @@ Events](https://www.gamigion.com/events/)
 
 ### You may also like
 
+[![](https://www.gamigion.com/wp-content/uploads/2025/12/COOKIER-551x620.jpeg)](https://www.gamigion.com/cookierun/) 
+
+[*trending\_flat*](https://www.gamigion.com/cookierun/)
+
+[Highlights](https://www.gamigion.com/category/highlights/)
+
+##### [IP-Driven & Organic-heavy Games keep rocking.](https://www.gamigion.com/cookierun/)
+
+[Gamigion](https://www.gamigion.com/author/admin/)
+
+December 10
+
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/HYPM-620x342.webp)](https://www.gamigion.com/strategy-games-rock-hypemasters-raised-1m/) 
 
 [*trending\_flat*](https://www.gamigion.com/strategy-games-rock-hypemasters-raised-1m/)
@@ -119,18 +131,6 @@ December 9
 ##### [Tried to run a Web2App campaign on iOS and our whole account got rejected.](https://www.gamigion.com/tried-to-run-a-web2app-campaign-on-ios-and-our-whole-account-got-rejected/)
 
 [David Vargas](https://www.gamigion.com/author/davidvargas/)
-
-December 9
-
-[![](https://www.gamigion.com/wp-content/uploads/2025/12/Where-money-is-moving-across-Strategy-RPG-Puzzle-Casino-Simulation-HC-620x538.jpg)](https://www.gamigion.com/where-money-is-moving-across-strategy-rpg-puzzle-casino-simulation-hc/) 
-
-[*trending\_flat*](https://www.gamigion.com/where-money-is-moving-across-strategy-rpg-puzzle-casino-simulation-hc/)
-
-[Journal](https://www.gamigion.com/category/journal/)
-
-##### [Where money is moving across Strategy, RPG, Puzzle, Casino, Simulation & HC](https://www.gamigion.com/where-money-is-moving-across-strategy-rpg-puzzle-casino-simulation-hc/)
-
-[Tom Storr](https://www.gamigion.com/author/tomstorr/)
 
 December 9
 

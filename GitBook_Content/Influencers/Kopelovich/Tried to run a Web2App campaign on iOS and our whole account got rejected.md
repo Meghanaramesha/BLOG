@@ -82,6 +82,18 @@ Events](https://www.gamigion.com/events/)
 
 ### You may also like
 
+[![](https://www.gamigion.com/wp-content/uploads/2025/12/COOKIER-551x620.jpeg)](https://www.gamigion.com/cookierun/) 
+
+[*trending\_flat*](https://www.gamigion.com/cookierun/)
+
+[Highlights](https://www.gamigion.com/category/highlights/)
+
+##### [IP-Driven & Organic-heavy Games keep rocking.](https://www.gamigion.com/cookierun/)
+
+[Gamigion](https://www.gamigion.com/author/admin/)
+
+December 10
+
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/HYPM-620x342.webp)](https://www.gamigion.com/strategy-games-rock-hypemasters-raised-1m/) 
 
 [*trending\_flat*](https://www.gamigion.com/strategy-games-rock-hypemasters-raised-1m/)
@@ -103,18 +115,6 @@ December 9
 ##### [Where money is moving across Strategy, RPG, Puzzle, Casino, Simulation & HC](https://www.gamigion.com/where-money-is-moving-across-strategy-rpg-puzzle-casino-simulation-hc/)
 
 [Tom Storr](https://www.gamigion.com/author/tomstorr/)
-
-December 9
-
-[![](https://www.gamigion.com/wp-content/uploads/2025/12/PRWB-620x413.jpeg)](https://www.gamigion.com/warner-bros-deal-netflix-wanted-the-prestige-assets-paramount-wants-the-entire-empire/) 
-
-[*trending\_flat*](https://www.gamigion.com/warner-bros-deal-netflix-wanted-the-prestige-assets-paramount-wants-the-entire-empire/)
-
-[Journal](https://www.gamigion.com/category/journal/)
-
-##### [Warner Bros Deal? Netflix wanted the prestige assets. Paramount wants the entire empire.](https://www.gamigion.com/warner-bros-deal-netflix-wanted-the-prestige-assets-paramount-wants-the-entire-empire/)
-
-[John Wright](https://www.gamigion.com/author/johnwright/)
 
 December 9
 
