@@ -3805,3 +3805,494 @@
 2025-12-10 17:27:25,931 INFO START: RZain (https://rzain.blog/games/)
 2025-12-10 17:27:26,315 INFO FOUND: 13 article links for RZain
 2025-12-10 17:42:40,863 WARNING Non-200 404 for https://rzain.blog/games/page/2/
+2025-12-11 12:29:22,899 INFO START: Lanceric (https://lancaric.me/blog/)
+2025-12-11 12:29:26,687 INFO Page https://lancaric.me/blog -> found 12 links
+2025-12-11 12:29:26,996 INFO Page https://lancaric.me/blog/page/2/ -> found 12 links
+2025-12-11 12:29:27,302 INFO Page https://lancaric.me/blog/page/3/ -> found 12 links
+2025-12-11 12:29:27,613 INFO Page https://lancaric.me/blog/page/4/ -> found 12 links
+2025-12-11 12:29:27,913 INFO Page https://lancaric.me/blog/page/5/ -> found 12 links
+2025-12-11 12:29:28,228 INFO Page https://lancaric.me/blog/page/6/ -> found 12 links
+2025-12-11 12:29:28,514 INFO Page https://lancaric.me/blog/page/7/ -> found 12 links
+2025-12-11 12:29:28,823 INFO Page https://lancaric.me/blog/page/8/ -> found 12 links
+2025-12-11 12:29:29,115 INFO Page https://lancaric.me/blog/page/9/ -> found 12 links
+2025-12-11 12:29:29,415 INFO Page https://lancaric.me/blog/page/10/ -> found 12 links
+2025-12-11 12:29:29,716 INFO Page https://lancaric.me/blog/page/11/ -> found 12 links
+2025-12-11 12:29:30,016 INFO Page https://lancaric.me/blog/page/12/ -> found 12 links
+2025-12-11 12:29:30,325 INFO Page https://lancaric.me/blog/page/13/ -> found 12 links
+2025-12-11 12:29:30,618 INFO Page https://lancaric.me/blog/page/14/ -> found 12 links
+2025-12-11 12:29:30,929 INFO Page https://lancaric.me/blog/page/15/ -> found 12 links
+2025-12-11 12:29:31,228 INFO Page https://lancaric.me/blog/page/16/ -> found 12 links
+2025-12-11 12:29:31,536 INFO Page https://lancaric.me/blog/page/17/ -> found 12 links
+2025-12-11 12:29:31,841 INFO Page https://lancaric.me/blog/page/18/ -> found 12 links
+2025-12-11 12:29:32,139 INFO Page https://lancaric.me/blog/page/19/ -> found 12 links
+2025-12-11 12:29:32,447 INFO Page https://lancaric.me/blog/page/20/ -> found 12 links
+2025-12-11 12:29:32,758 INFO Page https://lancaric.me/blog/page/21/ -> found 12 links
+2025-12-11 12:29:33,063 INFO Page https://lancaric.me/blog/page/22/ -> found 12 links
+2025-12-11 12:29:33,379 INFO Page https://lancaric.me/blog/page/23/ -> found 12 links
+2025-12-11 12:29:33,681 INFO Page https://lancaric.me/blog/page/24/ -> found 12 links
+2025-12-11 12:29:33,979 INFO Page https://lancaric.me/blog/page/25/ -> found 12 links
+2025-12-11 12:29:34,279 INFO Page https://lancaric.me/blog/page/26/ -> found 12 links
+2025-12-11 12:29:34,581 INFO Page https://lancaric.me/blog/page/27/ -> found 12 links
+2025-12-11 12:29:34,868 INFO Page https://lancaric.me/blog/page/28/ -> found 1 links
+2025-12-11 12:29:34,868 INFO Lanceric -> TOTAL LINKS: 325
+2025-12-11 12:29:37,291 INFO saved: 001 -> https://lancaric.me/playable-ads-trends-in-mobile-games-apps-july-2025
+2025-12-11 12:29:37,723 INFO saved: 007 -> https://lancaric.me/two-a-half-gamers-magic-sort-review-the-next-big-thing-in-gaming-or-is-it
+2025-12-11 12:29:37,738 INFO saved: 003 -> https://lancaric.me/two-a-half-gamers-your-ads-are-boring-5-inspiration-tricks-to-ignite-your-creative-strategy-by-matej-lancaric
+2025-12-11 12:29:37,894 INFO saved: 008 -> https://lancaric.me/two-a-half-gamers-dark-and-darker-review-unique-blend-of-survival-extraction
+2025-12-11 12:29:38,037 INFO saved: 006 -> https://lancaric.me/two-a-half-gamers-creative-trends-in-mobile-gaming-november-2024
+2025-12-11 12:29:38,155 INFO saved: 005 -> https://lancaric.me/11-tips-for-killer-mobile-user-acquisition-q1-version
+2025-12-11 12:29:38,187 INFO saved: 002 -> https://lancaric.me/playable-ads-trends-in-mobile-games-apps-june-2025
+2025-12-11 12:29:38,190 INFO saved: 004 -> https://lancaric.me/two-a-half-gamers-a-beginners-guide-to-ua-the-fundamentals
+2025-12-11 12:29:39,476 INFO saved: 009 -> https://lancaric.me/two-a-half-gamers-the-evolution-of-mobile-advertising-explained-how-to-make-ad-revenue-by-felix-braberg
+2025-12-11 12:29:40,071 INFO saved: 011 -> https://lancaric.me/playable-ads-ua-guide
+2025-12-11 12:29:40,265 INFO saved: 012 -> https://lancaric.me/two-a-half-gamers-exploring-path-of-exile2-pay-for-convenience-comfort
+2025-12-11 12:29:40,265 INFO saved: 013 -> https://lancaric.me/two-a-half-gamers-top-10-gaming-predictions-for-2025-what-to-expect-by-john-wright
+2025-12-11 12:29:40,298 INFO saved: 010 -> https://lancaric.me/two-a-half-gamers-inspector-budget-ua-trends-top-advertisers-gaming-market-december-2024
+2025-12-11 12:29:40,407 INFO saved: 015 -> https://lancaric.me/blossom-sort-game-review-exploring-the-future-of-casual-games
+2025-12-11 12:29:40,479 INFO saved: 014 -> https://lancaric.me/two-a-half-gamers-softlaunch-sonar-7-the-evolution-of-cpi-testing-in-gaming
+2025-12-11 12:29:40,641 INFO saved: 016 -> https://lancaric.me/two-a-half-gamers-how-to-conquer-the-farming-games-market-minigames-ftw-implement-or-die-by-matej-lancaric
+2025-12-11 12:29:42,132 INFO saved: 017 -> https://lancaric.me/user-acquisition-creative-learnings-with-comments-2024
+2025-12-11 12:29:42,458 INFO saved: 018 -> https://lancaric.me/two-a-half-gamers-match3-games-market-overview-mechanics-monetization-trends-ua-creative-strategies-for-success
+2025-12-11 12:29:42,489 INFO saved: 020 -> https://lancaric.me/royal-kingdom-game-review-the-art-of-level-design-in-puzzle-games-genre
+2025-12-11 12:29:42,491 INFO saved: 019 -> https://lancaric.me/how-to-increase-your-profitability-with-cross-promotion-a-step-by-step-guide-with-goncalo-boombit
+2025-12-11 12:29:42,686 INFO saved: 022 -> https://lancaric.me/two-a-half-gamers-top-girl-game-review-idle-game-made-with-ai-meets-4x-genre
+2025-12-11 12:29:42,692 INFO saved: 021 -> https://lancaric.me/two-a-half-gamers-ad-placements-ad-monetization-trends-in-mobile-games-november-2024
+2025-12-11 12:29:42,822 INFO saved: 023 -> https://lancaric.me/two-a-half-gamers-archero-2-review-the-evolution-of-gaming-habby-template-perfection
+2025-12-11 12:29:43,104 INFO saved: 024 -> https://lancaric.me/ad-networks-ua-mobile-games
+2025-12-11 12:29:44,362 INFO saved: 025 -> https://lancaric.me/11-tips-for-killer-user-acquisition-ops-q4
+2025-12-11 12:29:44,729 INFO saved: 026 -> https://lancaric.me/subscription-model-mobile-games
+2025-12-11 12:29:44,776 INFO saved: 028 -> https://lancaric.me/user-segmentation-mobile-games
+2025-12-11 12:29:44,935 INFO saved: 027 -> https://lancaric.me/monetization-impact-ua-mobile-games
+2025-12-11 12:29:44,982 INFO saved: 030 -> https://lancaric.me/churn-rate-mobile-games
+2025-12-11 12:29:45,071 INFO saved: 029 -> https://lancaric.me/strategies-hybrid-monetization-mobile-games
+2025-12-11 12:29:45,097 INFO saved: 031 -> https://lancaric.me/ua-platforms-mobile-games
+2025-12-11 12:29:45,397 INFO saved: 032 -> https://lancaric.me/user-acquisition-vs-retention-mobile-games
+2025-12-11 12:29:46,565 INFO saved: 033 -> https://lancaric.me/global-launch-ua-mobile-games
+2025-12-11 12:29:46,778 INFO saved: 034 -> https://lancaric.me/user-ltv-calculation-mobile-games
+2025-12-11 12:29:46,919 INFO saved: 035 -> https://lancaric.me/user-acquisition-mobile-games
+2025-12-11 12:29:47,165 INFO saved: 036 -> https://lancaric.me/strategies-ua-mobile-games
+2025-12-11 12:29:47,300 INFO saved: 037 -> https://lancaric.me/blockchain-in-ua-mobile-games
+2025-12-11 12:29:47,579 INFO saved: 039 -> https://lancaric.me/in-app-purchases-mobile-games
+2025-12-11 12:29:47,607 INFO saved: 038 -> https://lancaric.me/mobile-games-marketing-growth
+2025-12-11 12:29:47,610 INFO saved: 040 -> https://lancaric.me/rewards-apps-ua-mobile-games
+2025-12-11 12:29:48,982 INFO saved: 041 -> https://lancaric.me/kpis-ua-mobile-games
+2025-12-11 12:29:49,105 INFO saved: 042 -> https://lancaric.me/aso-tips-ua-mobile-games
+2025-12-11 12:29:49,473 INFO saved: 044 -> https://lancaric.me/user-retention-mobile-games
+2025-12-11 12:29:49,493 INFO saved: 043 -> https://lancaric.me/in-app-events-mobile-games
+2025-12-11 12:29:49,874 INFO saved: 045 -> https://lancaric.me/organic-vs-paid-ua-mobile-games
+2025-12-11 12:29:49,990 INFO saved: 046 -> https://lancaric.me/ad-networks-monetization-mobile-games
+2025-12-11 12:29:50,041 INFO saved: 048 -> https://lancaric.me/organic-ua-mobile-games
+2025-12-11 12:29:50,159 INFO saved: 047 -> https://lancaric.me/cost-ua-moile-games
+2025-12-11 12:29:51,293 INFO saved: 049 -> https://lancaric.me/challenges-ua-mobile-games
+2025-12-11 12:29:51,351 INFO saved: 050 -> https://lancaric.me/trends-ua-mobile-games
+2025-12-11 12:29:51,718 INFO saved: 051 -> https://lancaric.me/in-game-ads-mobile-games
+2025-12-11 12:29:51,748 INFO saved: 052 -> https://lancaric.me/interstitial-ads-ua-mobile-games
+2025-12-11 12:29:52,199 INFO saved: 055 -> https://lancaric.me/strategies-gamification-mobile-games
+2025-12-11 12:29:52,440 INFO saved: 053 -> https://lancaric.me/monetization-mobile-games
+2025-12-11 12:29:52,493 INFO saved: 056 -> https://lancaric.me/dark-war-survival-review-if-whiteout-survival-last-war-had-a-baby-this-is-it-and-its-a-zombie
+2025-12-11 12:29:52,493 INFO saved: 054 -> https://lancaric.me/programmatic-ads-mobile-games
+2025-12-11 12:29:53,491 INFO saved: 057 -> https://lancaric.me/two-a-half-triple-match-city-new-evolution-of-casual-match-3d-games
+2025-12-11 12:29:53,971 INFO saved: 058 -> https://lancaric.me/revolutionizing-ua-product-reporting-in-gaming
+2025-12-11 12:29:54,019 INFO saved: 060 -> https://lancaric.me/aso-guide-beginner
+2025-12-11 12:29:54,051 INFO saved: 059 -> https://lancaric.me/playdoku-block-puzzle-colorwood-sort-burny-games-live-review-with-anatolii-henis
+2025-12-11 12:29:54,633 INFO saved: 061 -> https://lancaric.me/creative-trends-in-mobile-games-october-2024
+2025-12-11 12:29:54,855 INFO saved: 062 -> https://lancaric.me/future-of-ua-creators-mobile-user-acquisition
+2025-12-11 12:29:55,014 INFO saved: 064 -> https://lancaric.me/capybara-go-global-launch-ua-case-study
+2025-12-11 12:29:55,118 INFO saved: 063 -> https://lancaric.me/pokemon-tcg-pocket-exploring-a-billion-dollar-nostalgic-journey
+2025-12-11 12:29:55,807 INFO saved: 065 -> https://lancaric.me/two-a-half-gamers-age-of-empires-mobile-nostalgia-meets-modern-gaming-ehm-modern-4x-strategy-games
+2025-12-11 12:29:56,356 INFO saved: 066 -> https://lancaric.me/two-a-half-gamers-my-supermarket-simulator-3d-the-ultimate-shop-simulator-game-that-makes-serious-money
+2025-12-11 12:29:56,617 INFO saved: 067 -> https://lancaric.me/two-a-half-gamers-supercells-project-r-i-s-e-update-gameplay-review-with-new-features-improvements
+2025-12-11 12:29:56,715 INFO saved: 068 -> https://lancaric.me/two-a-half-gamers-capybara-go-defining-a-new-genre-social-casino-rpg-another-mobile-sensation-by-habby
+2025-12-11 12:29:56,955 INFO saved: 069 -> https://lancaric.me/two-a-half-gamers-all-in-hole-a-stolen-voodoos-lunch-a-new-hybrid-casual-game-on-the-horizon
+2025-12-11 12:29:57,296 INFO saved: 071 -> https://lancaric.me/two-a-half-gamers-creative-trends-in-mobile-games-september-2024
+2025-12-11 12:29:57,313 INFO saved: 070 -> https://lancaric.me/two-a-half-gamers-hexasort-unpacking-the-500k-day-revenue-success-a-new-era-of-casual-puzzle-games
+2025-12-11 12:29:57,428 INFO saved: 072 -> https://lancaric.me/two-a-half-gamers-soft-launch-sonar-6-is-capybara-go-the-next-big-hit-from-habby
+2025-12-11 12:29:58,119 INFO saved: 073 -> https://lancaric.me/two-a-half-gamers-saying-no-to-millions-revenues-balatro-power-combo-of-poker-solitaire
+2025-12-11 12:29:59,144 INFO saved: 074 -> https://lancaric.me/two-a-half-gamers-cup-heroes-voodoos-new-hybridcasual-hit-making-160k-day-steady-growth-w-adplacement-excellence
+2025-12-11 12:29:59,147 INFO saved: 076 -> https://lancaric.me/12-mobile-user-acquisition-tips-q3-version-24
+2025-12-11 12:29:59,147 INFO saved: 075 -> https://lancaric.me/two-a-half-gamers-reelshort-review-redefining-genre-making-23mil-month-next-step-for-netflix-games
+2025-12-11 12:29:59,420 INFO saved: 077 -> https://lancaric.me/two-a-half-gamers-game-review-radar-6-the-sea-of-unfortunate-sharkfins-exploring-game-updates-and-trends
+2025-12-11 12:29:59,611 INFO saved: 079 -> https://lancaric.me/two-a-half-gamers-ad-placements-ad-monetization-trends-in-mobile-games-september-2024
+2025-12-11 12:29:59,774 INFO saved: 078 -> https://lancaric.me/palword-masterclass-marketing
+2025-12-11 12:30:00,120 INFO saved: 080 -> https://lancaric.me/two-a-half-gamers-diversifying-your-mobile-game-ua-with-influencer-marketing-real-data-included
+2025-12-11 12:30:00,939 INFO saved: 081 -> https://lancaric.me/two-a-half-gamers-elder-scrolls-castles-flop-with-the-most-successful-iteration-of-this-core-gameplay
+2025-12-11 12:30:02,866 INFO saved: 084 -> https://lancaric.me/two-a-half-gamers-offline-games-no-wifi-games-the-most-profitable-game-in-the-world
+2025-12-11 12:30:03,265 INFO saved: 085 -> https://lancaric.me/two-a-half-gamers-wechat-mini-games-exploring-the-world-of-mini-games-with-lemon
+2025-12-11 12:30:03,269 INFO saved: 082 -> https://lancaric.me/two-a-half-gamers-creative-trends-in-mobile-games-august-2024
+2025-12-11 12:30:03,316 INFO saved: 086 -> https://lancaric.me/two-a-half-gamers-impulse-brain-training-games-a-hyper-scaling-app-masquerading-as-a-brain-training
+2025-12-11 12:30:03,614 INFO saved: 083 -> https://lancaric.me/two-a-half-gamers-deadlock-valves-new-game-revealed-its-a-shooter-not-just-moba
+2025-12-11 12:30:04,292 INFO saved: 087 -> https://lancaric.me/two-a-half-gamers-office-cat-idle-tycoon-live-review-125k-day-revenue-with-80k-day-spend-nice-profit-w-seok-kang
+2025-12-11 12:30:04,675 INFO saved: 089 -> https://lancaric.me/two-a-half-gamers-squad-busters-big-new-update-no-more-pay-to-win-no-gacha-no-money
+2025-12-11 12:30:04,766 INFO saved: 088 -> https://lancaric.me/two-a-half-gamers-lucky-defense-success-will-it-conquer-the-west-a-new-tower-defense-hitting-the-charts
+2025-12-11 12:30:06,152 INFO saved: 090 -> https://lancaric.me/two-a-half-gamers-idle-outpost-zombie-apocalypse-review-downscaling
+2025-12-11 12:30:06,237 INFO saved: 093 -> https://lancaric.me/two-a-half-gamers-inside-stormgate-with-tim-morten-in-depth-live-review-gameplay-with-insights
+2025-12-11 12:30:06,247 INFO saved: 092 -> https://lancaric.me/two-a-half-gamers-creative-trends-in-mobile-games-july-2024
+2025-12-11 12:30:06,466 INFO saved: 094 -> https://lancaric.me/two-a-half-gamers-how-to-create-high-performing-ai-statics-top-6-ad-placement-inspiration-in-last-30days
+2025-12-11 12:30:06,540 INFO saved: 091 -> https://lancaric.me/alien-invasion-global-launch-small-ua-team
+2025-12-11 12:30:06,968 INFO saved: 095 -> https://lancaric.me/two-a-half-gamers-softlaunch-sonar-5-more-whiteout-survival-like-games-coming
+2025-12-11 12:30:07,627 INFO saved: 096 -> https://lancaric.me/two-a-half-gamers-chinajoy-2024-pov-wechat-mini-games-the-speed-of-game-development-impressive-market-growth
+2025-12-11 12:30:07,721 INFO saved: 097 -> https://lancaric.me/two-a-half-gamers-is-zenless-zone-zero-flop-or-not
+2025-12-11 12:30:09,173 INFO saved: 098 -> https://lancaric.me/ugc-guide-ai-user-acquisition
+2025-12-11 12:30:09,244 INFO saved: 099 -> https://lancaric.me/two-a-half-gamers-8-billion-installs-x-azur-games-review-live-launching-hypercasual-with-long-roas
+2025-12-11 12:30:09,250 INFO saved: 100 -> https://lancaric.me/two-a-half-gamers-project-rise-review-supercells-new-rogue-lite-game-is-in-pre-alpha
+2025-12-11 12:30:09,505 INFO saved: 101 -> https://lancaric.me/two-a-half-gamers-no-bs-gaming-podcast-banana-special-exploring-the-potential-mechanics-popularity-of-the-banana-game-with-joseph-kim
+2025-12-11 12:30:09,580 INFO saved: 102 -> https://lancaric.me/two-a-half-gamers-no-bs-gaming-podcast-creative-trends-in-mobile-gaming-june-2024
+2025-12-11 12:30:09,658 INFO saved: 103 -> https://lancaric.me/two-a-half-gamers-junes-journey-a-party-to-die-for-the-power-of-community-driven-content-in-gaming
+2025-12-11 12:30:10,303 INFO saved: 104 -> https://lancaric.me/two-a-half-gamers-live-review-chrome-valley-customs-live-how-to-decrease-cpi-in-match3-genre-the-success-of-xzibit-in-ua
+2025-12-11 12:30:10,813 INFO saved: 105 -> https://lancaric.me/two-a-half-gamers-session-120-top-creatives-advertisers-with-game-review-radar
+2025-12-11 12:30:11,823 INFO saved: 108 -> https://lancaric.me/two-a-half-gamers-session-116-star-wars-hunters-the-waste-of-potential-flaws-a-k-a-the-honest-review
+2025-12-11 12:30:11,939 INFO saved: 106 -> https://lancaric.me/two-a-half-gamers-session-118-solo-leveling-arise-depth-of-content-progression-layers-exploring-the-predatory-monetization
+2025-12-11 12:30:11,939 INFO saved: 107 -> https://lancaric.me/two-a-half-gamers-session-117-wood-nuts-bolts-puzzle-highly-challenging-demanding-match-puzzle-game
+2025-12-11 12:30:12,006 INFO saved: 109 -> https://lancaric.me/two-a-half-gamers-session-115-total-battle-war-strategy-600k-day-revenue-4x-genre-success-with-innovative-onboarding
+2025-12-11 12:30:12,106 INFO saved: 110 -> https://lancaric.me/user-acquisition-stop-sexist-ads
+2025-12-11 12:30:12,236 INFO saved: 111 -> https://lancaric.me/two-a-half-gamers-session-114-match-factory-a-major-hit-with-positive-advertising-by-peak-games
+2025-12-11 12:30:12,915 INFO saved: 112 -> https://lancaric.me/bangbang-survivor-600k-day-revenue-one-step-closer-to-west-or-just-a-clone-of-doodle-magic
+2025-12-11 12:30:13,326 INFO saved: 113 -> https://lancaric.me/two-a-half-gamers-session-112-how-to-grow-iap-revenue-by-375-saygames-special-with-anton-volnykh
+2025-12-11 12:30:14,582 INFO saved: 115 -> https://lancaric.me/two-a-half-gamers-session-110-zombie-io-global-launch-case-study-a-midcore-game-with-complex-gameplay-wide-range-of-features
+2025-12-11 12:30:14,583 INFO saved: 114 -> https://lancaric.me/two-a-half-gamers-session-111-screw-jam-success-story-how-to-reach-250k-day-revenue-innovative-satisfying-hybrid-casual-game
+2025-12-11 12:30:14,640 INFO saved: 116 -> https://lancaric.me/two-a-half-gamers-special-session-helldivers-2-why-is-it-so-good-second-galatic-war-begins-new-major-order
+2025-12-11 12:30:14,885 INFO saved: 118 -> https://lancaric.me/mobile-user-acquisition-games-alternative-ua
+2025-12-11 12:30:14,890 INFO saved: 117 -> https://lancaric.me/two-a-half-gamers-session-109-supermarket-simulator-mobile-why-is-it-so-popular-start-your-own-supermarket-now
+2025-12-11 12:30:15,228 INFO saved: 119 -> https://lancaric.me/two-a-half-gamers-session-108-from-hypercasual-to-hybridcasual-the-supercent-story-iterative-nature-admon-w-ua-in-grey-zone
+2025-12-11 12:30:15,659 INFO saved: 120 -> https://lancaric.me/squad-busters-new-game-supercell-soft-launch-global
+2025-12-11 12:30:16,255 INFO saved: 121 -> https://lancaric.me/two-a-half-gamers-session-107-squad-busters-is-pay-to-win-true-or-false-leaked-global-launch-strategy-big-game-review
+2025-12-11 12:30:17,200 INFO saved: 122 -> https://lancaric.me/two-a-half-gamers-session-106-brawl-stars-ua-creative-strategies-game-review-radar-vol4-gam-not-dead-yet
+2025-12-11 12:30:17,283 INFO saved: 123 -> https://lancaric.me/supercell-ua-lessons-creatives
+2025-12-11 12:30:17,336 INFO saved: 124 -> https://lancaric.me/two-a-half-gamers-session-105-merge-games-market-history-full-overview-travel-town-no-1-merge-game-gossip-harbor-case-studies
+2025-12-11 12:30:17,346 INFO saved: 126 -> https://lancaric.me/is-tiktok-ua-for-teenagers-soft-launch-sonar-4-importance-of-bid-floors-top-creatives-in-march
+2025-12-11 12:30:17,485 INFO saved: 125 -> https://lancaric.me/two-a-half-gamers-session-104-afk-journey-a-highly-polished-innovative-rpg-game-captivating-storytelling-with-stunning-visuals
+2025-12-11 12:30:17,930 INFO saved: 127 -> https://lancaric.me/two-a-half-gamers-session-102-legend-of-mushrooms-success-150mil-iap-revenue-in-4-months-social-features-guilds-ua-admon
+2025-12-11 12:30:18,417 INFO saved: 128 -> https://lancaric.me/user-acquisition-beginners-mobile-ua
+2025-12-11 12:30:18,914 INFO saved: 129 -> https://lancaric.me/two-a-half-gamers-session-101-4x-revolution-part2-last-war-the-biggest-4x-in-2024-crucial-ua-integration-into-core-loop
+2025-12-11 12:30:19,654 INFO saved: 132 -> https://lancaric.me/two-a-half-gamers-special-episode-ua-trends-tiktok-building-communities-for-power-users-doubl3tap-x-2-5gamers-crossover
+2025-12-11 12:30:19,713 INFO saved: 133 -> https://lancaric.me/two-a-half-gamers-session-99-4x-revolution-part1-top-heroes-idle-rpg-or-4x-strategy-game
+2025-12-11 12:30:19,838 INFO saved: 130 -> https://lancaric.me/hybrid-casual-user-acquisition-playbook
+2025-12-11 12:30:19,838 INFO saved: 131 -> https://lancaric.me/two-a-half-gamers-session-100-hybrid-casual-twisted-tangle-85-purchase-revenue-driven-by-ios-growth-everything-is-possible
+2025-12-11 12:30:19,982 INFO saved: 134 -> https://lancaric.me/two-a-half-gamers-special-episode-mobile-gaming-og-eric-futoran-scopely-war-stories-algorithm-manipulation-growth-strategies-anr
+2025-12-11 12:30:20,574 INFO saved: 135 -> https://lancaric.me/two-a-half-gamers-session-98-voodoo-super-growth-w-alvaro-duarte-how-to-10x-iap-revenue-in-2-years-healthy-margin
+2025-12-11 12:30:21,268 INFO saved: 136 -> https://lancaric.me/two-a-half-gamers-special-episode-stash-special-web-shops-new-apple-policies-loyalty-programs-frictionless-user-experience
+2025-12-11 12:30:21,414 INFO saved: 137 -> https://lancaric.me/11-mobile-user-acquisition-tips-q1-version-24
+2025-12-11 12:30:22,298 INFO saved: 140 -> https://lancaric.me/two-a-half-gamers-special-episode-xsolla-special-apples-updated-eu-payments-dma-regime-new-fees-requirements-web-shops
+2025-12-11 12:30:22,310 INFO saved: 138 -> https://lancaric.me/two-a-half-gamers-special-episode-we-are-warriors-live-review-ad-juggernaut-creative-depth-balancing-difficulty-progression-ua
+2025-12-11 12:30:22,406 INFO saved: 141 -> https://lancaric.me/two-a-half-gamers-special-live-episode-gamesforum-live-special-w-adam-gus-rewarded-play-ai-in-game-development-are-ua-managers-lazy
+2025-12-11 12:30:22,568 INFO saved: 142 -> https://lancaric.me/how-to-soft-launch-a-mobile-game-in-2024
+2025-12-11 12:30:22,623 INFO saved: 139 -> https://lancaric.me/arcads-ai-agents
+2025-12-11 12:30:23,150 INFO saved: 143 -> https://lancaric.me/duolingo-tiktok-mobile-ua
+2025-12-11 12:30:23,731 INFO saved: 144 -> https://lancaric.me/brawl-stars-to-the-moon-a-monetization-deep-dive-gamemakers-x-2-5-gamers-crossover
+2025-12-11 12:30:23,822 INFO saved: 145 -> https://lancaric.me/two-a-half-gamers-special-live-episode-john-wright-hybrid-casual-is-a-stepping-stone-quality-over-quantity
+2025-12-11 12:30:24,703 INFO saved: 146 -> https://lancaric.me/two-a-half-gamers-session-95-3-life-changing-ua-tips-from-2023-how-to-revert-ad-apocalypse-review-radar-vol-3
+2025-12-11 12:30:24,760 INFO saved: 147 -> https://lancaric.me/two-a-half-gamers-special-episode-investing-in-mobile-games-w-ignacio-monereo-when-to-approach-vc
+2025-12-11 12:30:24,851 INFO saved: 148 -> https://lancaric.me/two-a-half-gamers-special-episode-apple-vs-epic-special-27-fee-new-guidelines-creative-solutions-with-workarounds
+2025-12-11 12:30:25,121 INFO saved: 150 -> https://lancaric.me/two-a-half-gamers-session-94-pocket-champs-live-review-exceptional-growth-clever-game-design-ads-playbook-w-arthur-michel
+2025-12-11 12:30:25,475 INFO saved: 149 -> https://lancaric.me/monopoly-go-ua-profitable
+2025-12-11 12:30:25,866 INFO saved: 151 -> https://lancaric.me/two-a-half-gamers-special-episode-is-monopoly-go-profitable-gamemakers-x-2-5-gamers-crossover
+2025-12-11 12:30:26,337 INFO saved: 152 -> https://lancaric.me/influencer-marketing-guide-ua-in-2024
+2025-12-11 12:30:26,384 INFO saved: 153 -> https://lancaric.me/two-a-half-gamers-session-93-hybrid-casual-tower-war-the-evolution-of-core-gameplay-growth-creatives-admon-excellense
+2025-12-11 12:30:27,152 INFO saved: 154 -> https://lancaric.me/two-a-half-gamers-session-92-the-hunt-for-hybrid-casual-captain-hook-of-creatives-google-apocalypse
+2025-12-11 12:30:27,561 INFO saved: 156 -> https://lancaric.me/two-a-half-gamers-session-91-unfolding-doodle-magic-wizard-vs-slime-cpis-missed-admon-opportunities-systems-vectors
+2025-12-11 12:30:27,686 INFO saved: 155 -> https://lancaric.me/user-acquisition-creative-ua-learnings-2023
+2025-12-11 12:30:27,726 INFO saved: 157 -> https://lancaric.me/supercells-clash-mini-softlaunch-big-update-review
+2025-12-11 12:30:28,109 INFO saved: 158 -> https://lancaric.me/two-a-half-gamers-session-90-supercells-clash-mini-softlaunch-game-design-ua-creative-review
+2025-12-11 12:30:28,882 INFO saved: 160 -> https://lancaric.me/two-a-half-gamers-session-88-zenless-zone-zero-first-look-everything-we-know-from-closed-beta
+2025-12-11 12:30:29,081 INFO saved: 159 -> https://lancaric.me/two-a-half-gamers-session-89-voodoo-block-jam-3d-hybrid-casual-story-is-voodoo-a-rising-phoenix
+2025-12-11 12:30:29,224 INFO saved: 161 -> https://lancaric.me/two-a-half-gamers-session-87-creative-trends-q3-merge-mansion-japan-admon-tips-habby-souls-review
+2025-12-11 12:30:29,817 INFO saved: 162 -> https://lancaric.me/two-a-half-gamers-session-86-from-hypercasual-to-hybridcasual-the-estoty-portfolio-story
+2025-12-11 12:30:30,253 INFO saved: 163 -> https://lancaric.me/two-a-half-gamers-session-85-5-tips-for-killer-ua-soft-launch-sonar-vol3-black-friday-secret-admon-tips
+2025-12-11 12:30:30,437 INFO saved: 164 -> https://lancaric.me/two-a-half-gamers-session-84-warcraft-rumble-deep-dive-into-games-complexity-spend-depth-systems-vectors-ua-creatives
+2025-12-11 12:30:30,578 INFO saved: 165 -> https://lancaric.me/supercell-mo-co-first-look-ua-game-design-review
+2025-12-11 12:30:30,958 INFO saved: 166 -> https://lancaric.me/warcraft-rumble-soft-launch-playbook-2023
+2025-12-11 12:30:31,599 INFO saved: 167 -> https://lancaric.me/two-a-half-gamers-special-episode-first-look-new-game-in-closed-beta-not-even-in-soft-launch-yet
+2025-12-11 12:30:31,896 INFO saved: 169 -> https://lancaric.me/top-troops-global-launch-ua-case-study
+2025-12-11 12:30:32,248 INFO saved: 168 -> https://lancaric.me/two-a-half-gamers-session-82-top-troops-global-launch-case-study-game-design-ad-monetisation-ua-review
+2025-12-11 12:30:32,373 INFO saved: 170 -> https://lancaric.me/two-a-half-gamers-china-special-west-to-east-market-situation-cultural-adaptation-publishing-ua-creatives
+2025-12-11 12:30:32,837 INFO saved: 171 -> https://lancaric.me/two-a-half-gamers-session-81-alien-invasion-hybrid-casual-story-full-game-design-ad-monetization-ua-and-creatives-review
+2025-12-11 12:30:32,972 INFO saved: 172 -> https://lancaric.me/two-a-half-gamers-session-80-how-to-pick-admon-partners-ads-library-bonanza-research-game-review-radar-vol2
+2025-12-11 12:30:33,064 INFO saved: 173 -> https://lancaric.me/two-a-half-gamers-session-79-mr-autofire-live-review-w-miikka-ahonen-user-acquisition-creatives-game-design-admonor-idle-arcade
+2025-12-11 12:30:33,532 INFO saved: 174 -> https://lancaric.me/two-a-half-gamers-unity-special-3-the-reckoning-they-are-sorry-but-the-trust-is-gone
+2025-12-11 12:30:34,195 INFO saved: 175 -> https://lancaric.me/hybrid-casual-ua-my-perfect-hotel-idle-arcade
+2025-12-11 12:30:34,335 INFO saved: 176 -> https://lancaric.me/two-a-half-gamers-session-78-the-mystery-case-of-my-perfect-hotel-a-new-hybrid-casual-framework-for-idle-arcade
+2025-12-11 12:30:34,885 INFO saved: 177 -> https://lancaric.me/two-a-half-gamers-unity-special-2-boycott-developers-fight-back-in-the-mediation-war
+2025-12-11 12:30:34,939 INFO saved: 178 -> https://lancaric.me/two-a-half-gamers-unity-special-from-200-month-fee-to-187k-death-kiss-to-small-hypercasual-developers
+2025-12-11 12:30:35,553 INFO saved: 179 -> https://lancaric.me/11-tips-for-killer-user-acquisition-ops-q3-version
+2025-12-11 12:30:35,608 INFO saved: 180 -> https://lancaric.me/two-a-half-gamers-session-77-4x-hybridcasual-review-ua-creatives-ad-monetization-game-design
+2025-12-11 12:30:35,686 INFO saved: 181 -> https://lancaric.me/two-a-half-gamers-gamescom-live-special-creative-trends-ios-measurement-hollywood-inspired-games-ua-channel-mix
+2025-12-11 12:30:36,475 INFO saved: 182 -> https://lancaric.me/two-a-half-gamers-session-76-from-hypercasual-to-hybridcasual-the-homa-games-story
+2025-12-11 12:30:36,685 INFO saved: 183 -> https://lancaric.me/two-a-half-gamers-session-75-creative-trends-q2-2023-soft-launch-sonar-q2-moloco-for-ad-monetization
+2025-12-11 12:30:36,932 INFO saved: 184 -> https://lancaric.me/two-a-half-gamers-session-74-cpi-estimations-revenue-growth-genre-comparison-monetization-design
+2025-12-11 12:30:37,201 INFO saved: 186 -> https://lancaric.me/two-a-half-gamers-south-korea-live-special-market-review-marketing-strategies-ua-channels-creatives-top-games
+2025-12-11 12:30:37,540 INFO saved: 185 -> https://lancaric.me/two-a-half-gamers-session-73-meta-aggregated-event-measurement-harry-potter-flop-in-the-west-admon-apocalypse-tests
+2025-12-11 12:30:38,169 INFO saved: 188 -> https://lancaric.me/two-a-half-gamers-session-71-google-cmp-update-google-ad-transparency-tiktok-ai-script-generator-game-review-radar
+2025-12-11 12:30:38,202 INFO saved: 189 -> https://lancaric.me/two-a-half-gamers-session-diablo-iv-special-gameplay-game-design-review-pay-for-comfort-path-of-exile-comparison
+2025-12-11 12:30:38,307 INFO saved: 187 -> https://lancaric.me/two-a-half-gamers-session-72-from-hypercasual-to-hybridcasual-the-saygames-story
+2025-12-11 12:30:39,095 INFO saved: 190 -> https://lancaric.me/will-ai-finally-kill-ua
+2025-12-11 12:30:39,440 INFO saved: 191 -> https://lancaric.me/two-a-half-gamers-session-70-from-hypercasual-to-hybridcasual-the-voodoo-story
+2025-12-11 12:30:39,657 INFO saved: 193 -> https://lancaric.me/top5-mobile-gaming-launches-special-gamemakers-x-2-5-gamers-live-crossover
+2025-12-11 12:30:39,760 INFO saved: 192 -> https://lancaric.me/two-a-half-gamers-session-69-creatives-end-cards-arms-race-why-is-soft-launching-in-us-a-terrible-idea-night-crows-review
+2025-12-11 12:30:39,988 INFO saved: 194 -> https://lancaric.me/two-a-half-gamers-session-68-supercells-floodrush-first-look-ua-admon-game-design-review-squad-busters-comparison
+2025-12-11 12:30:40,903 INFO saved: 197 -> https://lancaric.me/squad-busters-supercell-softlaunch
+2025-12-11 12:30:40,928 INFO saved: 196 -> https://lancaric.me/two-a-half-gamers-session-67-boost-your-ua-with-channel-diversification-high-performing-creative-frameworks-w-mistplay
+2025-12-11 12:30:40,931 INFO saved: 195 -> https://lancaric.me/supercell-floodrush-user-acquistion-game-design
+2025-12-11 12:30:41,525 INFO saved: 198 -> https://lancaric.me/two-a-half-gamers-session-66-squad-busters-first-look-moba-or-hybrid-casual-new-supercell-game-in-soft-launch
+2025-12-11 12:30:41,924 INFO saved: 199 -> https://lancaric.me/two-a-half-gamers-session-65-triple-tile-vs-triple-match-3d-showdown-in-depth-ua-creatives-admon-game-design-review
+2025-12-11 12:30:42,349 INFO saved: 201 -> https://lancaric.me/legend-of-slime-post-idfa-global-launch-ua-strategy
+2025-12-11 12:30:42,528 INFO saved: 200 -> https://lancaric.me/11-tips-for-killer-user-acquisition-ops-q2-version
+2025-12-11 12:30:42,744 INFO saved: 202 -> https://lancaric.me/two-a-half-gamers-session-64-creative-trends-q1-2023-mobile-games-soft-launch-sonar-meta-enhanced-interaction-in-admon
+2025-12-11 12:30:43,480 INFO saved: 205 -> https://lancaric.me/two-a-half-gamers-session-61-legend-of-slime-review-user-acquisition-creatives-ad-monetisation-game-design-deep-dive
+2025-12-11 12:30:43,582 INFO saved: 203 -> https://lancaric.me/two-a-half-gamers-session-63-admon-smoky-backroom-midcore-ua-step-up-with-viva-la-dirt-league-honkai-star-rail-review
+2025-12-11 12:30:43,583 INFO saved: 204 -> https://lancaric.me/two-a-half-gamers-session-62-4x-strategy-games-deep-dive-user-acquisition-game-design-breakdown
+2025-12-11 12:30:43,962 INFO saved: 206 -> https://lancaric.me/8-must-have-before-post-idfa-soft-launch
+2025-12-11 12:30:44,206 INFO saved: 207 -> https://lancaric.me/two-a-half-gamers-session-60-manuel-prueter-how-to-reduce-anrs-crashes-aso-sdk-utopia
+2025-12-11 12:30:44,894 INFO saved: 209 -> https://lancaric.me/two-a-half-gamers-session-59-11-ua-creative-tips-%f0%9f%a6%a9-unleash-your-inner-ua-flamboyance
+2025-12-11 12:30:45,022 INFO saved: 208 -> https://lancaric.me/ua-manager-life-post-idfa-reality
+2025-12-11 12:30:45,276 INFO saved: 210 -> https://lancaric.me/matej-lancaric-the-story-of-a-solopreneur
+2025-12-11 12:30:46,026 INFO saved: 211 -> https://lancaric.me/hybrid-casual-sssnaker-habby-post-idfa-ua
+2025-12-11 12:30:46,169 INFO saved: 213 -> https://lancaric.me/frozen-city-ad-revenue-boost
+2025-12-11 12:30:46,169 INFO saved: 212 -> https://lancaric.me/two-half-gamers-session-58-sssnaker-habby-metagame-framework-full-ua-gd-admon-review
+2025-12-11 12:30:46,248 INFO saved: 214 -> https://lancaric.me/two-a-half-gamers-session-57-deep-dive-into-google-privacy-sandbox-same-disaster-as-apple-att
+2025-12-11 12:30:46,916 INFO saved: 215 -> https://lancaric.me/ua-the-new-frontier-of-game-dev
+2025-12-11 12:30:47,527 INFO saved: 217 -> https://lancaric.me/post-idfa-ua-frozen-city-global-launch-case-study
+2025-12-11 12:30:47,529 INFO saved: 216 -> https://lancaric.me/two-a-half-gamers-session-56-frozen-city-vs-whiteout-survival-admon-potential-ua-gd-review
+2025-12-11 12:30:47,614 INFO saved: 218 -> https://lancaric.me/two-a-half-gamers-session-55-deep-actionable-skan-4-0-breakdown-with-eran-from-singular
+2025-12-11 12:30:48,463 INFO saved: 219 -> https://lancaric.me/two-a-half-gamers-session-54-everything-is-dead-new-frontier-of-game-dev
+2025-12-11 12:30:48,553 INFO saved: 222 -> https://lancaric.me/two-a-half-gamers-session-52-admon-gossip-corner-unity-expensive-bug-aps-google-3-placements
+2025-12-11 12:30:48,682 INFO saved: 221 -> https://lancaric.me/11-tips-for-killer-user-acquisition-ops-q1-2023
+2025-12-11 12:30:48,722 INFO saved: 220 -> https://lancaric.me/two-a-half-gamers-session-53-eversoul-a-trending-waifu-game-with-full-gd-ua-admon-review
+2025-12-11 12:30:49,385 INFO saved: 223 -> https://lancaric.me/appsflyer-performance-index-vs-singular-benchmarks
+2025-12-11 12:30:49,698 INFO saved: 225 -> https://lancaric.me/two-a-half-gamers-session-50-deep-analysis-of-the-current-web3-market-implications-future
+2025-12-11 12:30:50,087 INFO saved: 224 -> https://lancaric.me/two-a-half-gamers-session-51-live-special-gamesforum-barcelona
+2025-12-11 12:30:50,202 INFO saved: 226 -> https://lancaric.me/ua-how-to-be-top1-downloaded-game-us
+2025-12-11 12:30:50,816 INFO saved: 227 -> https://lancaric.me/two-a-half-gamers-session-49-how-to-leverage-user-churn-prediction-why-is-it-important
+2025-12-11 12:30:51,088 INFO saved: 230 -> https://lancaric.me/two-a-half-gamers-session-47-creative-trends-2023-1-year-anniversary-kudos-to-you
+2025-12-11 12:30:51,103 INFO saved: 228 -> https://lancaric.me/two-a-half-gamers-session-48-could-frozen-city-earn-80-more-revenue-full-ua-admon-gd-review
+2025-12-11 12:30:51,464 INFO saved: 229 -> https://lancaric.me/how-to-choose-an-mmp-in-a-privacy-centric-mobile-ecosystem
+2025-12-11 12:30:51,932 INFO saved: 231 -> https://lancaric.me/hero-wars-fake-ads-false-advertising
+2025-12-11 12:30:52,068 INFO saved: 232 -> https://lancaric.me/two-a-half-gamers-session-46-deconstruction-of-app-businesses-from-ua-gd-admon-perspective
+2025-12-11 12:30:52,516 INFO saved: 233 -> https://lancaric.me/two-a-half-gamers-session-45-ironic-predictions-2023-is-next-year-the-end-of-sexists-ads
+2025-12-11 12:30:52,635 INFO saved: 234 -> https://lancaric.me/user-acquisition-brutally-honest-newsletter-signup
+2025-12-11 12:30:53,098 INFO saved: 235 -> https://lancaric.me/two-a-half-gamers-session-44-new-creative-strategy-from-cn-ua-winner-of-2022-games-update
+2025-12-11 12:30:53,438 INFO saved: 237 -> https://lancaric.me/two-a-half-gamers-session-43-how-to-approach-new-game-development-see-new-trends-in-gaming
+2025-12-11 12:30:53,682 INFO saved: 236 -> https://lancaric.me/user-acquisition-creative-learnings-2022
+2025-12-11 12:30:54,003 INFO saved: 238 -> https://lancaric.me/two-a-half-gamers-session-42-sexist-ads-admon-side-gold-goblins-full-ua-admon-gd-review
+2025-12-11 12:30:54,217 INFO saved: 239 -> https://lancaric.me/user-acquisition-predictions-2023
+2025-12-11 12:30:54,550 INFO saved: 240 -> https://lancaric.me/two-a-half-gamers-session-41-stop-with-sexist-ads-q4-admn-round-up-goddess-of-victory-review
+2025-12-11 12:30:54,995 INFO saved: 242 -> https://lancaric.me/two-a-half-gamers-session-40-q4-live-ops-tips-q4-ua-budget-optimisations-admon-bidder-updates
+2025-12-11 12:30:55,062 INFO saved: 241 -> https://lancaric.me/11-tips-for-killer-user-acquisition-ops-q4-version
+2025-12-11 12:30:55,780 INFO saved: 243 -> https://lancaric.me/ua-creative-strategy-user-acquisition
+2025-12-11 12:30:56,088 INFO saved: 244 -> https://lancaric.me/two-a-half-gamers-session-39-how-to-do-a-game-review-rush-royale-full-ua-gd-admon-analysis
+2025-12-11 12:30:56,324 INFO saved: 245 -> https://lancaric.me/two-a-half-gamers-session-38-marvel-snap-global-launch-case-study-ua-gd-admon-view-2
+2025-12-11 12:30:56,373 INFO saved: 246 -> https://lancaric.me/two-a-half-gamers-session-37-marvel-snap-global-launch-case-study-ua-gd-admon-view
+2025-12-11 12:30:56,491 INFO saved: 247 -> https://lancaric.me/marvel-snap-global-launch-ua-case-study
+2025-12-11 12:30:56,776 INFO saved: 248 -> https://lancaric.me/two-a-half-gamers-session-36-google-adroas-campaigns-admon-exchanges-survivor-io-update
+2025-12-11 12:30:57,477 INFO saved: 249 -> https://lancaric.me/two-a-half-gamers-session-35-charge-champions-in-sl-facebook-ua-tech-checklist-amplify-update
+2025-12-11 12:30:57,838 INFO saved: 250 -> https://lancaric.me/how-to-ua-create-app-on-facebook-meta
+2025-12-11 12:30:58,208 INFO saved: 251 -> https://lancaric.me/two-a-half-gamers-session-34-low-budget-ua-sheep-a-sheep-game-in-china-aps-update-amazon-ua
+2025-12-11 12:30:58,494 INFO saved: 252 -> https://lancaric.me/user-acquisition-revolution-fake-ads-fake-core-gameplay
+2025-12-11 12:30:58,637 INFO saved: 253 -> https://lancaric.me/two-a-half-gamers-session-33-the-ua-revolution-from-fake-ads-to-fake-core-gameplay-in-games
+2025-12-11 12:30:58,870 INFO saved: 254 -> https://lancaric.me/two-a-half-gamers-session-32-global-launch-games-like-a-pro-playrix-gl-rumour-google-updates
+2025-12-11 12:30:58,952 INFO saved: 255 -> https://lancaric.me/user-acquisition-ios14-privacy-threshold-pass
+2025-12-11 12:30:59,093 INFO saved: 256 -> https://lancaric.me/fake-ads-in-user-acquisition-the-untold-story
+2025-12-11 12:30:59,905 INFO saved: 257 -> https://lancaric.me/two-a-half-gamers-session-31-survivor-io-redemption-story-you-scaled-your-game-now-what
+2025-12-11 12:31:00,635 INFO saved: 258 -> https://lancaric.me/11-tips-for-killer-user-acquisition-q3-version
+2025-12-11 12:31:00,861 INFO saved: 259 -> https://lancaric.me/two-a-half-gamers-session-30-survivor-io-global-launch-case-study-ua-gd-admon-view
+2025-12-11 12:31:01,355 INFO saved: 260 -> https://lancaric.me/two-a-half-gamers-session-29-how-to-scale-your-mobile-game-cpi-vs-ltv-amazon-gamescom-rumours
+2025-12-11 12:31:01,683 INFO saved: 261 -> https://lancaric.me/survivor-io-global-launch-ua-case-study
+2025-12-11 12:31:02,181 INFO saved: 263 -> https://lancaric.me/two-a-half-gamers-session-27-unity-applovin-bomb-zynga-gambling-worst-career-mistakes
+2025-12-11 12:31:02,244 INFO saved: 262 -> https://lancaric.me/two-a-half-gamers-session-28-admob-bidder-uplift-update-how-do-hypercasual-games-make-money
+2025-12-11 12:31:02,683 INFO saved: 264 -> https://lancaric.me/two-a-half-gamers-session-26-unpacking-google-ads-disaster-asa-todays-new-ad
+2025-12-11 12:31:03,401 INFO saved: 265 -> https://lancaric.me/two-a-half-gamers-session-25-does-ubisoft-give-a-f-about-mobile-games
+2025-12-11 12:31:03,744 INFO saved: 267 -> https://lancaric.me/two-a-half-gamers-session-24-1-year-after-idfa-apocalypse-state-of-the-ua-admon-retargeting
+2025-12-11 12:31:03,864 INFO saved: 266 -> https://lancaric.me/how-could-king-make-30-more-revenue-full-ua-gd-ads-analysis-podcast-blog
+2025-12-11 12:31:04,324 INFO saved: 268 -> https://lancaric.me/playable-ads-case-study-how-we-increase-d7-roas-by-50-on-unity-ads
+2025-12-11 12:31:04,587 INFO saved: 269 -> https://lancaric.me/rovio-making-2-6m-year-more-from-ads-more-efficient-ua-podcast-blog
+2025-12-11 12:31:05,109 INFO saved: 271 -> https://lancaric.me/two-a-half-gamers-session-22-how-to-predict-game-performance-what-is-tilting-points-secret
+2025-12-11 12:31:05,229 INFO saved: 270 -> https://lancaric.me/two-a-half-gamers-session-23-how-to-do-a-proper-game-performance-audit-ua-admon-gd
+2025-12-11 12:31:05,593 INFO saved: 272 -> https://lancaric.me/two-a-half-gamers-session-21-how-to-run-efficient-ua-on-tiktok-tiktoks-explosive-growth
+2025-12-11 12:31:06,339 INFO saved: 273 -> https://lancaric.me/12-tips-for-killer-user-acquisition-operations
+2025-12-11 12:31:06,713 INFO saved: 275 -> https://lancaric.me/two-a-half-gamers-session-19-the-king-info-leak-5-game-design-tips-to-level-up-your-game
+2025-12-11 12:31:06,754 INFO saved: 274 -> https://lancaric.me/two-a-half-gamers-session-20-the-ants-creative-analysis-which-visual-theme-has-the-lowest
+2025-12-11 12:31:07,107 INFO saved: 276 -> https://lancaric.me/two-half-gamers-session-18-how-could-king-make-30-more-revenue-full-ua-gd-ads
+2025-12-11 12:31:07,371 INFO saved: 277 -> https://lancaric.me/two-half-gamers-session-17-the-creative-framework-tips-for-inspiration-recession-games
+2025-12-11 12:31:07,805 INFO saved: 278 -> https://lancaric.me/deconstruction-of-the-ants-underground-kingdom-creatives
+2025-12-11 12:31:07,949 INFO saved: 279 -> https://lancaric.me/two-half-gamers-session-16-7-ad-monetisation-secrets-how-to-make-more-revenue
+2025-12-11 12:31:08,322 INFO saved: 280 -> https://lancaric.me/performance-increase-hack-use-all-4-formats-of-creative-in-one-ad-on-facebook-app-ads-campaigns
+2025-12-11 12:31:09,189 INFO saved: 281 -> https://lancaric.me/two-half-gamers-session-15-can-ua-save-your-game-does-your-game-need-ua
+2025-12-11 12:31:09,465 INFO saved: 283 -> https://lancaric.me/two-half-gamers-session-13-rovio-making-2-6m-year-more-from-ads-more-efficient-ua-and-much-more
+2025-12-11 12:31:09,469 INFO saved: 282 -> https://lancaric.me/two-half-gamers-session-14-how-to-read-ad-mon-data-for-beginners-att-player
+2025-12-11 12:31:09,639 INFO saved: 284 -> https://lancaric.me/two-half-gamers-session-12-metacore-65m-loss-niantic-1-hit-wonder-industry-conference-and-much-more
+2025-12-11 12:31:10,104 INFO saved: 285 -> https://lancaric.me/user-acquisition-google-uac-lifehack-youtube-ua
+2025-12-11 12:31:10,400 INFO saved: 286 -> https://lancaric.me/two-half-gamers-session-11-how-to-increase-game-revenue-by-35-with-narrative-design
+2025-12-11 12:31:10,576 INFO saved: 287 -> https://lancaric.me/user-acquisition-fundamentals-web2-vs-web3-comparison
+2025-12-11 12:31:10,882 INFO saved: 288 -> https://lancaric.me/two-half-gamers-session-10-how-to-save-millions-with-marketability-tests-fake-ads-going
+2025-12-11 12:31:11,856 INFO saved: 289 -> https://lancaric.me/two-half-gamers-session-9-how-to-increase-adarpdau-how-adnetworks-make-money
+2025-12-11 12:31:11,984 INFO saved: 290 -> https://lancaric.me/two-half-gamers-session-8-game-design-fundamentals-ama-when-to-kill-a-game
+2025-12-11 12:31:12,072 INFO saved: 291 -> https://lancaric.me/two-half-gamers-session-7-is-axie-infinity-dead-ltv-in-crypto-gaming-web3-ua-marketing
+2025-12-11 12:31:12,168 INFO saved: 292 -> https://lancaric.me/two-half-gamers-session-6-supercell-rant-why-do-fake-ads-work-ua-fundamentals-qa
+2025-12-11 12:31:12,761 INFO saved: 293 -> https://lancaric.me/how-to-soft-launch-a-mobile-game-in-2022
+2025-12-11 12:31:13,187 INFO saved: 295 -> https://lancaric.me/how-to-soft-launch-a-mobile-game-ad-mon-perspective
+2025-12-11 12:31:13,253 INFO saved: 294 -> https://lancaric.me/two-half-gamers-session-5-surprise-crypto-comments-how-to-tackle-soft-launch-stages
+2025-12-11 12:31:13,505 INFO saved: 296 -> https://lancaric.me/two-half-gamers-session-4-how-to-soft-launch-a-mobile-game-ad-monetisation-perspective
+2025-12-11 12:31:14,417 INFO saved: 298 -> https://lancaric.me/two-half-gamers-session-2-ua-creative-trends-2022-microsoft
+2025-12-11 12:31:14,568 INFO saved: 297 -> https://lancaric.me/two-half-gamers-session-3-is-roblox-evil-mega-corp-or-money-making-machine
+2025-12-11 12:31:14,704 INFO saved: 300 -> https://lancaric.me/how-to-check-your-games-ua-data
+2025-12-11 12:31:14,885 INFO saved: 299 -> https://lancaric.me/two-half-gamers-session-1-casual-intro-love-hate-relationship-towards-predictions-2022
+2025-12-11 12:31:15,419 INFO saved: 301 -> https://lancaric.me/ua-creative-learnings-comments-2021
+2025-12-11 12:31:15,785 INFO saved: 302 -> https://lancaric.me/ultimate-guide-to-seasonal-christmas-ua-creatives
+2025-12-11 12:31:16,009 INFO saved: 303 -> https://lancaric.me/real-world-data-and-the-implications-of-idfa-deprecation-from-gamemakers-ua-coffee-talks
+2025-12-11 12:31:16,202 INFO saved: 304 -> https://lancaric.me/choosing-the-right-bid-strategy-for-you
+2025-12-11 12:31:17,073 INFO saved: 306 -> https://lancaric.me/what-metrics-should-you-care-about-when-evaluating-your-ua-success
+2025-12-11 12:31:17,308 INFO saved: 305 -> https://lancaric.me/app-event-optimization
+2025-12-11 12:31:17,560 INFO saved: 308 -> https://lancaric.me/how-to-save-millions-with-marketability-testing
+2025-12-11 12:31:17,650 INFO saved: 307 -> https://lancaric.me/step-by-step-guide-for-launching-your-first-facebook-campaign
+2025-12-11 12:31:18,025 INFO saved: 309 -> https://lancaric.me/what-are-best-practices-for-marketing-hypercasual-mobile-games
+2025-12-11 12:31:18,387 INFO saved: 310 -> https://lancaric.me/how-to-use-facebook-lookalike-audiences-the-complete-guide
+2025-12-11 12:31:18,507 INFO saved: 311 -> https://lancaric.me/what-is-user-acquisition-and-why-should-i-care
+2025-12-11 12:31:18,781 INFO saved: 312 -> https://lancaric.me/building-a-data-driven-creative-framework
+2025-12-11 12:31:19,542 INFO saved: 313 -> https://lancaric.me/ad-creatives-framework-optimization-deep-dive
+2025-12-11 12:31:19,668 INFO saved: 314 -> https://lancaric.me/learnings-comments-2020
+2025-12-11 12:31:20,185 INFO saved: 316 -> https://lancaric.me/panel-discussion-why-your-game-soft-launch-isnt-working
+2025-12-11 12:31:20,369 INFO saved: 315 -> https://lancaric.me/creatives-framework-deep-dive
+2025-12-11 12:31:20,541 INFO saved: 317 -> https://lancaric.me/soft-launching-your-mobile-game-workshop1
+2025-12-11 12:31:20,729 INFO saved: 318 -> https://lancaric.me/soft-launching-your-mobile-game-workshop
+2025-12-11 12:31:20,947 INFO saved: 319 -> https://lancaric.me/three-steps-to-a-killer-soft-launch-mobile-user-acquisition-show-podcast
+2025-12-11 12:31:21,276 INFO saved: 320 -> https://lancaric.me/facebook-ua-reentering-the-learning-phase
+2025-12-11 12:31:22,051 INFO saved: 322 -> https://lancaric.me/jobs-in-games-how-to-get-a-job-as-a-marketing-manager-and-ua-lead
+2025-12-11 12:31:22,401 INFO saved: 321 -> https://lancaric.me/hire-or-train-can-anyone-really-be-a-ua-manager
+2025-12-11 12:31:22,849 INFO saved: 324 -> https://lancaric.me/why-your-games-soft-launch-isnt-working
+2025-12-11 12:31:23,150 INFO saved: 325 -> https://lancaric.me/creative-framework-in-the-post-idfa-world
+2025-12-11 12:31:23,203 INFO saved: 323 -> https://lancaric.me/the-successes-mistakes-and-lessons-from-launching-diggys-adventure-on-mobile
+2025-12-11 12:31:23,203 INFO DONE: Lanceric -> saved 325 files
+2025-12-11 12:31:23,214 INFO START: RamizTrtovac (https://ramiztrtovac.com/blog/)
+2025-12-11 12:31:25,668 INFO Page https://ramiztrtovac.com/blog -> found 1 links
+2025-12-11 12:31:26,340 INFO Page https://ramiztrtovac.com/blog/page/2/ -> found 1 links
+2025-12-11 12:31:26,812 INFO Page https://ramiztrtovac.com/blog/page/3/ -> found 2 links
+2025-12-11 12:31:27,258 INFO Page https://ramiztrtovac.com/blog/page/4/ -> found 2 links
+2025-12-11 12:31:27,712 INFO Page https://ramiztrtovac.com/blog/page/5/ -> found 2 links
+2025-12-11 12:31:28,176 INFO Page https://ramiztrtovac.com/blog/page/6/ -> found 2 links
+2025-12-11 12:31:28,638 INFO Page https://ramiztrtovac.com/blog/page/7/ -> found 2 links
+2025-12-11 12:31:29,096 INFO Page https://ramiztrtovac.com/blog/page/8/ -> found 2 links
+2025-12-11 12:31:29,547 INFO Page https://ramiztrtovac.com/blog/page/9/ -> found 2 links
+2025-12-11 12:31:30,014 INFO Page https://ramiztrtovac.com/blog/page/10/ -> found 2 links
+2025-12-11 12:31:30,468 INFO Page https://ramiztrtovac.com/blog/page/11/ -> found 2 links
+2025-12-11 12:31:30,941 INFO Page https://ramiztrtovac.com/blog/page/12/ -> found 2 links
+2025-12-11 12:31:31,392 INFO Page https://ramiztrtovac.com/blog/page/13/ -> found 2 links
+2025-12-11 12:31:31,870 INFO Page https://ramiztrtovac.com/blog/page/14/ -> found 2 links
+2025-12-11 12:31:32,323 INFO Page https://ramiztrtovac.com/blog/page/15/ -> found 2 links
+2025-12-11 12:31:32,763 INFO Page https://ramiztrtovac.com/blog/page/16/ -> found 2 links
+2025-12-11 12:31:33,202 INFO Page https://ramiztrtovac.com/blog/page/17/ -> found 2 links
+2025-12-11 12:31:33,649 INFO Page https://ramiztrtovac.com/blog/page/18/ -> found 2 links
+2025-12-11 12:31:34,121 INFO Page https://ramiztrtovac.com/blog/page/19/ -> found 2 links
+2025-12-11 12:31:34,557 INFO Page https://ramiztrtovac.com/blog/page/20/ -> found 2 links
+2025-12-11 12:31:34,994 INFO Page https://ramiztrtovac.com/blog/page/21/ -> found 2 links
+2025-12-11 12:31:35,445 INFO Page https://ramiztrtovac.com/blog/page/22/ -> found 2 links
+2025-12-11 12:31:35,899 INFO Page https://ramiztrtovac.com/blog/page/23/ -> found 2 links
+2025-12-11 12:31:36,353 INFO Page https://ramiztrtovac.com/blog/page/24/ -> found 2 links
+2025-12-11 12:31:36,792 INFO Page https://ramiztrtovac.com/blog/page/25/ -> found 2 links
+2025-12-11 12:31:37,231 INFO Page https://ramiztrtovac.com/blog/page/26/ -> found 2 links
+2025-12-11 12:31:37,927 INFO Page https://ramiztrtovac.com/blog/page/27/ -> found 2 links
+2025-12-11 12:31:38,592 INFO Page https://ramiztrtovac.com/blog/page/28/ -> found 2 links
+2025-12-11 12:31:39,261 INFO Page https://ramiztrtovac.com/blog/page/29/ -> found 2 links
+2025-12-11 12:31:39,899 INFO Page https://ramiztrtovac.com/blog/page/30/ -> found 2 links
+2025-12-11 12:31:40,556 INFO Page https://ramiztrtovac.com/blog/page/31/ -> found 2 links
+2025-12-11 12:31:41,219 INFO Page https://ramiztrtovac.com/blog/page/32/ -> found 2 links
+2025-12-11 12:31:41,918 INFO Page https://ramiztrtovac.com/blog/page/33/ -> found 2 links
+2025-12-11 12:31:42,605 INFO Page https://ramiztrtovac.com/blog/page/34/ -> found 2 links
+2025-12-11 12:31:43,262 INFO Page https://ramiztrtovac.com/blog/page/35/ -> found 2 links
+2025-12-11 12:31:43,920 INFO Page https://ramiztrtovac.com/blog/page/36/ -> found 2 links
+2025-12-11 12:31:44,558 INFO Page https://ramiztrtovac.com/blog/page/37/ -> found 2 links
+2025-12-11 12:31:44,998 INFO Page https://ramiztrtovac.com/blog/page/38/ -> found 2 links
+2025-12-11 12:31:45,478 INFO Page https://ramiztrtovac.com/blog/page/39/ -> found 2 links
+2025-12-11 12:31:45,966 INFO Page https://ramiztrtovac.com/blog/page/40/ -> found 2 links
+2025-12-11 12:31:46,433 INFO Page https://ramiztrtovac.com/blog/page/41/ -> found 2 links
+2025-12-11 12:31:46,884 INFO Page https://ramiztrtovac.com/blog/page/42/ -> found 2 links
+2025-12-11 12:31:47,306 INFO Page https://ramiztrtovac.com/blog/page/43/ -> found 2 links
+2025-12-11 12:31:47,784 INFO Page https://ramiztrtovac.com/blog/page/44/ -> found 2 links
+2025-12-11 12:31:48,230 INFO Page https://ramiztrtovac.com/blog/page/45/ -> found 2 links
+2025-12-11 12:31:48,680 INFO Page https://ramiztrtovac.com/blog/page/46/ -> found 2 links
+2025-12-11 12:31:49,118 INFO Page https://ramiztrtovac.com/blog/page/47/ -> found 2 links
+2025-12-11 12:31:49,565 INFO Page https://ramiztrtovac.com/blog/page/48/ -> found 2 links
+2025-12-11 12:31:50,015 INFO Page https://ramiztrtovac.com/blog/page/49/ -> found 2 links
+2025-12-11 12:31:50,462 INFO Page https://ramiztrtovac.com/blog/page/50/ -> found 2 links
+2025-12-11 12:31:50,462 INFO RamizTrtovac -> TOTAL LINKS: 49
+2025-12-11 12:31:51,757 INFO saved: 001 -> https://ramiztrtovac.com/blog
+2025-12-11 12:31:52,511 INFO saved: 003 -> https://ramiztrtovac.com/blog/page/3
+2025-12-11 12:31:52,784 INFO saved: 007 -> https://ramiztrtovac.com/blog/page/7
+2025-12-11 12:31:52,791 INFO saved: 008 -> https://ramiztrtovac.com/blog/page/8
+2025-12-11 12:31:52,799 INFO saved: 004 -> https://ramiztrtovac.com/blog/page/4
+2025-12-11 12:31:53,084 INFO saved: 005 -> https://ramiztrtovac.com/blog/page/5
+2025-12-11 12:31:53,166 INFO saved: 006 -> https://ramiztrtovac.com/blog/page/6
+2025-12-11 12:31:53,170 INFO saved: 002 -> https://ramiztrtovac.com/blog/page/2
+2025-12-11 12:31:53,170 INFO saved: 009 -> https://ramiztrtovac.com/blog/page/9
+2025-12-11 12:31:54,167 INFO saved: 010 -> https://ramiztrtovac.com/blog/page/10
+2025-12-11 12:31:54,258 INFO saved: 011 -> https://ramiztrtovac.com/blog/page/11
+2025-12-11 12:31:54,262 INFO saved: 012 -> https://ramiztrtovac.com/blog/page/12
+2025-12-11 12:31:54,336 INFO saved: 013 -> https://ramiztrtovac.com/blog/page/13
+2025-12-11 12:31:54,589 INFO saved: 015 -> https://ramiztrtovac.com/blog/page/15
+2025-12-11 12:31:54,952 INFO saved: 014 -> https://ramiztrtovac.com/blog/page/14
+2025-12-11 12:31:54,952 INFO saved: 017 -> https://ramiztrtovac.com/blog/page/17
+2025-12-11 12:31:54,952 INFO saved: 016 -> https://ramiztrtovac.com/blog/page/16
+2025-12-11 12:31:55,061 INFO saved: 019 -> https://ramiztrtovac.com/blog/page/19
+2025-12-11 12:31:55,275 INFO saved: 018 -> https://ramiztrtovac.com/blog/page/18
+2025-12-11 12:31:55,957 INFO saved: 021 -> https://ramiztrtovac.com/blog/page/21
+2025-12-11 12:31:55,960 INFO saved: 020 -> https://ramiztrtovac.com/blog/page/20
+2025-12-11 12:31:56,034 INFO saved: 022 -> https://ramiztrtovac.com/blog/page/22
+2025-12-11 12:31:56,333 INFO saved: 025 -> https://ramiztrtovac.com/blog/page/25
+2025-12-11 12:31:56,565 INFO saved: 024 -> https://ramiztrtovac.com/blog/page/24
+2025-12-11 12:31:56,634 INFO saved: 023 -> https://ramiztrtovac.com/blog/page/23
+2025-12-11 12:31:56,683 INFO saved: 026 -> https://ramiztrtovac.com/blog/page/26
+2025-12-11 12:31:56,717 INFO saved: 027 -> https://ramiztrtovac.com/blog/page/27
+2025-12-11 12:31:57,136 INFO saved: 028 -> https://ramiztrtovac.com/blog/page/28
+2025-12-11 12:31:57,136 INFO saved: 029 -> https://ramiztrtovac.com/blog/page/29
+2025-12-11 12:31:57,235 INFO saved: 030 -> https://ramiztrtovac.com/blog/page/30
+2025-12-11 12:31:57,615 INFO saved: 031 -> https://ramiztrtovac.com/blog/page/31
+2025-12-11 12:31:57,911 INFO saved: 032 -> https://ramiztrtovac.com/blog/page/32
+2025-12-11 12:31:58,116 INFO saved: 034 -> https://ramiztrtovac.com/blog/page/34
+2025-12-11 12:31:58,357 INFO saved: 033 -> https://ramiztrtovac.com/blog/page/33
+2025-12-11 12:31:58,358 INFO saved: 035 -> https://ramiztrtovac.com/blog/page/35
+2025-12-11 12:31:58,543 INFO saved: 036 -> https://ramiztrtovac.com/blog/page/36
+2025-12-11 12:31:58,597 INFO saved: 037 -> https://ramiztrtovac.com/blog/page/37
+2025-12-11 12:31:58,660 INFO saved: 038 -> https://ramiztrtovac.com/blog/page/38
+2025-12-11 12:31:58,796 INFO saved: 039 -> https://ramiztrtovac.com/blog/page/39
+2025-12-11 12:31:59,073 INFO saved: 040 -> https://ramiztrtovac.com/blog/page/40
+2025-12-11 12:31:59,417 INFO saved: 041 -> https://ramiztrtovac.com/blog/page/41
+2025-12-11 12:31:59,700 INFO saved: 042 -> https://ramiztrtovac.com/blog/page/42
+2025-12-11 12:31:59,933 INFO saved: 044 -> https://ramiztrtovac.com/blog/page/44
+2025-12-11 12:32:00,140 INFO saved: 043 -> https://ramiztrtovac.com/blog/page/43
+2025-12-11 12:32:00,151 INFO saved: 045 -> https://ramiztrtovac.com/blog/page/45
+2025-12-11 12:32:00,447 INFO saved: 046 -> https://ramiztrtovac.com/blog/page/46
+2025-12-11 12:32:00,447 INFO saved: 047 -> https://ramiztrtovac.com/blog/page/47
+2025-12-11 12:32:00,530 INFO saved: 048 -> https://ramiztrtovac.com/blog/page/48
+2025-12-11 12:32:00,680 INFO saved: 049 -> https://ramiztrtovac.com/blog/page/49
+2025-12-11 12:32:00,680 INFO DONE: RamizTrtovac -> saved 49 files
+2025-12-11 12:32:00,680 INFO START: Kopelovich (https://www.gamigion.com/journal/)
+2025-12-11 12:32:03,520 INFO Page https://www.gamigion.com/journal -> found 12 links
+2025-12-11 12:32:06,678 INFO Page https://www.gamigion.com/journal/page/2/ -> found 12 links
+2025-12-11 12:32:11,714 INFO Page https://www.gamigion.com/journal/page/3/ -> found 12 links
+2025-12-11 12:32:13,886 INFO Page https://www.gamigion.com/journal/page/4/ -> found 12 links
+2025-12-11 12:32:16,064 INFO Page https://www.gamigion.com/journal/page/5/ -> found 12 links
+2025-12-11 12:32:18,266 INFO Page https://www.gamigion.com/journal/page/6/ -> found 12 links
+2025-12-11 12:32:20,414 INFO Page https://www.gamigion.com/journal/page/7/ -> found 12 links
+2025-12-11 12:32:23,482 INFO Page https://www.gamigion.com/journal/page/8/ -> found 12 links
+2025-12-11 12:32:26,774 INFO Page https://www.gamigion.com/journal/page/9/ -> found 12 links
+2025-12-11 12:32:29,542 INFO Page https://www.gamigion.com/journal/page/10/ -> found 12 links
+2025-12-11 12:32:34,464 INFO Page https://www.gamigion.com/journal/page/11/ -> found 12 links
+2025-12-11 12:32:38,892 INFO Page https://www.gamigion.com/journal/page/12/ -> found 12 links
+2025-12-11 12:32:43,512 INFO Page https://www.gamigion.com/journal/page/13/ -> found 12 links
+2025-12-11 12:32:45,727 INFO Page https://www.gamigion.com/journal/page/14/ -> found 12 links
+2025-12-11 12:32:48,365 INFO Page https://www.gamigion.com/journal/page/15/ -> found 12 links
+2025-12-11 12:32:50,581 INFO Page https://www.gamigion.com/journal/page/16/ -> found 12 links
+2025-12-11 12:32:55,032 INFO Page https://www.gamigion.com/journal/page/17/ -> found 12 links
+2025-12-11 12:32:58,055 INFO Page https://www.gamigion.com/journal/page/18/ -> found 12 links
+2025-12-11 12:33:05,514 INFO Page https://www.gamigion.com/journal/page/19/ -> found 12 links
+2025-12-11 12:33:10,352 INFO Page https://www.gamigion.com/journal/page/20/ -> found 12 links
+2025-12-11 12:33:13,292 INFO Page https://www.gamigion.com/journal/page/21/ -> found 12 links
+2025-12-11 12:33:15,492 INFO Page https://www.gamigion.com/journal/page/22/ -> found 12 links
+2025-12-11 12:33:17,479 INFO Page https://www.gamigion.com/journal/page/23/ -> found 12 links
+2025-12-11 12:33:19,663 INFO Page https://www.gamigion.com/journal/page/24/ -> found 12 links
+2025-12-11 12:33:22,152 INFO Page https://www.gamigion.com/journal/page/25/ -> found 12 links
+2025-12-11 12:33:24,400 INFO Page https://www.gamigion.com/journal/page/26/ -> found 12 links
+2025-12-11 12:33:26,375 INFO Page https://www.gamigion.com/journal/page/27/ -> found 12 links
+2025-12-11 12:33:28,463 INFO Page https://www.gamigion.com/journal/page/28/ -> found 12 links
+2025-12-11 12:33:30,465 INFO Page https://www.gamigion.com/journal/page/29/ -> found 12 links
+2025-12-11 12:33:32,691 INFO Page https://www.gamigion.com/journal/page/30/ -> found 12 links
+2025-12-11 12:33:35,464 INFO Page https://www.gamigion.com/journal/page/31/ -> found 12 links
+2025-12-11 12:33:37,996 INFO Page https://www.gamigion.com/journal/page/32/ -> found 12 links
