@@ -1,16 +1,12 @@
-# ignore everything by default
+# Ignore everything by default
 *
 
-# allow gitignore itself
+# Allow .gitignore
 !.gitignore
 
-# allow folders we need
-!GitBook_Content/
-!GitBook_Content/Influencers/
-!GitBook_Content/Influencers/**
-
-# allow all markdown files under Influencers
-!GitBook_Content/Influencers/**/*.md
-
-# optional: allow top-level README
+# Allow repo-level README
 !README.md
+
+# Allow entire GitBook_Content folder and everything inside it
+!GitBook_Content/
+!GitBook_Content/**
