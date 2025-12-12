@@ -1,3 +1,7 @@
+---
+title: "Every Great Game is a FIGHT"
+---
+
 # Every Great Game is a FIGHT!
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/10/image-113.png)](https://www.gamigion.com/every-great-game-is-a-fight/) 

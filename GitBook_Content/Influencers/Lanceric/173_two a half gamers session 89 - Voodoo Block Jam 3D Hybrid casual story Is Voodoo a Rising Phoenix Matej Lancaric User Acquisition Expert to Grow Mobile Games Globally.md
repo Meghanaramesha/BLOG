@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 89 - Voodoo Block Jam 3D Hybrid casual story Is Voodoo a Rising Phoenix  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #89 - Voodoo Block Jam 3D Hybrid casual story: Is Voodoo a Rising Phoenix? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-89_8a992f00.jpg) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/game-changer-display-for-mobile-games
-title: Game-changer Display for Mobile Games
+title: "Game-changer Display for Mobile Games"
 ---
 
 # Game-changer Display for Mobile Games

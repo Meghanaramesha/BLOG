@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/15
-title: Monetization Review: ‘Cup Heroes’ by Voodoo
+title: "Monetization Review Cup Heroes by Voodoo"
 ---
 
 # Monetization Review: ‘Cup Heroes’ by Voodoo

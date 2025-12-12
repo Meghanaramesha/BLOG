@@ -1,3 +1,7 @@
+---
+title: "Delta Force outperformed PUBG Mobile by 75 in daily revenue"
+---
+
 # Delta Force outperformed PUBG Mobile by 75% in daily revenue
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/10/Delta-Force-outperformed-PUBG-Mobile-by-75-in-daily-revenue.jpg)](https://www.gamigion.com/delta-force-outperformed-pubg-mobile-by-75-in-daily-revenue/) 

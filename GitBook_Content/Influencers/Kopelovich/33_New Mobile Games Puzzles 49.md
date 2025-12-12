@@ -1,3 +1,7 @@
+---
+title: "New Mobile Games Puzzles 49"
+---
+
 # New Mobile Games: Puzzles 49
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/New-Mobile-Games-Puzzles-49.jpg)](https://www.gamigion.com/new-mobile-games-puzzles-49/) 

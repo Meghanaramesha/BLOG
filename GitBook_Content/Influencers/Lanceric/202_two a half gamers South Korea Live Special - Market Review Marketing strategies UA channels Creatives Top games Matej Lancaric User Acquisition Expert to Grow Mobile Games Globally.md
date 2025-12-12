@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers South Korea Live Special - Market Review Marketing strategies UA channels Creatives  Top games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers South Korea Live Special - Market Review, Marketing strategies, UA channels, Creatives & Top games – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/special-ep-south-korea_bcf67aa2.jpg) 

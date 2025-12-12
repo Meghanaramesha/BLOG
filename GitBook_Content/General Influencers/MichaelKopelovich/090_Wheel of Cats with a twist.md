@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/wheel-of-cats-with-a-twist
-title: Wheel of Cats… with a twist!
+title: "Wheel of Cats with a twist"
 ---
 
 # Wheel of Cats… with a twist!

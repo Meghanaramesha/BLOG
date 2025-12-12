@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-power-of-3-day-offers-in-mobile-games
-title: The Power of 3-Day Offers in Mobile Games
+title: "The Power of 3-Day Offers in Mobile Games"
 ---
 
 # The Power of 3-Day Offers in Mobile Games

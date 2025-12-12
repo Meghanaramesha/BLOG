@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-a-fun-event-in-minion-rumble
-title: Spotted a fun event in Minion Rumble!
+title: "Spotted a fun event in Minion Rumble"
 ---
 
 # Spotted a fun event in Minion Rumble!

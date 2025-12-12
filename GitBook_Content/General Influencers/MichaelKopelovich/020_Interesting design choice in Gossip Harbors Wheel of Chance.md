@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-design-choice-in-gossip-harbors-wheel-of-chance
-title: Interesting design choice in Gossip Harbor’s Wheel of Chance
+title: "Interesting design choice in Gossip Harbors Wheel of Chance"
 ---
 
 # Interesting design choice in Gossip Harbor’s Wheel of Chance

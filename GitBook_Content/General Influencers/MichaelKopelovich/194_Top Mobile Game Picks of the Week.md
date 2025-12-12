@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/14
-title: Top Mobile Game Picks of the Week!
+title: "Top Mobile Game Picks of the Week"
 ---
 
 # Top Mobile Game Picks of the Week!

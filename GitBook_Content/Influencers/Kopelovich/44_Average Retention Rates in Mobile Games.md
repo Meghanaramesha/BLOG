@@ -1,3 +1,7 @@
+---
+title: "Average Retention Rates in Mobile Games"
+---
+
 # Average Retention Rates in Mobile Games?
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/Average-Retention-Rates-in-Mobile-Games-1240x698.png)](https://www.gamigion.com/average-retention-rates-in-mobile-games/) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - First look New game in closed beta - not even in soft launch yet  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - First look! New game in closed beta - not even in soft launch yet – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/special-ep_ee951036.png) 

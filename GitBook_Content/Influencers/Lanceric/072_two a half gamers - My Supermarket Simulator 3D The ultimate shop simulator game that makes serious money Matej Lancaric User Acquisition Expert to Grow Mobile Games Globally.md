@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - My Supermarket Simulator 3D The ultimate shop simulator game that makes serious money  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - My Supermarket Simulator 3D: The ultimate shop simulator game that makes serious money! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/supermarket-simulator_4cf48007.png) 

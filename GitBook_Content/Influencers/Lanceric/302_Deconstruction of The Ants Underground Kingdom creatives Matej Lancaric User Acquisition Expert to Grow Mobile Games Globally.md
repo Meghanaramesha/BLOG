@@ -1,3 +1,7 @@
+---
+title: "Deconstruction of The Ants Underground Kingdom creatives  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Deconstruction of The Ants: Underground Kingdom creatives! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Deconstruction of The Ants: Underground Kingdom creatives!](./images/img1-1_7b00dc77.jpeg) 

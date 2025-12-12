@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Archero 2 Review The Evolution of gaming  Habby template perfection  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Archero 2 Review: The Evolution of gaming & Habby template perfection – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/archero-2_51765014.png) 

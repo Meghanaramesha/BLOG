@@ -1,6 +1,5 @@
 ---
-original_url: https://www.felixbraberg.com/about-me
-title: About Me | FelixBraberg.com
+title: "About Me  FelixBraberg.com"
 ---
 
 # About Me | FelixBraberg.com

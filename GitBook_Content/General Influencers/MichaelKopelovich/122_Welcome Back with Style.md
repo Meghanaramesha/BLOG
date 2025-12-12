@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/welcome-back-with-style
-title: Welcome Back with Style!
+title: "Welcome Back with Style"
 ---
 
 # Welcome Back with Style!

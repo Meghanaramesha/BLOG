@@ -1,3 +1,7 @@
+---
+title: "Warner Bros Deal Netflix wanted the prestige assets. Paramount wants the entire empire."
+---
+
 # Warner Bros Deal? Netflix wanted the prestige assets. Paramount wants the entire empire.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/PRWB-1240x827.jpeg)](https://www.gamigion.com/warner-bros-deal-netflix-wanted-the-prestige-assets-paramount-wants-the-entire-empire/) 

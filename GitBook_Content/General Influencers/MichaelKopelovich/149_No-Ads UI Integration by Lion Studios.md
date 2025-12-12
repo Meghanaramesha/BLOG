@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/no-ads-ui-integration-by-lion-studios
-title: No-Ads UI Integration by Lion Studios
+title: "No-Ads UI Integration by Lion Studios"
 ---
 
 # No-Ads UI Integration by Lion Studios

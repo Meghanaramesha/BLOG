@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/monopoly-go-x-marvel-collab-launches-this-week
-title: MONOPOLY GO! x Marvel Collab Launches THIS WEEK!
+title: "MONOPOLY GO x Marvel Collab Launches THIS WEEK"
 ---
 
 # MONOPOLY GO! x Marvel Collab Launches THIS WEEK!

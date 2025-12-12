@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/gun-dungeons-innovative-reward-boost
-title: Gun & Dungeons Innovative Reward Boost
+title: "Gun  Dungeons Innovative Reward Boost"
 ---
 
 # Gun & Dungeons Innovative Reward Boost

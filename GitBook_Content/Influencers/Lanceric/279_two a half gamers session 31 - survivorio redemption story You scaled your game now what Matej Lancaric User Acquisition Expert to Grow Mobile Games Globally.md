@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 31 - survivor.io redemption story You scaled your game now what  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #31 - survivor.io redemption story, You scaled your game, now what? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-31_e897d66a.png) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Supercells Project R.I.S.E Update Gameplay Review with new features  improvements  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Supercell's Project R.I.S.E Update: Gameplay Review with new features & improvements – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/rise-project_e28b0ad3.png) 

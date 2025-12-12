@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/trending-live-ops-events-choose-your-reward
-title: Trending Live-Ops Events: Choose Your Reward
+title: "Trending Live-Ops Events Choose Your Reward"
 ---
 
 # Trending Live-Ops Events: Choose Your Reward

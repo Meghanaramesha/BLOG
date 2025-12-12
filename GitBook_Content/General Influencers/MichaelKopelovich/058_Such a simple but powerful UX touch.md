@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/such-a-simple-but-powerful-ux-touch
-title: Such a simple but powerful UX touch!
+title: "Such a simple but powerful UX touch"
 ---
 
 # Such a simple but powerful UX touch!

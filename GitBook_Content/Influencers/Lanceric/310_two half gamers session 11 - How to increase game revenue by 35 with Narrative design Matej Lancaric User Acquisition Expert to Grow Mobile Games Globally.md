@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 11 - How to increase game revenue by 35 with Narrative design   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #11 - How to increase game revenue by 35% with Narrative design  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Untitled-920-x-250-px-800-x-250-px-1440-x-432-px-1-1_9467d40a.png) 

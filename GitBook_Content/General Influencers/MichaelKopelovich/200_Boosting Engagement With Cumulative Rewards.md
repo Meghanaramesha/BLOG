@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/boosting-engagement-with-cumulative-rewards
-title: Boosting Engagement With Cumulative Rewards
+title: "Boosting Engagement With Cumulative Rewards"
 ---
 
 # Boosting Engagement With Cumulative Rewards

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 87 - Creative trends Q3 Merge mansion Japan Admon tips Habby Souls review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #87 - Creative trends Q3, Merge mansion Japan, Admon tips, Habby: Souls review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-87_350f1687.jpg) 

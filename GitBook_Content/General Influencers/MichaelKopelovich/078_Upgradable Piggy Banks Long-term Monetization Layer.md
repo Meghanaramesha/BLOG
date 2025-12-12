@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/upgradable-piggy-banks-long-term-monetization-layer
-title: Upgradable Piggy Banks: Long-term Monetization Layer?
+title: "Upgradable Piggy Banks Long-term Monetization Layer"
 ---
 
 # Upgradable Piggy Banks: Long-term Monetization Layer?

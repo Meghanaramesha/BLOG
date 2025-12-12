@@ -1,3 +1,7 @@
+---
+title: "A Beginners Guide to UA The Fundamentals"
+---
+
 # A Beginners Guide to UA: The Fundamentals
 
 ![](./images/Your-ads-are-boring_b60c2747.png) 

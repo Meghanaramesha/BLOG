@@ -1,3 +1,7 @@
+---
+title: "2026 Market Watch for Mobile Games Studio Leaders"
+---
+
 # 2026 Market Watch for Mobile Games Studio Leaders
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

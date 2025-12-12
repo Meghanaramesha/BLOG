@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-disney-magic-match-3d
-title: Spotted in Disney Magic Match 3D
+title: "Spotted in Disney Magic Match 3D"
 ---
 
 # Spotted in Disney Magic Match 3D

@@ -1,3 +1,7 @@
+---
+title: "NCSOFT  SHIFTUP Announce Major New Titles"
+---
+
 # NCSOFT & SHIFTUP Announce Major New Titles
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/06/NCSOFT-SHIFTUP-Announce-Major-New-Titles-1240x697.png)](https://www.gamigion.com/ncsoft-shiftup-announce-major-new-titles/) 

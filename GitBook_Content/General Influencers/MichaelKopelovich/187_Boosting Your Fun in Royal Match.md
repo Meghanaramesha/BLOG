@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/boosting-your-fun-in-royal-match
-title: Boosting Your Fun in Royal Match!
+title: "Boosting Your Fun in Royal Match"
 ---
 
 # Boosting Your Fun in Royal Match!

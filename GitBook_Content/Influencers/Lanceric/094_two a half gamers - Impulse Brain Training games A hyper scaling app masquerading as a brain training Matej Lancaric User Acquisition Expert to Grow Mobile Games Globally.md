@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Impulse Brain Training games A hyper scaling app masquerading as a brain training  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Impulse Brain Training games: A hyper scaling app masquerading as a brain training – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/brain-training_6cbd3724.png) 

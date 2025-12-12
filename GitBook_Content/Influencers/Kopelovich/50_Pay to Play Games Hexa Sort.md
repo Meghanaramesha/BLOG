@@ -1,3 +1,7 @@
+---
+title: "Pay to Play Games Hexa Sort"
+---
+
 # Pay to Play Games: Hexa Sort
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/11/image-176.png)](https://www.gamigion.com/pay-to-play-games-hexa-sort/) 

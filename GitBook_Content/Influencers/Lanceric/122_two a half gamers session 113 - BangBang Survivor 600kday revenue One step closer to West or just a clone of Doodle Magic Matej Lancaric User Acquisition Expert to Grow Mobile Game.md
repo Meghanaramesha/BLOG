@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 113 - BangBang Survivor 600kday revenue One step closer to West or just a clone of Doodle Magic  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #113 - BangBang Survivor $600k/day revenue: One step closer to West or just a clone of Doodle Magic? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-113_0ad2f97a.jpg) 

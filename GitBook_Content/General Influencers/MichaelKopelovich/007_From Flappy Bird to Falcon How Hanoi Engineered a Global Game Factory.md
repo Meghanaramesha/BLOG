@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/analysis
-title: From Flappy Bird to Falcon: How Hanoi Engineered a Global Game Factory
+title: "From Flappy Bird to Falcon How Hanoi Engineered a Global Game Factory"
 ---
 
 # From Flappy Bird to Falcon: How Hanoi Engineered a Global Game Factory

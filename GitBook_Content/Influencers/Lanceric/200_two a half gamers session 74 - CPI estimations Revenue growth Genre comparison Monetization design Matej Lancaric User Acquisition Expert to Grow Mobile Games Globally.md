@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 74 - CPI estimations Revenue growth Genre comparison Monetization  design  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #74 - CPI estimations, Revenue growth, Genre comparison, Monetization & design – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-74_3c48f780.jpg) 

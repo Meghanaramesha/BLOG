@@ -1,3 +1,7 @@
+---
+title: "Monopoly GO made over 810M in 2025 with 23.7M installs and 6K creatives"
+---
+
 # Monopoly GO made over $810M in 2025 with 23.7M+ installs and 6K+ creatives!
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/08/Monopoly-GO-made-over-810M-in-2025-with-23.7M-installs-and-6K-creatives-993x1240.webp)](https://www.gamigion.com/monopoly-go-made-over-810m-in-2025-with-23-7m-installs-and-6k-creatives/) 

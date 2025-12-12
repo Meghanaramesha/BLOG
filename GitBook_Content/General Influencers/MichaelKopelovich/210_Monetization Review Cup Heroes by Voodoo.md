@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/monetization-review-cup-heroes-by-voodoo
-title: Monetization Review: ‘Cup Heroes’ by Voodoo
+title: "Monetization Review Cup Heroes by Voodoo"
 ---
 
 # Monetization Review: ‘Cup Heroes’ by Voodoo

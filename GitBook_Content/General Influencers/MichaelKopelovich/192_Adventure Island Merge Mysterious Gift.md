@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/adventure-island-merge-mysterious-gift
-title: Adventure Island Merge: Mysterious Gift
+title: "Adventure Island Merge Mysterious Gift"
 ---
 
 # Adventure Island Merge: Mysterious Gift

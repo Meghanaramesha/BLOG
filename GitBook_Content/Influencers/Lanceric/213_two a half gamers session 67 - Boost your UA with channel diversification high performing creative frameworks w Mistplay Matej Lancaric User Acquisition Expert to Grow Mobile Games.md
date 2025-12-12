@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 67 - Boost your UA with channel diversification  high performing creative frameworks w Mistplay  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #67 - Boost your UA with channel diversification & high performing creative frameworks w/ Mistplay – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-67_a53682ed.png) 

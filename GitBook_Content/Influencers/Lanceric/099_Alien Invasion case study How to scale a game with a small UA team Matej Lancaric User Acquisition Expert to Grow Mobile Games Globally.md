@@ -1,3 +1,7 @@
+---
+title: "Alien Invasion case study How to scale a game with a small UA team  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Alien Invasion case study: How to scale a game with a small UA team – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/alien-invasion-header_jpg_820_7d1cc938.jpg) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://felixbraberg.substack.com/p/thanks-for-scaling-now-get-out-the
-title: Thanks for Scaling, Now Get Out: The Amazon Way...
+title: "Thanks for Scaling Now Get Out The Amazon Way..."
 ---
 
 # Thanks for Scaling, Now Get Out: The Amazon Way...

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/putting-emoji-in-your-apps-name
-title: Putting emoji in your App’s name?
+title: "Putting emoji in your Apps name"
 ---
 
 # Putting emoji in your App’s name?

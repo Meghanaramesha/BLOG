@@ -1,3 +1,7 @@
+---
+title: "From Flappy Bird to Falcon How Hanoi Engineered a Global Game Factory"
+---
+
 # From Flappy Bird to Falcon: How Hanoi Engineered a Global Game Factory
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

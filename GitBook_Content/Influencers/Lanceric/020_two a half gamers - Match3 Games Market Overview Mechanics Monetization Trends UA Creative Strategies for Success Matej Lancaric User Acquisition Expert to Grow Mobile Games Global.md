@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Match3 Games Market Overview Mechanics Monetization Trends UA  Creative Strategies for Success  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Match3 Games Market Overview: Mechanics, Monetization, Trends, UA & Creative Strategies for Success – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/match3_6e4175cb.png) 

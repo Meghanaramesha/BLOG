@@ -1,6 +1,5 @@
 ---
-original_url: https://www.felixbraberg.com/post/is-admob-removing-its-three-placement-limit
-title: Is Admob removing its three placement limit?
+title: "Is Admob removing its three placement limit"
 ---
 
 # Is Admob removing its three placement limit?

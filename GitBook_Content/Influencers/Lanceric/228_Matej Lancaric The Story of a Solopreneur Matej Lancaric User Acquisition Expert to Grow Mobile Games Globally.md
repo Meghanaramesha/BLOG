@@ -1,3 +1,7 @@
+---
+title: "Matej Lancaric The Story of a Solopreneur  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Matej Lancaric: The Story of a Solopreneur – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Matej Lancaric](./images/1-437-99972-E_873c9097.png) 

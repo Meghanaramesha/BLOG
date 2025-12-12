@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![](https://lancaric.me/wp-content/uploads/2024/09/session-minigames-wechat-lemon-400x210.png)](https://lancaric.me/two-a-half-gamers-wechat-mini-games-exploring-the-world-of-mini-games-with-lemon/) 

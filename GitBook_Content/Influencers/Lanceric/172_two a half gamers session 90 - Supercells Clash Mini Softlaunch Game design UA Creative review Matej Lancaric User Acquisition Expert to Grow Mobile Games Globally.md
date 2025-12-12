@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 90 - Supercells Clash Mini Softlaunch Game design UA  Creative review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #90 - Supercell's Clash Mini Softlaunch: Game design, UA & Creative review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-90_8dc741e5.jpg) 

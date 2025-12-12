@@ -1,3 +1,7 @@
+---
+title: "Static Boards Moving Parts Inside Hybridcasual Dynamism"
+---
+
 # Static Boards, Moving Parts: Inside Hybridcasual Dynamism
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/Toon-Blast.gif)](https://www.gamigion.com/static-boards-moving-parts-inside-hybridcasual-dynamism/) 

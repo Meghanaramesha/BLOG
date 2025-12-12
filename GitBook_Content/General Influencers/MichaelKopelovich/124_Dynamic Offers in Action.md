@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/9
-title: Dynamic Offers in Action!
+title: "Dynamic Offers in Action"
 ---
 
 # Dynamic Offers in Action!

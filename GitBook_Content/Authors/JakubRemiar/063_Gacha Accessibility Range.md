@@ -1,3 +1,7 @@
+---
+title: "Gacha Accessibility Range"
+---
+
 # Gacha Accessibility Range?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Gacha-Accessibility-Range.jpg)

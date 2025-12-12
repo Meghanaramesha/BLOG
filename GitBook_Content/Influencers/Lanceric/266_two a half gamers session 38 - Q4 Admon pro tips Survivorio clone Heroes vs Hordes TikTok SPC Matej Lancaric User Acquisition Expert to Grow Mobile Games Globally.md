@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 38 - Q4 Admon pro tips Survivor.io clone Heroes vs. Hordes TikTok SPC  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #38 - Q4 Admon pro tips, Survivor.io clone Heroes vs. Hordes, TikTok SPC – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-38_410eb5a7.png) 

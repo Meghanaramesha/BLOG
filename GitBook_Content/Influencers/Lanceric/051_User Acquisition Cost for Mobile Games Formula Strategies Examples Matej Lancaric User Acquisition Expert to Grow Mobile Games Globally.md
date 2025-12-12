@@ -1,3 +1,7 @@
+---
+title: "User Acquisition Cost for Mobile Games Formula Strategies  Examples  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Acquisition Cost for Mobile Games: Formula, Strategies & Examples – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games User Acquisition Cost Calculation & Reduction Tips](./images/user-acquisition-cost-mobile-games_35fd92e4.png) 

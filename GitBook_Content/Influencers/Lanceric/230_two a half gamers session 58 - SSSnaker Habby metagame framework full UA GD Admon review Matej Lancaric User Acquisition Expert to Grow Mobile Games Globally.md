@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 58 - SSSnaker  Habby metagame framework full UA GD  Admon review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #58 - SSSnaker & Habby metagame framework full UA, GD & Admon review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-58_e4815b75.png) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/11
-title: Super Cool Event in “Twisted Tangle” by Rollic Games
+title: "Super Cool Event in Twisted Tangle by Rollic Games"
 ---
 
 # Super Cool Event in “Twisted Tangle” by Rollic Games

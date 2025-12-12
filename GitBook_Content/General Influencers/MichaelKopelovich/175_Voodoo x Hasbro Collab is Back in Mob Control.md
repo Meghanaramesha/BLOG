@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/voodoo-x-hasbro-collab-is-back-in-mob-control
-title: Voodoo x Hasbro Collab is Back in Mob Control
+title: "Voodoo x Hasbro Collab is Back in Mob Control"
 ---
 
 # Voodoo x Hasbro Collab is Back in Mob Control

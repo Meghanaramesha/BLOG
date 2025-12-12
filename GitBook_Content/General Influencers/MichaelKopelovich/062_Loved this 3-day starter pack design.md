@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/loved-this-3-day-starter-pack-design
-title: Loved this 3-day starter pack design!
+title: "Loved this 3-day starter pack design"
 ---
 
 # Loved this 3-day starter pack design!

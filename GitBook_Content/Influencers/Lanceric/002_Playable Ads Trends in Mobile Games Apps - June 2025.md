@@ -1,3 +1,7 @@
+---
+title: "Playable Ads Trends in Mobile Games  Apps - June 2025"
+---
+
 # Playable Ads Trends in Mobile Games & Apps - June 2025
 
 ![](./images/playable-ad-rtrends-june-2025_074142b1.png) 

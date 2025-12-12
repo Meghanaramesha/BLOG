@@ -1,3 +1,7 @@
+---
+title: "Calculating Lifetime Value for Mobile Game Users Tips  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Calculating Lifetime Value for Mobile Game Users: Tips – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games Users Lifetime Value Calculation & Tips](./images/users-lifetime-value-calculation-mobile-games_1737f225.png) 

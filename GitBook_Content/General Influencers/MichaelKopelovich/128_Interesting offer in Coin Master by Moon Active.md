@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-offer-in-coin-master-by-moon-active
-title: Interesting offer in Coin Master by Moon Active
+title: "Interesting offer in Coin Master by Moon Active"
 ---
 
 # Interesting offer in Coin Master by Moon Active

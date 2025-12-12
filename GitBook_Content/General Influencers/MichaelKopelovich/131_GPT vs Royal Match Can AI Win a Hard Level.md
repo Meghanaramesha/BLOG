@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/gpt-vs-royal-match-can-ai-win-a-hard-level
-title: GPT vs. Royal Match: Can AI Win a Hard Level?
+title: "GPT vs. Royal Match Can AI Win a Hard Level"
 ---
 
 # GPT vs. Royal Match: Can AI Win a Hard Level?

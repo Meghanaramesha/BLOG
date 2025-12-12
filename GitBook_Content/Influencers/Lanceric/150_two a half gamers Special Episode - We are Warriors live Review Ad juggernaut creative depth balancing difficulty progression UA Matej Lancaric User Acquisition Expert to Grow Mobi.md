@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - We are Warriors live Review Ad juggernaut creative depth balancing difficulty  progression UA  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - We are Warriors live Review: Ad juggernaut, creative depth, balancing difficulty & progression, UA – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/we-are-worriors_d25365b2.png) 

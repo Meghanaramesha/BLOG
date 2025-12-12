@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/royal-match-dragon-nest-event
-title: Royal Match: Dragon Nest Event
+title: "Royal Match Dragon Nest Event"
 ---
 
 # Royal Match: Dragon Nest Event

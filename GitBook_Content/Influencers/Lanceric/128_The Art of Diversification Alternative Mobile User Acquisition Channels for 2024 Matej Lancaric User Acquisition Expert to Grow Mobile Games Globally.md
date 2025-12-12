@@ -1,3 +1,7 @@
+---
+title: "The Art of Diversification Alternative Mobile User Acquisition Channels for 2024  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # The Art of Diversification: Alternative Mobile User Acquisition Channels for 2024 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![mobile game user acquisition alternatives](./images/lancito_the_art_of_diversification_young_man_with_sunglasses_wi_d0ffc410-96ac-4d43-bd05-1a3fd04280cd_37ed4b75.png) 

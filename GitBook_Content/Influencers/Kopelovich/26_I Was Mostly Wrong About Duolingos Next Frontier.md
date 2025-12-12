@@ -1,3 +1,7 @@
+---
+title: "I Was Mostly Wrong About Duolingos Next Frontier"
+---
+
 # I Was Mostly Wrong About Duolingo’s Next Frontier
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/11/DULG-1240x709.webp)](https://www.gamigion.com/i-was-mostly-wrong-about-duolingos-next-frontier/) 

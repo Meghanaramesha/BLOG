@@ -1,3 +1,7 @@
+---
+title: "Supercells Clash Mini Softlaunch - Big Update review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Supercell's Clash Mini Softlaunch - Big Update review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Supercell's Clash Mini Softlaunch - Big Update review](./images/Screen-Shot-2023-12-19-at-231024_e1b6a290.png) 

@@ -1,3 +1,7 @@
+---
+title: "Why Gen Alpha Cant Stop Playing"
+---
+
 # Why Gen Alpha Can’t Stop Playing
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/11/JOAK.jpg)](https://www.gamigion.com/why-gen-alpha-cant-stop-playing/) 

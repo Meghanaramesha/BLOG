@@ -1,3 +1,7 @@
+---
+title: "When Visuals Drive Performance"
+---
+
 # When Visuals Drive Performance
 
 What can you do to improve your game’s performance when another title comes out of nowhere and speeds past it on every chart? You could double down on LiveOps, compete on seasonal content, or push daily events to the max. But guess what? Your competitor can do exactly the same, and probably will. You could also try to optimize your game through different levers such as your level funnel, monetization hooks, or progression systems. They often move the needle, but only marginally.

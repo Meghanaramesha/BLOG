@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/monetization-insight-from-toon-blast
-title: Monetization Insight from Toon Blast
+title: "Monetization Insight from Toon Blast"
 ---
 
 # Monetization Insight from Toon Blast

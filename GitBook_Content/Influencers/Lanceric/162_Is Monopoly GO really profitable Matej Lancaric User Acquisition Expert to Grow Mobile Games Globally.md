@@ -1,3 +1,7 @@
+---
+title: "Is Monopoly GO really profitable  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Is Monopoly GO really profitable? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Is Monopoly GO really profitable?](./images/media-2_a5ca64b6.jpg) 

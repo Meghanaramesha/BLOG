@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune
-title: Rolling RV Offers in Fish of Fortune
+title: "Rolling RV Offers in Fish of Fortune"
 ---
 
 # Rolling RV Offers in Fish of Fortune

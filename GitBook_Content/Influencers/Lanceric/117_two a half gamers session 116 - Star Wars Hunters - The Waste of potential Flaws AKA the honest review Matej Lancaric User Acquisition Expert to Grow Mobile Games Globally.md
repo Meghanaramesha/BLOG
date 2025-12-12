@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 116 - Star Wars Hunters - The Waste of potential  Flaws A.K.A the honest review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #116 - Star Wars: Hunters - The Waste of potential & Flaws A.K.A the honest review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/116_9b8eb93d.jpg) 

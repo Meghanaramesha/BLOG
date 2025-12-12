@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 9 - How to increase AdARPDAU How Adnetworks make money   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #9 - How to increase AdARPDAU? How Adnetworks make money?  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Untitled-920-x-250-px-800-x-250-px-1440-x-432-px-1_72fa5330.png) 

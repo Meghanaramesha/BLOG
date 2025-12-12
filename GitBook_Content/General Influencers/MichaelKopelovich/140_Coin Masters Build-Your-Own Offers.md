@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/coin-masters-build-your-own-offers-%f0%9f%90%b7
-title: Coin Master’s Build-Your-Own Offers! 🐷
+title: "Coin Masters Build-Your-Own Offers "
 ---
 
 # Coin Master’s Build-Your-Own Offers! 🐷

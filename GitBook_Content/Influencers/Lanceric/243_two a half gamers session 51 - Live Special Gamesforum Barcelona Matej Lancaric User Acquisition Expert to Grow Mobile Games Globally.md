@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 51 - Live Special  Gamesforum Barcelona  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #51 - Live Special @ Gamesforum Barcelona – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-51_133cff6f.png) 

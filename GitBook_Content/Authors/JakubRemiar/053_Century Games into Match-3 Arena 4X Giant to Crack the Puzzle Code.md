@@ -1,3 +1,7 @@
+---
+title: "Century Games into Match-3 Arena 4X Giant to Crack the Puzzle Code"
+---
+
 # Century Games into Match-3 Arena: 4X Giant to Crack the Puzzle Code?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Century-Games-into-Match-3-Arena-4X-Giant-to-Crack-the-Puzzle-Code.jpg)

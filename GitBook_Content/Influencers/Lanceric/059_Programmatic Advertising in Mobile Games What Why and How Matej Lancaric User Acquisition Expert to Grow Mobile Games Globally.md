@@ -1,3 +1,7 @@
+---
+title: "Programmatic Advertising in Mobile Games What Why and How  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Programmatic Advertising in Mobile Games: What, Why and How? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Programmatic Advertising for Mobile Games User Acquisition](./images/programmatic-advertising-mobile-games_8223d98b.png) 

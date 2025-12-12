@@ -1,3 +1,7 @@
+---
+title: "Royal Kingdoms Hollywood Power Play Last Hurrah or Royal Rebirth"
+---
+
 # Royal Kingdom’s Hollywood Power Play: Last Hurrah or Royal Rebirth?
 
 Launching a new Match-3 game in today’s mobile market is like trying to sell umbrellas in the Sahara [as we discussed in a recent article](https://www.gamigion.com/why-now-is-the-worst-time-to-launch-a-match-3/). Saturation, soaring CPIs, and razor-thin differentiation margins make even the most technically sound games struggle to scale. When Dream Games soft launched *Royal Kingdom* two years ago, they entered this same storm, which quickly showed itself.

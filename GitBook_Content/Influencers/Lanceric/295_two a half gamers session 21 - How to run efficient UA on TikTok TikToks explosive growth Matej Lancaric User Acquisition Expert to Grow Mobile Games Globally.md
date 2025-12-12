@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 21 - How to run efficient UA on TikTok TikToks explosive growth  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #21 - How to run efficient UA on TikTok? TikTok's explosive growth – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-21_9b942a51.png) 

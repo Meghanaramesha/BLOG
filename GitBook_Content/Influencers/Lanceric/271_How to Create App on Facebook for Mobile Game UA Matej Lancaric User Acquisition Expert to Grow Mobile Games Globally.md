@@ -1,3 +1,7 @@
+---
+title: "How to Create App on Facebook for Mobile Game UA  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to Create App on Facebook for Mobile Game UA? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Create App on Facebook Meta](./images/Screen-Shot-2022-10-14-at-225310_f2d2312f.png) 

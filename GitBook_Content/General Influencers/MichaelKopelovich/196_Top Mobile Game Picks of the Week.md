@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/top-mobile-game-picks-of-the-week
-title: Top Mobile Game Picks of the Week!
+title: "Top Mobile Game Picks of the Week"
 ---
 
 # Top Mobile Game Picks of the Week!

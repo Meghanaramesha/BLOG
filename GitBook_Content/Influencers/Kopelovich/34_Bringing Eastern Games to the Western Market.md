@@ -1,3 +1,7 @@
+---
+title: "Bringing Eastern Games to the Western Market"
+---
+
 # Bringing Eastern Games to the Western Market
 
 [![](https://www.gamigion.com/wp-content/uploads/2024/09/image-66.png)](https://www.gamigion.com/bringing-eastern-games-to-the-western-market/) 

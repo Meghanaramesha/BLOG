@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-these-fun-follow-screens-in-coin-master
-title: Spotted these fun follow screens in Coin Master!
+title: "Spotted these fun follow screens in Coin Master"
 ---
 
 # Spotted these fun follow screens in Coin Master!

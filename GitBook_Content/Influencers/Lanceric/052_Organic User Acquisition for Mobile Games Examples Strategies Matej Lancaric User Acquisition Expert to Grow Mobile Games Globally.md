@@ -1,3 +1,7 @@
+---
+title: "Organic User Acquisition for Mobile Games Examples  Strategies  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Organic User Acquisition for Mobile Games: Examples & Strategies – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games Organic User Acquisition Examples and Strategies](./images/organic-user-acquisition-examples-strategies_517734a8.png) 

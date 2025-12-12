@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![](https://lancaric.me/wp-content/uploads/2025/01/john-400x210.png)](https://lancaric.me/two-a-half-gamers-top-10-gaming-predictions-for-2025-what-to-expect-by-john-wright/) 

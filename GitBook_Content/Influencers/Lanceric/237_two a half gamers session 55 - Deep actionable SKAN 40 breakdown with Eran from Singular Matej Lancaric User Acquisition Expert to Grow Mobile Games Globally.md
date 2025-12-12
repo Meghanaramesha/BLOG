@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 55 - Deep  actionable SKAN 4.0 breakdown with Eran from Singular  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #55 - Deep & actionable SKAN 4.0 breakdown with Eran from Singular – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-55_9177bcd4.jpg) 

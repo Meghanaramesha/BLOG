@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 48 - Could Frozen City earn 80 more revenue Full UA Admon GD review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #48 - Could Frozen City earn 80% more revenue? Full UA, Admon, GD review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-48_2b4db381.png) 

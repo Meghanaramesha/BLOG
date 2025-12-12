@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - How to conquer the farming games market Minigames FTW. Implement or die by Matej Lancaric  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - How to conquer the farming games market? Minigames FTW. Implement or die by Matej Lancaric! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/farming_2570d8af.png) 

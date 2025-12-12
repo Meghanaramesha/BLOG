@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/love-this-rolling-offer-design-in-coin-master
-title: Love this rolling offer design in Coin Master!
+title: "Love this rolling offer design in Coin Master"
 ---
 
 # Love this rolling offer design in Coin Master!

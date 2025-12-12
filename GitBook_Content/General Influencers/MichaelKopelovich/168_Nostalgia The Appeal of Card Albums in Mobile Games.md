@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/nostalgia-the-appeal-of-card-albums-in-mobile-games
-title: Nostalgia: The Appeal of Card Albums in Mobile Games
+title: "Nostalgia The Appeal of Card Albums in Mobile Games"
 ---
 
 # Nostalgia: The Appeal of Card Albums in Mobile Games

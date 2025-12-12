@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/sergeivasiuk/page/2
-title: 5 Game Systems to Make Your Game Stick
+title: "5 Game Systems to Make Your Game Stick"
 ---
 
 # 5 Game Systems to Make Your Game Stick

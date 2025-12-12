@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/hard-levels-animation-from-twisted-tangle
-title: Hard Levels: Animation from Twisted Tangle
+title: "Hard Levels Animation from Twisted Tangle"
 ---
 
 # Hard Levels: Animation from Twisted Tangle

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.felixbraberg.com/post/frozen-city-s-3-million-a-month-admon-blunder
-title: Frozen City’s $3 million a month Admon blunder
+title: "Frozen Citys 3 million a month Admon blunder"
 ---
 
 # Frozen City’s $3 million a month Admon blunder

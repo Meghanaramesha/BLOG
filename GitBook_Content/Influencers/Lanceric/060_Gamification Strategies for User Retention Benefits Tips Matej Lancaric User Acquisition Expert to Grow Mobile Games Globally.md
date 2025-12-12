@@ -1,3 +1,7 @@
+---
+title: "Gamification Strategies for User Retention Benefits  Tips  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Gamification Strategies for User Retention: Benefits & Tips  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Gamification Strategies, Benefits & Tips for Mobile Game User Retention](./images/gamification-strategies-player-retention-mobile-games_4a21edba.png) 

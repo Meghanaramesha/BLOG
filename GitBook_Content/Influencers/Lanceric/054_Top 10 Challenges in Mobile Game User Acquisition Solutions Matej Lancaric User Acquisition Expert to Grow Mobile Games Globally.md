@@ -1,3 +1,7 @@
+---
+title: "Top 10 Challenges in Mobile Game User Acquisition  Solutions  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Top 10 Challenges in Mobile Game User Acquisition + Solutions – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games User Acquisition Challenges and Solutions](./images/challenges-user-acquisition-mobile-games_aef9a309.png) 

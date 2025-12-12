@@ -1,3 +1,7 @@
+---
+title: "Europes 18 billion games sector is hitting a reset."
+---
+
 # Europe’s $18 billion games sector is hitting a reset.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/Europes-18-billion-games-sector-is-hitting-a-reset.jpg)](https://www.gamigion.com/europes-18-billion-games-sector-is-hitting-a-reset/) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - Investing in Mobile Games w Ignacio Monereo. When to approach VC  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - Investing in Mobile Games w/ Ignacio Monereo. When to approach VC? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/special-ep_76f85a8e.jpg) 

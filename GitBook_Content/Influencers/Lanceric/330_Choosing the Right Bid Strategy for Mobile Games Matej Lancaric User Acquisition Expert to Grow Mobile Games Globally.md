@@ -1,3 +1,7 @@
+---
+title: "Choosing the Right Bid Strategy for Mobile Games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Choosing the Right Bid Strategy for Mobile Games – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Choosing Right Bid Strategy](./images/photo-1434626881859-194d67b2b86f_db5f5a6c.png) 

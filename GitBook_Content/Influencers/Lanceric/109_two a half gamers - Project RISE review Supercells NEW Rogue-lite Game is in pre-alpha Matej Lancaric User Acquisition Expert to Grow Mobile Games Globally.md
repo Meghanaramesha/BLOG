@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Project RISE review Supercells NEW Rogue-lite Game is in pre-alpha  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Project RISE review: Supercells *NEW* Rogue-lite Game is in pre-alpha! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/supercell-rise_60851d27.jpg) 

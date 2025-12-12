@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 71 - Google CMP update Google Ad transparency TikTok AI script generator Game review radar  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #71 - Google CMP update, Google Ad transparency, TikTok AI script generator, Game review radar – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-71-cover_2deb05f4.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "What are Best Practices for Marketing Hyper Casual Mobile Games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # What are Best Practices for Marketing Hyper Casual Mobile Games? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Best Practices for Marketing Hyper Casual Mobile Games](./images/What-are-best-practices-for-marketing-hypercasual-mobile-games-cover-1_4538fb71.png) 

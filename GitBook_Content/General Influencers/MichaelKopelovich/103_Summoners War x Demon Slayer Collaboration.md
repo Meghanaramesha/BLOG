@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/summoners-war-x-demon-slayer-collaboration
-title: Summoners War x Demon Slayer Collaboration
+title: "Summoners War x Demon Slayer Collaboration"
 ---
 
 # Summoners War x Demon Slayer Collaboration

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/december-in-mobile-games-ip-season
-title: December in Mobile Games = IP Season
+title: "December in Mobile Games  IP Season"
 ---
 
 # December in Mobile Games = IP Season

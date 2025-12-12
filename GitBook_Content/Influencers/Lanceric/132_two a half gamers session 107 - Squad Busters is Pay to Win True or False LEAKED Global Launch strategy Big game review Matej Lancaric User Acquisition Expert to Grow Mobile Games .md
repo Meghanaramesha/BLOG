@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 107 - Squad Busters is Pay to Win True or False LEAKED Global Launch strategy. Big game review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #107 - Squad Busters is Pay to Win: True or False? LEAKED Global Launch strategy. Big game review! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-107_e106a592.jpg) 

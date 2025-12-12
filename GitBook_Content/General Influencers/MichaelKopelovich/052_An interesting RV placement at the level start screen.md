@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen
-title: An interesting RV placement at the level start screen.
+title: "An interesting RV placement at the level start screen."
 ---
 
 # An interesting RV placement at the level start screen.

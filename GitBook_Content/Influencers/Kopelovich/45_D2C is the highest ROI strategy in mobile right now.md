@@ -1,3 +1,7 @@
+---
+title: "D2C is the highest ROI strategy in mobile right now."
+---
+
 # D2C is the highest ROI strategy in mobile right now.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/D2C-is-the-highest-ROI-strategy-in-mobile-right-now.jpg)](https://www.gamigion.com/d2c-is-the-highest-roi-strategy-in-mobile-right-now/) 

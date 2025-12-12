@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 18 - How could King make 30 more revenue Full UA GD  Ads   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #18 - How could King make 30% more revenue? Full UA, GD & Ads  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![How could King make 30% more revenue? Full User Acquisition, Game Design & Ads analysis - Podcast blog](./images/18_043ea3f9.png) 

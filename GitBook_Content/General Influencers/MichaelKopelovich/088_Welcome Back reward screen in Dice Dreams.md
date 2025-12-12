@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/welcome-back-reward-screen-in-dice-dreams
-title: “Welcome Back” reward screen in Dice Dreams
+title: "Welcome Back reward screen in Dice Dreams"
 ---
 
 # “Welcome Back” reward screen in Dice Dreams

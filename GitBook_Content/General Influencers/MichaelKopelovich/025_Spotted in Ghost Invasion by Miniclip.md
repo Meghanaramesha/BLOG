@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/2
-title: Spotted in Ghost Invasion by Miniclip
+title: "Spotted in Ghost Invasion by Miniclip"
 ---
 
 # Spotted in Ghost Invasion by Miniclip

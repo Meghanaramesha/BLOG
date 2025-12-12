@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/boost-your-team-boost-your-game
-title: Boost Your Team, Boost Your Game!
+title: "Boost Your Team Boost Your Game"
 ---
 
 # Boost Your Team, Boost Your Game!

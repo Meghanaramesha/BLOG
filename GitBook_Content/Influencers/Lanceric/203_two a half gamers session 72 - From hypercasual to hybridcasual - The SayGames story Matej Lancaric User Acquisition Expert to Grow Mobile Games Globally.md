@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 72 - From hypercasual to hybridcasual - The SayGames story  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #72 - From hypercasual to hybridcasual - The SayGames story – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-72_4b865aaf.png) 

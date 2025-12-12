@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/sergeivasiuk
-title: Every Great Game is a FIGHT!
+title: "Every Great Game is a FIGHT"
 ---
 
 # Every Great Game is a FIGHT!

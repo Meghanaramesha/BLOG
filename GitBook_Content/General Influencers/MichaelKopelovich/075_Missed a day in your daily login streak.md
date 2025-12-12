@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/missed-a-day-in-your-daily-login-streak
-title: Missed a day in your daily login streak?
+title: "Missed a day in your daily login streak"
 ---
 
 # Missed a day in your daily login streak?

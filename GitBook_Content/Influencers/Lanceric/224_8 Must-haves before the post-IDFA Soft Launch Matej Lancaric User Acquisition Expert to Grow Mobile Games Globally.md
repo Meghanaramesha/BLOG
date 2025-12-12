@@ -1,3 +1,7 @@
+---
+title: "8 Must-haves before the post-IDFA Soft Launch  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # 8 Must-haves before the post-IDFA Soft Launch – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Post-IDFA Soft Launch Must Have](./images/must-have-rubber-stamp-vector-12434152_76ed4709.png) 

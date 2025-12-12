@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/wp-login.php?action=lostpassword
-title: 
+title: " Lost Password"
 ---
 
 # 

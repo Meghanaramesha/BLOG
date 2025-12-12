@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![](https://lancaric.me/wp-content/uploads/2024/03/session-99-400x210.png)](https://lancaric.me/two-a-half-gamers-session-99-4x-revolution-part1-top-heroes-idle-rpg-or-4x-strategy-game/) 

@@ -1,3 +1,7 @@
+---
+title: "Cautiously Optimistic about the Future of Tech"
+---
+
 # Cautiously Optimistic about the Future of Tech
 
 [![](https://www.gamigion.com/wp-content/uploads/2024/09/Paul-Bowen.jpeg)](https://www.gamigion.com/cautiously-optimistic-about-the-future-of-tech/) 

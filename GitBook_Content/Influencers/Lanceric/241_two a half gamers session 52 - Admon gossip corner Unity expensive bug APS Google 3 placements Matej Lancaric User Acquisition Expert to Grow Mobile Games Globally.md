@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 52 - Admon gossip corner Unity expensive bug APS Google 3 placements  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #52 - Admon gossip corner, Unity expensive bug, APS, Google 3 placements – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-52_b87a92ff.png) 

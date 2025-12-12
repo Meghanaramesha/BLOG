@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/hey-look-a-cool-design-%f0%9f%8e%a8
-title: Hey, Look! A Cool Design 🎨
+title: "Hey Look A Cool Design "
 ---
 
 # Hey, Look! A Cool Design 🎨

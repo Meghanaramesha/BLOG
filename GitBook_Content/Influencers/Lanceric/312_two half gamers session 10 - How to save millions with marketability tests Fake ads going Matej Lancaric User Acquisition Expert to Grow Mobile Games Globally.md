@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 10 - How to save millions with marketability tests Fake ads going   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #10 - How to save millions with marketability tests? Fake ads going  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-10_c1237520.png) 

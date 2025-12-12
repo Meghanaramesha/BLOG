@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/good-rv-placement-in-cake-await
-title: Good RV Placement in Cake Await
+title: "Good RV Placement in Cake Await"
 ---
 
 # Good RV Placement in Cake Await

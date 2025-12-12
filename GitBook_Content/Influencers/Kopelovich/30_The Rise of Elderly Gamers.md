@@ -1,3 +1,7 @@
+---
+title: "The Rise of Elderly Gamers"
+---
+
 # The Rise of Elderly Gamers
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/10/The-Rise-of-Elderly-Gamers.jpg)](https://www.gamigion.com/the-rise-of-elderly-gamers/) 

@@ -1,3 +1,7 @@
+---
+title: "Expert Insights Collection"
+---
+
 # Expert Insights Collection
 
 Welcome to the **Expert Insights Collection**, a structured knowledge library containing curated articles from top industry influencers, authors, and gaming professionals.

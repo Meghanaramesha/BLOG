@@ -1,6 +1,5 @@
 ---
-original_url: https://www.felixbraberg.com/post/the-end-of-gam-networks-on-mobile
-title: The End of GAM Networks on Mobile?
+title: "The End of GAM Networks on Mobile"
 ---
 
 # The End of GAM Networks on Mobile?

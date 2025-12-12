@@ -1,3 +1,7 @@
+---
+title: "New Mobile Games out there"
+---
+
 # New Mobile Games out there?
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/11/New-Mobile-Games-out-there-1240x698.png)](https://www.gamigion.com/new-mobile-games-out-there/) 

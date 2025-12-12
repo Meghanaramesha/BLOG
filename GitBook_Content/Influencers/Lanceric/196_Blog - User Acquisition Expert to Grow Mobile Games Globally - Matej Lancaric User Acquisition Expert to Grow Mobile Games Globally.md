@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![](./images/gamescom-session-400x210_838d9cf4.jpg)](https://lancaric.me/two-a-half-gamers-gamescom-live-special-creative-trends-ios-measurement-hollywood-inspired-games-ua-channel-mix/) 

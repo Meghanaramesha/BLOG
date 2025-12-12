@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - How to create high performing AI statics Top 6 Ad placement inspiration in last 30days  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - How to create high performing AI statics? Top 6 Ad placement inspiration in last 30days – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/ai-creatives_17b5aaca.jpg) 

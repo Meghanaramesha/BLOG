@@ -1,3 +1,7 @@
+---
+title: "In a Fragmented EMEA Your Platform is Your Partner"
+---
+
 # In a Fragmented EMEA, Your Platform is Your Partner
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/08/GPEMEA-1240x1240.jpeg)](https://www.gamigion.com/in-a-fragmented-emea-your-platform-is-your-partner/) 

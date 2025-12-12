@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 26 - Unpacking Google ads disaster ASA Todays new ad...  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #26 - Unpacking Google ads "disaster", ASA Today's new ad... – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Lancaricme__19d7df55.gif) 

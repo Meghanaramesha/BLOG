@@ -1,3 +1,7 @@
+---
+title: "Effective User Acquisition Strategies - Blog posts"
+---
+
 # Effective User Acquisition Strategies - Blog posts
 
 ![fbpx](https://www.facebook.com/tr?id=1120946185643016&ev=PageView&noscript=1)

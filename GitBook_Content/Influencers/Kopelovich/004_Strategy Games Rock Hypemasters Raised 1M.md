@@ -1,3 +1,7 @@
+---
+title: "Strategy Games Rock Hypemasters Raised 1M"
+---
+
 # Strategy Games Rock: Hypemasters Raised $1M
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

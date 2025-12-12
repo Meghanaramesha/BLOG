@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-monopoly-go-by-scopely
-title: Spotted in MONOPOLY GO by Scopely
+title: "Spotted in MONOPOLY GO by Scopely"
 ---
 
 # Spotted in MONOPOLY GO by Scopely

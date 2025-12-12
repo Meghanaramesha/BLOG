@@ -1,3 +1,7 @@
+---
+title: "Use All 4 Formats of Creative in One Facebook Ad Campaign Performance Increasing Hack  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Use All 4 Formats of Creative in One Facebook Ad Campaign: Performance Increasing Hack – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Performance Increasing Hack for facebook](./images/Performance-Increasing-Hack-for-facebook_2de7412b.png) 

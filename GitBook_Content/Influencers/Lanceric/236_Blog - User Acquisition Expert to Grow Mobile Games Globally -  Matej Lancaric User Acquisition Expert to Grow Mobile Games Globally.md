@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![Frozen City post-IDFA global launch](https://lancaric.me/wp-content/uploads/2023/05/frozen-city-400x210.jpeg)](https://lancaric.me/post-idfa-ua-frozen-city-global-launch-case-study/) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/nice-touch-in-archero-2-choose-your-own-reward
-title: Nice touch in Archero 2: Choose your own reward.
+title: "Nice touch in Archero 2 Choose your own reward."
 ---
 
 # Nice touch in Archero 2: Choose your own reward.

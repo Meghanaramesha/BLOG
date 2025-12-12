@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/trending-game-mechanics-of-2024-pioneering-innovation-in-mobile-gaming
-title: Trending Game Mechanics of 2024: Innovation in Mobile Gaming
+title: "Trending Game Mechanics of 2024 Innovation in Mobile Gaming"
 ---
 
 # Trending Game Mechanics of 2024: Innovation in Mobile Gaming

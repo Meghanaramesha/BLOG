@@ -1,3 +1,7 @@
+---
+title: "Google UAC Youtube Shorts Life Saving Hack for User Acquisition  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Google UAC Youtube Shorts Life Saving Hack for User Acquisition – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Google UAC Youtube Shorts Hack](./images/1ABY-1_c6d8e964.gif) 

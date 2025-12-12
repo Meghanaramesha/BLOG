@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Ad placements  Ad monetization trends in Mobile Games - September 2024  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Ad placements & Ad monetization trends in Mobile Games - September 2024 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Ad-placements-Ad-monetization-trends-in-Mobile-Games-September-2024_74bb3bb5.png) 

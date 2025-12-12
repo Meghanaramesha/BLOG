@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - Stash Special web shops new Apple policies loyalty programs frictionless user experience  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - Stash Special: web shops, new Apple policies, loyalty programs, frictionless user experience – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/stash-special-ep_6645cddf.jpg) 

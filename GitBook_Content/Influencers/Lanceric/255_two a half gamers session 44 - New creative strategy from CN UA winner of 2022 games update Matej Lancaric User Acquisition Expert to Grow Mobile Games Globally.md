@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 44 - New creative strategy from CN UA winner of 2022 games update  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #44 - New creative strategy from CN, UA winner of 2022, games update – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-44_47a39d9e.png) 

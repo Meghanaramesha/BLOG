@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/email-sign-ups-done-right
-title: Email Sign-Ups Done Right
+title: "Email Sign-Ups Done Right"
 ---
 
 # Email Sign-Ups Done Right

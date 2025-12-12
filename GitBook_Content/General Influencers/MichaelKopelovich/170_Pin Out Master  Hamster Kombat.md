@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/pin-out-master-hamster-kombat
-title: Pin Out Master & Hamster Kombat
+title: "Pin Out Master  Hamster Kombat"
 ---
 
 # Pin Out Master & Hamster Kombat

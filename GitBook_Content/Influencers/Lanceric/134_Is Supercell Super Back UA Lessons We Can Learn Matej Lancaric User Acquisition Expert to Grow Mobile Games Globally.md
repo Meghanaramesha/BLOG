@@ -1,3 +1,7 @@
+---
+title: "Is Supercell Super Back UA Lessons We Can Learn  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Is Supercell Super Back? UA Lessons We Can Learn – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Is Supercell Super Back? UA Lessons We Can Learn](./images/Screen-Shot-2024-04-17-at-094148_5ed7828b.png) 

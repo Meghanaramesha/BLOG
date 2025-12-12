@@ -1,3 +1,7 @@
+---
+title: "Influencer pricing has officially gone off the rails."
+---
+
 # Influencer pricing has officially gone off the rails.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/03/Marion.jpeg)](https://www.gamigion.com/influencer-pricing-has-officially-gone-off-the-rails/) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/christmas-loading-screens-in-games
-title: Christmas Loading Screens in Games
+title: "Christmas Loading Screens in Games"
 ---
 
 # Christmas Loading Screens in Games

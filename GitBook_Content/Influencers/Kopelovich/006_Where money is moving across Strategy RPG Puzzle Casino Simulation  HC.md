@@ -1,3 +1,7 @@
+---
+title: "Where money is moving across Strategy RPG Puzzle Casino Simulation  HC"
+---
+
 # Where money is moving across Strategy, RPG, Puzzle, Casino, Simulation & HC
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

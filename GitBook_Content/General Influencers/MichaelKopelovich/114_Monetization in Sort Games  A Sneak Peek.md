@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/monetization-in-sort-games-a-sneak-peek
-title: Monetization in Sort Games – A Sneak Peek!
+title: "Monetization in Sort Games  A Sneak Peek"
 ---
 
 # Monetization in Sort Games – A Sneak Peek!

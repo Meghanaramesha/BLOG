@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 53 - Eversoul a trending waifu game with full GD UA Admon review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #53 - Eversoul, a trending waifu game with full GD, UA, Admon review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/SESSION-ts_a5f06284.png) 

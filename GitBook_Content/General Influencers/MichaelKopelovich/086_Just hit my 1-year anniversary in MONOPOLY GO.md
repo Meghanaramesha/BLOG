@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go
-title: Just hit my 1-year anniversary in MONOPOLY GO
+title: "Just hit my 1-year anniversary in MONOPOLY GO"
 ---
 
 # Just hit my 1-year anniversary in MONOPOLY GO

@@ -1,3 +1,7 @@
+---
+title: "IP-Driven  Organic-heavy Games keep rocking."
+---
+
 # IP-Driven & Organic-heavy Games keep rocking.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

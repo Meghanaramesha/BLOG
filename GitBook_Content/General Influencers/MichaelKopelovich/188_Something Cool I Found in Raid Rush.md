@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/something-cool-i-found-in-raid-rush
-title: Something Cool I Found in Raid Rush!
+title: "Something Cool I Found in Raid Rush"
 ---
 
 # Something Cool I Found in Raid Rush!

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 100 - Hybrid casual Twisted Tangle 85 purchase revenue driven by iOS growth Everything is possible  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #100 - Hybrid casual Twisted Tangle: 85% purchase revenue driven by iOS growth? Everything is possible! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Lancaricme__0b76a97a.jpg) 

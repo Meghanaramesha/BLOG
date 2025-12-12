@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/streak-mechanic-turned-into-a-time-limited-event-progression
-title: Streak mechanic turned into a time-limited event progression!
+title: "Streak mechanic turned into a time-limited event progression"
 ---
 
 # Streak mechanic turned into a time-limited event progression!

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fanother-new-cat-themed-puzzle-game-just-dropped%2F&action=register
-title: 
+title: " Log In"
 ---
 
 # 

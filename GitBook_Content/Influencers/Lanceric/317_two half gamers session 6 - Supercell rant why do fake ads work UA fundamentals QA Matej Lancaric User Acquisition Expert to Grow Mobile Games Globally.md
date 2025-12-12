@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 6 - Supercell rant why do fake ads work UA fundamentals QA   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #6 - Supercell rant, why do fake ads work? UA fundamentals Q&A  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Untitled-920-x-250-px-800-x-250-px-1440-x-432-px_29198e32.png) 

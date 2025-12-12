@@ -1,3 +1,7 @@
+---
+title: "Hybrid Monetization Strategies for Mobile Games for Growth  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Hybrid Monetization Strategies for Mobile Games for Growth – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games Hybrid Monetization Strategies](./images/hybrid-monetization-strategies-mobile-games_1074766a.png) 

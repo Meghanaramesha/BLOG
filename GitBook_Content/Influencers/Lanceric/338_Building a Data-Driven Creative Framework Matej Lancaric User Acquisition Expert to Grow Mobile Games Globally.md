@@ -1,3 +1,7 @@
+---
+title: "Building a Data-Driven Creative Framework  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Building a Data-Driven Creative Framework – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/photo-1527474305487-b87b222841cc_13aae8c5.jpg) 

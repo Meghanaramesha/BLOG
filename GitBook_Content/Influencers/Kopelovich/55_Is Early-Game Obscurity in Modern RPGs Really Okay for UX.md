@@ -1,3 +1,7 @@
+---
+title: "Is Early-Game Obscurity in Modern RPGs Really Okay for UX"
+---
+
 # Is Early-Game “Obscurity” in Modern RPGs Really Okay for UX?
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/SNGS-832x1240.jpeg)](https://www.gamigion.com/is-early-game-obscurity-in-modern-rpgs-really-okay-for-ux/) 

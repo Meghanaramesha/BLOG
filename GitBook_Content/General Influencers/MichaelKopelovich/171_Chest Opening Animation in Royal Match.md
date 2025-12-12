@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/chest-opening-animation-in-royal-match
-title: Chest Opening Animation in Royal Match
+title: "Chest Opening Animation in Royal Match"
 ---
 
 # Chest Opening Animation in Royal Match

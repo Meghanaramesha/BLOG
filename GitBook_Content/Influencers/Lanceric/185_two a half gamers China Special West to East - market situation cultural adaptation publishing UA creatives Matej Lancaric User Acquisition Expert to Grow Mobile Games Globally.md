@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers China Special West to East - market situation cultural adaptation publishing UA  creatives  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers China Special: West to East - market situation, cultural adaptation, publishing, UA & creatives – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/china-special-ep_c5a90edb.jpg) 

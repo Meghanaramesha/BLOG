@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - Xsolla special Apples updated EU payments DMA regime new fees  requirements web shops  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - Xsolla special: Apple's updated EU payments, DMA regime, new fees & requirements, web shops – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/special-ep-xsolla_a1ab855e.png) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/black-friday-deals-on-mobile-games
-title: Black Friday Deals on Mobile Games
+title: "Black Friday Deals on Mobile Games"
 ---
 
 # Black Friday Deals on Mobile Games

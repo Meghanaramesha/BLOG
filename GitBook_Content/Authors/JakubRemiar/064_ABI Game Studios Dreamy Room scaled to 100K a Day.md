@@ -1,3 +1,7 @@
+---
+title: "ABI Game Studios Dreamy Room scaled to 100K a Day"
+---
+
 # ABI Game Studio’s Dreamy Room scaled to $100K a Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/ABI-Game-Studios-Dreamy-Room-scaled-to-100K-a-Day.jpg)

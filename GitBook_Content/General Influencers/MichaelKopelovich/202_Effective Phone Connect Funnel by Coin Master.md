@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/effective-phone-connect-funnel-by-coin-master
-title: Effective Phone Connect Funnel by Coin Master
+title: "Effective Phone Connect Funnel by Coin Master"
 ---
 
 # Effective Phone Connect Funnel by Coin Master

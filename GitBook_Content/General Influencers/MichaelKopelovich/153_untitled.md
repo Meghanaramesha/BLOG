@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fcoin-masters-build-your-own-offers-%25f0%259f%2590%25b7%2F&action=register
-title: 
+title: " Log In"
 ---
 
 # 

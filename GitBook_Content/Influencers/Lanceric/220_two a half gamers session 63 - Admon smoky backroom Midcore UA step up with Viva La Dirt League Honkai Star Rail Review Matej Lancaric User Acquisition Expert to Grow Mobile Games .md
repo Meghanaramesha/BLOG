@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 63 - Admon smoky backroom Midcore UA step up with Viva La Dirt League Honkai Star Rail Review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #63 - Admon smoky backroom, Midcore UA step up with Viva La Dirt League, Honkai: Star Rail Review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-63_70cb086f.jpg) 

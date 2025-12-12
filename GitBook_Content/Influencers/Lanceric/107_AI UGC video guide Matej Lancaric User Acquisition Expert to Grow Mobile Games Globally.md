@@ -1,3 +1,7 @@
+---
+title: "AI UGC video guide  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # AI UGC video guide: – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Most-Attractive-Youtube-Thumbnail_e06db33c.gif) 

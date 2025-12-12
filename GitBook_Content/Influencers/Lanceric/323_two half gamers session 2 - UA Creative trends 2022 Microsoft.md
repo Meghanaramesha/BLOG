@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 2 - UA  Creative trends 2022 Microsoft"
+---
+
 # two & half gamers session #2 - UA & Creative trends 2022, Microsoft
 
 ![](./images/episode-2-cover_26f2320e.png) 

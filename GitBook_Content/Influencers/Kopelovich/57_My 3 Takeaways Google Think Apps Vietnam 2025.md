@@ -1,3 +1,7 @@
+---
+title: "My 3 Takeaways Google Think Apps Vietnam 2025"
+---
+
 # My 3 Takeaways Google Think Apps Vietnam 2025
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/11/XNCH-1240x698.jpeg)](https://www.gamigion.com/my-3-takeaways-google-think-apps-vietnam-2025/) 

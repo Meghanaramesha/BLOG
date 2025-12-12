@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - Apple vs Epic Special 27 fee new guidelines  creative solutions with workarounds  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - Apple vs Epic Special: 27% fee, new guidelines & creative solutions with workarounds – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/epic-vs-apple_a0729fc5.png) 

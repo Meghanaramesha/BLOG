@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/power-boost-unlocked-in-travel-town
-title: Power Boost Unlocked in Travel Town!
+title: "Power Boost Unlocked in Travel Town"
 ---
 
 # Power Boost Unlocked in Travel Town!

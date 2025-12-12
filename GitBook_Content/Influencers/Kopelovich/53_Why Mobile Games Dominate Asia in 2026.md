@@ -1,3 +1,7 @@
+---
+title: "Why Mobile Games Dominate Asia in 2026"
+---
+
 # Why Mobile Games Dominate Asia in 2026
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/MGAS.png)](https://www.gamigion.com/why-mobile-games-dominate-asia-in-2026/) 

@@ -1,3 +1,7 @@
+---
+title: "Top5 mobile gaming launches special GameMakers x 2.5 gamers live crossover  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Top5 mobile gaming launches special: GameMakers x 2.5 gamers live crossover – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-special-episode_9cafe41b.png) 

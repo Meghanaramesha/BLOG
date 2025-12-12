@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/monopoly-go-x-mcdonalds
-title: MONOPOLY GO! x McDonald’s
+title: "MONOPOLY GO x McDonalds"
 ---
 
 # MONOPOLY GO! x McDonald’s

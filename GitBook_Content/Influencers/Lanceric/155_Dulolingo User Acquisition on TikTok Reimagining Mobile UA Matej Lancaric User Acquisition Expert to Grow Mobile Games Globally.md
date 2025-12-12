@@ -1,3 +1,7 @@
+---
+title: "Dulolingo User Acquisition on TikTok Reimagining Mobile UA  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Dulolingo User Acquisition on TikTok: Reimagining Mobile UA – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Dulolingo User Acquisition on TikTok](./images/SAybh3v4RGXqrmsc83ArMB-1200-80_72f1ec49.jpg) 

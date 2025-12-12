@@ -1,3 +1,7 @@
+---
+title: "The App Store is now available on the web"
+---
+
 # The App Store is now available on the web!
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/11/The-App-Store-is-now-available-on-the-web-1.jpg)](https://www.gamigion.com/the-app-store-is-now-available-on-the-web/) 

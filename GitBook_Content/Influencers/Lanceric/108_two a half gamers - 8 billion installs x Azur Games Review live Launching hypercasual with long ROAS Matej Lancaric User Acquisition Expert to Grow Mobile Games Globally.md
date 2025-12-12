@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - 8 billion installs x Azur Games Review live Launching hypercasual with long ROAS  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - 8+ billion installs x Azur Games Review live: Launching hypercasual with long ROAS – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/azur-games-1_3fc9cc3e.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 85 - 5 tips for killer UA Soft launch Sonar vol3 Black Friday secret admon tips  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #85 - 5 tips for killer UA, Soft launch Sonar vol3, Black Friday secret admon tips – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-85_ac57b7a4.jpg) 

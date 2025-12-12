@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 95 - 3 life changing UA tips from 2023 how to revert ad apocalypse Review Radar vol 3  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #95 - 3 life changing UA tips from 2023, how to revert ad apocalypse? Review Radar vol 3 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-95_be2d9b62.png) 

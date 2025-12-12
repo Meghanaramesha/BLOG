@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 49 - How to leverage User Churn Prediction Why is it important  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #49 - How to leverage User Churn Prediction? Why is it important? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-49_39aee9ab.png) 

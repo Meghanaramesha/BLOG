@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 22 - How to predict game performance What is Tilting Points secret  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #22 - How to predict game performance? What is Tilting Point's secret? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-22_3b6856d0.png) 

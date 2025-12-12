@@ -1,3 +1,7 @@
+---
+title: "App Event Optimization Definition Process and Benefits  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # App Event Optimization: Definition, Process and Benefits – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![App Event Optimization](./images/stiahnut-3_a7edb3b6.png) 

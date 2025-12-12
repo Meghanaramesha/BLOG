@@ -1,3 +1,7 @@
+---
+title: "Tencents Q3 2025 AI Is No Longer a Side Bet A House Edge."
+---
+
 # Tencent’s Q3 2025: AI Is No Longer a Side Bet; A House Edge.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/11/Tencents-Q3-2025-AI-Is-No-Longer-a-Side-Bet.-Its-House-Edge-1-1240x697.png)](https://www.gamigion.com/tencents-q3-2025-ai-is-no-longer-a-side-bet-a-house-edge/) 

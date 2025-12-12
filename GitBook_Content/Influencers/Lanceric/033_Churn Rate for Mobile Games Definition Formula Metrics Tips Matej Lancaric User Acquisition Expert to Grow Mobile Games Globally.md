@@ -1,3 +1,7 @@
+---
+title: "Churn Rate for Mobile Games Definition Formula Metrics  Tips  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Churn Rate for Mobile Games: Definition, Formula, Metrics & Tips – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games Users Churn Rate Formula & Tips to Reduce](./images/reducing-churn-rate-mobile-games-users_c536cd60.png) 

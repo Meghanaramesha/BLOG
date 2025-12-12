@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 5 - Surprise crypto comments  How to tackle soft launch stages   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #5 - Surprise crypto comments & How to tackle soft launch stages?  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-5_591c3fc6.png) 

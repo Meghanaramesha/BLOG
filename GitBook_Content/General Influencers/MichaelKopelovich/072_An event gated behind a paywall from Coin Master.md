@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/an-event-gated-behind-a-paywall-from-coin-master
-title: An event gated behind a paywall, from Coin Master.
+title: "An event gated behind a paywall from Coin Master."
 ---
 
 # An event gated behind a paywall, from Coin Master.

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/3
-title: Capybara Go! x Teenage Mutant Ninja Turtles!
+title: "Capybara Go x Teenage Mutant Ninja Turtles"
 ---
 
 # Capybara Go! x Teenage Mutant Ninja Turtles!

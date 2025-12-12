@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/loved-this-little-ui-detail-in-magic-sort
-title: Loved this little UI detail in Magic Sort!
+title: "Loved this little UI detail in Magic Sort"
 ---
 
 # Loved this little UI detail in Magic Sort!

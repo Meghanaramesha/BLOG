@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/love-this-rewarded-video-placement-on-the-level-map-in-fortress-merge
-title: Love this rewarded video placement on the level map in Fortress Merge!
+title: "Love this rewarded video placement on the level map in Fortress Merge"
 ---
 
 # Love this rewarded video placement on the level map in Fortress Merge!

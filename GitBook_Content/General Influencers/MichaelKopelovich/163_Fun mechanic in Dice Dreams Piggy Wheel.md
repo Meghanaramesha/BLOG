@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/fun-mechanic-in-dice-dreams-piggy-wheel
-title: Fun mechanic in ‘Dice Dreams’ —Piggy Wheel
+title: "Fun mechanic in Dice Dreams Piggy Wheel"
 ---
 
 # Fun mechanic in ‘Dice Dreams’ —Piggy Wheel

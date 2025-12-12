@@ -1,3 +1,7 @@
+---
+title: "In-Game Advertising for Mobile Ad-Types Examples Pros-Cons  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # In-Game Advertising for Mobile: Ad-Types, Examples, Pros-Cons – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games In-Game Advertising Strategy](./images/in-game-advertising-monetization-strategy-mobile-games_274b3068.png) 

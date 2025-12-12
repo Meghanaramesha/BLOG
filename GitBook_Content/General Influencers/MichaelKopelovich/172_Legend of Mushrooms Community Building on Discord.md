@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/legend-of-mushrooms-community-building-on-discord
-title: Legend of Mushroom’s Community Building on Discord
+title: "Legend of Mushrooms Community Building on Discord"
 ---
 
 # Legend of Mushroom’s Community Building on Discord

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/merge-games-monetization-complete-guide
-title: Merge Games Monetization: Complete Guide
+title: "Merge Games Monetization Complete Guide"
 ---
 
 # Merge Games Monetization: Complete Guide

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 86 - From Hypercasual to Hybridcasual - The Estoty Portfolio story  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #86 - From Hypercasual to Hybridcasual - The Estoty Portfolio story – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-86-1_b86e654d.jpg) 

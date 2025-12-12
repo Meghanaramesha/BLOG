@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/sergeivasiuk/page/5
-title: 10 Signs Of a Decent Game:
+title: "10 Signs Of a Decent Game"
 ---
 
 # 10 Signs Of a Decent Game:

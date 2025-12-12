@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/cross-promotion-done-right-in-seaside-escape
-title: Cross-Promotion Done Right in Seaside Escape
+title: "Cross-Promotion Done Right in Seaside Escape"
 ---
 
 # Cross-Promotion Done Right in Seaside Escape

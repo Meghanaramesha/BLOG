@@ -1,3 +1,7 @@
+---
+title: "Playable Ads case study How we increase D7 ROAS by 50 on Unity Ads.  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Playable Ads case study! How we increase D7 ROAS by 50% on Unity Ads. – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Playable Ads case study! How we increase D7 ROAS by 50% on Unity Ads.](./images/toppngcom-roll-safe-roll-safe-1241x1037-1_5a572347.png) 

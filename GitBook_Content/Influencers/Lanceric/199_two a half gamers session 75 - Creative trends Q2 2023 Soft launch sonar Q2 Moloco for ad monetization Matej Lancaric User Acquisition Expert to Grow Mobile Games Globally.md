@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 75 - Creative trends Q2 2023 Soft launch sonar Q2 Moloco for ad monetization  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #75 - Creative trends Q2 2023, Soft launch sonar Q2, Moloco for ad monetization – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-75_90422036.jpg) 

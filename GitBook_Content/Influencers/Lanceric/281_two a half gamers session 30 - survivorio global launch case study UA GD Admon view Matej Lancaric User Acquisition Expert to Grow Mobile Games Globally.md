@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 30 - survivor.io global launch case study UA GD Admon view  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #30 - survivor.io global launch case study UA, GD, Admon view – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-30_a4bf37c8.png) 

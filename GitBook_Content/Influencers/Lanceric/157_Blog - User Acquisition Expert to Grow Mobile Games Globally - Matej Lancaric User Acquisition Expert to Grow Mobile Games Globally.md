@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![](./images/special-live-ep-400x210_539b4186.png)](https://lancaric.me/two-a-half-gamers-special-live-episode-john-wright-hybrid-casual-is-a-stepping-stone-quality-over-quantity/) 

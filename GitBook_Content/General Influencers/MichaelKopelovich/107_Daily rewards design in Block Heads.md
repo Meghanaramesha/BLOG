@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/daily-rewards-design-in-block-heads
-title: Daily rewards design in Block Heads
+title: "Daily rewards design in Block Heads"
 ---
 
 # Daily rewards design in Block Heads

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/cross-promotion-pop-up-carousel
-title: Cross Promotion: Pop-up Carousel
+title: "Cross Promotion Pop-up Carousel"
 ---
 
 # Cross Promotion: Pop-up Carousel

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 20 - The Ants creative analysis. Which visual theme has the lowest...   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #20 - The Ants creative analysis. Which visual theme has the lowest...  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Lancaricme-3_f1d6806f.png) 

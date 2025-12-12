@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/welcome-back-screen-from-travel-town-by-moon-active
-title: “Welcome Back!” screen from Travel Town by Moon Active!
+title: "Welcome Back screen from Travel Town by Moon Active"
 ---
 
 # “Welcome Back!” screen from Travel Town by Moon Active!

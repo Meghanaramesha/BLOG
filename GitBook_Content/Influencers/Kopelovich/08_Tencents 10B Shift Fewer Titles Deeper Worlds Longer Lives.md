@@ -1,3 +1,7 @@
+---
+title: "Tencents 10B Shift Fewer Titles Deeper Worlds Longer Lives"
+---
+
 # Tencent’s $10B Shift: Fewer Titles, Deeper Worlds, Longer Lives
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/CR1.jpeg)](https://www.gamigion.com/tencents-10b-shift-fewer-titles-deeper-worlds-longer-lives/) 

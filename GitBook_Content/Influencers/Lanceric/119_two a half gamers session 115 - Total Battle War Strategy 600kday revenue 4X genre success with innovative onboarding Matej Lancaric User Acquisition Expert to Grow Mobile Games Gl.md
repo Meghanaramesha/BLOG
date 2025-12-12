@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 115 - Total Battle War Strategy 600kday revenue 4X genre success with innovative onboarding  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #115 - Total Battle War Strategy: $600k/day revenue 4X genre success with innovative onboarding – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-115_4be42970.jpg) 

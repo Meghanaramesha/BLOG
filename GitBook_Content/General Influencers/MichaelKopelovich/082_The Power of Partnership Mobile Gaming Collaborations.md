@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/6
-title: The Power of Partnership: Mobile Gaming Collaborations
+title: "The Power of Partnership Mobile Gaming Collaborations"
 ---
 
 # The Power of Partnership: Mobile Gaming Collaborations

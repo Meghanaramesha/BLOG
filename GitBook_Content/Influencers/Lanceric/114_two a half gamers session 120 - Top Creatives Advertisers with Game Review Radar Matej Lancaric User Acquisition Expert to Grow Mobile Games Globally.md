@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 120 - Top Creatives  Advertisers with Game Review Radar  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #120 - Top Creatives & Advertisers with Game Review Radar! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-120_ca5d2020.jpg) 

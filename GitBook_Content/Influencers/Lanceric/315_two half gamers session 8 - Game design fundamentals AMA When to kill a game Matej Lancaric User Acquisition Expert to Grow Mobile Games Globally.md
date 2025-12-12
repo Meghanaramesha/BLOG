@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 8 - Game design fundamentals  AMA. When to kill a game   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #8 - Game design fundamentals & AMA. When to kill a game?  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/8_2141151c.png) 

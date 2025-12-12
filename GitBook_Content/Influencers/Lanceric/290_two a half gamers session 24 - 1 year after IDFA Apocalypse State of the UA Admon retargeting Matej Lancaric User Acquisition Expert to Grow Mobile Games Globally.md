@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 24 - 1 year after IDFA Apocalypse. State of the UA Admon  retargeting  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #24 - 1 year after IDFA Apocalypse. State of the UA, Admon & retargeting – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-24-lancaric_96fc8c41.png) 

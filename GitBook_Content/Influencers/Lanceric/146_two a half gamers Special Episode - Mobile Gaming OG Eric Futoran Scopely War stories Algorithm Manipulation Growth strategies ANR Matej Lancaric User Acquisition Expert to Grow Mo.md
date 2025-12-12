@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - Mobile Gaming OG Eric Futoran (Scopely) War stories Algorithm Manipulation Growth strategies ANR  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - Mobile Gaming OG Eric Futoran: (Scopely) War stories, Algorithm Manipulation, Growth strategies, ANR – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Lancaricme-1_2bd603c1.jpg) 

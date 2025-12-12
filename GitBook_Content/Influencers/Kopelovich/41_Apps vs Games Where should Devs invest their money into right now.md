@@ -1,3 +1,7 @@
+---
+title: "Apps vs. Games Where should Devs invest their money into right now"
+---
+
 # Apps vs. Games: Where should Devs invest their money into right now?
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/10/JHH.webp)](https://www.gamigion.com/apps-vs-games-where-should-devs-invest-their-money-into-right-now/) 

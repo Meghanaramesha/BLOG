@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 60  Manuel Prueter - How to reduce ANRs  crashes ASO SDK utopia  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #60 & Manuel Prueter - How to reduce ANR's & crashes, ASO, SDK utopia – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-60_cf6d5c6f.png) 

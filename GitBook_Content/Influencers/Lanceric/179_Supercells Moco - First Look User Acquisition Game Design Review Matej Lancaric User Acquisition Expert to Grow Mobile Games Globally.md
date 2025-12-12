@@ -1,3 +1,7 @@
+---
+title: "Supercells Mo.co - First Look User Acquisition  Game Design Review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Supercell's Mo.co - First Look! User Acquisition & Game Design Review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Supercell's Mo.co First Look](./images/Screen-Shot-2023-11-02-at-214723_82380f0c.png) 

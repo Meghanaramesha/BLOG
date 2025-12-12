@@ -1,3 +1,7 @@
+---
+title: "Sentiment Programming and Enforcing in the Games Industry"
+---
+
 # Sentiment Programming and Enforcing in the Games Industry
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/09/ANTP.jpeg)](https://www.gamigion.com/sentiment-programming-and-enforcing-in-the-games-industry/) 

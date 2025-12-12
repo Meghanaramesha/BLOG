@@ -1,3 +1,7 @@
+---
+title: "Mediations in 2025 9 facts out there."
+---
+
 # Mediations in 2025: 9 facts out there.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/06/ALU.webp)](https://www.gamigion.com/mediations-in-2025-9-facts-out-there/) 

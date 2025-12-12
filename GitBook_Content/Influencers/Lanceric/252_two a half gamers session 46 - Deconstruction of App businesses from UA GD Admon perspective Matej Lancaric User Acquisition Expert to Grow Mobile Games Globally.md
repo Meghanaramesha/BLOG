@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 46 - Deconstruction of App businesses from UA GD  Admon perspective  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #46 - Deconstruction of App businesses from UA, GD & Admon perspective – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-46_f1b608b2.png) 

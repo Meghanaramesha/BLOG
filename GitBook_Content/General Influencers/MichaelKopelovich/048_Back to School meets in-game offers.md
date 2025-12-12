@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/back-to-school-meets-in-game-offers
-title: Back to School meets in-game offers!
+title: "Back to School meets in-game offers"
 ---
 
 # Back to School meets in-game offers!

@@ -1,3 +1,7 @@
+---
+title: "Your creative team isnt slow. Your process is broken."
+---
+
 # Your creative team isn’t slow. Your process is broken.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/10/Your-creative-team-isnt-slow.-Your-process-is-broken.jpg)](https://www.gamigion.com/your-creative-team-isnt-slow-your-process-is-broken/) 

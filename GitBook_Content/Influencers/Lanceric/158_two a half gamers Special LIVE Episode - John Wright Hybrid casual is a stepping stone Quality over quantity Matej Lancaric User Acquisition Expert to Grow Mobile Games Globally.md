@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special LIVE Episode - John Wright Hybrid casual is a stepping stone Quality over quantity  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special LIVE Episode - John Wright: Hybrid casual is a stepping stone! Quality over quantity – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/special-live-ep_7a6989d3.png) 

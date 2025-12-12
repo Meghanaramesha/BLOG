@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/journal
-title: Supercell’s New Investment Grants for African Developers
+title: "Supercells New Investment Grants for African Developers"
 ---
 
 # Supercell’s New Investment Grants for African Developers

@@ -1,3 +1,7 @@
+---
+title: "Subscription Models for Mobile Game Monetization  Examples  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Subscription Models for Mobile Game Monetization + Examples – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games Monetization with Subscription Models](./images/subscription-models-monetization-mobile-games_1da059d9.png) 

@@ -1,3 +1,7 @@
+---
+title: "AI Agents - Arcads X Gumloop - Matej Lancaric  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # AI Agents - Arcads X Gumloop - Matej Lancaric – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/arcards_ea8c6a78.png) 

@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![MMP in A Privacy Centric Mobile Ecosystem](./images/lancito_woman_sitting_infront_of_the_computer_thinking_very_har_dc39f541-9277-4429-ba10-5c7635ce92c6-400x210_4e74cca0.png)](https://lancaric.me/how-to-choose-an-mmp-in-a-privacy-centric-mobile-ecosystem/) 

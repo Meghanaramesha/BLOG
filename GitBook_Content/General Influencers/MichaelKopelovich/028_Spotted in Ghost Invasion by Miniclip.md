@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-ghost-invasion-by-miniclip
-title: Spotted in Ghost Invasion by Miniclip
+title: "Spotted in Ghost Invasion by Miniclip"
 ---
 
 # Spotted in Ghost Invasion by Miniclip

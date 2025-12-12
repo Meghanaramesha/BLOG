@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-something-cool-in-royal-match
-title: Spotted something cool in Royal Match!
+title: "Spotted something cool in Royal Match"
 ---
 
 # Spotted something cool in Royal Match!

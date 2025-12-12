@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![](https://lancaric.me/wp-content/uploads/2024/04/session-107-400x210.jpg)](https://lancaric.me/two-a-half-gamers-session-107-squad-busters-is-pay-to-win-true-or-false-leaked-global-launch-strategy-big-game-review/) 

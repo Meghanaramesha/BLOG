@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/10
-title: Coin Master’s Build-Your-Own Offers! 🐷
+title: "Coin Masters Build-Your-Own Offers "
 ---
 
 # Coin Master’s Build-Your-Own Offers! 🐷

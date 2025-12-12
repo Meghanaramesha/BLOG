@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Lucky Defense Success Will it conquer the West A New Tower Defense hitting the charts  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Lucky Defense Success: Will it conquer the West? A New Tower Defense hitting the charts – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/lucky-defense_019a9abe.jpg) 

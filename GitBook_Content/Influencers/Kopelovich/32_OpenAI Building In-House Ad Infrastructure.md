@@ -1,3 +1,7 @@
+---
+title: "OpenAI Building In-House Ad Infrastructure"
+---
+
 # OpenAI Building In-House Ad Infrastructure?
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/OpenAI-Building-In-House-Ad-Infrastructure.jpg)](https://www.gamigion.com/openai-building-in-house-ad-infrastructure/) 

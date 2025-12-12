@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-monetization-strategy-for-event-progression
-title: Interesting Monetization Strategy for Event Progression
+title: "Interesting Monetization Strategy for Event Progression"
 ---
 
 # Interesting Monetization Strategy for Event Progression

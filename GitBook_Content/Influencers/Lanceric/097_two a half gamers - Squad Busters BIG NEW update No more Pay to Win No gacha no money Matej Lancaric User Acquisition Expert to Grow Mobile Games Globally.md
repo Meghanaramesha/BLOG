@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Squad Busters BIG NEW update No more Pay to Win. No gacha no money  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Squad Busters *BIG NEW* update: No more Pay to Win. No gacha, no money! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/squad-busers-lancaric-two-and-a-half-gamers_3e0b5bac.jpg) 

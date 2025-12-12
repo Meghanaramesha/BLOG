@@ -1,3 +1,7 @@
+---
+title: "Its remarkable how long Blizzard has avoided the obvious."
+---
+
 # It’s remarkable how long Blizzard has avoided the obvious.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/Its-remarkable-how-long-Blizzard-has-avoided-the-obvious.jpg)](https://www.gamigion.com/its-remarkable-how-long-blizzard-has-avoided-the-obvious/) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 47 - Creative trends 2023 1 year anniversary - kudos to you  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #47 - Creative trends 2023, 1 year anniversary - kudos to you – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-47_c6568cb1.png) 

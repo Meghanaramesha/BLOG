@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 70 - From hypercasual to hybridcasual - The Voodoo story  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #70 - From hypercasual to hybridcasual - The Voodoo story – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-70_05b1ceba.jpg) 

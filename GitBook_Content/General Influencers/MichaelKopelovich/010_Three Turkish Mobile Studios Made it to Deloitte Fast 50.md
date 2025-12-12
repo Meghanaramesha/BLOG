@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/highlights
-title: Three Turkish Mobile Studios Made it to Deloitte Fast 50
+title: "Three Turkish Mobile Studios Made it to Deloitte Fast 50"
 ---
 
 # Three Turkish Mobile Studios Made it to Deloitte Fast 50

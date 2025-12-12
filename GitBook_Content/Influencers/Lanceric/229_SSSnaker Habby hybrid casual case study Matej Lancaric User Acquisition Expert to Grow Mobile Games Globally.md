@@ -1,3 +1,7 @@
+---
+title: "SSSnaker Habby hybrid casual case study  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # SSSnaker & Habby hybrid casual case study – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![SSSnaker & Habby hybrid casual case study](./images/Screen-Shot-2023-04-01-at-123452_1afb191a.png) 

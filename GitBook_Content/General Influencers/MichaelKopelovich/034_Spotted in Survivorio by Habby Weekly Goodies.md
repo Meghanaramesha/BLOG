@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-survivor-io-by-habby-weekly-goodies
-title: Spotted in Survivor.io by Habby: Weekly Goodies
+title: "Spotted in Survivor.io by Habby Weekly Goodies"
 ---
 
 # Spotted in Survivor.io by Habby: Weekly Goodies

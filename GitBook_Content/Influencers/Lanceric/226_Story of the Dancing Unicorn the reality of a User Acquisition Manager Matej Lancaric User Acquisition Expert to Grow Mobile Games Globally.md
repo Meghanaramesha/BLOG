@@ -1,3 +1,7 @@
+---
+title: "Story of the Dancing Unicorn the reality of a User Acquisition Manager  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Story of the Dancing Unicorn: the reality of a User Acquisition Manager – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Reality of a User Acquisition Manager](./images/Screen-Shot-2023-04-12-at-232106_ac79466c.png) 

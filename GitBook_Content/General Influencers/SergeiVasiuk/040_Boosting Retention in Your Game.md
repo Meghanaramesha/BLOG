@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/sergeivasiuk/page/3
-title: Boosting Retention in Your Game
+title: "Boosting Retention in Your Game"
 ---
 
 # Boosting Retention in Your Game

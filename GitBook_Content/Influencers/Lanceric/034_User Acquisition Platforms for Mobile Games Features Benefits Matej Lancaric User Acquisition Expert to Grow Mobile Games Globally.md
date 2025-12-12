@@ -1,3 +1,7 @@
+---
+title: "User Acquisition Platforms for Mobile Games Features  Benefits  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Acquisition Platforms for Mobile Games: Features & Benefits – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games User Acquisition Platforms Features, Benefits](./images/user-acquisition-platforms-tools-mobile-games_da3df355.png) 

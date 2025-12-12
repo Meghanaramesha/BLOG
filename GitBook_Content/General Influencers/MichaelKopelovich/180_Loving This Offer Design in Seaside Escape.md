@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/13
-title: Loving This Offer Design in Seaside Escape
+title: "Loving This Offer Design in Seaside Escape"
 ---
 
 # Loving This Offer Design in Seaside Escape

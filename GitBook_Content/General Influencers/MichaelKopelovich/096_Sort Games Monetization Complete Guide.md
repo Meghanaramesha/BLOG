@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/7
-title: Sort Games Monetization: Complete Guide
+title: "Sort Games Monetization Complete Guide"
 ---
 
 # Sort Games Monetization: Complete Guide

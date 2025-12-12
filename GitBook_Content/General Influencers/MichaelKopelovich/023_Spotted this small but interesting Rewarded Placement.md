@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-this-small-but-interesting-rewarded-placement
-title: Spotted this small but interesting Rewarded Placement
+title: "Spotted this small but interesting Rewarded Placement"
 ---
 
 # Spotted this small but interesting Rewarded Placement

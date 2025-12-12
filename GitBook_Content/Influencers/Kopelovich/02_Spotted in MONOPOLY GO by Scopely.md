@@ -1,3 +1,7 @@
+---
+title: "Spotted in MONOPOLY GO by Scopely"
+---
+
 # Spotted in MONOPOLY GO by Scopely
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/Spotted-in-MONOPOLY-GO-by-Scopely.jpg)](https://www.gamigion.com/spotted-in-monopoly-go-by-scopely/) 

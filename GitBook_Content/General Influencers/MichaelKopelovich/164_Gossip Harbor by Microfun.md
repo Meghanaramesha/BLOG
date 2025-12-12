@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/gossip-harbor-by-microfun
-title: Gossip Harbor by Microfun
+title: "Gossip Harbor by Microfun"
 ---
 
 # Gossip Harbor by Microfun

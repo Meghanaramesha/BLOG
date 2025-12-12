@@ -1,3 +1,7 @@
+---
+title: "My Perfect Hotel - Idle Arcade Hybrid casual UA case study  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # My Perfect Hotel - Idle Arcade Hybrid casual UA case study – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/351f2342-5e9f-469f-b82c-8b5650bffa5d_b792360b.png) 

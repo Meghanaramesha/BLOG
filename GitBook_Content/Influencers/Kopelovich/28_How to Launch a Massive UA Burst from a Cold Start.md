@@ -1,3 +1,7 @@
+---
+title: "How to Launch a Massive UA Burst from a Cold Start"
+---
+
 # How to Launch a Massive UA Burst from a Cold Start
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/How-to-Launch-a-Massive-UA-Burst-from-a-Cold-Start.jpg)](https://www.gamigion.com/how-to-launch-a-massive-ua-burst-from-a-cold-start/) 

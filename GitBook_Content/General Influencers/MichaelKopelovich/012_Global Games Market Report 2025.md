@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/reports
-title: Global Games Market Report 2025
+title: "Global Games Market Report 2025"
 ---
 
 # Global Games Market Report 2025

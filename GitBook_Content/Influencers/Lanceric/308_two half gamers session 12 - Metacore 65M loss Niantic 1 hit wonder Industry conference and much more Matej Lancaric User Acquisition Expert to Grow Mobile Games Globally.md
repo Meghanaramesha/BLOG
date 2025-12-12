@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 12 - Metacore 65M loss Niantic 1 hit wonder Industry conference and much more   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #12 - Metacore 65M loss, Niantic 1 hit wonder, Industry conference and much more  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/episode-12_e70a7642.png) 

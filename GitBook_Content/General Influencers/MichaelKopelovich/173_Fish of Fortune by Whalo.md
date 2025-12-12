@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/fish-of-fortune-by-whalo
-title: Fish of Fortune by Whalo
+title: "Fish of Fortune by Whalo"
 ---
 
 # Fish of Fortune by Whalo

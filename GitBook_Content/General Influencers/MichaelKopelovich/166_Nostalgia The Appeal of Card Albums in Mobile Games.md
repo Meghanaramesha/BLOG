@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/12
-title: Nostalgia: The Appeal of Card Albums in Mobile Games
+title: "Nostalgia The Appeal of Card Albums in Mobile Games"
 ---
 
 # Nostalgia: The Appeal of Card Albums in Mobile Games

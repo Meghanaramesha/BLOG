@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 111 - Screw Jam success story How to reach 250kday revenue Innovative  satisfying hybrid casual game  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #111 - Screw Jam success story: How to reach $250k/day revenue? Innovative & satisfying hybrid casual game – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-111_c7d8ba44.png) 

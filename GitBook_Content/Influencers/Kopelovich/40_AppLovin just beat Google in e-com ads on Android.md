@@ -1,3 +1,7 @@
+---
+title: "AppLovin just beat Google in e-com ads on Android."
+---
+
 # AppLovin just beat Google in e-com ads on Android.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/AppLovin-just-beat-Google-in-e-com-ads-on-Android.jpg)](https://www.gamigion.com/applovin-just-beat-google-in-e-com-ads-on-android/) 

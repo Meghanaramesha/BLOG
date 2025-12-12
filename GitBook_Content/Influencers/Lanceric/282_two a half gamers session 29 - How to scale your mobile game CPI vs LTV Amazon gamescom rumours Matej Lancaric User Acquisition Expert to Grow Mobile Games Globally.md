@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 29 - How to scale your mobile game CPI vs LTV Amazon gamescom rumours  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #29 - How to scale your mobile game, CPI vs LTV, Amazon gamescom rumours – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Lancaricme_-2_a25ac1ea.png) 

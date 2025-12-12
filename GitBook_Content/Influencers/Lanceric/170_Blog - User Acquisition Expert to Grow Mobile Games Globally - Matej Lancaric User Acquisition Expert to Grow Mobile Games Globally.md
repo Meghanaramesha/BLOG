@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![Supercell's Clash Mini Softlaunch - Big Update review](./images/Screen-Shot-2023-12-19-at-231024-400x210_b652ec26.png)](https://lancaric.me/supercells-clash-mini-softlaunch-big-update-review/) 

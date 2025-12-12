@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Pokmon TCG Pocket Exploring a Billion Dollar Nostalgic Journey  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Pokémon TCG Pocket: Exploring a Billion Dollar Nostalgic Journey – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/pokemon-tc-g-poecket_479156e0.png) 

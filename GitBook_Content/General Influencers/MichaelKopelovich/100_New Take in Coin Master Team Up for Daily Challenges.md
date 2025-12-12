@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/new-take-in-coin-master-team-up-for-daily-challenges
-title: New Take in Coin Master: Team Up for Daily Challenges
+title: "New Take in Coin Master Team Up for Daily Challenges"
 ---
 
 # New Take in Coin Master: Team Up for Daily Challenges

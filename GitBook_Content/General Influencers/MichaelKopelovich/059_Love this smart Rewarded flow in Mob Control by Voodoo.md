@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/love-this-smart-rewarded-flow-in-mob-control-by-voodoo
-title: Love this smart Rewarded flow in Mob Control by Voodoo!
+title: "Love this smart Rewarded flow in Mob Control by Voodoo"
 ---
 
 # Love this smart Rewarded flow in Mob Control by Voodoo!

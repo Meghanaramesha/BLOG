@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/events
-title: Events - Gamigion: Mobile Games Industry News
+title: "Events - Gamigion Mobile Games Industry News"
 ---
 
 # Events - Gamigion: Mobile Games Industry News

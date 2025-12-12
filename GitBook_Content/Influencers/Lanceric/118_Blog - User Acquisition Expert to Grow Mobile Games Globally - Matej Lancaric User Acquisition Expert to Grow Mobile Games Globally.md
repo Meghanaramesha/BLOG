@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![](./images/session-115-400x210_88f4b8a3.jpg)](https://lancaric.me/two-a-half-gamers-session-115-total-battle-war-strategy-600k-day-revenue-4x-genre-success-with-innovative-onboarding/) 

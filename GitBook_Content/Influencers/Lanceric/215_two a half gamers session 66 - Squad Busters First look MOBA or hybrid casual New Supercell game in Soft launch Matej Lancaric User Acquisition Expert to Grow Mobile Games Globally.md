@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 66 - Squad Busters First look MOBA or hybrid casual New Supercell game in Soft launch  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #66 - Squad Busters: First look! MOBA or hybrid casual? New Supercell game in Soft launch  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-66_010c44d0.jpg) 

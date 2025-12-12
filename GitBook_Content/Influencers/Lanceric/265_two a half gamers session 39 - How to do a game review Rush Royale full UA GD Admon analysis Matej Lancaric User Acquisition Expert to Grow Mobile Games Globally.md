@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 39 - How to do a game review Rush Royale full UA GD Admon analysis  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #39 - How to do a game review? Rush Royale full UA, GD, Admon analysis – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-39_32ebb60c.png) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/welcome-back-event
-title: Welcome Back event?
+title: "Welcome Back event"
 ---
 
 # Welcome Back event?

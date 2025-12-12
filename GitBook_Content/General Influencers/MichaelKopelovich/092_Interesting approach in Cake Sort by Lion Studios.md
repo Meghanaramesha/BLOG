@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-approach-in-cake-sort-by-lion-studios
-title: Interesting approach in Cake Sort by Lion Studios
+title: "Interesting approach in Cake Sort by Lion Studios"
 ---
 
 # Interesting approach in Cake Sort by Lion Studios

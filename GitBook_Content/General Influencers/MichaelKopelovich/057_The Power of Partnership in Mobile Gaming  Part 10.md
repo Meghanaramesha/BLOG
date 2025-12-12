@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10
-title: The Power of Partnership in Mobile Gaming – Part #10
+title: "The Power of Partnership in Mobile Gaming  Part 10"
 ---
 
 # The Power of Partnership in Mobile Gaming – Part #10

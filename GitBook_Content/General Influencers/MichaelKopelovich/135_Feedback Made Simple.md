@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/feedback-made-simple
-title: Feedback Made Simple!
+title: "Feedback Made Simple"
 ---
 
 # Feedback Made Simple!

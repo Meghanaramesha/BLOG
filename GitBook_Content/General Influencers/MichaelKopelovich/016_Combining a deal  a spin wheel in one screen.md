@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/combining-a-deal-a-spin-wheel-in-one-screen
-title: Combining a deal + a spin wheel in one screen.
+title: "Combining a deal  a spin wheel in one screen."
 ---
 
 # Combining a deal + a spin wheel in one screen.

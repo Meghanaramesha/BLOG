@@ -1,3 +1,7 @@
+---
+title: "Tried to run a Web2App campaign on iOS and our whole account got rejected."
+---
+
 # Tried to run a Web2App campaign on iOS and our whole account got rejected.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

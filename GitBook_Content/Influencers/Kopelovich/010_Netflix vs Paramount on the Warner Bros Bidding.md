@@ -1,3 +1,7 @@
+---
+title: "Netflix vs. Paramount on the Warner Bros Bidding"
+---
+
 # Netflix vs. Paramount on the Warner Bros Bidding
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

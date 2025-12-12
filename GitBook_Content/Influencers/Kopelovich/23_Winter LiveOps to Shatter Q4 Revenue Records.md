@@ -1,3 +1,7 @@
+---
+title: "Winter LiveOps to Shatter Q4 Revenue Records"
+---
+
 # Winter LiveOps to Shatter Q4 Revenue Records!
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/10/Winter-LiveOps-to-Shatter-Q4-Revenue-Records-1-993x1240.jpg)](https://www.gamigion.com/winter-liveops-to-shatter-q4-revenue-records/) 

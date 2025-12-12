@@ -1,3 +1,7 @@
+---
+title: "3 Three steps to a killer soft launch  Mobile User Acquisition show podcast  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # 3️⃣ Three steps to a killer soft launch – Mobile User Acquisition show podcast – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/Screen-Shot-2020-05-01-at-151545_7c10eca7.png) 

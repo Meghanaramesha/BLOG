@@ -1,3 +1,7 @@
+---
+title: "SuperPlay did the one thing were all trying to crack"
+---
+
 # SuperPlay did the one thing we’re all trying to crack!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

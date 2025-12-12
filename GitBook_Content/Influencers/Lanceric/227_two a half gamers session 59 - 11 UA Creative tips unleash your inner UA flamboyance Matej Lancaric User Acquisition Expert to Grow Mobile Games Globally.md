@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 59 - 11 UA  Creative tips  unleash your inner UA flamboyance  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #59 - 11 UA & Creative tips,   unleash your inner UA flamboyance – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-59_302f39a5.png) 

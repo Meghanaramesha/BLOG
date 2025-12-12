@@ -1,3 +1,7 @@
+---
+title: "How to Save Millions With Marketability Testing  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to Save Millions With Marketability Testing – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Save Millions With Marketability Testing](./images/How-to-Save-Millions-With-Marketability-Testing-cover_16972a07.png) 

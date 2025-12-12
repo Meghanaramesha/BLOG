@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/car-match-by-grand-games-surprised-by-their-daily-task-system
-title: Car Match by Grand Games: Surprised by their Daily Task system.
+title: "Car Match by Grand Games Surprised by their Daily Task system."
 ---
 
 # Car Match by Grand Games: Surprised by their Daily Task system.

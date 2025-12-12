@@ -1,3 +1,7 @@
+---
+title: "Blog - User Acquisition Expert to Grow Mobile Games Globally -  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Blog - User Acquisition Expert to Grow Mobile Games Globally - – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 [![Role of Blockchain on Mobile Games Growth](./images/impact-of-blockchain-mobile-games-growth-400x210_df4ded74.png)](https://lancaric.me/blockchain-in-ua-mobile-games/) 

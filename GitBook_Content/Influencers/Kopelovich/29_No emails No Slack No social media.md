@@ -1,3 +1,7 @@
+---
+title: "No emails. No Slack. No social media."
+---
+
 # No emails. No Slack. No social media.
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/06/No-emails.-No-Slack.-No-social-media.jpg)](https://www.gamigion.com/no-emails-no-slack-no-social-media/) 

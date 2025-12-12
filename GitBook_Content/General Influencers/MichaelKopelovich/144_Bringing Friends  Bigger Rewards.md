@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/bringing-friends-bigger-rewards
-title: Bringing Friends = Bigger Rewards!
+title: "Bringing Friends  Bigger Rewards"
 ---
 
 # Bringing Friends = Bigger Rewards!

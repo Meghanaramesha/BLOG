@@ -1,3 +1,7 @@
+---
+title: "Spotted in MONOPOLY GO by Scopely"
+---
+
 # Spotted in MONOPOLY GO by Scopely
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/CR1-349x620.jpeg)](https://www.gamigion.com/tencents-10b-shift-fewer-titles-deeper-worlds-longer-lives/) 

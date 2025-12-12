@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Blossom Sort Game Review Exploring the Future of casual games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Blossom Sort Game Review: Exploring the Future of casual games – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/blossom_0e593c55.png) 

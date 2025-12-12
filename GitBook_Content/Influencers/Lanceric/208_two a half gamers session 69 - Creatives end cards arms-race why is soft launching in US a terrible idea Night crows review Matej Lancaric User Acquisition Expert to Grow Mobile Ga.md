@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 69 - Creatives end cards arms-race why is soft launching in US a terrible idea Night crows review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #69 - Creatives end cards arms-race, why is soft launching in US a terrible idea? Night crows review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-69-cover_db571acf.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "Supercells Floodrush First look User Acquisition  game design review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Supercell's Floodrush: First look! User Acquisition & game design review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Supercell's Floodrush: First look! User Acquisition & game design review](./images/floodrush_26d0ef9a.jpeg) 

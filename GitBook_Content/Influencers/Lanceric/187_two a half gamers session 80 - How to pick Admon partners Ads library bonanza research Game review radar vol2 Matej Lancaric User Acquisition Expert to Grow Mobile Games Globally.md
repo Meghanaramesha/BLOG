@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 80 - How to pick Admon partners Ads library bonanza  research Game review radar vol2  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #80 - How to pick Admon partners, Ads library bonanza & research, Game review radar vol2 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](./images/session-80_c8817ac4.png) 

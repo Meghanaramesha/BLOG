@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/super-cool-event-in-twisted-tangle-by-rollic-games
-title: Super Cool Event in “Twisted Tangle” by Rollic Games
+title: "Super Cool Event in Twisted Tangle by Rollic Games"
 ---
 
 # Super Cool Event in “Twisted Tangle” by Rollic Games
