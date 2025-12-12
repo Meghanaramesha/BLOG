@@ -1,0 +1,680 @@
+2025-12-12 16:33:10,668 INFO === SCRAPING FelixBraberg_Substack ===
+2025-12-12 16:33:11,746 INFO Page https://felixbraberg.substack.com/archive?sort=new -> 12 links
+2025-12-12 16:33:11,811 INFO FelixBraberg_Substack: FOUND 12 article links
+2025-12-12 16:33:11,960 INFO Saved: https://felixbraberg.substack.com/p/the-greatest-fake-onboarding-of-all -> 001_The Greatest Fake Onboarding of All Time.md
+2025-12-12 16:33:12,113 INFO Saved: https://felixbraberg.substack.com/p/from-44-to-72-vietnams-studio-surge -> 009_From 44 to 72 Vietnams Studio Surge Continues.md
+2025-12-12 16:33:12,265 INFO Saved: https://felixbraberg.substack.com/p/end-cards-the-silent-driver-of-player -> 010_End Cards The Silent Driver of Player Retention.md
+2025-12-12 16:33:12,422 INFO Saved: https://felixbraberg.substack.com/p/are-ads-falling-out-of-fashion -> 011_Are Ads Falling Out of Fashion.md
+2025-12-12 16:33:12,624 INFO Saved: https://felixbraberg.substack.com/p/six-ad-placements-that-delivered -> 012_Six Ad Placements That Delivered in 2025 So Far.md
+2025-12-12 16:33:12,916 INFO Saved: https://felixbraberg.substack.com/p/is-coin-master-adding-in-game-ads -> 007_Is Coin Master Adding in Game Ads.md
+2025-12-12 16:33:13,099 INFO Saved: https://felixbraberg.substack.com/p/the-1-banner-ad-mistake-youre-still -> 002_The 1 Banner Ad Mistake Youre Still Making.md
+2025-12-12 16:33:13,117 INFO Saved: https://felixbraberg.substack.com/p/hungrystudio-is-hungry-for-more -> 006_HungryStudio is hungry for more.md
+2025-12-12 16:33:13,132 INFO Saved: https://felixbraberg.substack.com/p/lessmores-first-release-under-miniclip -> 005_Lessmores first release under Miniclip ownership.md
+2025-12-12 16:33:13,204 INFO Saved: https://felixbraberg.substack.com/p/banners-the-walking-dead-of-mobile -> 008_Banners The Walking Dead of Mobile Ads.md
+2025-12-12 16:33:13,570 INFO Saved: https://felixbraberg.substack.com/p/8-jolly-ad-monetization-tips-for -> 004_8 Jolly Ad Monetization Tips for Black Friday Weekend.md
+2025-12-12 16:33:13,791 INFO Saved: https://felixbraberg.substack.com/p/candy-crush-is-crushing-it-with-ad -> 003_Candy Crush is Crushing it with Ad Revenue.md
+2025-12-12 16:33:14,795 INFO === SCRAPING FelixBraberg_Blog ===
+2025-12-12 16:33:16,267 INFO Page https://www.felixbraberg.com/blog -> 12 links
+2025-12-12 16:33:16,303 INFO FelixBraberg_Blog: FOUND 12 article links
+2025-12-12 16:33:16,737 INFO Saved: https://www.felixbraberg.com/about-me -> 001_About Me  FelixBrabergcom.md
+2025-12-12 16:33:16,763 INFO No content extracted for https://www.felixbraberg.com/podcast
+2025-12-12 16:33:16,765 INFO Skipped/failed: https://www.felixbraberg.com/podcast
+2025-12-12 16:33:16,902 INFO Saved: https://www.felixbraberg.com/post/the-end-of-gam-networks-on-mobile -> 008_The End of GAM Networks on Mobile.md
+2025-12-12 16:33:16,903 INFO Saved: https://www.felixbraberg.com/post/the-price-of-progress-the-revenue-impact-of-google-deprecating-placements-and-gam-resellers -> 006_The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers.md
+2025-12-12 16:33:16,993 INFO Saved: https://www.felixbraberg.com/post/frozen-city-s-3-million-a-month-admon-blunder -> 009_Frozen Citys 3 million a month Admon blunder.md
+2025-12-12 16:33:17,048 INFO Saved: https://www.felixbraberg.com/contact -> 004_Contact  FelixBrabergcom.md
+2025-12-12 16:33:17,130 INFO Saved: https://www.felixbraberg.com/post/is-amazon-publisher-services-about-to-go-supernova-in-mobile -> 010_Is Amazon Publisher Services about to go supernova in Mobile.md
+2025-12-12 16:33:17,226 INFO Saved: https://www.felixbraberg.com/post/3-ad-monetization-tips-on-how-maximize-fill-in-india -> 012_3 Ad Monetization tips on how maximize fill in India.md
+2025-12-12 16:33:17,283 INFO Saved: https://www.felixbraberg.com/post/google-s-new-cmp-requirements-integrate-or-die -> 007_Googles New CMP Requirements - Integrate or Die.md
+2025-12-12 16:33:17,367 INFO Saved: https://www.felixbraberg.com/blog -> 003_Blog  FelixBrabergcom.md
+2025-12-12 16:33:17,601 INFO Saved: https://www.felixbraberg.com/post/the-end-of-gam-and-admob-placement-refreshes -> 005_The End of GAM and Admob Placement Refreshes.md
+2025-12-12 16:33:17,666 INFO Saved: https://www.felixbraberg.com/post/is-admob-removing-its-three-placement-limit -> 011_Is Admob removing its three placement limit.md
+2025-12-12 16:33:18,675 INFO === SCRAPING MichaelKopelovich ===
+2025-12-12 16:33:24,143 INFO Page https://www.gamigion.com/author/kopelovich -> 27 links
+2025-12-12 16:33:24,851 INFO Page https://www.gamigion.com/author/kopelovich/page/2/ -> 28 links
+2025-12-12 16:33:25,553 INFO Page https://www.gamigion.com/author/kopelovich/page/3/ -> 28 links
+2025-12-12 16:33:26,460 INFO Page https://www.gamigion.com/author/kopelovich/page/4/ -> 28 links
+2025-12-12 16:33:27,820 INFO Page https://www.gamigion.com/author/kopelovich/page/5/ -> 28 links
+2025-12-12 16:33:28,751 INFO Page https://www.gamigion.com/author/kopelovich/page/6/ -> 28 links
+2025-12-12 16:33:31,274 INFO Page https://www.gamigion.com/author/kopelovich/page/7/ -> 28 links
+2025-12-12 16:33:33,123 INFO Page https://www.gamigion.com/author/kopelovich/page/8/ -> 28 links
+2025-12-12 16:33:44,131 INFO Page https://www.gamigion.com/author/kopelovich/page/9/ -> 28 links
+2025-12-12 16:33:50,014 INFO Page https://www.gamigion.com/author/kopelovich/page/10/ -> 28 links
+2025-12-12 16:33:54,136 INFO Page https://www.gamigion.com/author/kopelovich/page/11/ -> 28 links
+2025-12-12 16:33:56,712 INFO Page https://www.gamigion.com/author/kopelovich/page/12/ -> 28 links
+2025-12-12 16:33:59,551 INFO Page https://www.gamigion.com/author/kopelovich/page/13/ -> 28 links
+2025-12-12 16:34:02,291 INFO Page https://www.gamigion.com/author/kopelovich/page/14/ -> 28 links
+2025-12-12 16:34:04,498 INFO Page https://www.gamigion.com/author/kopelovich/page/15/ -> 18 links
+2025-12-12 16:34:04,504 INFO MichaelKopelovich: FOUND 213 article links
+2025-12-12 16:34:05,964 INFO Saved: https://www.gamigion.com/category/events -> 008_PGC London  19-20 January.md
+2025-12-12 16:34:06,772 INFO Saved: https://www.gamigion.com/category/game-radar -> 009_Dont Miss These New Mobile Games   November 28 to December 4 2025.md
+2025-12-12 16:34:06,774 INFO Saved: https://www.gamigion.com/category/analysis -> 007_Hybridcasual Boom Beyond China Turkey and Vietnam.md
+2025-12-12 16:34:08,763 INFO Saved: https://www.gamigion.com/journal -> 002_Journal - Gamigion Mobile Games Industry News.md
+2025-12-12 16:34:09,427 INFO Saved: https://www.gamigion.com/author/kopelovich -> 006_December in Mobile Games  IP Season.md
+2025-12-12 16:34:10,057 INFO Saved: https://www.gamigion.com/category/reports -> 012_Global Games Market Report 2025.md
+2025-12-12 16:34:12,163 INFO Saved: https://www.gamigion.com/reports -> 003_Reports - Gamigion Mobile Games Industry News.md
+2025-12-12 16:34:12,487 INFO Saved: https://www.gamigion.com/games-radar -> 001_Games Radar - Gamigion Mobile Games Industry News.md
+2025-12-12 16:34:12,661 INFO Saved: https://www.gamigion.com/about -> 005_Whos there - Gamigion Mobile Games Industry News.md
+2025-12-12 16:34:14,543 INFO Saved: https://www.gamigion.com/category/journal -> 011_The Greatest Fake Onboarding of All Time.md
+2025-12-12 16:34:15,401 INFO Saved: https://www.gamigion.com/category/highlights -> 010_The Greatest Fake Onboarding of All Time.md
+2025-12-12 16:34:17,721 INFO Saved: https://www.gamigion.com/events -> 004_Events - Gamigion Mobile Games Industry News.md
+2025-12-12 16:34:19,878 INFO Saved: https://www.gamigion.com/december-in-mobile-games-ip-season -> 013_December in Mobile Games  IP Season.md
+2025-12-12 16:34:31,256 INFO Saved: https://www.gamigion.com/spotted-in-monopoly-go-by-scopely -> 014_Spotted in MONOPOLY GO by Scopely.md
+2025-12-12 16:34:32,748 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/spotted-in-legend-of-elements-by-joy-nice-games
+2025-12-12 16:34:33,065 INFO Saved: https://www.gamigion.com/combining-a-deal-a-spin-wheel-in-one-screen -> 016_Combining a deal  a spin wheel in one screen.md
+2025-12-12 16:34:33,800 INFO Saved: https://www.gamigion.com/spotted-in-disney-magic-match-3d -> 017_Spotted in Disney Magic Match 3D.md
+2025-12-12 16:34:35,527 INFO Saved: https://www.gamigion.com/spotted-this-in-zen-match -> 019_Spotted this in Zen Match.md
+2025-12-12 16:34:36,743 INFO Saved: https://www.gamigion.com/interesting-design-choice-in-gossip-harbors-wheel-of-chance -> 020_Interesting design choice in Gossip Harbors Wheel of Chance.md
+2025-12-12 16:34:36,743 INFO Saved: https://www.gamigion.com/author/kopelovich/page/2 -> 025_Spotted in Ghost Invasion by Miniclip.md
+2025-12-12 16:34:37,243 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/spotted-in-pencil-sort-by-onetap-global
+2025-12-12 16:34:39,136 INFO Saved: https://www.gamigion.com/spotted-in-pencil-sort-by-onetap-global -> 018_Spotted in Pencil Sort by Onetap Global.md
+2025-12-12 16:34:40,303 INFO Saved: https://www.gamigion.com/spotted-in-triple-factory-visual-reward-path-integrated-into-the-ftue -> 021_Spotted in Triple Factory Visual reward path integrated into the FTUE.md
+2025-12-12 16:34:41,756 INFO Saved: https://www.gamigion.com/spotted-in-legend-of-elements-by-joy-nice-games -> 015_Spotted in Legend of Elements by Joy Nice Games.md
+2025-12-12 16:34:44,102 INFO Saved: https://www.gamigion.com/wp-login.php?action=lostpassword -> 027_untitled.md
+2025-12-12 16:34:50,251 INFO Saved: https://www.gamigion.com/brawl-stars-x-stranger-things -> 022_Brawl Stars x Stranger Things.md
+2025-12-12 16:34:50,334 INFO Saved: https://www.gamigion.com/spotted-this-small-but-interesting-rewarded-placement -> 023_Spotted this small but interesting Rewarded Placement.md
+2025-12-12 16:34:52,091 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdecember-in-mobile-games-ip-season%2F&action=register -> 026_untitled.md
+2025-12-12 16:34:57,187 INFO Saved: https://www.gamigion.com/spotted-in-water-out-puzzle-by-hm-games -> 029_Spotted in Water Out Puzzle by HM Games.md
+2025-12-12 16:34:57,656 INFO Saved: https://www.gamigion.com/spotted-something-cool-in-royal-match -> 024_Spotted something cool in Royal Match.md
+2025-12-12 16:34:58,736 INFO Saved: https://www.gamigion.com/spotted-in-ghost-invasion-by-miniclip -> 028_Spotted in Ghost Invasion by Miniclip.md
+2025-12-12 16:35:02,335 INFO Saved: https://www.gamigion.com/spotted-in-gossip-harbor-by-microfun -> 030_Spotted in Gossip Harbor by Microfun.md
+2025-12-12 16:35:03,830 INFO Saved: https://www.gamigion.com/love-this-rewarded-video-placement-on-the-level-map-in-fortress-merge -> 031_Love this rewarded video placement on the level map in Fortress Merge.md
+2025-12-12 16:35:04,904 INFO Saved: https://www.gamigion.com/fan-of-event-loading-screens-in-mobile-games -> 032_Fan of event loading screens in mobile games.md
+2025-12-12 16:35:05,350 INFO Saved: https://www.gamigion.com/monopoly-go-x-mcdonalds -> 033_MONOPOLY GO x McDonalds.md
+2025-12-12 16:35:06,043 INFO Saved: https://www.gamigion.com/author/kopelovich/page/3 -> 040_Capybara Go x Teenage Mutant Ninja Turtles.md
+2025-12-12 16:35:12,128 INFO Saved: https://www.gamigion.com/capybara-go-x-teenage-mutant-ninja-turtles -> 042_Capybara Go x Teenage Mutant Ninja Turtles.md
+2025-12-12 16:35:12,489 INFO Saved: https://www.gamigion.com/spotted-in-survivor-io-by-habby-weekly-goodies -> 034_Spotted in Survivorio by Habby Weekly Goodies.md
+2025-12-12 16:35:13,194 INFO Saved: https://www.gamigion.com/spotted-a-clever-retention-trick-on-ios-in-block-jam -> 035_Spotted a clever retention trick on iOS in Block Jam.md
+2025-12-12 16:35:15,051 INFO Saved: https://www.gamigion.com/com2us-minion-rumble-is-featuring-habbys-capybara-go -> 036_Com2uS Minion Rumble is featuring Habbys Capybara Go.md
+2025-12-12 16:35:19,253 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/spotted-in-souls-by-habby-a-smart-twist-on-daily-login-rewards
+2025-12-12 16:35:19,968 INFO Saved: https://www.gamigion.com/spotted-two-interesting-social-layers-in-coin-master -> 039_Spotted two interesting social layers in Coin Master.md
+2025-12-12 16:35:21,336 INFO Saved: https://www.gamigion.com/loved-this-little-ui-detail-in-magic-sort -> 038_Loved this little UI detail in Magic Sort.md
+2025-12-12 16:35:23,940 INFO Saved: https://www.gamigion.com/spotted-in-souls-by-habby-a-smart-twist-on-daily-login-rewards -> 037_Spotted in Souls by Habby a smart twist on daily login rewards.md
+2025-12-12 16:35:25,954 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fspotted-in-ghost-invasion-by-miniclip%2F&action=register -> 041_untitled.md
+2025-12-12 16:35:30,394 INFO Saved: https://www.gamigion.com/mobile-game-monetization-design-insights-sep-14-19 -> 043_Mobile Game Monetization  Design Insights Sep 14-19.md
+2025-12-12 16:35:31,254 INFO Saved: https://www.gamigion.com/%f0%9f%8e%af-event-calendars-in-mobile-games -> 044_Event Calendars in Mobile Games.md
+2025-12-12 16:35:33,340 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/back-to-school-meets-in-game-offers
+2025-12-12 16:35:34,629 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards
+2025-12-12 16:35:35,955 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/fortress-merge-speed-up-offers
+2025-12-12 16:35:38,140 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/spotted-something-interesting-in-legend-of-mushroom
+2025-12-12 16:35:41,359 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/mobile-game-monetization-design-insights-september-recap
+2025-12-12 16:35:42,243 INFO Saved: https://www.gamigion.com/spotted-something-interesting-in-legend-of-mushroom -> 046_Spotted something interesting in Legend of Mushroom.md
+2025-12-12 16:35:43,261 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen
+2025-12-12 16:35:48,216 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/spotted-these-fun-follow-screens-in-coin-master
+2025-12-12 16:35:49,527 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards
+2025-12-12 16:35:52,590 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/nice-touch-in-archero-2-choose-your-own-reward
+2025-12-12 16:35:54,652 INFO Saved: https://www.gamigion.com/nice-touch-in-archero-2-choose-your-own-reward -> 051_Nice touch in Archero 2 Choose your own reward.md
+2025-12-12 16:35:55,479 INFO Saved: https://www.gamigion.com/author/kopelovich/page/4 -> 054_Welcome Back Pass designed for returning users on Survivorio.md
+2025-12-12 16:35:56,585 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/mobile-game-monetization-design-insights-september-recap
+2025-12-12 16:35:56,785 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/back-to-school-meets-in-game-offers
+2025-12-12 16:35:57,319 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen
+2025-12-12 16:35:59,000 INFO Saved: https://www.gamigion.com/fortress-merge-speed-up-offers -> 049_Fortress Merge Speed Up Offers.md
+2025-12-12 16:36:01,779 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/spotted-these-fun-follow-screens-in-coin-master
+2025-12-12 16:36:03,433 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/spotted-a-fun-event-in-minion-rumble
+2025-12-12 16:36:04,285 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards
+2025-12-12 16:36:06,847 ERROR Giving up on https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards after 3 attempts
+2025-12-12 16:36:06,847 INFO No html for https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards
+2025-12-12 16:36:06,847 INFO Skipped/failed: https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards
+2025-12-12 16:36:08,446 INFO Saved: https://www.gamigion.com/back-to-school-meets-in-game-offers -> 048_Back to School meets in-game offers.md
+2025-12-12 16:36:11,901 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen
+2025-12-12 16:36:12,436 INFO Saved: https://www.gamigion.com/mobile-game-monetization-design-insights-september-recap -> 047_Mobile Game Monetization  Design Insights Sep 8-14.md
+2025-12-12 16:36:12,972 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fcapybara-go-x-teenage-mutant-ninja-turtles%2F&action=register -> 055_untitled.md
+2025-12-12 16:36:13,927 INFO Saved: https://www.gamigion.com/spotted-a-fun-event-in-minion-rumble -> 053_Spotted a fun event in Minion Rumble.md
+2025-12-12 16:36:14,463 ERROR Giving up on https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen after 3 attempts
+2025-12-12 16:36:14,463 INFO No html for https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen
+2025-12-12 16:36:14,463 INFO Skipped/failed: https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen
+2025-12-12 16:36:14,579 INFO Saved: https://www.gamigion.com/spotted-these-fun-follow-screens-in-coin-master -> 050_Spotted these fun follow screens in Coin Master.md
+2025-12-12 16:36:19,046 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io
+2025-12-12 16:36:28,960 INFO Saved: https://www.gamigion.com/such-a-simple-but-powerful-ux-touch -> 058_Such a simple but powerful UX touch.md
+2025-12-12 16:36:31,173 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10
+2025-12-12 16:36:34,379 INFO Saved: https://www.gamigion.com/love-this-smart-rewarded-flow-in-mob-control-by-voodoo -> 059_Love this smart Rewarded flow in Mob Control by Voodoo.md
+2025-12-12 16:36:34,633 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io
+2025-12-12 16:36:35,182 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/car-match-by-grand-games-is-full-of-thoughtful-touches
+2025-12-12 16:36:35,734 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/just-loved-this-clean-offer-design-from-color-slide-by-saygames
+2025-12-12 16:36:37,812 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/in-game-discord-invite-in-cook-merge-by-supersolid
+2025-12-12 16:36:39,284 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/loved-this-3-day-starter-pack-design
+2025-12-12 16:36:40,967 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/car-match-by-grand-games-surprised-by-their-daily-task-system
+2025-12-12 16:36:45,818 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10
+2025-12-12 16:36:48,761 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/car-match-by-grand-games-is-full-of-thoughtful-touches
+2025-12-12 16:36:49,730 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io
+2025-12-12 16:36:51,358 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/just-loved-this-clean-offer-design-from-color-slide-by-saygames
+2025-12-12 16:36:51,432 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/in-game-discord-invite-in-cook-merge-by-supersolid
+2025-12-12 16:36:52,297 ERROR Giving up on https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io after 3 attempts
+2025-12-12 16:36:52,319 INFO No html for https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io
+2025-12-12 16:36:52,320 INFO Skipped/failed: https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io
+2025-12-12 16:36:53,416 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/loved-this-3-day-starter-pack-design
+2025-12-12 16:36:55,765 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/car-match-by-grand-games-surprised-by-their-daily-task-system
+2025-12-12 16:36:57,708 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/noticed-this-cross-promo-in-word-trip-by-playsimple-games
+2025-12-12 16:37:00,154 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10
+2025-12-12 16:37:01,856 INFO Saved: https://www.gamigion.com/car-match-by-grand-games-is-full-of-thoughtful-touches -> 060_Car Match by Grand Games is full of thoughtful touches.md
+2025-12-12 16:37:02,715 ERROR Giving up on https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10 after 3 attempts
+2025-12-12 16:37:02,715 INFO No html for https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10
+2025-12-12 16:37:02,715 INFO Skipped/failed: https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10
+2025-12-12 16:37:04,293 INFO Saved: https://www.gamigion.com/just-loved-this-clean-offer-design-from-color-slide-by-saygames -> 061_Just loved this clean offer design from Color Slide by SayGames.md
+2025-12-12 16:37:04,294 INFO Saved: https://www.gamigion.com/author/kopelovich/page/5 -> 068_Another new cat-themed puzzle game just dropped.md
+2025-12-12 16:37:06,492 INFO Saved: https://www.gamigion.com/noticed-this-cross-promo-in-word-trip-by-playsimple-games -> 065_Noticed this cross-promo in Word Trip by PlaySimple Games.md
+2025-12-12 16:37:07,479 INFO Saved: https://www.gamigion.com/in-game-discord-invite-in-cook-merge-by-supersolid -> 063_in-game Discord invite in Cook  Merge by Supersolid.md
+2025-12-12 16:37:07,606 INFO Saved: https://www.gamigion.com/loved-this-3-day-starter-pack-design -> 062_Loved this 3-day starter pack design.md
+2025-12-12 16:37:12,757 INFO Saved: https://www.gamigion.com/the-complete-guide-to-sort-games-monetization-part-2 -> 066_The Complete Guide to Sort Games Monetization  Part 2.md
+2025-12-12 16:37:14,509 INFO Saved: https://www.gamigion.com/car-match-by-grand-games-surprised-by-their-daily-task-system -> 064_Car Match by Grand Games Surprised by their Daily Task system.md
+2025-12-12 16:37:19,608 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/an-event-gated-behind-a-paywall-from-coin-master
+2025-12-12 16:37:21,607 INFO Saved: https://www.gamigion.com/welcome-back-event -> 067_Welcome Back event.md
+2025-12-12 16:37:23,110 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwelcome-back-pass-designed-for-returning-users-on-survivor-io%2F&action=register -> 069_untitled.md
+2025-12-12 16:37:27,206 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/another-new-cat-themed-puzzle-game-just-dropped
+2025-12-12 16:37:29,145 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/putting-emoji-in-your-apps-name
+2025-12-12 16:37:29,557 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/full-event-gated-behind-a-one-time-payment
+2025-12-12 16:37:33,027 INFO Saved: https://www.gamigion.com/missed-a-day-in-your-daily-login-streak -> 075_Missed a day in your daily login streak.md
+2025-12-12 16:37:34,598 INFO Saved: https://www.gamigion.com/interesting-twist-on-daily-goals-in-cake-sort-by-lion-studios -> 074_Interesting twist on daily goals in Cake Sort by Lion Studios.md
+2025-12-12 16:37:34,738 INFO Saved: https://www.gamigion.com/an-event-gated-behind-a-paywall-from-coin-master -> 072_An event gated behind a paywall from Coin Master.md
+2025-12-12 16:37:36,247 INFO Saved: https://www.gamigion.com/spotted-a-clever-twist-in-chum-chums-battle-pass -> 076_Spotted a clever twist in Chum Chums battle pass.md
+2025-12-12 16:37:40,900 INFO Saved: https://www.gamigion.com/full-event-gated-behind-a-one-time-payment -> 073_Full event gated behind a one-time payment.md
+2025-12-12 16:37:41,007 INFO Saved: https://www.gamigion.com/putting-emoji-in-your-apps-name -> 071_Putting emoji in your Apps name.md
+2025-12-12 16:37:42,001 INFO Saved: https://www.gamigion.com/author/kopelovich/page/6 -> 082_The Power of Partnership Mobile Gaming Collaborations.md
+2025-12-12 16:37:43,296 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/really-liked-this-small-ui-touch-in-block-jam
+2025-12-12 16:37:44,578 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/another-new-cat-themed-puzzle-game-just-dropped
+2025-12-12 16:37:47,292 INFO Saved: https://www.gamigion.com/another-new-cat-themed-puzzle-game-just-dropped -> 070_Another new cat-themed puzzle game just dropped.md
+2025-12-12 16:37:55,182 INFO Saved: https://www.gamigion.com/upgradable-piggy-banks-long-term-monetization-layer -> 078_Upgradable Piggy Banks Long-term Monetization Layer.md
+2025-12-12 16:37:55,435 INFO Saved: https://www.gamigion.com/really-liked-this-small-ui-touch-in-block-jam -> 077_Really liked this small UI touch in Block Jam.md
+2025-12-12 16:37:57,334 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam
+2025-12-12 16:37:58,251 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/make-any-purchase-and-get-rewarded
+2025-12-12 16:37:59,179 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/royal-match-really-knows-how-to-make-small-wins-feel-huge
+2025-12-12 16:38:01,675 INFO Saved: https://www.gamigion.com/royal-match-really-knows-how-to-make-small-wins-feel-huge -> 081_Royal Match really knows how to make small wins feel huge.md
+2025-12-12 16:38:02,018 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2
+2025-12-12 16:38:03,486 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fanother-new-cat-themed-puzzle-game-just-dropped%2F&action=register -> 083_untitled.md
+2025-12-12 16:38:07,188 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go
+2025-12-12 16:38:07,463 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/live-activities-beyond-games-real-world-example
+2025-12-12 16:38:11,007 INFO Saved: https://www.gamigion.com/most-news-tabs-in-social-casino-games-are-forgettable -> 085_Most news tabs in social casino games are forgettable.md
+2025-12-12 16:38:11,426 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam
+2025-12-12 16:38:12,465 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/make-any-purchase-and-get-rewarded
+2025-12-12 16:38:15,500 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast
+2025-12-12 16:38:15,642 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2
+2025-12-12 16:38:21,296 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go
+2025-12-12 16:38:25,117 INFO Saved: https://www.gamigion.com/welcome-back-reward-screen-in-dice-dreams -> 088_Welcome Back reward screen in Dice Dreams.md
+2025-12-12 16:38:25,466 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/live-activities-beyond-games-real-world-example
+2025-12-12 16:38:26,661 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam
+2025-12-12 16:38:28,040 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/make-any-purchase-and-get-rewarded
+2025-12-12 16:38:29,224 ERROR Giving up on https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam after 3 attempts
+2025-12-12 16:38:29,224 INFO No html for https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam
+2025-12-12 16:38:29,226 INFO Skipped/failed: https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam
+2025-12-12 16:38:30,602 ERROR Giving up on https://www.gamigion.com/make-any-purchase-and-get-rewarded after 3 attempts
+2025-12-12 16:38:30,602 INFO No html for https://www.gamigion.com/make-any-purchase-and-get-rewarded
+2025-12-12 16:38:30,602 INFO Skipped/failed: https://www.gamigion.com/make-any-purchase-and-get-rewarded
+2025-12-12 16:38:30,698 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2
+2025-12-12 16:38:30,885 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast
+2025-12-12 16:38:33,260 ERROR Giving up on https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2 after 3 attempts
+2025-12-12 16:38:33,260 INFO No html for https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2
+2025-12-12 16:38:33,262 INFO Skipped/failed: https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2
+2025-12-12 16:38:34,644 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/wheel-of-cats-with-a-twist
+2025-12-12 16:38:35,628 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go
+2025-12-12 16:38:38,190 ERROR Giving up on https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go after 3 attempts
+2025-12-12 16:38:38,190 INFO No html for https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go
+2025-12-12 16:38:38,190 INFO Skipped/failed: https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go
+2025-12-12 16:38:40,413 INFO Saved: https://www.gamigion.com/live-activities-beyond-games-real-world-example -> 087_Live Activities Beyond Games Real-World Example.md
+2025-12-12 16:38:41,500 INFO Saved: https://www.gamigion.com/author/kopelovich/page/7 -> 096_Sort Games Monetization Complete Guide.md
+2025-12-12 16:38:42,915 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/interesting-approach-in-cake-sort-by-lion-studios
+2025-12-12 16:38:45,644 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/parental-controls-in-mobile-games
+2025-12-12 16:38:47,516 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast
+2025-12-12 16:38:47,820 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/level-failed-no-problem
+2025-12-12 16:38:49,306 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/wheel-of-cats-with-a-twist
+2025-12-12 16:38:50,079 ERROR Giving up on https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast after 3 attempts
+2025-12-12 16:38:50,079 INFO No html for https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast
+2025-12-12 16:38:50,079 INFO Skipped/failed: https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast
+2025-12-12 16:38:50,579 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/cake-sorts-x2-rewarded-video-option
+2025-12-12 16:38:52,422 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/perfect-gaming-app-icon
+2025-12-12 16:38:59,831 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/parental-controls-in-mobile-games
+2025-12-12 16:39:02,696 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/level-failed-no-problem
+2025-12-12 16:39:03,693 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/wheel-of-cats-with-a-twist
+2025-12-12 16:39:03,934 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fthe-power-of-partnership-mobile-gaming-collaborations-2%2F&action=register -> 097_untitled.md
+2025-12-12 16:39:04,859 INFO Saved: https://www.gamigion.com/parental-controls-in-mobile-games -> 094_Parental controls in Mobile Games.md
+2025-12-12 16:39:06,254 ERROR Giving up on https://www.gamigion.com/wheel-of-cats-with-a-twist after 3 attempts
+2025-12-12 16:39:06,254 INFO No html for https://www.gamigion.com/wheel-of-cats-with-a-twist
+2025-12-12 16:39:06,254 INFO Skipped/failed: https://www.gamigion.com/wheel-of-cats-with-a-twist
+2025-12-12 16:39:06,816 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/perfect-gaming-app-icon
+2025-12-12 16:39:08,397 INFO Saved: https://www.gamigion.com/interesting-approach-in-cake-sort-by-lion-studios -> 092_Interesting approach in Cake Sort by Lion Studios.md
+2025-12-12 16:39:11,199 INFO Saved: https://www.gamigion.com/cake-sorts-x2-rewarded-video-option -> 095_Cake Sorts x2 Rewarded Video Option.md
+2025-12-12 16:39:11,906 INFO Saved: https://www.gamigion.com/sort-games-monetization-complete-guide -> 098_Sort Games Monetization Complete Guide.md
+2025-12-12 16:39:15,943 INFO Saved: https://www.gamigion.com/level-failed-no-problem -> 091_Level failed No problem.md
+2025-12-12 16:39:21,442 INFO Saved: https://www.gamigion.com/new-take-in-coin-master-team-up-for-daily-challenges -> 100_New Take in Coin Master Team Up for Daily Challenges.md
+2025-12-12 16:39:21,572 INFO Saved: https://www.gamigion.com/good-rv-placement-in-cake-await -> 099_Good RV Placement in Cake Await.md
+2025-12-12 16:39:22,231 INFO Saved: https://www.gamigion.com/email-sign-ups-done-right -> 101_Email Sign-Ups Done Right.md
+2025-12-12 16:39:25,666 INFO Saved: https://www.gamigion.com/game-changer-display-for-mobile-games -> 104_Game-changer Display for Mobile Games.md
+2025-12-12 16:39:26,071 INFO Saved: https://www.gamigion.com/summoners-war-x-demon-slayer-collaboration -> 103_Summoners War x Demon Slayer Collaboration.md
+2025-12-12 16:39:26,202 INFO Saved: https://www.gamigion.com/perfect-gaming-app-icon -> 093_Perfect Gaming App Icon.md
+2025-12-12 16:39:26,710 INFO Saved: https://www.gamigion.com/author/kopelovich/page/8 -> 110_Interesting Approach by Dice Dreams.md
+2025-12-12 16:39:27,163 INFO Saved: https://www.gamigion.com/apple-live-activities-being-used-in-a-mobile-game -> 102_Apple Live Activities being used in a Mobile Game.md
+2025-12-12 16:39:34,959 INFO Saved: https://www.gamigion.com/interesting-event-in-royal-kingdom -> 105_Interesting event in Royal Kingdom.md
+2025-12-12 16:39:39,668 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/merge-games-monetization-complete-guide
+2025-12-12 16:39:41,541 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/daily-rewards-design-in-block-heads
+2025-12-12 16:39:41,696 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/streak-mechanic-turned-into-a-time-limited-event-progression
+2025-12-12 16:39:47,004 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fsort-games-monetization-complete-guide%2F&action=register -> 111_untitled.md
+2025-12-12 16:39:47,202 INFO Saved: https://www.gamigion.com/interesting-approach-by-dice-dreams -> 112_Interesting Approach by Dice Dreams.md
+2025-12-12 16:39:47,749 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/interesting-take-on-a-rolling-offer-from-coin-master
+2025-12-12 16:39:49,052 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/hooked-on-little-farm-story
+2025-12-12 16:39:49,879 INFO Saved: https://www.gamigion.com/interesting-take-on-a-rolling-offer-from-coin-master -> 109_Interesting take on a rolling offer from Coin Master.md
+2025-12-12 16:39:50,037 INFO Saved: https://www.gamigion.com/merge-games-monetization-complete-guide -> 106_Merge Games Monetization Complete Guide.md
+2025-12-12 16:39:51,958 INFO Saved: https://www.gamigion.com/monetization-in-sort-games-a-sneak-peek -> 114_Monetization in Sort Games  A Sneak Peek.md
+2025-12-12 16:39:55,227 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/daily-rewards-design-in-block-heads
+2025-12-12 16:39:55,538 INFO Saved: https://www.gamigion.com/streak-mechanic-turned-into-a-time-limited-event-progression -> 108_Streak mechanic turned into a time-limited event progression.md
+2025-12-12 16:39:59,152 INFO Saved: https://www.gamigion.com/daily-rewards-design-in-block-heads -> 107_Daily rewards design in Block Heads.md
+2025-12-12 16:40:02,339 INFO Saved: https://www.gamigion.com/hooked-on-little-farm-story -> 113_Hooked on Little Farm Story.md
+2025-12-12 16:40:07,348 INFO Saved: https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations -> 116_The Power of Partnership Mobile Gaming Collaborations.md
+2025-12-12 16:40:08,679 INFO Saved: https://www.gamigion.com/would-love-to-see-more-games-implementing-this -> 115_Would love to see more games implementing this.md
+2025-12-12 16:40:09,766 INFO Saved: https://www.gamigion.com/author/kopelovich/page/9 -> 124_Dynamic Offers in Action.md
+2025-12-12 16:40:11,447 INFO Saved: https://www.gamigion.com/welcome-back-screen-from-travel-town-by-moon-active -> 118_Welcome Back screen from Travel Town by Moon Active.md
+2025-12-12 16:40:12,473 INFO Saved: https://www.gamigion.com/love-this-rolling-offer-design-in-coin-master -> 117_Love this rolling offer design in Coin Master.md
+2025-12-12 16:40:12,964 INFO Saved: https://www.gamigion.com/digging-deeper-with-gossip-harbor -> 119_Digging deeper with Gossip Harbor.md
+2025-12-12 16:40:16,259 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/archero-2-onboarding-done-right
+2025-12-12 16:40:19,359 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/reaching-every-player-type
+2025-12-12 16:40:21,778 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/saygames-is-stepping-up-its-no-ads-offer-game
+2025-12-12 16:40:21,778 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Finteresting-approach-by-dice-dreams%2F&action=register
+2025-12-12 16:40:23,460 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/dynamic-offers-in-action
+2025-12-12 16:40:24,486 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/crafting-player-centric-experiences
+2025-12-12 16:40:24,838 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/welcome-back-with-style
+2025-12-12 16:40:24,968 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/interesting-offer-in-coin-master-by-moon-active
+2025-12-12 16:40:30,826 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/archero-2-onboarding-done-right
+2025-12-12 16:40:35,490 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/saygames-is-stepping-up-its-no-ads-offer-game
+2025-12-12 16:40:36,588 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Finteresting-approach-by-dice-dreams%2F&action=register
+2025-12-12 16:40:36,825 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/dynamic-offers-in-action
+2025-12-12 16:40:37,834 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/crafting-player-centric-experiences
+2025-12-12 16:40:38,461 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/interesting-offer-in-coin-master-by-moon-active
+2025-12-12 16:40:39,994 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/welcome-back-with-style
+2025-12-12 16:40:45,876 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/reaching-every-player-type
+2025-12-12 16:40:46,084 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/archero-2-onboarding-done-right
+2025-12-12 16:40:48,645 ERROR Giving up on https://www.gamigion.com/archero-2-onboarding-done-right after 3 attempts
+2025-12-12 16:40:48,645 INFO No html for https://www.gamigion.com/archero-2-onboarding-done-right
+2025-12-12 16:40:48,645 INFO Skipped/failed: https://www.gamigion.com/archero-2-onboarding-done-right
+2025-12-12 16:40:50,358 INFO Saved: https://www.gamigion.com/saygames-is-stepping-up-its-no-ads-offer-game -> 121_SayGames is stepping up its no-ads offer game.md
+2025-12-12 16:40:50,855 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/dynamic-offers-in-action
+2025-12-12 16:40:51,722 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Finteresting-approach-by-dice-dreams%2F&action=register
+2025-12-12 16:40:51,917 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/crafting-player-centric-experiences
+2025-12-12 16:40:53,417 ERROR Giving up on https://www.gamigion.com/dynamic-offers-in-action after 3 attempts
+2025-12-12 16:40:53,417 INFO No html for https://www.gamigion.com/dynamic-offers-in-action
+2025-12-12 16:40:53,417 INFO Skipped/failed: https://www.gamigion.com/dynamic-offers-in-action
+2025-12-12 16:40:54,284 ERROR Giving up on https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Finteresting-approach-by-dice-dreams%2F&action=register after 3 attempts
+2025-12-12 16:40:54,284 INFO No html for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Finteresting-approach-by-dice-dreams%2F&action=register
+2025-12-12 16:40:54,284 INFO Skipped/failed: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Finteresting-approach-by-dice-dreams%2F&action=register
+2025-12-12 16:40:54,480 ERROR Giving up on https://www.gamigion.com/crafting-player-centric-experiences after 3 attempts
+2025-12-12 16:40:54,480 INFO No html for https://www.gamigion.com/crafting-player-centric-experiences
+2025-12-12 16:40:54,480 INFO Skipped/failed: https://www.gamigion.com/crafting-player-centric-experiences
+2025-12-12 16:40:55,672 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/welcome-back-with-style
+2025-12-12 16:40:58,234 ERROR Giving up on https://www.gamigion.com/welcome-back-with-style after 3 attempts
+2025-12-12 16:40:58,234 INFO No html for https://www.gamigion.com/welcome-back-with-style
+2025-12-12 16:40:58,235 INFO Skipped/failed: https://www.gamigion.com/welcome-back-with-style
+2025-12-12 16:41:00,303 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/reaching-every-player-type
+2025-12-12 16:41:02,869 ERROR Giving up on https://www.gamigion.com/reaching-every-player-type after 3 attempts
+2025-12-12 16:41:02,869 INFO No html for https://www.gamigion.com/reaching-every-player-type
+2025-12-12 16:41:02,869 INFO Skipped/failed: https://www.gamigion.com/reaching-every-player-type
+2025-12-12 16:41:02,925 INFO Saved: https://www.gamigion.com/interesting-offer-in-coin-master-by-moon-active -> 128_Interesting offer in Coin Master by Moon Active.md
+2025-12-12 16:41:03,640 INFO Saved: https://www.gamigion.com/creative-animation-alert -> 132_Creative Animation Alert.md
+2025-12-12 16:41:09,271 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/cross-promotion-pop-up-carousel
+2025-12-12 16:41:12,382 INFO Saved: https://www.gamigion.com/christmas-loading-screens-in-games -> 130_Christmas Loading Screens in Games.md
+2025-12-12 16:41:12,520 INFO Saved: https://www.gamigion.com/cross-promotion-pop-up-carousel -> 129_Cross Promotion Pop-up Carousel.md
+2025-12-12 16:41:13,644 INFO Saved: https://www.gamigion.com/author/kopelovich/page/10 -> 138_Coin Masters Build-Your-Own Offers.md
+2025-12-12 16:41:16,122 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/feedback-made-simple
+2025-12-12 16:41:16,262 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/smart-design-meets-convenience
+2025-12-12 16:41:16,997 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/gpt-vs-royal-match-can-ai-win-a-hard-level
+2025-12-12 16:41:19,974 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-power-of-partnerships-in-gaming
+2025-12-12 16:41:23,841 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/teamwork-meets-fomo-in-royal-kingdom
+2025-12-12 16:41:23,940 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/ad-flow-in-sticker-book-by-lion-studios
+2025-12-12 16:41:24,538 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdynamic-offers-in-action%2F&action=register
+2025-12-12 16:41:25,652 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/coin-masters-build-your-own-offers-%f0%9f%90%b7
+2025-12-12 16:41:29,813 INFO Saved: https://www.gamigion.com/the-power-of-partnerships-in-gaming -> 134_The Power of Partnerships in Gaming.md
+2025-12-12 16:41:30,225 INFO Saved: https://www.gamigion.com/smart-design-meets-convenience -> 133_Smart Design Meets Convenience.md
+2025-12-12 16:41:30,753 INFO Saved: https://www.gamigion.com/gpt-vs-royal-match-can-ai-win-a-hard-level -> 131_GPT vs Royal Match Can AI Win a Hard Level.md
+2025-12-12 16:41:33,469 INFO Saved: https://www.gamigion.com/ad-flow-in-sticker-book-by-lion-studios -> 137_Ad Flow in Sticker Book by Lion Studios.md
+2025-12-12 16:41:34,413 INFO Saved: https://www.gamigion.com/feedback-made-simple -> 135_Feedback Made Simple.md
+2025-12-12 16:41:40,864 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/teamwork-meets-fomo-in-royal-kingdom
+2025-12-12 16:41:45,964 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdynamic-offers-in-action%2F&action=register
+2025-12-12 16:41:48,475 INFO Saved: https://www.gamigion.com/twisted-tangles-smart-monetization-choices -> 141_Twisted Tangles Smart Monetization Choices.md
+2025-12-12 16:41:48,545 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/coin-masters-build-your-own-offers-%f0%9f%90%b7
+2025-12-12 16:41:51,534 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/smart-live-ops-integration-at-level-start-end
+2025-12-12 16:41:52,150 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/subtle-psychology-at-play-%f0%9f%94%a5
+2025-12-12 16:41:54,471 INFO Saved: https://www.gamigion.com/teamwork-meets-fomo-in-royal-kingdom -> 136_Teamwork Meets FOMO in Royal Kingdom.md
+2025-12-12 16:41:54,993 INFO Saved: https://www.gamigion.com/bringing-friends-bigger-rewards -> 144_Bringing Friends  Bigger Rewards.md
+2025-12-12 16:41:55,410 INFO Saved: https://www.gamigion.com/just-discovered-something-cool-in-sticker-book -> 145_Just Discovered Something Cool in Sticker Book.md
+2025-12-12 16:42:02,543 INFO Saved: https://www.gamigion.com/power-boost-unlocked-in-travel-town -> 146_Power Boost Unlocked in Travel Town.md
+2025-12-12 16:42:02,679 INFO Saved: https://www.gamigion.com/coin-masters-build-your-own-offers-%f0%9f%90%b7 -> 140_Coin Masters Build-Your-Own Offers.md
+2025-12-12 16:42:04,057 INFO Saved: https://www.gamigion.com/smart-live-ops-integration-at-level-start-end -> 143_Smart Live-Ops Integration at Level StartEnd.md
+2025-12-12 16:42:04,742 INFO Saved: https://www.gamigion.com/subtle-psychology-at-play-%f0%9f%94%a5 -> 142_Subtle Psychology at Play.md
+2025-12-12 16:42:04,891 INFO Saved: https://www.gamigion.com/author/kopelovich/page/11 -> 152_Super Cool Event in Twisted Tangle by Rollic Games.md
+2025-12-12 16:42:09,764 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdynamic-offers-in-action%2F&action=register
+2025-12-12 16:42:12,331 ERROR Giving up on https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdynamic-offers-in-action%2F&action=register after 3 attempts
+2025-12-12 16:42:12,331 INFO No html for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdynamic-offers-in-action%2F&action=register
+2025-12-12 16:42:12,331 INFO Skipped/failed: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdynamic-offers-in-action%2F&action=register
+2025-12-12 16:42:12,639 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/fun-rewarding-screen-in-piggy-go
+2025-12-12 16:42:13,967 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune
+2025-12-12 16:42:16,003 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/no-ads-ui-integration-by-lion-studios
+2025-12-12 16:42:16,902 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/super-cool-event-in-twisted-tangle-by-rollic-games
+2025-12-12 16:42:20,805 INFO Saved: https://www.gamigion.com/unlocking-skip-it-strategies-in-coin-sort-by-lion-studios -> 151_Unlocking Skip-it Strategies in Coin Sort by Lion Studios.md
+2025-12-12 16:42:23,408 INFO Saved: https://www.gamigion.com/ad-free-options-in-tetris-block-puzzle -> 150_Ad-Free Options in Tetris Block Puzzle.md
+2025-12-12 16:42:25,124 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fcoin-masters-build-your-own-offers-%25f0%259f%2590%25b7%2F&action=register -> 153_untitled.md
+2025-12-12 16:42:27,737 INFO Saved: https://www.gamigion.com/fun-rewarding-screen-in-piggy-go -> 147_Fun  Rewarding Screen in Piggy GO.md
+2025-12-12 16:42:27,836 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune
+2025-12-12 16:42:30,266 INFO Saved: https://www.gamigion.com/no-ads-ui-integration-by-lion-studios -> 149_No-Ads UI Integration by Lion Studios.md
+2025-12-12 16:42:31,594 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/super-cool-event-in-twisted-tangle-by-rollic-games
+2025-12-12 16:42:32,232 INFO Saved: https://www.gamigion.com/coin-masters-rolling-offer-in-their-token-thunder-event -> 155_Coin Masters Rolling Offer in their Token Thunder event.md
+2025-12-12 16:42:35,778 INFO Saved: https://www.gamigion.com/super-cool-event-in-twisted-tangle-by-rollic-games -> 154_Super Cool Event in Twisted Tangle by Rollic Games.md
+2025-12-12 16:42:42,243 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune
+2025-12-12 16:42:42,275 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/take-note-casual-game-developers
+2025-12-12 16:42:42,551 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/chum-chum-by-big-fish-games-super-cute-match-3-blast
+2025-12-12 16:42:44,254 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/interesting-offer-in-tile-busters-buying-new-avatars
+2025-12-12 16:42:44,805 ERROR Giving up on https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune after 3 attempts
+2025-12-12 16:42:44,805 INFO No html for https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune
+2025-12-12 16:42:44,805 INFO Skipped/failed: https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune
+2025-12-12 16:42:47,084 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/happy-halloween-to-all-my-us-readers
+2025-12-12 16:42:48,313 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples-2
+2025-12-12 16:42:49,370 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/royal-match-dragon-nest-event
+2025-12-12 16:42:55,127 INFO Saved: https://www.gamigion.com/boost-your-team-boost-your-game -> 162_Boost Your Team Boost Your Game.md
+2025-12-12 16:42:56,121 INFO Saved: https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples-2 -> 158_Monetizing Live-Ops Events Exploring Key Examples.md
+2025-12-12 16:42:56,517 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/chum-chum-by-big-fish-games-super-cute-match-3-blast
+2025-12-12 16:43:00,697 INFO Saved: https://www.gamigion.com/chum-chum-by-big-fish-games-super-cute-match-3-blast -> 156_Chum Chum by Big Fish Games Super Cute Match-3 Blast.md
+2025-12-12 16:43:00,729 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/happy-halloween-to-all-my-us-readers
+2025-12-12 16:43:03,085 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/royal-match-dragon-nest-event
+2025-12-12 16:43:03,239 INFO Saved: https://www.gamigion.com/author/kopelovich/page/12 -> 166_Nostalgia The Appeal of Card Albums in Mobile Games.md
+2025-12-12 16:43:04,737 INFO Saved: https://www.gamigion.com/happy-halloween-to-all-my-us-readers -> 157_Happy Halloween to all my US readers.md
+2025-12-12 16:43:05,565 INFO Saved: https://www.gamigion.com/take-note-casual-game-developers -> 160_Take note casual game developers.md
+2025-12-12 16:43:07,565 INFO Saved: https://www.gamigion.com/interesting-offer-in-tile-busters-buying-new-avatars -> 161_Interesting offer in Tile Busters Buying New Avatars.md
+2025-12-12 16:43:10,415 INFO Saved: https://www.gamigion.com/fun-mechanic-in-dice-dreams-piggy-wheel -> 163_Fun mechanic in Dice Dreams Piggy Wheel.md
+2025-12-12 16:43:12,175 INFO Saved: https://www.gamigion.com/gossip-harbor-by-microfun -> 164_Gossip Harbor by Microfun.md
+2025-12-12 16:43:17,024 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/royal-match-dragon-nest-event
+2025-12-12 16:43:17,428 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/awesome-ad-for-solitaire-grand-harvest-by-playtika
+2025-12-12 16:43:19,585 ERROR Giving up on https://www.gamigion.com/royal-match-dragon-nest-event after 3 attempts
+2025-12-12 16:43:19,585 INFO No html for https://www.gamigion.com/royal-match-dragon-nest-event
+2025-12-12 16:43:19,586 INFO Skipped/failed: https://www.gamigion.com/royal-match-dragon-nest-event
+2025-12-12 16:43:19,606 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/pin-out-master-hamster-kombat
+2025-12-12 16:43:20,047 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fsuper-cool-event-in-twisted-tangle-by-rollic-games%2F&action=register -> 167_untitled.md
+2025-12-12 16:43:26,309 INFO Saved: https://www.gamigion.com/interesting-approach-in-unpuzzle-by-hypercell -> 169_Interesting approach in Unpuzzle by HYPERCELL.md
+2025-12-12 16:43:26,789 INFO Saved: https://www.gamigion.com/nostalgia-the-appeal-of-card-albums-in-mobile-games -> 168_Nostalgia The Appeal of Card Albums in Mobile Games.md
+2025-12-12 16:43:30,966 INFO Saved: https://www.gamigion.com/awesome-ad-for-solitaire-grand-harvest-by-playtika -> 165_Awesome ad for Solitaire Grand Harvest by Playtika.md
+2025-12-12 16:43:33,292 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/pin-out-master-hamster-kombat
+2025-12-12 16:43:34,015 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/chest-opening-animation-in-royal-match
+2025-12-12 16:43:34,833 INFO Saved: https://www.gamigion.com/legend-of-mushrooms-community-building-on-discord -> 172_Legend of Mushrooms Community Building on Discord.md
+2025-12-12 16:43:37,001 INFO Saved: https://www.gamigion.com/pin-out-master-hamster-kombat -> 170_Pin Out Master  Hamster Kombat.md
+2025-12-12 16:43:40,920 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples
+2025-12-12 16:43:41,035 INFO Saved: https://www.gamigion.com/fish-of-fortune-by-whalo -> 173_Fish of Fortune by Whalo.md
+2025-12-12 16:43:42,744 INFO Saved: https://www.gamigion.com/author/kopelovich/page/13 -> 180_Loving This Offer Design in Seaside Escape.md
+2025-12-12 16:43:44,198 INFO Saved: https://www.gamigion.com/voodoo-x-hasbro-collab-is-back-in-mob-control -> 175_Voodoo x Hasbro Collab is Back in Mob Control.md
+2025-12-12 16:43:44,653 INFO Saved: https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples -> 174_Monetizing Live-Ops Events Exploring Key Examples.md
+2025-12-12 16:43:47,694 INFO Saved: https://www.gamigion.com/unpacking-the-lava-quest-live-ops-event-in-mobile-games -> 176_Unpacking the Lava Quest Live-Ops Event in Mobile Games.md
+2025-12-12 16:43:47,816 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/chest-opening-animation-in-royal-match
+2025-12-12 16:43:50,407 INFO Saved: https://www.gamigion.com/%f0%9f%8d%ac-sweet-success -> 177_Sweet Success.md
+2025-12-12 16:43:56,208 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/loving-this-offer-design-in-seaside-escape
+2025-12-12 16:43:56,347 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/monopoly-go-x-marvel-collab-launches-this-week
+2025-12-12 16:43:57,613 INFO Saved: https://www.gamigion.com/power-of-partnerships-mobile-gaming-collaborations-6 -> 179_Power of Partnerships Mobile Gaming Collaborations 6.md
+2025-12-12 16:43:59,688 INFO Saved: https://www.gamigion.com/monopoly-go-x-marvel-collab-launches-this-week -> 178_MONOPOLY GO x Marvel Collab Launches THIS WEEK.md
+2025-12-12 16:44:02,418 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/cool-invite-reward-system-in-office-cat
+2025-12-12 16:44:02,890 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/chest-opening-animation-in-royal-match
+2025-12-12 16:44:03,425 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fnostalgia-the-appeal-of-card-albums-in-mobile-games%2F&action=register -> 181_untitled.md
+2025-12-12 16:44:05,452 ERROR Giving up on https://www.gamigion.com/chest-opening-animation-in-royal-match after 3 attempts
+2025-12-12 16:44:05,452 INFO No html for https://www.gamigion.com/chest-opening-animation-in-royal-match
+2025-12-12 16:44:05,452 INFO Skipped/failed: https://www.gamigion.com/chest-opening-animation-in-royal-match
+2025-12-12 16:44:05,836 INFO Saved: https://www.gamigion.com/interesting-monetization-strategy-for-event-progression -> 183_Interesting Monetization Strategy for Event Progression.md
+2025-12-12 16:44:08,263 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/monetization-insight-from-toon-blast
+2025-12-12 16:44:09,629 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/hey-look-a-cool-design-%f0%9f%8e%a8
+2025-12-12 16:44:11,136 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/loving-this-offer-design-in-seaside-escape
+2025-12-12 16:44:13,936 INFO Saved: https://www.gamigion.com/cool-invite-reward-system-in-office-cat -> 185_Cool invite reward system in Office Cat.md
+2025-12-12 16:44:17,845 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/how-race-events-drive-engagement-in-mobile-games
+2025-12-12 16:44:18,179 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/gun-dungeons-innovative-reward-boost
+2025-12-12 16:44:21,924 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/boosting-your-fun-in-royal-match
+2025-12-12 16:44:22,482 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/something-cool-i-found-in-raid-rush
+2025-12-12 16:44:23,674 INFO Saved: https://www.gamigion.com/monetization-insight-from-toon-blast -> 184_Monetization Insight from Toon Blast.md
+2025-12-12 16:44:23,674 INFO Saved: https://www.gamigion.com/hey-look-a-cool-design-%f0%9f%8e%a8 -> 186_Hey Look A Cool Design.md
+2025-12-12 16:44:24,596 INFO Saved: https://www.gamigion.com/something-cool-i-found-in-raid-rush -> 188_Something Cool I Found in Raid Rush.md
+2025-12-12 16:44:25,448 INFO Saved: https://www.gamigion.com/author/kopelovich/page/14 -> 194_Top Mobile Game Picks of the Week.md
+2025-12-12 16:44:25,809 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/loving-this-offer-design-in-seaside-escape
+2025-12-12 16:44:25,950 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/innovative-scrolling-offers-in-coin-master
+2025-12-12 16:44:28,371 ERROR Giving up on https://www.gamigion.com/loving-this-offer-design-in-seaside-escape after 3 attempts
+2025-12-12 16:44:28,371 INFO No html for https://www.gamigion.com/loving-this-offer-design-in-seaside-escape
+2025-12-12 16:44:28,373 INFO Skipped/failed: https://www.gamigion.com/loving-this-offer-design-in-seaside-escape
+2025-12-12 16:44:33,984 INFO Saved: https://www.gamigion.com/boosting-your-fun-in-royal-match -> 187_Boosting Your Fun in Royal Match.md
+2025-12-12 16:44:37,493 INFO Saved: https://www.gamigion.com/how-race-events-drive-engagement-in-mobile-games -> 190_How Race Events Drive Engagement in Mobile Games.md
+2025-12-12 16:44:39,366 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/innovative-scrolling-offers-in-coin-master
+2025-12-12 16:44:41,225 INFO Saved: https://www.gamigion.com/hole-io-smart-ad-breaks-with-rewards -> 193_Holeio Smart Ad Breaks With Rewards.md
+2025-12-12 16:44:41,491 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/gun-dungeons-innovative-reward-boost
+2025-12-12 16:44:43,717 INFO Saved: https://www.gamigion.com/adventure-island-merge-mysterious-gift -> 192_Adventure Island Merge Mysterious Gift.md
+2025-12-12 16:44:46,309 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Floving-this-offer-design-in-seaside-escape%2F&action=register -> 195_untitled.md
+2025-12-12 16:44:49,514 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards
+2025-12-12 16:44:49,892 INFO Saved: https://www.gamigion.com/top-mobile-game-picks-of-the-week -> 196_Top Mobile Game Picks of the Week.md
+2025-12-12 16:44:53,728 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/innovative-scrolling-offers-in-coin-master
+2025-12-12 16:44:55,737 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/boosting-engagement-with-cumulative-rewards
+2025-12-12 16:44:56,290 ERROR Giving up on https://www.gamigion.com/innovative-scrolling-offers-in-coin-master after 3 attempts
+2025-12-12 16:44:56,290 INFO No html for https://www.gamigion.com/innovative-scrolling-offers-in-coin-master
+2025-12-12 16:44:56,290 INFO Skipped/failed: https://www.gamigion.com/innovative-scrolling-offers-in-coin-master
+2025-12-12 16:44:57,886 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/hard-levels-animation-from-twisted-tangle
+2025-12-12 16:44:58,318 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/gun-dungeons-innovative-reward-boost
+2025-12-12 16:44:58,318 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/trending-live-ops-events-choose-your-reward
+2025-12-12 16:45:00,879 ERROR Giving up on https://www.gamigion.com/gun-dungeons-innovative-reward-boost after 3 attempts
+2025-12-12 16:45:00,879 INFO No html for https://www.gamigion.com/gun-dungeons-innovative-reward-boost
+2025-12-12 16:45:00,879 INFO Skipped/failed: https://www.gamigion.com/gun-dungeons-innovative-reward-boost
+2025-12-12 16:45:01,900 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/effective-phone-connect-funnel-by-coin-master
+2025-12-12 16:45:05,097 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-power-of-partnership-the-new-frontier-in-mobile-gaming-collaborations
+2025-12-12 16:45:08,949 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/royal-match-monetization-at-the-point-of-failure
+2025-12-12 16:45:10,605 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/boosting-engagement-with-cumulative-rewards
+2025-12-12 16:45:13,264 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-power-of-3-day-offers-in-mobile-games
+2025-12-12 16:45:13,370 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/hard-levels-animation-from-twisted-tangle
+2025-12-12 16:45:15,521 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards
+2025-12-12 16:45:15,620 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/effective-phone-connect-funnel-by-coin-master
+2025-12-12 16:45:18,817 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/the-power-of-partnership-the-new-frontier-in-mobile-gaming-collaborations
+2025-12-12 16:45:22,792 INFO Saved: https://www.gamigion.com/trending-live-ops-events-choose-your-reward -> 201_Trending Live-Ops Events Choose Your Reward.md
+2025-12-12 16:45:23,662 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/royal-match-monetization-at-the-point-of-failure
+2025-12-12 16:45:26,611 INFO Saved: https://www.gamigion.com/royal-match-monetization-at-the-point-of-failure -> 203_Royal Match Monetization at the Point of Failure.md
+2025-12-12 16:45:26,704 INFO Saved: https://www.gamigion.com/hard-levels-animation-from-twisted-tangle -> 197_Hard Levels Animation from Twisted Tangle.md
+2025-12-12 16:45:30,508 INFO Saved: https://www.gamigion.com/effective-phone-connect-funnel-by-coin-master -> 202_Effective Phone Connect Funnel by Coin Master.md
+2025-12-12 16:45:30,551 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards
+2025-12-12 16:45:30,802 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/boosting-engagement-with-cumulative-rewards
+2025-12-12 16:45:33,113 ERROR Giving up on https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards after 3 attempts
+2025-12-12 16:45:33,113 INFO No html for https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards
+2025-12-12 16:45:33,113 INFO Skipped/failed: https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards
+2025-12-12 16:45:33,293 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/the-power-of-partnership-the-new-frontier-in-mobile-gaming-collaborations
+2025-12-12 16:45:33,364 ERROR Giving up on https://www.gamigion.com/boosting-engagement-with-cumulative-rewards after 3 attempts
+2025-12-12 16:45:33,364 INFO No html for https://www.gamigion.com/boosting-engagement-with-cumulative-rewards
+2025-12-12 16:45:33,364 INFO Skipped/failed: https://www.gamigion.com/boosting-engagement-with-cumulative-rewards
+2025-12-12 16:45:34,084 INFO Saved: https://www.gamigion.com/the-power-of-3-day-offers-in-mobile-games -> 204_The Power of 3-Day Offers in Mobile Games.md
+2025-12-12 16:45:34,432 INFO Saved: https://www.gamigion.com/author/kopelovich/page/15 -> 208_Monetization Review Cup Heroes by Voodoo.md
+2025-12-12 16:45:35,854 ERROR Giving up on https://www.gamigion.com/the-power-of-partnership-the-new-frontier-in-mobile-gaming-collaborations after 3 attempts
+2025-12-12 16:45:35,854 INFO No html for https://www.gamigion.com/the-power-of-partnership-the-new-frontier-in-mobile-gaming-collaborations
+2025-12-12 16:45:35,854 INFO Skipped/failed: https://www.gamigion.com/the-power-of-partnership-the-new-frontier-in-mobile-gaming-collaborations
+2025-12-12 16:45:42,883 INFO Saved: https://www.gamigion.com/cross-promotion-done-right-in-seaside-escape -> 205_Cross-Promotion Done Right in Seaside Escape.md
+2025-12-12 16:45:43,433 INFO Saved: https://www.gamigion.com/black-friday-deals-on-mobile-games -> 207_Black Friday Deals on Mobile Games.md
+2025-12-12 16:45:46,001 INFO Saved: https://www.gamigion.com/trending-live-ops-events-grid-scavenger-hunt -> 206_Trending Live-Ops Events Grid Scavenger Hunt.md
+2025-12-12 16:45:49,660 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fmonetization-review-cup-heroes-by-voodoo%2F&action=register
+2025-12-12 16:45:51,359 INFO Saved: https://www.gamigion.com/trending-game-mechanics-of-2024-pioneering-innovation-in-mobile-gaming -> 212_Trending Game Mechanics of 2024 Innovation in Mobile Gaming.md
+2025-12-12 16:45:54,020 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/monetization-review-cup-heroes-by-voodoo
+2025-12-12 16:45:54,928 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/engaging-players-with-milestone-based-live-ops-events
+2025-12-12 16:45:55,044 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Ftop-mobile-game-picks-of-the-week%2F&action=register -> 209_untitled.md
+2025-12-12 16:45:55,969 INFO Saved: https://www.gamigion.com/monetization-review-cup-heroes-by-voodoo -> 210_Monetization Review Cup Heroes by Voodoo.md
+2025-12-12 16:45:56,863 INFO Saved: https://www.gamigion.com/engaging-players-with-milestone-based-live-ops-events -> 211_Engaging Players with Milestone-Based Live Ops Events.md
+2025-12-12 16:46:01,936 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fmonetization-review-cup-heroes-by-voodoo%2F&action=register -> 213_untitled.md
+2025-12-12 16:46:02,942 INFO === SCRAPING SergeiVasiuk ===
+2025-12-12 16:46:03,795 INFO Page https://www.gamigion.com/author/sergeivasiuk -> 27 links
+2025-12-12 16:46:04,654 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/2/ -> 28 links
+2025-12-12 16:46:05,327 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/3/ -> 28 links
+2025-12-12 16:46:05,727 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/4/ -> 28 links
+2025-12-12 16:46:06,464 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/5/ -> 22 links
+2025-12-12 16:46:06,497 INFO SergeiVasiuk: FOUND 77 article links
+2025-12-12 16:46:07,211 INFO Unchanged: https://www.gamigion.com/journal
+2025-12-12 16:46:07,455 INFO Unchanged: https://www.gamigion.com/category/events
+2025-12-12 16:46:07,574 INFO Saved: https://www.gamigion.com/author/sergeivasiuk -> 006_Every Great Game is a FIGHT.md
+2025-12-12 16:46:07,618 INFO Unchanged: https://www.gamigion.com/category/analysis
+2025-12-12 16:46:07,785 INFO Unchanged: https://www.gamigion.com/games-radar
+2025-12-12 16:46:07,806 INFO Unchanged: https://www.gamigion.com/reports
+2025-12-12 16:46:07,933 INFO Unchanged: https://www.gamigion.com/category/game-radar
+2025-12-12 16:46:08,051 INFO Saved: https://www.gamigion.com/about -> 005_Whos there - Gamigion Mobile Games Industry News.md
+2025-12-12 16:46:08,263 INFO Unchanged: https://www.gamigion.com/category/reports
+2025-12-12 16:46:08,267 INFO Unchanged: https://www.gamigion.com/category/highlights
+2025-12-12 16:46:08,309 INFO Unchanged: https://www.gamigion.com/category/journal
+2025-12-12 16:46:08,359 INFO Unchanged: https://www.gamigion.com/events
+2025-12-12 16:46:24,206 INFO Saved: https://www.gamigion.com/indian-gaming-industry-surge -> 015_Indian Gaming Industry Surge.md
+2025-12-12 16:46:24,706 INFO Saved: https://www.gamigion.com/solo-dev-is-tough-hello-head-of-everything -> 014_Solo Dev is tough hello Head of Everything.md
+2025-12-12 16:46:24,954 INFO Saved: https://www.gamigion.com/8-things-games-do-better-than-any-art -> 017_8 Things Games Do Better Than Any Art.md
+2025-12-12 16:46:25,114 INFO Saved: https://www.gamigion.com/every-great-game-is-a-fight -> 013_Every Great Game is a FIGHT.md
+2025-12-12 16:46:25,605 INFO Saved: https://www.gamigion.com/how-to-get-10-game-ideas-in-under-2-min -> 016_How to get 10 game ideas in under 2 min.md
+2025-12-12 16:46:25,866 INFO Saved: https://www.gamigion.com/20-metrics-game-devs-must-track -> 018_20 Metrics Game Devs Must Track.md
+2025-12-12 16:46:27,809 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/2 -> 025_5 Game Systems to Make Your Game Stick.md
+2025-12-12 16:46:27,963 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/keep-your-live-ops-game-healthy
+2025-12-12 16:46:28,059 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-80-to-20-rule-in-game-dev-design
+2025-12-12 16:46:39,222 INFO Unchanged: https://www.gamigion.com/wp-login.php?action=lostpassword
+2025-12-12 16:46:40,126 INFO Saved: https://www.gamigion.com/the-80-to-20-rule-in-game-dev-design -> 019_The 80 to 20 Rule in Game Dev  Design.md
+2025-12-12 16:46:41,824 INFO Saved: https://www.gamigion.com/keep-your-live-ops-game-healthy -> 020_Keep Your Live Ops Game Healthy.md
+2025-12-12 16:46:41,825 INFO Saved: https://www.gamigion.com/game-development-isnt-just-about-coding -> 021_Game development isnt just about coding.md
+2025-12-12 16:46:42,865 INFO Saved: https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close-2 -> 022_20 metrics all game devs should hold close.md
+2025-12-12 16:46:44,584 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/90-of-games-fail-at-monetization
+2025-12-12 16:46:44,821 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-gaming-industry-is-not-what-you-think
+2025-12-12 16:46:47,089 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fevery-great-game-is-a-fight%2F&action=register
+2025-12-12 16:46:47,317 INFO Saved: https://www.gamigion.com/90-of-games-fail-at-monetization -> 023_90 of Games Fail at Monetization.md
+2025-12-12 16:46:56,890 INFO Saved: https://www.gamigion.com/the-gaming-industry-is-not-what-you-think -> 024_The gaming industry is NOT what you think.md
+2025-12-12 16:46:56,895 INFO Saved: https://www.gamigion.com/5-game-systems-to-make-your-game-stick -> 028_5 Game Systems to Make Your Game Stick.md
+2025-12-12 16:46:59,458 INFO Saved: https://www.gamigion.com/gaming-factory-professions -> 031_Gaming Factory Professions.md
+2025-12-12 16:47:01,712 INFO Saved: https://www.gamigion.com/9-traps-that-kill-your-game -> 029_9 Traps That Kill Your Game.md
+2025-12-12 16:47:02,290 INFO Saved: https://www.gamigion.com/how-games-manipulate-emotions -> 030_How Games Manipulate Emotions.md
+2025-12-12 16:47:02,795 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fevery-great-game-is-a-fight%2F&action=register -> 026_untitled.md
+2025-12-12 16:47:03,802 INFO Saved: https://www.gamigion.com/musk-gaming -> 032_Musk  Gaming.md
+2025-12-12 16:47:04,712 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/3 -> 040_Boosting Retention in Your Game.md
+2025-12-12 16:47:05,240 INFO Saved: https://www.gamigion.com/how-to-design-your-player-journey-map -> 033_How to design your player journey map.md
+2025-12-12 16:47:12,762 INFO Saved: https://www.gamigion.com/are-you-interested-in-game-development -> 035_Are you interested in Game Development.md
+2025-12-12 16:47:13,197 INFO Saved: https://www.gamigion.com/mistakes-new-game-devs-make -> 034_Mistakes New Game Devs Make.md
+2025-12-12 16:47:16,526 INFO Saved: https://www.gamigion.com/craft-your-own-masters-degree-in-game-publishing -> 036_Craft your own Masters Degree in Game Publishing.md
+2025-12-12 16:47:17,318 INFO Saved: https://www.gamigion.com/control-your-career-game -> 037_Control Your Career Game.md
+2025-12-12 16:47:18,673 INFO Saved: https://www.gamigion.com/whats-the-supreme-boss-level-in-game-dev -> 039_Whats the supreme boss level in Game Dev.md
+2025-12-12 16:47:19,301 INFO Saved: https://www.gamigion.com/great-games-know-this-key-to-players-needs-2 -> 038_Great games know this key to players needs.md
+2025-12-12 16:47:20,741 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2F5-game-systems-to-make-your-game-stick%2F&action=register -> 041_untitled.md
+2025-12-12 16:47:26,633 INFO Saved: https://www.gamigion.com/boosting-retention-in-your-game -> 042_Boosting Retention in Your Game.md
+2025-12-12 16:47:29,136 INFO Saved: https://www.gamigion.com/whats-the-biggest-delusion-in-game-dev -> 043_Whats the biggest delusion in Game Dev.md
+2025-12-12 16:47:33,910 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/linkedin-expands-its-puzzle-lineup-w-tango
+2025-12-12 16:47:36,208 INFO Saved: https://www.gamigion.com/10-advice-to-ruin-your-game -> 045_10 Advice to Ruin Your Game.md
+2025-12-12 16:47:36,997 INFO Saved: https://www.gamigion.com/what-to-keep-your-game-fresh -> 046_How to keep your game fresh.md
+2025-12-12 16:47:37,518 INFO Saved: https://www.gamigion.com/think-the-gaming-industry-is-just-for-nerds -> 048_Think the gaming industry is just for nerds.md
+2025-12-12 16:47:37,781 INFO Saved: https://www.gamigion.com/want-to-start-your-career-in-game-dev -> 047_Want to start your career in Game Dev.md
+2025-12-12 16:47:39,057 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/4 -> 054_What does the Gaming Industry need most right now.md
+2025-12-12 16:47:39,659 INFO Saved: https://www.gamigion.com/linkedin-expands-its-puzzle-lineup-w-tango -> 044_LinkedIn expands its puzzle lineup w Tango.md
+2025-12-12 16:47:40,633 INFO Saved: https://www.gamigion.com/im-44-and-i-joined-it-in-my-3rd-year-at-university -> 049_Im 44 and I joined IT in my 3rd year at university.md
+2025-12-12 16:47:45,819 INFO Saved: https://www.gamigion.com/know-the-70-20-10-rule -> 050_Know the 702010 rule.md
+2025-12-12 16:47:51,665 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/10-ways-players-spot-bad-games
+2025-12-12 16:47:51,859 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/new-game-dev-reality-check
+2025-12-12 16:47:52,640 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/how-is-the-gaming-entertainment-curve
+2025-12-12 16:47:56,058 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/which-ad-format-fits-gaming
+2025-12-12 16:47:57,287 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/starting-your-journey-as-a-game-developer
+2025-12-12 16:47:57,834 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/50-of-baby-boomers-are-playing-games
+2025-12-12 16:47:58,189 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fboosting-retention-in-your-game%2F&action=register
+2025-12-12 16:47:58,804 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/what-does-the-gaming-industry-need-most-right-now
+2025-12-12 16:48:05,296 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/10-ways-players-spot-bad-games
+2025-12-12 16:48:05,456 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/new-game-dev-reality-check
+2025-12-12 16:48:08,143 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/how-is-the-gaming-entertainment-curve
+2025-12-12 16:48:09,981 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/which-ad-format-fits-gaming
+2025-12-12 16:48:10,876 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/starting-your-journey-as-a-game-developer
+2025-12-12 16:48:11,236 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/50-of-baby-boomers-are-playing-games
+2025-12-12 16:48:11,683 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fboosting-retention-in-your-game%2F&action=register
+2025-12-12 16:48:12,520 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/what-does-the-gaming-industry-need-most-right-now
+2025-12-12 16:48:19,491 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/10-ways-players-spot-bad-games
+2025-12-12 16:48:20,821 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/new-game-dev-reality-check
+2025-12-12 16:48:22,054 ERROR Giving up on https://www.gamigion.com/10-ways-players-spot-bad-games after 3 attempts
+2025-12-12 16:48:22,054 INFO No html for https://www.gamigion.com/10-ways-players-spot-bad-games
+2025-12-12 16:48:22,054 INFO Skipped/failed: https://www.gamigion.com/10-ways-players-spot-bad-games
+2025-12-12 16:48:23,383 ERROR Giving up on https://www.gamigion.com/new-game-dev-reality-check after 3 attempts
+2025-12-12 16:48:23,383 INFO No html for https://www.gamigion.com/new-game-dev-reality-check
+2025-12-12 16:48:23,383 INFO Skipped/failed: https://www.gamigion.com/new-game-dev-reality-check
+2025-12-12 16:48:24,416 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/which-ad-format-fits-gaming
+2025-12-12 16:48:25,259 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/starting-your-journey-as-a-game-developer
+2025-12-12 16:48:26,979 ERROR Giving up on https://www.gamigion.com/which-ad-format-fits-gaming after 3 attempts
+2025-12-12 16:48:26,979 INFO No html for https://www.gamigion.com/which-ad-format-fits-gaming
+2025-12-12 16:48:26,981 INFO Skipped/failed: https://www.gamigion.com/which-ad-format-fits-gaming
+2025-12-12 16:48:27,242 INFO Saved: https://www.gamigion.com/what-does-the-gaming-industry-need-most-right-now -> 056_What does the Gaming Industry need most right now.md
+2025-12-12 16:48:27,821 ERROR Giving up on https://www.gamigion.com/starting-your-journey-as-a-game-developer after 3 attempts
+2025-12-12 16:48:27,821 INFO No html for https://www.gamigion.com/starting-your-journey-as-a-game-developer
+2025-12-12 16:48:27,822 INFO Skipped/failed: https://www.gamigion.com/starting-your-journey-as-a-game-developer
+2025-12-12 16:48:30,170 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fboosting-retention-in-your-game%2F&action=register -> 055_untitled.md
+2025-12-12 16:48:31,595 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/how-is-the-gaming-entertainment-curve
+2025-12-12 16:48:34,158 ERROR Giving up on https://www.gamigion.com/how-is-the-gaming-entertainment-curve after 3 attempts
+2025-12-12 16:48:34,158 INFO No html for https://www.gamigion.com/how-is-the-gaming-entertainment-curve
+2025-12-12 16:48:34,160 INFO Skipped/failed: https://www.gamigion.com/how-is-the-gaming-entertainment-curve
+2025-12-12 16:48:35,790 INFO Saved: https://www.gamigion.com/50-of-baby-boomers-are-playing-games -> 059_50 of Baby Boomers Are Playing Games.md
+2025-12-12 16:48:40,688 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/sorry-gamers-but-i-have-to-say-this
+2025-12-12 16:48:43,111 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/want-to-keep-your-players-engaged
+2025-12-12 16:48:46,725 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/you-can-make-millions-at-a-price-point-of-0
+2025-12-12 16:48:47,444 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close
+2025-12-12 16:48:47,797 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/how-to-boost-player-engagement
+2025-12-12 16:48:51,872 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/things-no-one-tells-you-about-being-a-leader
+2025-12-12 16:48:51,952 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/what-connects-game-and-states-economies
+2025-12-12 16:48:53,765 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand
+2025-12-12 16:48:54,506 INFO Saved: https://www.gamigion.com/things-no-one-tells-you-about-being-a-leader -> 066_Things no one tells you about being a leader.md
+2025-12-12 16:48:55,026 INFO Saved: https://www.gamigion.com/sorry-gamers-but-i-have-to-say-this -> 060_Sorry gamers but I have to say this.md
+2025-12-12 16:48:55,290 INFO Saved: https://www.gamigion.com/want-to-keep-your-players-engaged -> 061_Want to keep your players engaged.md
+2025-12-12 16:48:55,584 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/5 -> 068_10 Signs Of a Decent Game.md
+2025-12-12 16:48:58,238 INFO Saved: https://www.gamigion.com/you-can-make-millions-at-a-price-point-of-0 -> 063_You can make Millions at a price point of 0.md
+2025-12-12 16:49:01,482 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close
+2025-12-12 16:49:01,745 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/how-to-boost-player-engagement
+2025-12-12 16:49:04,061 INFO Saved: https://www.gamigion.com/what-connects-game-and-states-economies -> 064_What connects Game and States Economies.md
+2025-12-12 16:49:06,919 INFO Saved: https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close -> 062_20 Metrics All Game Devs Should Hold Close.md
+2025-12-12 16:49:07,581 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand
+2025-12-12 16:49:11,456 INFO Saved: https://www.gamigion.com/how-to-boost-player-engagement -> 067_How To Boost Player Engagement.md
+2025-12-12 16:49:14,598 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwhat-does-the-gaming-industry-need-most-right-now%2F&action=register -> 069_untitled.md
+2025-12-12 16:49:14,638 INFO Saved: https://www.gamigion.com/10-signs-of-a-decent-game -> 070_10 Signs Of a Decent Game.md
+2025-12-12 16:49:15,381 INFO Saved: https://www.gamigion.com/entertain-your-players-with-events -> 071_ENTERTAIN YOUR PLAYERS WITH EVENTS.md
+2025-12-12 16:49:21,105 INFO Saved: https://www.gamigion.com/game-development-tools-landscape -> 072_Game Development Tools Landscape.md
+2025-12-12 16:49:21,445 INFO Saved: https://www.gamigion.com/many-screw-up-live-service-games -> 073_Many screw up live service games.md
+2025-12-12 16:49:22,178 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand
+2025-12-12 16:49:24,740 ERROR Giving up on https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand after 3 attempts
+2025-12-12 16:49:24,740 INFO No html for https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand
+2025-12-12 16:49:24,740 INFO Skipped/failed: https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand
+2025-12-12 16:49:25,550 INFO Saved: https://www.gamigion.com/want-to-keep-your-live-service-game-healthy -> 074_Want to keep your live service game healthy.md
+2025-12-12 16:49:27,300 INFO Saved: https://www.gamigion.com/great-games-know-this-key-to-players-needs -> 075_Great games know this key to players needs.md
+2025-12-12 16:49:28,201 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2F10-signs-of-a-decent-game%2F&action=register -> 077_untitled.md
+2025-12-12 16:49:29,285 INFO Saved: https://www.gamigion.com/the-new-york-times-emerges-as-a-game-company -> 076_The New York Times emerges as a game company.md
+2025-12-12 16:49:30,315 INFO === SCRAPING OxanaFomina ===
+2025-12-12 16:49:32,517 INFO Page https://www.gamigion.com/author/oxanafomina -> 27 links
+2025-12-12 16:49:33,633 INFO Page https://www.gamigion.com/author/oxanafomina/page/2/ -> 28 links
+2025-12-12 16:49:35,279 INFO Page https://www.gamigion.com/author/oxanafomina/page/3/ -> 22 links
+2025-12-12 16:49:35,318 INFO OxanaFomina: FOUND 49 article links
+2025-12-12 16:49:36,303 INFO Unchanged: https://www.gamigion.com/category/analysis
+2025-12-12 16:49:36,425 INFO Unchanged: https://www.gamigion.com/events
+2025-12-12 16:49:36,563 INFO Unchanged: https://www.gamigion.com/reports
+2025-12-12 16:49:36,682 INFO Unchanged: https://www.gamigion.com/category/events
+2025-12-12 16:49:36,688 INFO Unchanged: https://www.gamigion.com/journal
+2025-12-12 16:49:36,830 INFO Unchanged: https://www.gamigion.com/category/game-radar
+2025-12-12 16:49:37,124 INFO Unchanged: https://www.gamigion.com/games-radar
+2025-12-12 16:49:37,338 INFO Unchanged: https://www.gamigion.com/category/highlights
+2025-12-12 16:49:37,434 INFO Unchanged: https://www.gamigion.com/category/reports
+2025-12-12 16:49:37,570 INFO Unchanged: https://www.gamigion.com/category/journal
+2025-12-12 16:49:37,582 INFO Saved: https://www.gamigion.com/author/oxanafomina -> 006_Pay to Play Games Hexa Sort.md
+2025-12-12 16:49:37,910 INFO Saved: https://www.gamigion.com/about -> 005_Whos there - Gamigion Mobile Games Industry News.md
+2025-12-12 16:49:45,531 INFO Saved: https://www.gamigion.com/royal-match-how-new-event-design-increased-revenue-by-14-6 -> 015_Royal Match How New Event Design Increased Revenue by 146.md
+2025-12-12 16:49:52,239 INFO Saved: https://www.gamigion.com/game-deconstruction-magic-sort-by-grand-games -> 016_Game Deconstruction Magic Sort by Grand Games.md
+2025-12-12 16:49:52,524 INFO Saved: https://www.gamigion.com/slots-solitaire-bingo-what-unites-successful-events -> 014_Slots Solitaire  Bingo What Unites Successful Events.md
+2025-12-12 16:49:52,757 INFO Saved: https://www.gamigion.com/pay-to-play-games-hexa-sort -> 013_Pay to Play Games Hexa Sort.md
+2025-12-12 16:49:53,009 INFO Saved: https://www.gamigion.com/extraordinary-results-from-monopoly-gos-tycoon-racers-event -> 019_Extraordinary results from Monopoly Gos Tycoon Racers event.md
+2025-12-12 16:49:54,029 INFO Saved: https://www.gamigion.com/the-event-strategy-that-got-players-hooked-and-paid-off -> 017_The Event Strategy That Got Players Hooked and Paid Off.md
+2025-12-12 16:49:54,536 INFO Saved: https://www.gamigion.com/fishdom-by-playrix-fantastic-results -> 018_Fishdom by Playrix Fantastic Results.md
+2025-12-12 16:49:55,043 INFO Saved: https://www.gamigion.com/author/oxanafomina/page/2 -> 025_What Do You Like Most About Your Job.md
+2025-12-12 16:49:59,384 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/smart-monetization-approach-for-hard-levels-in-match-3-games
+2025-12-12 16:50:02,143 INFO Unchanged: https://www.gamigion.com/wp-login.php?action=lostpassword
+2025-12-12 16:50:02,557 INFO Saved: https://www.gamigion.com/web-stores-impact-trends -> 021_Web Stores Impact  Trends.md
+2025-12-12 16:50:04,483 INFO Saved: https://www.gamigion.com/smart-monetization-approach-for-hard-levels-in-match-3-games -> 020_Smart Monetization Approach for Hard Levels in Match-3 Games.md
+2025-12-12 16:50:08,308 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fpay-to-play-games-hexa-sort%2F&action=register -> 026_untitled.md
+2025-12-12 16:50:09,318 INFO Saved: https://www.gamigion.com/successful-growth-strategy-behind-dice-dreams -> 022_Successful Growth Strategy Behind Dice Dreams.md
+2025-12-12 16:50:09,696 INFO Saved: https://www.gamigion.com/multiple-paid-pass-boost-player-choice-rewards-playtimes-and-revenue -> 023_Multiple Paid Pass Boost Player Choice Rewards Playtimes And Revenue.md
+2025-12-12 16:50:11,704 INFO Saved: https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives -> 024_Candy Crush Sagas Unique Challenge For More Lives.md
+2025-12-12 16:50:13,906 INFO Saved: https://www.gamigion.com/what-do-you-like-most-about-your-job -> 028_What Do You Like Most About Your Job.md
+2025-12-12 16:50:18,210 INFO Saved: https://www.gamigion.com/all-players-are-paying-with-different-payment-methods -> 029_All Players Are Paying With Different Payment Methods.md
+2025-12-12 16:50:21,790 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/personalized-gaming-offers-through-phone-numbers
+2025-12-12 16:50:23,248 INFO Saved: https://www.gamigion.com/increase-player-retention-through-in-app-purchases -> 032_Increase Player Retention Through In-App Purchases.md
+2025-12-12 16:50:24,290 INFO Saved: https://www.gamigion.com/win-streak-offer-in-candy-crush-saga-by-king -> 034_Win Streak Offer In Candy Crush Saga By King.md
+2025-12-12 16:50:26,446 INFO Saved: https://www.gamigion.com/personalized-gaming-offers-through-phone-numbers -> 030_Personalized Gaming Offers Through Phone Numbers.md
+2025-12-12 16:50:26,884 INFO Saved: https://www.gamigion.com/increased-holiday-events-and-sales-in-games -> 033_Increased Holiday Events And Sales In Games.md
+2025-12-12 16:50:26,965 INFO Saved: https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization -> 031_Innovative Daily Bonus Strategies On Retention and Monetization.md
+2025-12-12 16:50:28,430 INFO Saved: https://www.gamigion.com/author/oxanafomina/page/3 -> 040_Increase Revenue and Conversions with Non-Standard Offers.md
+2025-12-12 16:50:29,259 INFO Saved: https://www.gamigion.com/how-monopoly-go-leverages-coin-masters-live-ops-strategies -> 035_How Monopoly GO Leverages Coin Masters Live Ops Strategies.md
+2025-12-12 16:50:34,659 INFO Saved: https://www.gamigion.com/unlocking-success-in-monopoly-go-first-purchases -> 036_Unlocking Success In Monopoly GO First Purchases.md
+2025-12-12 16:50:36,190 INFO Saved: https://www.gamigion.com/boosting-monetization-season-pass-in-candy-crush-soda-saga -> 037_Boosting Monetization Season Pass In Candy Crush Soda Saga.md
+2025-12-12 16:50:42,392 INFO Saved: https://www.gamigion.com/mobile-game-web-shops-analysis -> 038_Mobile Game Web Shops Analysis.md
+2025-12-12 16:50:42,452 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/boosting-virality-with-irresistible-free-subscriptions
+2025-12-12 16:50:43,915 INFO Saved: https://www.gamigion.com/increase-player-engagement-retention-and-monetization -> 046_Increase Player Engagement Retention And Monetization.md
+2025-12-12 16:50:44,684 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwhat-do-you-like-most-about-your-job%2F&action=register -> 041_untitled.md
+2025-12-12 16:50:44,930 INFO Saved: https://www.gamigion.com/increase-revenue-and-conversions-with-non-standard-offers -> 042_Increase Revenue and Conversions with Non-Standard Offers.md
+2025-12-12 16:50:48,612 INFO Saved: https://www.gamigion.com/interesting-example-of-survivorship-bias-in-live-ops -> 044_Interesting Example Of Survivorship Bias In Live Ops.md
+2025-12-12 16:50:48,787 INFO Saved: https://www.gamigion.com/toon-blast-live-ops-piggy-bank-for-free -> 045_Toon Blast Live Ops Piggy Bank for FREE.md
+2025-12-12 16:50:50,808 INFO Saved: https://www.gamigion.com/boosting-virality-with-irresistible-free-subscriptions -> 039_Boosting Virality with Irresistible Free Subscriptions.md
+2025-12-12 16:50:56,489 INFO Saved: https://www.gamigion.com/strategy-to-convert-non-paying-users-into-paying-customers -> 043_Strategy To Convert Non-Paying Users Into Paying Customers.md
+2025-12-12 16:50:57,808 INFO Saved: https://www.gamigion.com/enhancing-game-metrics-seasonal-pass-and-super-boosters -> 048_Enhancing Game Metrics Seasonal Pass and Super Boosters.md
+2025-12-12 16:50:57,855 INFO Saved: https://www.gamigion.com/boosting-game-virality-with-innovative-prize-draws -> 047_Boosting Game Virality with Innovative Prize Draws.md
+2025-12-12 16:50:58,330 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fincrease-revenue-and-conversions-with-non-standard-offers%2F&action=register -> 049_untitled.md
+2025-12-12 16:50:59,350 INFO DONE: saved counts: {'FelixBraberg_Substack': 12, 'FelixBraberg_Blog': 11, 'MichaelKopelovich': 187, 'SergeiVasiuk': 71, 'OxanaFomina': 49}
