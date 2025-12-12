@@ -6048,3 +6048,21 @@
 2025-12-11 14:18:23,103 INFO \u25b6 START: Kopelovich (https://www.gamigion.com/journal/)
 2025-12-11 14:20:27,866 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=14) (attempt 1) for https://www.gamigion.com/journal/page/22/
 2025-12-11 14:20:55,425 WARNING Request error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) (attempt 2) for https://www.gamigion.com/journal/page/22/
+2025-12-12 12:17:34,162 INFO START: scraping run
+2025-12-12 12:17:34,215 INFO Scraping blog: Lanceric (https://lancaric.me/blog/)
+2025-12-12 12:17:37,916 INFO Extracted 14 links from https://lancaric.me/blog
+2025-12-12 12:17:38,489 INFO Extracted 14 links from https://lancaric.me/blog/page/2/
+2025-12-12 12:17:39,001 INFO Extracted 15 links from https://lancaric.me/blog/page/3/
+2025-12-12 12:17:39,865 INFO Extracted 15 links from https://lancaric.me/blog/page/4/
+2025-12-12 12:17:40,688 INFO Extracted 15 links from https://lancaric.me/blog/page/5/
+2025-12-12 12:17:41,181 INFO Extracted 15 links from https://lancaric.me/blog/page/6/
+2025-12-12 12:17:42,190 INFO Extracted 15 links from https://lancaric.me/blog/page/7/
+2025-12-12 12:17:42,638 INFO Extracted 15 links from https://lancaric.me/blog/page/8/
+2025-12-12 12:17:43,341 INFO Extracted 15 links from https://lancaric.me/blog/page/9/
+2025-12-12 12:17:43,762 INFO Extracted 15 links from https://lancaric.me/blog/page/10/
+2025-12-12 12:17:44,823 INFO Extracted 15 links from https://lancaric.me/blog/page/11/
+2025-12-12 12:17:45,897 INFO Extracted 15 links from https://lancaric.me/blog/page/12/
+2025-12-12 12:17:46,610 INFO Extracted 15 links from https://lancaric.me/blog/page/13/
+2025-12-12 12:17:47,281 INFO Extracted 15 links from https://lancaric.me/blog/page/14/
+2025-12-12 12:17:48,037 INFO Extracted 15 links from https://lancaric.me/blog/page/15/
+2025-12-12 12:17:48,726 INFO Extracted 15 links from https://lancaric.me/blog/page/16/

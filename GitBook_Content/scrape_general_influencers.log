@@ -1,0 +1,64 @@
+2025-12-12 12:30:11,343 INFO Start scraping general influencers run
+2025-12-12 12:30:11,346 INFO === SCRAPING FelixBraberg_Substack (https://felixbraberg.substack.com/archive?sort=new) ===
+2025-12-12 12:30:12,712 INFO FelixBraberg_Substack -> found 20 candidate links
+2025-12-12 12:30:13,027 INFO Saved: https://felixbraberg.substack.com/p/candy-crush-is-crushing-it-with-ad -> 005_Candy Crush is Crushing it with Ad Revenue.md
+2025-12-12 12:30:13,153 INFO Saved: https://felixbraberg.substack.com/p/hungrystudio-is-hungry-for-more -> 008_HungryStudio is hungry for more.md
+2025-12-12 12:30:13,153 INFO Saved: https://felixbraberg.substack.com/p/8-jolly-ad-monetization-tips-for -> 006_8 Jolly Ad Monetization Tips for Black Friday Weekend.md
+2025-12-12 12:30:13,246 INFO Saved: https://felixbraberg.substack.com/p/lessmores-first-release-under-miniclip -> 007_Lessmores first release under Miniclip ownership.md
+2025-12-12 12:30:13,338 INFO Saved: https://felixbraberg.substack.com/p/is-coin-master-adding-in-game-ads -> 009_Is Coin Master Adding in Game Ads.md
+2025-12-12 12:30:13,476 INFO Saved: https://felixbraberg.substack.com/s/25-gamers-podcast -> 001_25 Gamers Podcast Mobile Ad Revenue Felix Braberg Substack.md
+2025-12-12 12:30:13,476 INFO Saved: https://felixbraberg.substack.com/p/from-44-to-72-vietnams-studio-surge -> 011_From 44 to 72 Vietnams Studio Surge Continues.md
+2025-12-12 12:30:13,535 INFO Saved: https://felixbraberg.substack.com/p/banners-the-walking-dead-of-mobile -> 010_Banners The Walking Dead of Mobile Ads.md
+2025-12-12 12:30:13,690 INFO Saved: https://felixbraberg.substack.com/p/end-cards-the-silent-driver-of-player -> 012_End Cards The Silent Driver of Player Retention.md
+2025-12-12 12:30:13,690 INFO Saved: https://felixbraberg.substack.com/p/are-ads-falling-out-of-fashion -> 013_Are Ads Falling Out of Fashion.md
+2025-12-12 12:30:13,693 INFO Saved: https://felixbraberg.substack.com/p/the-1-banner-ad-mistake-youre-still -> 004_The 1 Banner Ad Mistake Youre Still Making.md
+2025-12-12 12:30:13,800 INFO Saved: https://felixbraberg.substack.com/about -> 003_About - Mobile Ad Revenue.md
+2025-12-12 12:30:13,937 INFO Saved: https://felixbraberg.substack.com/p/six-ad-placements-that-delivered -> 014_Six Ad Placements That Delivered in 2025 So Far.md
+2025-12-12 12:30:13,939 INFO Saved: https://felixbraberg.substack.com/p/thanks-for-scaling-now-get-out-the -> 015_Thanks for Scaling Now Get Out The Amazon Way.md
+2025-12-12 12:30:14,404 INFO Saved: https://felixbraberg.substack.com/archive -> 002_Archive - Mobile Ad Revenue.md
+2025-12-12 12:30:14,617 INFO Saved: https://substack.com/privacy -> 016_Privacy Policy.md
+2025-12-12 12:30:14,617 INFO Saved: https://substack.com/tos -> 017_Terms of Use.md
+2025-12-12 12:30:14,652 INFO Saved: https://substack.com/signup?utm_source=substack&utm_medium=web&utm_content=footer -> 019_Substack Signup.md
+2025-12-12 12:30:15,169 INFO Saved: https://substack.com/app/app-store-redirect?utm_campaign=app-marketing&utm_content=web-footer-button -> 020_Introducing the Substack app.md
+2025-12-12 12:30:15,328 INFO Saved: https://substack.com/ccpa -> 018_CCPA Policy.md
+2025-12-12 12:30:15,330 INFO Finished FelixBraberg_Substack -> 20 saved files
+2025-12-12 12:30:15,331 INFO === SCRAPING FelixBraberg_Blog (https://www.felixbraberg.com/blog) ===
+2025-12-12 12:30:16,492 INFO FelixBraberg_Blog -> found 9 candidate links
+2025-12-12 12:30:16,832 INFO Saved: https://www.felixbraberg.com/blog -> 001_Blog FelixBrabergcom.md
+2025-12-12 12:30:17,049 INFO Saved: https://www.felixbraberg.com/post/3-ad-monetization-tips-on-how-maximize-fill-in-india -> 009_3 Ad Monetization tips on how maximize fill in India.md
+2025-12-12 12:30:17,190 INFO Saved: https://www.felixbraberg.com/post/google-s-new-cmp-requirements-integrate-or-die -> 004_Googles New CMP Requirements - Integrate or Die.md
+2025-12-12 12:30:17,236 INFO Saved: https://www.felixbraberg.com/post/frozen-city-s-3-million-a-month-admon-blunder -> 006_Frozen Citys 3 million a month Admon blunder.md
+2025-12-12 12:30:17,238 INFO Saved: https://www.felixbraberg.com/post/the-end-of-gam-and-admob-placement-refreshes -> 002_The End of GAM and Admob Placement Refreshes.md
+2025-12-12 12:30:17,298 INFO Saved: https://www.felixbraberg.com/post/is-admob-removing-its-three-placement-limit -> 008_Is Admob removing its three placement limit.md
+2025-12-12 12:30:17,359 INFO Saved: https://www.felixbraberg.com/post/the-end-of-gam-networks-on-mobile -> 005_The End of GAM Networks on Mobile.md
+2025-12-12 12:30:17,472 INFO Saved: https://www.felixbraberg.com/post/is-amazon-publisher-services-about-to-go-supernova-in-mobile -> 007_Is Amazon Publisher Services about to go supernova in Mobile.md
+2025-12-12 12:30:17,472 INFO Saved: https://www.felixbraberg.com/post/the-price-of-progress-the-revenue-impact-of-google-deprecating-placements-and-gam-resellers -> 003_The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers.md
+2025-12-12 12:30:17,472 INFO Finished FelixBraberg_Blog -> 9 saved files
+2025-12-12 12:30:17,472 INFO Skipping noop target MichaelKopelovich
+2025-12-12 12:30:17,472 INFO === SCRAPING SergeiVasiuk (https://www.gamigion.com/author/sergeivasiuk/) ===
+2025-12-12 12:30:23,669 INFO SergeiVasiuk -> found 11 candidate links
+2025-12-12 12:30:24,322 INFO Saved: https://www.gamigion.com/author/sergeivasiuk -> 001_Every Great Game is a FIGHT.md
+2025-12-12 12:30:24,816 INFO Saved: https://www.gamigion.com/category/events -> 003_PGC London 19-20 January.md
+2025-12-12 12:30:25,202 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/2 -> 008_5 Game Systems to Make Your Game Stick.md
+2025-12-12 12:30:25,205 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/3 -> 009_Boosting Retention in Your Game.md
+2025-12-12 12:30:25,271 INFO Saved: https://www.gamigion.com/category/game-radar -> 004_Dont Miss These New Mobile Games November 28 to December 4 2025.md
+2025-12-12 12:30:25,895 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/5 -> 011_10 Signs Of a Decent Game.md
+2025-12-12 12:30:25,965 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/4 -> 010_What does the Gaming Industry need most right now.md
+2025-12-12 12:30:26,778 INFO Saved: https://www.gamigion.com/category/journal -> 006_Supercells New Investment Grants for African Developers.md
+2025-12-12 12:30:27,066 INFO Saved: https://www.gamigion.com/category/reports -> 007_Global Games Market Report 2025.md
+2025-12-12 12:30:27,541 INFO Saved: https://www.gamigion.com/category/analysis -> 002_From Flappy Bird to Falcon How Hanoi Engineered a Global Game Factory.md
+2025-12-12 12:30:27,885 INFO Saved: https://www.gamigion.com/category/highlights -> 005_Three Turkish Mobile Studios Made it to Deloitte Fast 50.md
+2025-12-12 12:30:27,885 INFO Finished SergeiVasiuk -> 11 saved files
+2025-12-12 12:30:27,887 INFO === SCRAPING OxanaFomina (https://www.gamigion.com/author/oxanafomina/) ===
+2025-12-12 12:30:31,681 INFO OxanaFomina -> found 9 candidate links
+2025-12-12 12:30:32,386 INFO Unchanged: https://www.gamigion.com/category/journal
+2025-12-12 12:30:32,459 INFO Unchanged: https://www.gamigion.com/category/game-radar
+2025-12-12 12:30:32,486 INFO Saved: https://www.gamigion.com/author/oxanafomina -> 001_Pay to Play Games Hexa Sort.md
+2025-12-12 12:30:32,504 INFO Unchanged: https://www.gamigion.com/category/analysis
+2025-12-12 12:30:32,745 INFO Unchanged: https://www.gamigion.com/category/reports
+2025-12-12 12:30:33,025 INFO Saved: https://www.gamigion.com/author/oxanafomina/page/2 -> 008_What Do You Like Most About Your Job.md
+2025-12-12 12:30:33,193 INFO Saved: https://www.gamigion.com/author/oxanafomina/page/3 -> 009_Increase Revenue and Conversions with Non-Standard Offers.md
+2025-12-12 12:30:33,883 INFO Unchanged: https://www.gamigion.com/category/events
+2025-12-12 12:30:33,883 INFO Unchanged: https://www.gamigion.com/category/highlights
+2025-12-12 12:30:33,883 INFO Finished OxanaFomina -> 9 saved files
+2025-12-12 12:30:33,897 INFO Done scraping general influencers
