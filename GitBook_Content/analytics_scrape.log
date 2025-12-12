@@ -1,0 +1,123 @@
+2025-12-11 14:23:02,770 INFO 
+=== SCRAPING CarlyTaylor ===
+2025-12-11 14:23:04,615 INFO Found 1 listing pages.
+2025-12-11 14:23:04,859 INFO Total 5 articles
+2025-12-11 14:23:05,222 INFO SAVED: 001_Articles by Carly Taylor - Databricks Blog.md
+2025-12-11 14:23:05,453 INFO SAVED: 005_Articles by Carly Taylor - Databricks Blog.md
+2025-12-11 14:23:05,795 INFO SAVED: 004_Leveraging Agentic AI in Games.md
+2025-12-11 14:23:05,798 INFO SAVED: 002_Mosaic Research Databricks Blog.md
+2025-12-11 14:23:05,923 INFO SAVED: 003_Latest Articles on Data Science AI and Analytics.md
+2025-12-11 14:23:05,923 INFO 
+=== SCRAPING PaulLevchuk ===
+2025-12-11 14:23:07,091 INFO Found 1 listing pages.
+2025-12-11 14:23:07,307 INFO Total 0 articles
+2025-12-11 14:23:07,307 INFO DONE: Analytics scraping completed
+2025-12-11 14:45:16,559 INFO === SCRAPING CarlyTaylor (https://www.databricks.com/blog/author/carly-taylor) ===
+2025-12-11 14:45:16,915 INFO Found 80 article links for CarlyTaylor
+2025-12-11 14:45:17,151 INFO SAVED: 002 https://www.databricks.com -> 002_Databricks Leading Data and AI Solutions for Enterprises.md
+2025-12-11 14:45:17,457 INFO SAVED: 004 https://www.databricks.com/product/startups -> 004_Transform Your Startup with Databricks Data  AI at Scale.md
+2025-12-11 14:45:17,488 INFO SAVED: 005 https://www.databricks.com/product/data-lakehouse -> 005_Data Lakehouse Architecture  Databricks.md
+2025-12-11 14:45:17,490 INFO SAVED: 003 https://www.databricks.com/why-databricks/executives -> 003_Why Databricks.md
+2025-12-11 14:45:17,493 INFO SAVED: 006 https://www.databricks.com/research/mosaic -> 006_Mosaic Research Hub.md
+2025-12-11 14:45:17,703 INFO SAVED: 007 https://www.databricks.com/customers -> 007_Customer Success Stories.md
+2025-12-11 14:45:17,780 INFO SAVED: 001 https://www.databricks.com/blog/author/carly-taylor -> 001_Articles by Carly Taylor - Databricks Blog.md
+2025-12-11 14:45:18,101 INFO SAVED: 009 https://www.databricks.com/company/partners/consulting-and-si -> 009_Databricks Consulting Partners - Databricks.md
+2025-12-11 14:45:18,104 INFO SAVED: 010 https://www.databricks.com/company/partners/technology-partner-program -> 010_Databricks Technology Partner Program  Databricks.md
+2025-12-11 14:45:18,104 INFO SAVED: 011 https://www.databricks.com/company/partners/consulting-and-si/candsi-partner-program -> 011_Partner page Consulting and SI partners  Databricks.md
+2025-12-11 14:45:18,106 INFO SAVED: 008 https://www.databricks.com/company/partners/cloud-partners -> 008_Databricks Cloud Service Provider Partner  Databricks.md
+2025-12-11 14:45:18,347 INFO SAVED: 012 https://www.databricks.com/company/partners/data-partner-program -> 012_Data Partner Program  Databricks.md
+2025-12-11 14:45:18,463 INFO SAVED: 013 https://www.databricks.com/company/partners/consulting-and-si/partner-solutions -> 013_Partner Solutions - Databricks.md
+2025-12-11 14:45:18,707 INFO SAVED: 015 https://www.databricks.com/product/data-intelligence-platform -> 015_Databricks IQ AI-Driven Analytics for Faster Data Insights.md
+2025-12-11 14:45:18,707 INFO SAVED: 014 https://www.databricks.com/company/partners/built-on-partner-program -> 014_Built on Databricks Partner Program.md
+2025-12-11 14:45:18,707 INFO SAVED: 017 https://www.databricks.com/product/delta-sharing -> 017_Data Sharing  Databricks.md
+2025-12-11 14:45:19,109 INFO SAVED: 016 https://www.databricks.com/product/delta-lake-on-databricks -> 016_Lakehouse storage.md
+2025-12-11 14:45:19,110 INFO SAVED: 019 https://www.databricks.com/product/unity-catalog -> 019_Unity Catalog.md
+2025-12-11 14:45:19,126 INFO SAVED: 018 https://www.databricks.com/product/databricks-sql -> 018_Databricks SQL.md
+2025-12-11 14:45:19,445 INFO SAVED: 022 https://www.databricks.com/product/data-science -> 022_Data Science  Databricks.md
+2025-12-11 14:45:19,473 INFO SAVED: 020 https://www.databricks.com/product/data-engineering -> 020_Lakeflow.md
+2025-12-11 14:45:19,474 INFO SAVED: 021 https://www.databricks.com/product/artificial-intelligence -> 021_Mosaic AI.md
+2025-12-11 14:45:20,137 INFO SAVED: 025 https://www.databricks.com/product/lakebase -> 025_Lakebase.md
+2025-12-11 14:45:20,146 INFO SAVED: 028 https://www.databricks.com/partnerconnect -> 028_Partner Connect  Databricks.md
+2025-12-11 14:45:20,147 INFO SAVED: 024 https://www.databricks.com/product/databricks-apps -> 024_Databricks Apps.md
+2025-12-11 14:45:20,147 INFO SAVED: 027 https://www.databricks.com/product/data-science/ide-integrations -> 027_Databricks IDE Integrations.md
+2025-12-11 14:45:20,149 INFO SAVED: 026 https://www.databricks.com/product/marketplace -> 026_Databricks Marketplace  Databricks.md
+2025-12-11 14:45:20,149 INFO SAVED: 023 https://www.databricks.com/product/business-intelligence -> 023_Intelligent analytics for everyone.md
+2025-12-11 14:45:20,416 INFO SAVED: 033 https://www.databricks.com/solutions/industries/media-and-entertainment -> 033_Data intelligence for Media and Entertainment  Databricks.md
+2025-12-11 14:45:20,423 INFO SAVED: 034 https://www.databricks.com/solutions/industries/financial-services -> 034_Data Intelligence for Financial Services  Databricks.md
+2025-12-11 14:45:20,579 INFO SAVED: 032 https://www.databricks.com/solutions/industries/communications -> 032_Data intelligence for Telecommunications.md
+2025-12-11 14:45:20,587 INFO SAVED: 031 https://www.databricks.com/product/open-source -> 031_Built on open source  Databricks.md
+2025-12-11 14:45:20,779 INFO SAVED: 029 https://www.databricks.com/product/pricing -> 029_Databricks Pricing Flexible Plans for Data and AI Solutions.md
+2025-12-11 14:45:20,795 INFO SAVED: 030 https://www.databricks.com/product/pricing/product-pricing/instance-types -> 030_Pricing Calculator Page  Databricks.md
+2025-12-11 14:45:20,963 INFO SAVED: 037 https://www.databricks.com/solutions/industries/retail-industry-solutions -> 037_Data intelligence for Retail and Consumer Goods.md
+2025-12-11 14:45:20,966 INFO SAVED: 036 https://www.databricks.com/solutions/industries/healthcare-and-life-sciences -> 036_Data Intelligence for Healthcare and Life Sciences.md
+2025-12-11 14:45:21,220 INFO SAVED: 035 https://www.databricks.com/solutions/industries/public-sector -> 035_Data Intelligence for Public Sector.md
+2025-12-11 14:45:21,235 INFO SAVED: 038 https://www.databricks.com/solutions/industries/manufacturing-industry-solutions -> 038_Data intelligence for Manufacturing.md
+2025-12-11 14:45:21,236 INFO SAVED: 040 https://www.databricks.com/solutions/ai-agents -> 040_Improve Agent Quality.md
+2025-12-11 14:45:21,237 INFO SAVED: 039 https://www.databricks.com/solutions -> 039_Databricks Solution Accelerators - Databricks Use Cases.md
+2025-12-11 14:45:21,393 INFO SAVED: 041 https://www.databricks.com/solutions/industries/cybersecurity -> 041_Data Intelligence for Cybersecurity  Databricks.md
+2025-12-11 14:45:21,393 INFO SAVED: 042 https://www.databricks.com/solutions/industries/marketing -> 042_Data Intelligence for Marketing.md
+2025-12-11 14:45:21,698 INFO SAVED: 045 https://www.databricks.com/solutions/accelerators -> 045_Databricks Solution Accelerators - Deliver Data  AI Value Faster - Databricks.md
+2025-12-11 14:45:21,705 INFO SAVED: 044 https://www.databricks.com/professional-services -> 044_Databricks Professional Services  Databricks.md
+2025-12-11 14:45:21,706 INFO SAVED: 043 https://www.databricks.com/solutions/migration -> 043_Migrate to Databricks Simplifying Data and AI Migration.md
+2025-12-11 14:45:21,903 INFO SAVED: 047 https://www.databricks.com/learn/training/login -> 047_Databricks Training Login Data Engineering  AI Learning  Databricks.md
+2025-12-11 14:45:21,903 INFO SAVED: 046 https://www.databricks.com/learn/training/home -> 046_Training  Certification.md
+2025-12-11 14:45:21,912 INFO SAVED: 048 https://www.databricks.com/learn/training/certification -> 048_Databricks Certification.md
+2025-12-11 14:45:22,073 INFO SAVED: 050 https://www.databricks.com/university -> 050_Databricks University Alliance for Aspiring Data Scientists  Databricks.md
+2025-12-11 14:45:22,186 INFO SAVED: 049 https://www.databricks.com/learn/free-edition -> 049_Free Edition.md
+2025-12-11 14:45:22,229 INFO SAVED: 051 https://www.databricks.com/dataaisummit -> 051_Home - Data  AI Summit 2025  Databricks.md
+2025-12-11 14:45:22,402 INFO SAVED: 052 https://www.databricks.com/dataaisummit/worldtour -> 052_Data  AI World Tour 2025  Databricks.md
+2025-12-11 14:45:22,439 INFO SAVED: 053 https://www.databricks.com/lp/data-intelligence-days -> 053_Data Intelligence Days.md
+2025-12-11 14:45:22,442 INFO SAVED: 054 https://www.databricks.com/events -> 054_Discover Databricks Events.md
+2025-12-11 14:45:22,757 INFO SAVED: 055 https://www.databricks.com/blog -> 055_Latest Articles on Data Science AI and Analytics.md
+2025-12-11 14:45:22,768 INFO SAVED: 056 https://www.databricks.com/blog/category/generative-ai/mosaic-research -> 056_Mosaic Research  Databricks Blog.md
+2025-12-11 14:45:22,904 INFO SAVED: 060 https://www.databricks.com/databricks-documentation -> 060_Databricks documentation  Databricks.md
+2025-12-11 14:45:22,907 INFO SAVED: 059 https://www.databricks.com/support -> 059_Support.md
+2025-12-11 14:45:22,978 INFO SAVED: 057 https://www.databricks.com/discover/data-brew -> 057_Data Brew by Databricks.md
+2025-12-11 14:45:23,160 INFO SAVED: 058 https://www.databricks.com/discover/champions-of-data-and-ai -> 058_Champions of Data  AI Series.md
+2025-12-11 14:45:23,200 INFO SAVED: 061 https://www.databricks.com/resources -> 061_Resources.md
+2025-12-11 14:45:23,503 INFO SAVED: 062 https://www.databricks.com/resources/demos -> 062_Databricks Demo Center.md
+2025-12-11 14:45:23,503 INFO SAVED: 064 https://www.databricks.com/company/about-us -> 064_About Databricks The data and AI company.md
+2025-12-11 14:45:23,503 INFO SAVED: 063 https://www.databricks.com/resources/architectures -> 063_Databricks Architecture Center.md
+2025-12-11 14:45:23,512 INFO SAVED: 065 https://www.databricks.com/company/leadership-team -> 065_Leadership Team  Databricks.md
+2025-12-11 14:45:23,711 INFO SAVED: 067 https://www.databricks.com/company/contact -> 067_Contact Us - Databricks.md
+2025-12-11 14:45:23,711 INFO SAVED: 066 https://www.databricks.com/databricks-ventures -> 066_Databricks Ventures  Databricks.md
+2025-12-11 14:45:23,907 INFO SAVED: 069 https://www.databricks.com/company/careers/open-positions -> 069_Current job openings at Databricks.md
+2025-12-11 14:45:23,978 INFO SAVED: 070 https://www.databricks.com/company/awards-and-recognition -> 070_Awards and Recognition  Databricks.md
+2025-12-11 14:45:24,072 INFO SAVED: 068 https://www.databricks.com/company/careers -> 068_Careers at Databricks  Databricks.md
+2025-12-11 14:45:24,100 INFO SAVED: 071 https://www.databricks.com/company/newsroom -> 071_Databricks Newsroom.md
+2025-12-11 14:45:24,100 INFO SAVED: 072 https://www.databricks.com/trust -> 072_Databricks Trust Ensuring Security Privacy  Compliance.md
+2025-12-11 14:45:24,190 INFO SAVED: 074 https://www.databricks.com/blog/leveraging-agentic-ai-games -> 074_Leveraging Agentic AI in Games.md
+2025-12-11 14:45:24,195 INFO no article content: https://www.databricks.com/feed
+2025-12-11 14:45:24,295 INFO SAVED: 075 https://www.databricks.com/solutions/industries/federal-government -> 075_Data and AI Driven solutions for Federal Government.md
+2025-12-11 14:45:24,461 INFO SAVED: 077 https://www.databricks.com/legal/privacynotice -> 077_Privacy Notice  Databricks.md
+2025-12-11 14:45:24,693 INFO SAVED: 079 https://www.databricks.com/legal/modern-slavery-policy-statement -> 079_Modern Slavery Policy Statement.md
+2025-12-11 14:45:24,693 INFO SAVED: 078 https://www.databricks.com/legal/terms-of-use -> 078_Terms of Use.md
+2025-12-11 14:45:24,812 INFO SAVED: 080 https://www.databricks.com/legal/supplemental-privacy-notice-california-residents -> 080_Supplemental Privacy Notice for California Residents.md
+2025-12-11 14:45:24,961 INFO no article content: https://www.databricks.com/signup
+2025-12-11 14:45:24,961 INFO DONE CarlyTaylor: 78 articles saved
+2025-12-11 14:45:24,973 INFO === SCRAPING PaulLevchuk (https://medium.com/@paul.levchuk) ===
+2025-12-11 14:45:24,973 INFO Trying Medium feed: https://medium.com/feed/@@paul.levchuk
+2025-12-11 14:45:25,578 INFO Medium: found 10 items in feed https://medium.com/feed/@@paul.levchuk
+2025-12-11 14:45:25,578 INFO Found 10 article links for PaulLevchuk
+2025-12-11 14:45:25,629 WARNING Non-200 403 for https://medium.com/@paul.levchuk/user-transition-states-diagram-1e8210ff86d4
+2025-12-11 14:45:25,629 INFO skip: no content -> https://medium.com/@paul.levchuk/user-transition-states-diagram-1e8210ff86d4
+2025-12-11 14:45:25,678 WARNING Non-200 403 for https://medium.com/@paul.levchuk/user-acquisition-funnel-1e66402b1a41
+2025-12-11 14:45:25,678 INFO skip: no content -> https://medium.com/@paul.levchuk/user-acquisition-funnel-1e66402b1a41
+2025-12-11 14:45:25,683 WARNING Non-200 403 for https://medium.com/@paul.levchuk/rf-matrix-frequency-dimension-ac21794851c3
+2025-12-11 14:45:25,683 WARNING Non-200 403 for https://medium.com/@paul.levchuk/customer-state-a-key-building-block-of-advanced-customer-analytics-f909d73fad14
+2025-12-11 14:45:25,683 INFO skip: no content -> https://medium.com/@paul.levchuk/rf-matrix-frequency-dimension-ac21794851c3
+2025-12-11 14:45:25,683 WARNING Non-200 403 for https://medium.com/@paul.levchuk/the-metric-tree-trap-4280405fd35e
+2025-12-11 14:45:25,695 WARNING Non-200 403 for https://medium.com/@paul.levchuk/rr-ff-matrices-introduction-to-customer-states-6313c118e455
+2025-12-11 14:45:25,695 INFO skip: no content -> https://medium.com/@paul.levchuk/customer-state-a-key-building-block-of-advanced-customer-analytics-f909d73fad14
+2025-12-11 14:45:25,695 INFO skip: no content -> https://medium.com/@paul.levchuk/the-metric-tree-trap-4280405fd35e
+2025-12-11 14:45:25,695 INFO skip: no content -> https://medium.com/@paul.levchuk/rr-ff-matrices-introduction-to-customer-states-6313c118e455
+2025-12-11 14:45:25,769 WARNING Non-200 403 for https://medium.com/@paul.levchuk/rf-matrix-introduction-b4246d373bbf
+2025-12-11 14:45:25,769 INFO skip: no content -> https://medium.com/@paul.levchuk/rf-matrix-introduction-b4246d373bbf
+2025-12-11 14:45:25,774 WARNING Non-200 403 for https://medium.com/@paul.levchuk/ltv-forecasting-how-good-the-corrective-models-are-ffbf9a7625a2
+2025-12-11 14:45:25,774 INFO skip: no content -> https://medium.com/@paul.levchuk/ltv-forecasting-how-good-the-corrective-models-are-ffbf9a7625a2
+2025-12-11 14:45:25,779 WARNING Non-200 403 for https://medium.com/@paul.levchuk/rf-matrix-the-magic-of-recency-098cb690997a
+2025-12-11 14:45:25,779 INFO skip: no content -> https://medium.com/@paul.levchuk/rf-matrix-the-magic-of-recency-098cb690997a
+2025-12-11 14:45:25,818 WARNING Non-200 403 for https://medium.com/@paul.levchuk/ltv-forecasting-battle-for-accuracy-668f573745a6
+2025-12-11 14:45:25,818 INFO skip: no content -> https://medium.com/@paul.levchuk/ltv-forecasting-battle-for-accuracy-668f573745a6
+2025-12-11 14:45:25,818 INFO DONE PaulLevchuk: 0 articles saved
+2025-12-11 14:45:25,831 INFO \U0001f389 DONE: All authors scraped into: GitBook_Content\Analytics - BI - UA Data Experts

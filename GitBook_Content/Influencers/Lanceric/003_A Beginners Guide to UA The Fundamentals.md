@@ -1,6 +1,6 @@
 # A Beginners Guide to UA: The Fundamentals
 
-![](https://lancaric.me/wp-content/uploads/2025/04/Your-ads-are-boring.png) 
+![](./images/Your-ads-are-boring_b60c2747.png) 
 
 # two & a half gamers – Your ads are boring! 5 Inspiration Tricks to Ignite Your Creative Strategy by Matej Lancaric
 
@@ -18,7 +18,7 @@ Telegram
 
 
 
-[![](https://lancaric.me/wp-content/uploads/2025/02/4-150x150.png)](https://lancaric.me/author/lanco/)
+[![](./images/4-150x150_5cf35f4a.png)](https://lancaric.me/author/lanco/)
 
 ##### [Matej Lančarič](https://lancaric.me/author/lanco/)
 
@@ -87,7 +87,7 @@ If you are interested in getting UA tips every week on Monday, sign up for the B
 
 
 
-[![](https://lancaric.me/wp-content/uploads/2025/02/4-150x150.png)](https://lancaric.me/author/lanco/)
+[![](./images/4-150x150_5cf35f4a.png)](https://lancaric.me/author/lanco/)
 
 ##### [Matej Lančarič](https://lancaric.me/author/lanco/)
 

@@ -1,6 +1,6 @@
 # A Beginners Guide to UA: The Fundamentals
 
-![](https://lancaric.me/wp-content/uploads/2025/02/fundamentals.png) 
+![](./images/fundamentals_b6e0df85.png) 
 
 # two & a half gamers – A Beginners Guide to UA: The Fundamentals
 
@@ -18,7 +18,7 @@ Telegram
 
 
 
-[![](https://lancaric.me/wp-content/uploads/2025/02/4-150x150.png)](https://lancaric.me/author/lanco/)
+[![](./images/4-150x150_5cf35f4a.png)](https://lancaric.me/author/lanco/)
 
 ##### [Matej Lančarič](https://lancaric.me/author/lanco/)
 
@@ -91,7 +91,7 @@ If you are interested in getting UA tips every week on Monday, sign up for the B
 
 
 
-[![](https://lancaric.me/wp-content/uploads/2025/02/4-150x150.png)](https://lancaric.me/author/lanco/)
+[![](./images/4-150x150_5cf35f4a.png)](https://lancaric.me/author/lanco/)
 
 ##### [Matej Lančarič](https://lancaric.me/author/lanco/)
 

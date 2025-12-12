@@ -17,7 +17,7 @@ Pinterest-p
 
 Linkedin-in
 
-[![](https://ramiztrtovac.com/wp-content/uploads/2024/05/Site-Logo-White-2.png "Site-Logo-White-2")![](https://ramiztrtovac.com/wp-content/uploads/2024/05/Site-Logo-White-2.png "Site-Logo-White-2")](https://ramiztrtovac.com/)
+[![](./images/Site-Logo-White-2_03ec1248.png "Site-Logo-White-2")![](./images/Site-Logo-White-2_03ec1248.png "Site-Logo-White-2")](https://ramiztrtovac.com/)
 
 * [Home](https://ramiztrtovac.com/)
 * [About Me](https://ramiztrtovac.com/about-me/)
@@ -40,7 +40,7 @@ Hey there, game developers! You’ve built an awesome mobile game, and now you�
 
 [Share](javascript:void(0))
 
-[![What is User Acquisition for Mobile Games?](https://ramiztrtovac.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-16.56.08-540x364.png)](https://ramiztrtovac.com/useraquisition/user-acquisition-for-mobile-games/)
+[![What is User Acquisition for Mobile Games?](./images/Screenshot-2024-09-19-at-165608-540x364_4dbba906.png)](https://ramiztrtovac.com/useraquisition/user-acquisition-for-mobile-games/)
 
 [User Acquisition](https://ramiztrtovac.com/category/useraquisition/)
 
@@ -53,7 +53,7 @@ But what exactly is user acquisition for mobile...
 
 [Share](javascript:void(0))
 
-[![Mobile Game Advertising: Google or Meta? Which Wins?](https://ramiztrtovac.com/wp-content/uploads/2024/09/Screenshot-2024-09-13-at-17.38.17-540x375.png)](https://ramiztrtovac.com/useraquisition/mobile-game-advertising-google-or-meta-which-wins/)
+[![Mobile Game Advertising: Google or Meta? Which Wins?](./images/Screenshot-2024-09-13-at-173817-540x375_43993d6d.png)](https://ramiztrtovac.com/useraquisition/mobile-game-advertising-google-or-meta-which-wins/)
 
 [User Acquisition](https://ramiztrtovac.com/category/useraquisition/)
 
@@ -65,7 +65,7 @@ Advertising your mobile game can be complex, but picking the right platform can 
 
 [Share](javascript:void(0))
 
-[![Unlock Facebook Ads: Skyrocket Your Mobile Game Success](https://ramiztrtovac.com/wp-content/uploads/2024/09/5f221f99-81a8-4674-b3f6-6f8956996dae-540x540.png)](https://ramiztrtovac.com/useraquisition/mastering-facebook-ads-for-mobile-games/)
+[![Unlock Facebook Ads: Skyrocket Your Mobile Game Success](./images/5f221f99-81a8-4674-b3f6-6f8956996dae-540x540_1ab2b8f7.png)](https://ramiztrtovac.com/useraquisition/mastering-facebook-ads-for-mobile-games/)
 
 [User Acquisition](https://ramiztrtovac.com/category/useraquisition/)
 
@@ -78,7 +78,7 @@ To stand out in a crowded market, game developers need to harness the...
 
 [Share](javascript:void(0))
 
-[![Top 5 Mobile Game Marketing Strategies for 2024](https://ramiztrtovac.com/wp-content/uploads/2022/09/Top-5-Mobile-Game-Marketing-Strategies-for-2024-1-540x345.png)](https://ramiztrtovac.com/useraquisition/top-5-mobile-game-marketing-strategies-for-2024/)
+[![Top 5 Mobile Game Marketing Strategies for 2024](./images/Top-5-Mobile-Game-Marketing-Strategies-for-2024-1-540x345_6e196ce0.png)](https://ramiztrtovac.com/useraquisition/top-5-mobile-game-marketing-strategies-for-2024/)
 
 [User Acquisition](https://ramiztrtovac.com/category/useraquisition/)
 
@@ -90,7 +90,7 @@ In the fast-paced world of mobile gaming, staying ahead with innovative marketin
 
 [Share](javascript:void(0))
 
-[![Irresistible Ads: How to Craft Engaging Creatives for HyperCasual Game Success](https://ramiztrtovac.com/wp-content/uploads/2022/09/How-to-Create-Engaging-Ad-Creatives-for-HyperCasual-Games-1-540x345.png)](https://ramiztrtovac.com/creatives/how-to-create-engaging-ad-creatives-for-hypercasual-games/)
+[![Irresistible Ads: How to Craft Engaging Creatives for HyperCasual Game Success](./images/How-to-Create-Engaging-Ad-Creatives-for-HyperCasual-Games-1-540x345_e98d6111.png)](https://ramiztrtovac.com/creatives/how-to-create-engaging-ad-creatives-for-hypercasual-games/)
 
 [Creatives](https://ramiztrtovac.com/category/creatives/)
 
@@ -102,7 +102,7 @@ Hypercasual games are known for their simple mechanics and instant playability, 
 
 [Share](javascript:void(0))
 
-[![The Importance of User Acquisition in Mobile Gaming: A Simplified Guide](https://ramiztrtovac.com/wp-content/uploads/2022/09/The-Importance-of-User-Acquisition-in-Mobile-Gaming_-A-Simplified-Guide-1-540x345.png)](https://ramiztrtovac.com/useraquisition/the-importance-of-user-acquisition-in-mobile-gaming-a-simplified-guide/)
+[![The Importance of User Acquisition in Mobile Gaming: A Simplified Guide](./images/The-Importance-of-User-Acquisition-in-Mobile-Gaming_-A-Simplified-Guide-1-540x345_f47182f3.png)](https://ramiztrtovac.com/useraquisition/the-importance-of-user-acquisition-in-mobile-gaming-a-simplified-guide/)
 
 [User Acquisition](https://ramiztrtovac.com/category/useraquisition/)
 
@@ -114,15 +114,15 @@ In the highly competitive world of mobile gaming, user acquisition (UA) is the l
 
 [Share](javascript:void(0))
 
-[![](https://ramiztrtovac.com/wp-content/uploads/2024/05/Site-Logo-White-1.png "Site-Logo-White-1")](https://ramiztrtovac.com/)
+[![](./images/Site-Logo-White-1_28cbed59.png "Site-Logo-White-1")](https://ramiztrtovac.com/)
 
-![](https://ramiztrtovac.com/wp-content/uploads/2019/08/img_box_29.png "img_box_29")
+![](./images/img_box_29_d5cbf453.png "img_box_29")
 
 ###### Send Me a Message
 
 contact@ramiztrtovac.com
 
-![](https://ramiztrtovac.com/wp-content/uploads/2019/08/img_box_30.png "img_box_30")
+![](./images/img_box_30_b290a703.png "img_box_30")
 
 ###### Location
 
@@ -158,7 +158,7 @@ Free Discord
 
 Ramiz Trtovac © 2024 — All Rights Reserved. Developed by Pick&Flow.
 
-![](https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/08/logo_retinablack.png)
+![](./images/logo_retinablack_3e5bfb80.png)
 
 Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lecto rum eleifend option congue nihil doming. Espa notrle neumurit.
 
@@ -173,6 +173,6 @@ Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lec
 
 emil@yoursite.com
 
-[![](https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/09/map_point.png)](#)27 Division St, New York, NY 10002, United States
+[![](./images/map_point_c0154295.png)](#)27 Division St, New York, NY 10002, United States
 
 [Back to top](javascript:void(0))

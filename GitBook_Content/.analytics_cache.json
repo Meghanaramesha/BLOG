@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "https://www.databricks.com/blog/author/carly-taylor#main": {
+      "hash": "2a5ad70afd96d6ab12dc0a8b8c2ba41d32544ca72a2a63ad30e7695569381c3a",
+      "path": "001_Articles by Carly Taylor - Databricks Blog.md"
+    },
+    "https://www.databricks.com/blog/author/carly-taylor#yourprivacychoices": {
+      "hash": "2a5ad70afd96d6ab12dc0a8b8c2ba41d32544ca72a2a63ad30e7695569381c3a",
+      "path": "005_Articles by Carly Taylor - Databricks Blog.md"
+    },
+    "https://www.databricks.com/blog/leveraging-agentic-ai-games": {
+      "hash": "9a291ed1e21ab427afcd41a11e208b201cad4f0de9e04d3c2dbfda4fcfc6b715",
+      "path": "004_Leveraging Agentic AI in Games.md"
+    },
+    "https://www.databricks.com/blog/category/generative-ai/mosaic-research": {
+      "hash": "fcdbe7f086e916edc4b624eea0d3ad2120ed2122d463b8ce531f855bfefdfc54",
+      "path": "002_Mosaic Research Databricks Blog.md"
+    },
+    "https://www.databricks.com/blog/": {
+      "hash": "f0ff029721025d79cf61b2050f9c71bd1492de755dd1a5a1d7af1a95995faedc",
+      "path": "003_Latest Articles on Data Science AI and Analytics.md"
+    }
+  }
+}

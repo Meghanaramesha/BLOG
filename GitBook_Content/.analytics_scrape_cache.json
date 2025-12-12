@@ -1,0 +1,394 @@
+{
+  "pages": {
+    "https://www.databricks.com": {
+      "hash": "2273163f6a94a08146db5e92fd083f35d0c12de2593ede7e6ae33f69d24248a6",
+      "path": "002_Databricks Leading Data and AI Solutions for Enterprises.md",
+      "last_seen": 1765444517
+    },
+    "https://www.databricks.com/product/startups": {
+      "hash": "f67ff638025308a3e84957c08ab7ab41ed104c43d4ca166bfdafc2a412d8e09e",
+      "path": "004_Transform Your Startup with Databricks Data  AI at Scale.md",
+      "last_seen": 1765444517
+    },
+    "https://www.databricks.com/product/data-lakehouse": {
+      "hash": "7707020cc3125f411b4535d42da78215977e3fc715f8880fed34a8235b3cf16f",
+      "path": "005_Data Lakehouse Architecture  Databricks.md",
+      "last_seen": 1765444517
+    },
+    "https://www.databricks.com/why-databricks/executives": {
+      "hash": "6fb96e95aacdf62051e9b301bffc819f8cd22c9c0c0769e45adf3ba18e97ec9b",
+      "path": "003_Why Databricks.md",
+      "last_seen": 1765444517
+    },
+    "https://www.databricks.com/research/mosaic": {
+      "hash": "89d01bc2b7bc8a6996c8ed4838150e572fa6eb1f6024599d19bdce5e97e4a9b3",
+      "path": "006_Mosaic Research Hub.md",
+      "last_seen": 1765444517
+    },
+    "https://www.databricks.com/customers": {
+      "hash": "8c1fe25aa251008e1d228a54fc7882994acd162d8bcf6fbdd984349e0506f9d5",
+      "path": "007_Customer Success Stories.md",
+      "last_seen": 1765444517
+    },
+    "https://www.databricks.com/blog/author/carly-taylor": {
+      "hash": "2a5ad70afd96d6ab12dc0a8b8c2ba41d32544ca72a2a63ad30e7695569381c3a",
+      "path": "001_Articles by Carly Taylor - Databricks Blog.md",
+      "last_seen": 1765444517
+    },
+    "https://www.databricks.com/company/partners/consulting-and-si": {
+      "hash": "c3b0fa8cc516a4eb0049c6f6f49e4e574e809282be7bbde9a652ce868fee5ccd",
+      "path": "009_Databricks Consulting Partners - Databricks.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/company/partners/technology-partner-program": {
+      "hash": "c12e28629a155cd9c478d17e7a21965bc0ab0f53e68bf8f921fc733a2f76d4ee",
+      "path": "010_Databricks Technology Partner Program  Databricks.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/company/partners/consulting-and-si/candsi-partner-program": {
+      "hash": "00251f2a32342f7cfa20e14042c90248e61a8678d49df38b0ba061d9172c15da",
+      "path": "011_Partner page Consulting and SI partners  Databricks.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/company/partners/cloud-partners": {
+      "hash": "7c3f4bd52991d6d2bc2bac5e1e57578492102d0aa3c0fba30d4ae6a0646186fb",
+      "path": "008_Databricks Cloud Service Provider Partner  Databricks.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/company/partners/data-partner-program": {
+      "hash": "089449f218abe1b1b84d77e6a8bf0216f497e64592d660fbb7581db1c78cd225",
+      "path": "012_Data Partner Program  Databricks.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/company/partners/consulting-and-si/partner-solutions": {
+      "hash": "19ba2928afc5c32a4d59a4fa56c7ad3cf174aaa2855a523771bb65472ede1a17",
+      "path": "013_Partner Solutions - Databricks.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/product/data-intelligence-platform": {
+      "hash": "7bace795ab2b91011a420bbeed8a07b7bfc9445c811177f32883f1c52b24b954",
+      "path": "015_Databricks IQ AI-Driven Analytics for Faster Data Insights.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/company/partners/built-on-partner-program": {
+      "hash": "1399555848a400eb0a94af6a47905c158e7fe9a72b23ef5213da54753c6c1a28",
+      "path": "014_Built on Databricks Partner Program.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/product/delta-sharing": {
+      "hash": "18a9ce43d60b4c253ce1c318bdb4a67d014a933f2746f4a45d8eec53d7e0ac13",
+      "path": "017_Data Sharing  Databricks.md",
+      "last_seen": 1765444518
+    },
+    "https://www.databricks.com/product/delta-lake-on-databricks": {
+      "hash": "70c8fe91abd4fbf6a2bc30bd1a8ebc702a6ba085ba63d1b58eadd9e114aec52d",
+      "path": "016_Lakehouse storage.md",
+      "last_seen": 1765444519
+    },
+    "https://www.databricks.com/product/unity-catalog": {
+      "hash": "c4915be703dcb3cf813440ff6e0f771f4aa94fb75cccca11a83f8337ba12f381",
+      "path": "019_Unity Catalog.md",
+      "last_seen": 1765444519
+    },
+    "https://www.databricks.com/product/databricks-sql": {
+      "hash": "7718fef285b6da77aeaad962b0b8eff50b2ee0e362ecf27f62b8abe68ddc0228",
+      "path": "018_Databricks SQL.md",
+      "last_seen": 1765444519
+    },
+    "https://www.databricks.com/product/data-science": {
+      "hash": "20b3f49b4a52fb4db61c55a4317ea639f42206b6d41ff92303bb1cf8386fd60c",
+      "path": "022_Data Science  Databricks.md",
+      "last_seen": 1765444519
+    },
+    "https://www.databricks.com/product/data-engineering": {
+      "hash": "3c4e60c3919c74527653111591ad7c5be43698244733246d4d6aef4ffeacf2e6",
+      "path": "020_Lakeflow.md",
+      "last_seen": 1765444519
+    },
+    "https://www.databricks.com/product/artificial-intelligence": {
+      "hash": "4c17d7c3df7adb4e062a2c3a7f8c10faf4c8b715fe934ba3c0af49e06b7a238f",
+      "path": "021_Mosaic AI.md",
+      "last_seen": 1765444519
+    },
+    "https://www.databricks.com/product/lakebase": {
+      "hash": "73040eb1ae81206a77a38bdcbcc41ee75966713ff076cca85b86a166d557c969",
+      "path": "025_Lakebase.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/partnerconnect": {
+      "hash": "2f9f5ad98d3c22a3d78d595c978be094d8892326d008727c76298e2b90dd77bf",
+      "path": "028_Partner Connect  Databricks.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/product/databricks-apps": {
+      "hash": "3fddd7aee487a16bb463ad5a121051518c7fc3e1ed75a9c3eb2adb5027b04e73",
+      "path": "024_Databricks Apps.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/product/data-science/ide-integrations": {
+      "hash": "3889efee62c5ff41853dc1615af56cb483535e8647538270b359a22ee8ec45b4",
+      "path": "027_Databricks IDE Integrations.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/product/marketplace": {
+      "hash": "cf4dbbb986dfa6a0af2b15ae12f60f0892ff4f12854dc2392d76807081223545",
+      "path": "026_Databricks Marketplace  Databricks.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/product/business-intelligence": {
+      "hash": "20791d0e5db49d555c6480531bf7e00453bb43041b4f45a7109f067e09fd926a",
+      "path": "023_Intelligent analytics for everyone.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/solutions/industries/media-and-entertainment": {
+      "hash": "aa06c5b604fa988676c71e83092d084cbcd870b15b5181300fb132bf2c352974",
+      "path": "033_Data intelligence for Media and Entertainment  Databricks.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/solutions/industries/financial-services": {
+      "hash": "560e7e3045b7b9f744e547545b1edacd8b1c29e9b9f238b74352634a6776879c",
+      "path": "034_Data Intelligence for Financial Services  Databricks.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/solutions/industries/communications": {
+      "hash": "f8d8237a4cc96d7d903461897ec4d214e90061225f249847e1916ae2de384eff",
+      "path": "032_Data intelligence for Telecommunications.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/product/open-source": {
+      "hash": "e64977eaa4b5ba26ca2e599f90a8c053e71e4ad1a7a957a10b3ffa2ab5353619",
+      "path": "031_Built on open source  Databricks.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/product/pricing": {
+      "hash": "03bc2eb751e81c69f28d9c83798215a4d021650451dc9b810c37998c02f27154",
+      "path": "029_Databricks Pricing Flexible Plans for Data and AI Solutions.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/product/pricing/product-pricing/instance-types": {
+      "hash": "0604f98608d43df2d1905640fcdfdb7df8de193230fb43d0a1499d8e60ca8d97",
+      "path": "030_Pricing Calculator Page  Databricks.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/solutions/industries/retail-industry-solutions": {
+      "hash": "d5a6d1ba26465c7df6e8771e0662b79017c4a14c356d6050a753734e6af9f3af",
+      "path": "037_Data intelligence for Retail and Consumer Goods.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/solutions/industries/healthcare-and-life-sciences": {
+      "hash": "2908e212046b77f2466c6ac5d4c59de2c4c2dda825814a97907a3bc68022a188",
+      "path": "036_Data Intelligence for Healthcare and Life Sciences.md",
+      "last_seen": 1765444520
+    },
+    "https://www.databricks.com/solutions/industries/public-sector": {
+      "hash": "8d25b704aecad7a8aaa76a31bc9c19fcfb24def8d397c76b7230429582baacc0",
+      "path": "035_Data Intelligence for Public Sector.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/solutions/industries/manufacturing-industry-solutions": {
+      "hash": "3cf72b88fa6926951c152e032ca04bd1cf459bc5cb0dd3833933f2213c1ca6e1",
+      "path": "038_Data intelligence for Manufacturing.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/solutions/ai-agents": {
+      "hash": "94c1bcb49c1484c2d0286138e3e25cc4d97235aa7d4449efebd90477f162d117",
+      "path": "040_Improve Agent Quality.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/solutions": {
+      "hash": "84a519feda97d495ce25314cb0a771ff2e70629c45aee04b6c3b3a736fef5fc0",
+      "path": "039_Databricks Solution Accelerators - Databricks Use Cases.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/solutions/industries/cybersecurity": {
+      "hash": "569ba54a456b5f75bd1548232e923ee50742aa8d751b1510ee468de50f39036b",
+      "path": "041_Data Intelligence for Cybersecurity  Databricks.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/solutions/industries/marketing": {
+      "hash": "9e5b6f1252b720f8975f1eac50ecc5a484e63b3a212ac5cf31c85aa869719006",
+      "path": "042_Data Intelligence for Marketing.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/solutions/accelerators": {
+      "hash": "9b9c3fe03ccce30b4a762d196685684aa1efec60c7e1d2724ebf289f490510cb",
+      "path": "045_Databricks Solution Accelerators - Deliver Data  AI Value Faster - Databricks.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/professional-services": {
+      "hash": "8cff5eb002915c2735d02532cd5d170fbca49c66bf484a75fd6d639857a0e958",
+      "path": "044_Databricks Professional Services  Databricks.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/solutions/migration": {
+      "hash": "65e692cfb0fdf0cc14a5d8bba9fd5a9f0645f74658b288f123a7145bb9060d8a",
+      "path": "043_Migrate to Databricks Simplifying Data and AI Migration.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/learn/training/login": {
+      "hash": "793d6de3281c57b994124477df959faadd0cf8d344a69fde81bd18e9abb0fbe5",
+      "path": "047_Databricks Training Login Data Engineering  AI Learning  Databricks.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/learn/training/home": {
+      "hash": "ab38418d1cd9bc9c96278269052e4013e29e6a0878dd8fe275377423f1051cb2",
+      "path": "046_Training  Certification.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/learn/training/certification": {
+      "hash": "c9aea6501c605d7505de8ec8e994638498521e28fa5c4923bcf0ea2ceeed99de",
+      "path": "048_Databricks Certification.md",
+      "last_seen": 1765444521
+    },
+    "https://www.databricks.com/university": {
+      "hash": "86f8d172d0319a3084578eaaa0c2012ca1fdbc5101488df15b6f629fe85fafee",
+      "path": "050_Databricks University Alliance for Aspiring Data Scientists  Databricks.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/learn/free-edition": {
+      "hash": "50696c35e11ab4856710906caa4161e373242f0a5a061d2ab954a9915a8028a4",
+      "path": "049_Free Edition.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/dataaisummit": {
+      "hash": "7dc13e586d248b6366d5722d83e35823bd19d6219352a3533f302d27125f83ec",
+      "path": "051_Home - Data  AI Summit 2025  Databricks.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/dataaisummit/worldtour": {
+      "hash": "585ea8c533385484370b24da3ee359ecc8c552c34a1c323bdf4297a141e5efaf",
+      "path": "052_Data  AI World Tour 2025  Databricks.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/lp/data-intelligence-days": {
+      "hash": "2d18e9b14fd68d34847e99b60e152d1a285c6877460dd9812cfb73f1dc7695bc",
+      "path": "053_Data Intelligence Days.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/events": {
+      "hash": "fd7fb9fcdc284521d0dd65c1909dc221397725ccf3c9a77f04c4c5b007d7e23d",
+      "path": "054_Discover Databricks Events.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/blog": {
+      "hash": "f0ff029721025d79cf61b2050f9c71bd1492de755dd1a5a1d7af1a95995faedc",
+      "path": "055_Latest Articles on Data Science AI and Analytics.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/blog/category/generative-ai/mosaic-research": {
+      "hash": "fcdbe7f086e916edc4b624eea0d3ad2120ed2122d463b8ce531f855bfefdfc54",
+      "path": "056_Mosaic Research  Databricks Blog.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/databricks-documentation": {
+      "hash": "e551f4875b7a301c88bd573188c4191277ef5678b841f32e3a8b2e6e3028a210",
+      "path": "060_Databricks documentation  Databricks.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/support": {
+      "hash": "a9dc4b5f5080c96c1351d1e323d2f14ffa35744b274f7492e7c2d2e484edec46",
+      "path": "059_Support.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/discover/data-brew": {
+      "hash": "cadf6c617dc4125156368318d5f63a6416b16144854884a2f93935692ded7e3f",
+      "path": "057_Data Brew by Databricks.md",
+      "last_seen": 1765444522
+    },
+    "https://www.databricks.com/discover/champions-of-data-and-ai": {
+      "hash": "d8a0f6a7b0ce696bda87394d6b0a95e62547abdf15eeceb3bf58bb360f156aaa",
+      "path": "058_Champions of Data  AI Series.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/resources": {
+      "hash": "172674d76cf29323ed55c75b08ba84ff223c2934da08465e0d1d8d2cf9ded007",
+      "path": "061_Resources.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/resources/demos": {
+      "hash": "d145026385b81afe7d864d5ffe961568a48a01e4265e21aeb7dd75241d8a6cda",
+      "path": "062_Databricks Demo Center.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/company/about-us": {
+      "hash": "e8f55bbf6615c938ddb9864441d6c5e90e37c3306ba7465afc72bd3062c940db",
+      "path": "064_About Databricks The data and AI company.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/resources/architectures": {
+      "hash": "9f89987937198f6e06e1e65a52abd95c40ed1dc0fe520f51e7f0c8cccb4ac328",
+      "path": "063_Databricks Architecture Center.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/company/leadership-team": {
+      "hash": "6e7035ea215d43c0cf49827e59dffc317bfeb7c492f15d7e81d4c4f96fa40678",
+      "path": "065_Leadership Team  Databricks.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/company/contact": {
+      "hash": "a88ca874d178ad756f2a6816c65780c29b4cb6ff8c79903e6d732a4766285025",
+      "path": "067_Contact Us - Databricks.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/databricks-ventures": {
+      "hash": "99bfbc26fc62ec4ceb4d422cc4ae4ec76f0a6826af2ccce6cee7bf814772d5d6",
+      "path": "066_Databricks Ventures  Databricks.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/company/careers/open-positions": {
+      "hash": "b9d42e188a0e15d1e13dbb712fbc0de354f1e1e0a405954d65a914d0a49bd3f7",
+      "path": "069_Current job openings at Databricks.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/company/awards-and-recognition": {
+      "hash": "12673e2f52cdd358b510fadc5c2cb6d7e3a2b85c40ca1cc9136cdbf3ca692656",
+      "path": "070_Awards and Recognition  Databricks.md",
+      "last_seen": 1765444523
+    },
+    "https://www.databricks.com/company/careers": {
+      "hash": "537acacbf99cdcd04fadad0df9399e5dce9943c44f9d9aab328efa89c2aacadb",
+      "path": "068_Careers at Databricks  Databricks.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/company/newsroom": {
+      "hash": "06d84efa767fd0e49839006cee3dc549e3021df8bd2a7523cf03b7dd90f2701d",
+      "path": "071_Databricks Newsroom.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/trust": {
+      "hash": "665be6addd58b14e65299e4b740c0d5753fa5a5d489a4a3c100562a5d276426f",
+      "path": "072_Databricks Trust Ensuring Security Privacy  Compliance.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/blog/leveraging-agentic-ai-games": {
+      "hash": "9a291ed1e21ab427afcd41a11e208b201cad4f0de9e04d3c2dbfda4fcfc6b715",
+      "path": "074_Leveraging Agentic AI in Games.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/solutions/industries/federal-government": {
+      "hash": "428b88148173006eeaf2ef80d8decc96fd08180f477e971fa0ca64185202a23f",
+      "path": "075_Data and AI Driven solutions for Federal Government.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/legal/privacynotice": {
+      "hash": "8bad886467ff11aa7bdb12638dfa815d6ca42959ebb043b2b4e78f3369252769",
+      "path": "077_Privacy Notice  Databricks.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/legal/modern-slavery-policy-statement": {
+      "hash": "066d43b9aa61620742704d776f65d8026022bcaae08345b9f3af271157f98770",
+      "path": "079_Modern Slavery Policy Statement.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/legal/terms-of-use": {
+      "hash": "c1e053b89473de589d22e844b6c28b9317699ad66cbc3847932a3517cd2eb0f6",
+      "path": "078_Terms of Use.md",
+      "last_seen": 1765444524
+    },
+    "https://www.databricks.com/legal/supplemental-privacy-notice-california-residents": {
+      "hash": "5ffbe45af727e00193478df0de995f4102246ceea56945313c21c4a3509ebdf5",
+      "path": "080_Supplemental Privacy Notice for California Residents.md",
+      "last_seen": 1765444524
+    }
+  }
+}

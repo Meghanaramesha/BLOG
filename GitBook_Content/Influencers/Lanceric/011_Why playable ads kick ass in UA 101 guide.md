@@ -1,6 +1,6 @@
 # Why playable ads kick ass in UA: 101 guide
 
-![](https://lancaric.me/wp-content/uploads/2024/11/Most-Attractive-Youtube-Thumbnail-3.jpg) 
+![](./images/Most-Attractive-Youtube-Thumbnail-3_af95ed22.jpg) 
 
 # Why playable ads kick ass in UA: 101 guide
 
@@ -18,7 +18,7 @@ Telegram
 
 
 
-[![](https://lancaric.me/wp-content/uploads/2025/02/4-150x150.png)](https://lancaric.me/author/lanco/)
+[![](./images/4-150x150_5cf35f4a.png)](https://lancaric.me/author/lanco/)
 
 ##### [Matej Lančarič](https://lancaric.me/author/lanco/)
 
@@ -51,7 +51,7 @@ Playable ads used to be developed by ad networks for advertisers. However, adver
 
 Playable ads gained popularity in [2010](https://www.adliven.com/post/the-history-of-playable-ads-past-present-and-future#:~:text=Playable%20ads%20started%20gaining%20popularity,apps%20that%20became%20playable%20ads.) and eventually became mainstream-ish by 2018. Although the concept of playable ads is widely known, [only 7% of mobile gaming app advertisers](https://martech.org/playable-ads-and-longer-campaigns-gain-traction-in-mobile-gaming/) utilize it today. More specifically, playable ads are only used in 1% of RPG ads, 13% in Hypercasual, and 9% in shooting games.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c9465db-c001-4960-8659-82b9c4cedd6b_318x237.png)
+![](./images/https3A2F2Fsubstack-post-medias3amazonawscom2Fpublic2Fimages2F8c9465db-c001-4960-8659-82b9c4cedd6b_318x237_e2b2c547.png)
 
 Source: Mintegral, State of Games Media Buying 2024
 
@@ -183,7 +183,7 @@ These three ad networks, along with most others, also allow playables, but with 
 
 PlayableMaker.com shared their ad network comparison, and it clearly shows ua managers are interested in building for all of them, when they have the options to do so.
 
-[![](https://lancaric.me/wp-content/uploads/2025/10/adnetworks-1024x536.jpg)](https://playablemaker.com/)
+[![](./images/adnetworks-1024x536_61e60805.jpg)](https://playablemaker.com/)
 
 ## Metrics to test and measure
 
@@ -395,7 +395,7 @@ Also, subscribe to my newsletter. **It’s so honest it might actually annoy yo
 
 
 
-[![](https://lancaric.me/wp-content/uploads/2025/02/4-150x150.png)](https://lancaric.me/author/lanco/)
+[![](./images/4-150x150_5cf35f4a.png)](https://lancaric.me/author/lanco/)
 
 ##### [Matej Lančarič](https://lancaric.me/author/lanco/)
 
