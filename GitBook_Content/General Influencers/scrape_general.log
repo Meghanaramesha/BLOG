@@ -1,0 +1,459 @@
+2025-12-12 11:25:47,113 INFO === SCRAPING FelixBraberg_Substack ===
+2025-12-12 11:25:48,895 INFO Page https://felixbraberg.substack.com/archive?sort=new -> 12 links
+2025-12-12 11:25:48,919 INFO FelixBraberg_Substack: FOUND 12 article links
+2025-12-12 11:25:49,590 INFO Saved: https://felixbraberg.substack.com/p/the-1-banner-ad-mistake-youre-still -> 001_The 1 Banner Ad Mistake Youre Still Making.md
+2025-12-12 11:25:49,667 INFO Saved: https://felixbraberg.substack.com/p/lessmores-first-release-under-miniclip -> 004_Lessmores first release under Miniclip ownership.md
+2025-12-12 11:25:49,713 INFO Saved: https://felixbraberg.substack.com/p/is-coin-master-adding-in-game-ads -> 006_Is Coin Master Adding in Game Ads.md
+2025-12-12 11:25:49,767 INFO Saved: https://felixbraberg.substack.com/p/from-44-to-72-vietnams-studio-surge -> 008_From 44 to 72 Vietnams Studio Surge Continues.md
+2025-12-12 11:25:49,927 INFO Saved: https://felixbraberg.substack.com/p/hungrystudio-is-hungry-for-more -> 005_HungryStudio is hungry for more.md
+2025-12-12 11:25:50,266 INFO Saved: https://felixbraberg.substack.com/p/end-cards-the-silent-driver-of-player -> 009_End Cards The Silent Driver of Player Retention.md
+2025-12-12 11:25:50,320 INFO Saved: https://felixbraberg.substack.com/p/six-ad-placements-that-delivered -> 011_Six Ad Placements That Delivered in 2025 So Far.md
+2025-12-12 11:25:50,346 INFO Saved: https://felixbraberg.substack.com/p/8-jolly-ad-monetization-tips-for -> 003_8 Jolly Ad Monetization Tips for Black Friday Weekend.md
+2025-12-12 11:25:50,398 INFO Saved: https://felixbraberg.substack.com/p/are-ads-falling-out-of-fashion -> 010_Are Ads Falling Out of Fashion.md
+2025-12-12 11:25:50,434 INFO Saved: https://felixbraberg.substack.com/p/banners-the-walking-dead-of-mobile -> 007_Banners The Walking Dead of Mobile Ads.md
+2025-12-12 11:25:50,710 INFO Saved: https://felixbraberg.substack.com/p/thanks-for-scaling-now-get-out-the -> 012_Thanks for Scaling Now Get Out The Amazon Way.md
+2025-12-12 11:25:51,057 INFO Saved: https://felixbraberg.substack.com/p/candy-crush-is-crushing-it-with-ad -> 002_Candy Crush is Crushing it with Ad Revenue.md
+2025-12-12 11:25:52,061 INFO === SCRAPING FelixBraberg_Blog ===
+2025-12-12 11:25:53,194 INFO Page https://www.felixbraberg.com/blog -> 12 links
+2025-12-12 11:25:53,216 INFO FelixBraberg_Blog: FOUND 12 article links
+2025-12-12 11:25:53,997 INFO Saved: https://www.felixbraberg.com/about-me -> 001_About Me  FelixBrabergcom.md
+2025-12-12 11:25:54,059 INFO Saved: https://www.felixbraberg.com/blog -> 003_Blog  FelixBrabergcom.md
+2025-12-12 11:25:54,145 INFO Saved: https://www.felixbraberg.com/post/the-end-of-gam-and-admob-placement-refreshes -> 005_The End of GAM and Admob Placement Refreshes.md
+2025-12-12 11:25:54,155 INFO No content extracted for https://www.felixbraberg.com/podcast
+2025-12-12 11:25:54,157 INFO Skipped/failed: https://www.felixbraberg.com/podcast
+2025-12-12 11:25:54,275 INFO Saved: https://www.felixbraberg.com/post/the-price-of-progress-the-revenue-impact-of-google-deprecating-placements-and-gam-resellers -> 006_The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers.md
+2025-12-12 11:25:54,727 INFO Saved: https://www.felixbraberg.com/post/is-amazon-publisher-services-about-to-go-supernova-in-mobile -> 010_Is Amazon Publisher Services about to go supernova in Mobile.md
+2025-12-12 11:25:54,746 INFO Saved: https://www.felixbraberg.com/post/3-ad-monetization-tips-on-how-maximize-fill-in-india -> 012_3 Ad Monetization tips on how maximize fill in India.md
+2025-12-12 11:25:54,775 INFO Saved: https://www.felixbraberg.com/post/is-admob-removing-its-three-placement-limit -> 011_Is Admob removing its three placement limit.md
+2025-12-12 11:25:54,786 INFO Saved: https://www.felixbraberg.com/contact -> 004_Contact  FelixBrabergcom.md
+2025-12-12 11:25:55,088 INFO Saved: https://www.felixbraberg.com/post/the-end-of-gam-networks-on-mobile -> 008_The End of GAM Networks on Mobile.md
+2025-12-12 11:25:56,149 INFO Saved: https://www.felixbraberg.com/post/google-s-new-cmp-requirements-integrate-or-die -> 007_Googles New CMP Requirements - Integrate or Die.md
+2025-12-12 11:25:57,125 INFO Saved: https://www.felixbraberg.com/post/frozen-city-s-3-million-a-month-admon-blunder -> 009_Frozen Citys 3 million a month Admon blunder.md
+2025-12-12 11:25:58,128 INFO === SCRAPING MichaelKopelovich ===
+2025-12-12 11:26:00,819 INFO Page https://www.gamigion.com/author/kopelovich -> 27 links
+2025-12-12 11:26:02,511 INFO Page https://www.gamigion.com/author/kopelovich/page/2/ -> 28 links
+2025-12-12 11:26:03,839 INFO Page https://www.gamigion.com/author/kopelovich/page/3/ -> 28 links
+2025-12-12 11:26:05,910 INFO Page https://www.gamigion.com/author/kopelovich/page/4/ -> 28 links
+2025-12-12 11:26:08,012 INFO Page https://www.gamigion.com/author/kopelovich/page/5/ -> 28 links
+2025-12-12 11:26:09,722 INFO Page https://www.gamigion.com/author/kopelovich/page/6/ -> 28 links
+2025-12-12 11:26:11,401 INFO Page https://www.gamigion.com/author/kopelovich/page/7/ -> 28 links
+2025-12-12 11:26:13,254 INFO Page https://www.gamigion.com/author/kopelovich/page/8/ -> 28 links
+2025-12-12 11:26:14,708 INFO Page https://www.gamigion.com/author/kopelovich/page/9/ -> 28 links
+2025-12-12 11:26:16,169 INFO Page https://www.gamigion.com/author/kopelovich/page/10/ -> 28 links
+2025-12-12 11:26:17,904 INFO Page https://www.gamigion.com/author/kopelovich/page/11/ -> 28 links
+2025-12-12 11:26:19,814 INFO Page https://www.gamigion.com/author/kopelovich/page/12/ -> 28 links
+2025-12-12 11:26:22,174 INFO Page https://www.gamigion.com/author/kopelovich/page/13/ -> 28 links
+2025-12-12 11:26:24,802 INFO Page https://www.gamigion.com/author/kopelovich/page/14/ -> 28 links
+2025-12-12 11:26:26,849 INFO Page https://www.gamigion.com/author/kopelovich/page/15/ -> 18 links
+2025-12-12 11:26:26,849 INFO MichaelKopelovich: FOUND 213 article links
+2025-12-12 11:26:28,598 INFO Saved: https://www.gamigion.com/author/kopelovich -> 006_December in Mobile Games  IP Season.md
+2025-12-12 11:26:34,509 INFO Saved: https://www.gamigion.com/category/analysis -> 007_From Flappy Bird to Falcon How Hanoi Engineered a Global Game Factory.md
+2025-12-12 11:26:38,531 INFO Saved: https://www.gamigion.com/category/game-radar -> 009_Dont Miss These New Mobile Games   November 28 to December 4 2025.md
+2025-12-12 11:26:39,810 INFO Saved: https://www.gamigion.com/reports -> 003_Reports - Gamigion Mobile Games Industry News.md
+2025-12-12 11:26:42,276 INFO Saved: https://www.gamigion.com/about -> 005_Whos there - Gamigion Mobile Games Industry News.md
+2025-12-12 11:26:42,495 INFO Saved: https://www.gamigion.com/category/events -> 008_PGC London  19-20 January.md
+2025-12-12 11:26:43,424 INFO Saved: https://www.gamigion.com/category/highlights -> 010_Three Turkish Mobile Studios Made it to Deloitte Fast 50.md
+2025-12-12 11:26:43,527 INFO Saved: https://www.gamigion.com/games-radar -> 001_Games Radar - Gamigion Mobile Games Industry News.md
+2025-12-12 11:26:44,139 INFO Saved: https://www.gamigion.com/journal -> 002_Journal - Gamigion Mobile Games Industry News.md
+2025-12-12 11:26:44,861 INFO Saved: https://www.gamigion.com/events -> 004_Events - Gamigion Mobile Games Industry News.md
+2025-12-12 11:26:49,489 INFO Saved: https://www.gamigion.com/category/reports -> 012_Global Games Market Report 2025.md
+2025-12-12 11:26:59,132 INFO Saved: https://www.gamigion.com/category/journal -> 011_Supercells New Investment Grants for African Developers.md
+2025-12-12 11:27:01,581 INFO Saved: https://www.gamigion.com/december-in-mobile-games-ip-season -> 013_December in Mobile Games  IP Season.md
+2025-12-12 11:27:02,342 INFO Saved: https://www.gamigion.com/spotted-in-monopoly-go-by-scopely -> 014_Spotted in MONOPOLY GO by Scopely.md
+2025-12-12 11:27:03,931 INFO Saved: https://www.gamigion.com/spotted-in-legend-of-elements-by-joy-nice-games -> 015_Spotted in Legend of Elements by Joy Nice Games.md
+2025-12-12 11:27:05,470 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/combining-a-deal-a-spin-wheel-in-one-screen
+2025-12-12 11:27:06,203 INFO Saved: https://www.gamigion.com/spotted-in-pencil-sort-by-onetap-global -> 018_Spotted in Pencil Sort by Onetap Global.md
+2025-12-12 11:27:06,455 INFO Saved: https://www.gamigion.com/spotted-in-disney-magic-match-3d -> 017_Spotted in Disney Magic Match 3D.md
+2025-12-12 11:27:07,487 INFO Saved: https://www.gamigion.com/combining-a-deal-a-spin-wheel-in-one-screen -> 016_Combining a deal  a spin wheel in one screen.md
+2025-12-12 11:27:08,474 INFO Saved: https://www.gamigion.com/spotted-this-in-zen-match -> 019_Spotted this in Zen Match.md
+2025-12-12 11:27:12,931 INFO Saved: https://www.gamigion.com/author/kopelovich/page/2 -> 025_Spotted in Ghost Invasion by Miniclip.md
+2025-12-12 11:27:15,318 INFO Saved: https://www.gamigion.com/wp-login.php?action=lostpassword -> 027_untitled.md
+2025-12-12 11:27:17,363 INFO Saved: https://www.gamigion.com/spotted-in-triple-factory-visual-reward-path-integrated-into-the-ftue -> 021_Spotted in Triple Factory Visual reward path integrated into the FTUE.md
+2025-12-12 11:27:18,182 INFO Saved: https://www.gamigion.com/brawl-stars-x-stranger-things -> 022_Brawl Stars x Stranger Things.md
+2025-12-12 11:27:18,209 INFO Saved: https://www.gamigion.com/interesting-design-choice-in-gossip-harbors-wheel-of-chance -> 020_Interesting design choice in Gossip Harbors Wheel of Chance.md
+2025-12-12 11:27:19,922 INFO Saved: https://www.gamigion.com/spotted-this-small-but-interesting-rewarded-placement -> 023_Spotted this small but interesting Rewarded Placement.md
+2025-12-12 11:27:20,140 INFO Saved: https://www.gamigion.com/spotted-something-cool-in-royal-match -> 024_Spotted something cool in Royal Match.md
+2025-12-12 11:27:22,043 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdecember-in-mobile-games-ip-season%2F&action=register -> 026_untitled.md
+2025-12-12 11:27:30,294 INFO Saved: https://www.gamigion.com/spotted-in-ghost-invasion-by-miniclip -> 028_Spotted in Ghost Invasion by Miniclip.md
+2025-12-12 11:27:32,812 INFO Saved: https://www.gamigion.com/love-this-rewarded-video-placement-on-the-level-map-in-fortress-merge -> 031_Love this rewarded video placement on the level map in Fortress Merge.md
+2025-12-12 11:27:33,160 INFO Saved: https://www.gamigion.com/monopoly-go-x-mcdonalds -> 033_MONOPOLY GO x McDonalds.md
+2025-12-12 11:27:33,705 INFO Saved: https://www.gamigion.com/spotted-in-water-out-puzzle-by-hm-games -> 029_Spotted in Water Out Puzzle by HM Games.md
+2025-12-12 11:27:33,881 INFO Saved: https://www.gamigion.com/spotted-in-gossip-harbor-by-microfun -> 030_Spotted in Gossip Harbor by Microfun.md
+2025-12-12 11:27:34,061 INFO Saved: https://www.gamigion.com/spotted-in-survivor-io-by-habby-weekly-goodies -> 034_Spotted in Survivorio by Habby Weekly Goodies.md
+2025-12-12 11:27:34,309 INFO Saved: https://www.gamigion.com/fan-of-event-loading-screens-in-mobile-games -> 032_Fan of event loading screens in mobile games.md
+2025-12-12 11:27:40,347 INFO Saved: https://www.gamigion.com/spotted-a-clever-retention-trick-on-ios-in-block-jam -> 035_Spotted a clever retention trick on iOS in Block Jam.md
+2025-12-12 11:27:41,934 INFO Saved: https://www.gamigion.com/author/kopelovich/page/3 -> 040_Capybara Go x Teenage Mutant Ninja Turtles.md
+2025-12-12 11:27:48,312 INFO Saved: https://www.gamigion.com/com2us-minion-rumble-is-featuring-habbys-capybara-go -> 036_Com2uS Minion Rumble is featuring Habbys Capybara Go.md
+2025-12-12 11:27:49,623 INFO Saved: https://www.gamigion.com/spotted-two-interesting-social-layers-in-coin-master -> 039_Spotted two interesting social layers in Coin Master.md
+2025-12-12 11:27:51,093 INFO Saved: https://www.gamigion.com/loved-this-little-ui-detail-in-magic-sort -> 038_Loved this little UI detail in Magic Sort.md
+2025-12-12 11:27:52,899 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fspotted-in-ghost-invasion-by-miniclip%2F&action=register -> 041_untitled.md
+2025-12-12 11:27:53,900 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/spotted-in-souls-by-habby-a-smart-twist-on-daily-login-rewards
+2025-12-12 11:27:53,940 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/%f0%9f%8e%af-event-calendars-in-mobile-games
+2025-12-12 11:27:55,652 INFO Saved: https://www.gamigion.com/capybara-go-x-teenage-mutant-ninja-turtles -> 042_Capybara Go x Teenage Mutant Ninja Turtles.md
+2025-12-12 11:27:56,588 INFO Saved: https://www.gamigion.com/mobile-game-monetization-design-insights-sep-14-19 -> 043_Mobile Game Monetization  Design Insights Sep 14-19.md
+2025-12-12 11:28:02,889 INFO Saved: https://www.gamigion.com/%f0%9f%8e%af-event-calendars-in-mobile-games -> 044_Event Calendars in Mobile Games.md
+2025-12-12 11:28:07,471 INFO Saved: https://www.gamigion.com/spotted-in-souls-by-habby-a-smart-twist-on-daily-login-rewards -> 037_Spotted in Souls by Habby a smart twist on daily login rewards.md
+2025-12-12 11:28:08,860 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards
+2025-12-12 11:28:09,891 INFO Saved: https://www.gamigion.com/spotted-something-interesting-in-legend-of-mushroom -> 046_Spotted something interesting in Legend of Mushroom.md
+2025-12-12 11:28:12,496 INFO Saved: https://www.gamigion.com/mobile-game-monetization-design-insights-september-recap -> 047_Mobile Game Monetization  Design Insights Sep 8-14.md
+2025-12-12 11:28:15,018 INFO Saved: https://www.gamigion.com/back-to-school-meets-in-game-offers -> 048_Back to School meets in-game offers.md
+2025-12-12 11:28:15,300 INFO Saved: https://www.gamigion.com/spotted-these-fun-follow-screens-in-coin-master -> 050_Spotted these fun follow screens in Coin Master.md
+2025-12-12 11:28:19,024 INFO Saved: https://www.gamigion.com/fortress-merge-speed-up-offers -> 049_Fortress Merge Speed Up Offers.md
+2025-12-12 11:28:20,270 INFO Saved: https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards -> 045_Exploring fun ways to surprise players with rewards.md
+2025-12-12 11:28:20,698 INFO Saved: https://www.gamigion.com/author/kopelovich/page/4 -> 054_Welcome Back Pass designed for returning users on Survivorio.md
+2025-12-12 11:28:21,854 INFO Saved: https://www.gamigion.com/nice-touch-in-archero-2-choose-your-own-reward -> 051_Nice touch in Archero 2 Choose your own reward.md
+2025-12-12 11:28:25,566 INFO Saved: https://www.gamigion.com/an-interesting-rv-placement-at-the-level-start-screen -> 052_An interesting RV placement at the level start screen.md
+2025-12-12 11:28:27,687 INFO Saved: https://www.gamigion.com/spotted-a-fun-event-in-minion-rumble -> 053_Spotted a fun event in Minion Rumble.md
+2025-12-12 11:28:30,400 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fcapybara-go-x-teenage-mutant-ninja-turtles%2F&action=register -> 055_untitled.md
+2025-12-12 11:28:30,440 INFO Saved: https://www.gamigion.com/the-power-of-partnership-in-mobile-gaming-part-10 -> 057_The Power of Partnership in Mobile Gaming  Part 10.md
+2025-12-12 11:28:33,791 INFO Saved: https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io -> 056_Welcome Back Pass designed for returning users on Survivorio.md
+2025-12-12 11:28:33,831 INFO Saved: https://www.gamigion.com/such-a-simple-but-powerful-ux-touch -> 058_Such a simple but powerful UX touch.md
+2025-12-12 11:28:34,439 INFO Saved: https://www.gamigion.com/love-this-smart-rewarded-flow-in-mob-control-by-voodoo -> 059_Love this smart Rewarded flow in Mob Control by Voodoo.md
+2025-12-12 11:28:36,768 INFO Saved: https://www.gamigion.com/car-match-by-grand-games-is-full-of-thoughtful-touches -> 060_Car Match by Grand Games is full of thoughtful touches.md
+2025-12-12 11:28:41,894 INFO Saved: https://www.gamigion.com/loved-this-3-day-starter-pack-design -> 062_Loved this 3-day starter pack design.md
+2025-12-12 11:28:41,894 INFO Saved: https://www.gamigion.com/just-loved-this-clean-offer-design-from-color-slide-by-saygames -> 061_Just loved this clean offer design from Color Slide by SayGames.md
+2025-12-12 11:28:48,565 INFO Saved: https://www.gamigion.com/author/kopelovich/page/5 -> 068_Another new cat-themed puzzle game just dropped.md
+2025-12-12 11:28:49,271 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/in-game-discord-invite-in-cook-merge-by-supersolid
+2025-12-12 11:28:50,894 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/car-match-by-grand-games-surprised-by-their-daily-task-system
+2025-12-12 11:28:51,519 INFO Saved: https://www.gamigion.com/in-game-discord-invite-in-cook-merge-by-supersolid -> 063_in-game Discord invite in Cook  Merge by Supersolid.md
+2025-12-12 11:28:52,053 INFO Saved: https://www.gamigion.com/noticed-this-cross-promo-in-word-trip-by-playsimple-games -> 065_Noticed this cross-promo in Word Trip by PlaySimple Games.md
+2025-12-12 11:28:52,836 INFO Saved: https://www.gamigion.com/car-match-by-grand-games-surprised-by-their-daily-task-system -> 064_Car Match by Grand Games Surprised by their Daily Task system.md
+2025-12-12 11:28:54,524 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/the-complete-guide-to-sort-games-monetization-part-2
+2025-12-12 11:28:56,471 INFO Saved: https://www.gamigion.com/the-complete-guide-to-sort-games-monetization-part-2 -> 066_The Complete Guide to Sort Games Monetization  Part 2.md
+2025-12-12 11:28:57,221 INFO Saved: https://www.gamigion.com/welcome-back-event -> 067_Welcome Back event.md
+2025-12-12 11:28:57,271 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwelcome-back-pass-designed-for-returning-users-on-survivor-io%2F&action=register -> 069_untitled.md
+2025-12-12 11:28:58,400 INFO Saved: https://www.gamigion.com/another-new-cat-themed-puzzle-game-just-dropped -> 070_Another new cat-themed puzzle game just dropped.md
+2025-12-12 11:29:03,476 INFO Saved: https://www.gamigion.com/putting-emoji-in-your-apps-name -> 071_Putting emoji in your Apps name.md
+2025-12-12 11:29:06,282 INFO Saved: https://www.gamigion.com/an-event-gated-behind-a-paywall-from-coin-master -> 072_An event gated behind a paywall from Coin Master.md
+2025-12-12 11:29:08,387 INFO Saved: https://www.gamigion.com/full-event-gated-behind-a-one-time-payment -> 073_Full event gated behind a one-time payment.md
+2025-12-12 11:29:09,121 INFO Saved: https://www.gamigion.com/interesting-twist-on-daily-goals-in-cake-sort-by-lion-studios -> 074_Interesting twist on daily goals in Cake Sort by Lion Studios.md
+2025-12-12 11:29:11,589 INFO Saved: https://www.gamigion.com/missed-a-day-in-your-daily-login-streak -> 075_Missed a day in your daily login streak.md
+2025-12-12 11:29:11,800 INFO Saved: https://www.gamigion.com/spotted-a-clever-twist-in-chum-chums-battle-pass -> 076_Spotted a clever twist in Chum Chums battle pass.md
+2025-12-12 11:29:12,975 INFO Saved: https://www.gamigion.com/really-liked-this-small-ui-touch-in-block-jam -> 077_Really liked this small UI touch in Block Jam.md
+2025-12-12 11:29:14,822 INFO Saved: https://www.gamigion.com/upgradable-piggy-banks-long-term-monetization-layer -> 078_Upgradable Piggy Banks Long-term Monetization Layer.md
+2025-12-12 11:29:15,843 INFO Saved: https://www.gamigion.com/author/kopelovich/page/6 -> 082_The Power of Partnership Mobile Gaming Collaborations.md
+2025-12-12 11:29:19,403 INFO Saved: https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam -> 079_Adorable seasonal icon update for Screw Jam.md
+2025-12-12 11:29:21,823 INFO Saved: https://www.gamigion.com/royal-match-really-knows-how-to-make-small-wins-feel-huge -> 081_Royal Match really knows how to make small wins feel huge.md
+2025-12-12 11:29:22,223 INFO Saved: https://www.gamigion.com/make-any-purchase-and-get-rewarded -> 080_Make ANY purchase and get rewarded.md
+2025-12-12 11:29:25,374 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fanother-new-cat-themed-puzzle-game-just-dropped%2F&action=register -> 083_untitled.md
+2025-12-12 11:29:27,170 INFO Saved: https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2 -> 084_The Power of Partnership Mobile Gaming Collaborations.md
+2025-12-12 11:29:27,968 INFO Saved: https://www.gamigion.com/most-news-tabs-in-social-casino-games-are-forgettable -> 085_Most news tabs in social casino games are forgettable.md
+2025-12-12 11:29:31,043 INFO Saved: https://www.gamigion.com/live-activities-beyond-games-real-world-example -> 087_Live Activities Beyond Games Real-World Example.md
+2025-12-12 11:29:33,887 INFO Saved: https://www.gamigion.com/just-hit-my-1-year-anniversary-in-monopoly-go -> 086_Just hit my 1-year anniversary in MONOPOLY GO.md
+2025-12-12 11:29:39,253 INFO Saved: https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast -> 089_Daily  Weekly Challenge setup in Time Blast.md
+2025-12-12 11:29:40,103 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/welcome-back-reward-screen-in-dice-dreams
+2025-12-12 11:29:41,389 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/wheel-of-cats-with-a-twist
+2025-12-12 11:29:43,575 INFO Saved: https://www.gamigion.com/welcome-back-reward-screen-in-dice-dreams -> 088_Welcome Back reward screen in Dice Dreams.md
+2025-12-12 11:29:44,799 INFO Saved: https://www.gamigion.com/interesting-approach-in-cake-sort-by-lion-studios -> 092_Interesting approach in Cake Sort by Lion Studios.md
+2025-12-12 11:29:46,547 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/level-failed-no-problem
+2025-12-12 11:29:47,435 INFO Saved: https://www.gamigion.com/author/kopelovich/page/7 -> 096_Sort Games Monetization Complete Guide.md
+2025-12-12 11:29:49,727 INFO Saved: https://www.gamigion.com/perfect-gaming-app-icon -> 093_Perfect Gaming App Icon.md
+2025-12-12 11:29:50,018 INFO Saved: https://www.gamigion.com/level-failed-no-problem -> 091_Level failed No problem.md
+2025-12-12 11:29:51,065 INFO Saved: https://www.gamigion.com/parental-controls-in-mobile-games -> 094_Parental controls in Mobile Games.md
+2025-12-12 11:29:52,218 INFO Saved: https://www.gamigion.com/cake-sorts-x2-rewarded-video-option -> 095_Cake Sorts x2 Rewarded Video Option.md
+2025-12-12 11:29:54,433 INFO Saved: https://www.gamigion.com/wheel-of-cats-with-a-twist -> 090_Wheel of Cats with a twist.md
+2025-12-12 11:30:01,850 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fthe-power-of-partnership-mobile-gaming-collaborations-2%2F&action=register -> 097_untitled.md
+2025-12-12 11:30:06,364 INFO Saved: https://www.gamigion.com/good-rv-placement-in-cake-await -> 099_Good RV Placement in Cake Await.md
+2025-12-12 11:30:06,367 INFO Saved: https://www.gamigion.com/sort-games-monetization-complete-guide -> 098_Sort Games Monetization Complete Guide.md
+2025-12-12 11:30:08,608 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/new-take-in-coin-master-team-up-for-daily-challenges
+2025-12-12 11:30:08,716 INFO Saved: https://www.gamigion.com/apple-live-activities-being-used-in-a-mobile-game -> 102_Apple Live Activities being used in a Mobile Game.md
+2025-12-12 11:30:08,801 INFO Saved: https://www.gamigion.com/summoners-war-x-demon-slayer-collaboration -> 103_Summoners War x Demon Slayer Collaboration.md
+2025-12-12 11:30:08,965 INFO Saved: https://www.gamigion.com/game-changer-display-for-mobile-games -> 104_Game-changer Display for Mobile Games.md
+2025-12-12 11:30:10,883 INFO Saved: https://www.gamigion.com/email-sign-ups-done-right -> 101_Email Sign-Ups Done Right.md
+2025-12-12 11:30:16,293 INFO Saved: https://www.gamigion.com/author/kopelovich/page/8 -> 110_Interesting Approach by Dice Dreams.md
+2025-12-12 11:30:19,818 INFO Saved: https://www.gamigion.com/new-take-in-coin-master-team-up-for-daily-challenges -> 100_New Take in Coin Master Team Up for Daily Challenges.md
+2025-12-12 11:30:20,974 INFO Saved: https://www.gamigion.com/interesting-event-in-royal-kingdom -> 105_Interesting event in Royal Kingdom.md
+2025-12-12 11:30:23,795 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/daily-rewards-design-in-block-heads
+2025-12-12 11:30:24,519 INFO Saved: https://www.gamigion.com/merge-games-monetization-complete-guide -> 106_Merge Games Monetization Complete Guide.md
+2025-12-12 11:30:25,873 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fsort-games-monetization-complete-guide%2F&action=register -> 111_untitled.md
+2025-12-12 11:30:26,845 INFO Saved: https://www.gamigion.com/interesting-take-on-a-rolling-offer-from-coin-master -> 109_Interesting take on a rolling offer from Coin Master.md
+2025-12-12 11:30:27,709 INFO Saved: https://www.gamigion.com/streak-mechanic-turned-into-a-time-limited-event-progression -> 108_Streak mechanic turned into a time-limited event progression.md
+2025-12-12 11:30:33,161 INFO Saved: https://www.gamigion.com/interesting-approach-by-dice-dreams -> 112_Interesting Approach by Dice Dreams.md
+2025-12-12 11:30:34,636 INFO Saved: https://www.gamigion.com/hooked-on-little-farm-story -> 113_Hooked on Little Farm Story.md
+2025-12-12 11:30:40,597 INFO Saved: https://www.gamigion.com/monetization-in-sort-games-a-sneak-peek -> 114_Monetization in Sort Games  A Sneak Peek.md
+2025-12-12 11:30:41,735 INFO Saved: https://www.gamigion.com/daily-rewards-design-in-block-heads -> 107_Daily rewards design in Block Heads.md
+2025-12-12 11:30:43,073 INFO Saved: https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations -> 116_The Power of Partnership Mobile Gaming Collaborations.md
+2025-12-12 11:30:45,406 INFO Saved: https://www.gamigion.com/love-this-rolling-offer-design-in-coin-master -> 117_Love this rolling offer design in Coin Master.md
+2025-12-12 11:30:46,674 INFO Saved: https://www.gamigion.com/would-love-to-see-more-games-implementing-this -> 115_Would love to see more games implementing this.md
+2025-12-12 11:30:47,546 INFO Saved: https://www.gamigion.com/welcome-back-screen-from-travel-town-by-moon-active -> 118_Welcome Back screen from Travel Town by Moon Active.md
+2025-12-12 11:30:47,922 INFO Saved: https://www.gamigion.com/archero-2-onboarding-done-right -> 120_Archero 2 Onboarding done right.md
+2025-12-12 11:30:53,982 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/digging-deeper-with-gossip-harbor
+2025-12-12 11:30:56,047 INFO Saved: https://www.gamigion.com/author/kopelovich/page/9 -> 124_Dynamic Offers in Action.md
+2025-12-12 11:30:56,311 INFO Saved: https://www.gamigion.com/digging-deeper-with-gossip-harbor -> 119_Digging deeper with Gossip Harbor.md
+2025-12-12 11:31:00,670 INFO Saved: https://www.gamigion.com/welcome-back-with-style -> 122_Welcome Back with Style.md
+2025-12-12 11:31:00,828 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/saygames-is-stepping-up-its-no-ads-offer-game
+2025-12-12 11:31:03,489 INFO Saved: https://www.gamigion.com/reaching-every-player-type -> 123_Reaching Every Player Type.md
+2025-12-12 11:31:05,683 INFO Saved: https://www.gamigion.com/dynamic-offers-in-action -> 126_Dynamic Offers in Action.md
+2025-12-12 11:31:05,699 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Finteresting-approach-by-dice-dreams%2F&action=register -> 125_untitled.md
+2025-12-12 11:31:10,499 INFO Saved: https://www.gamigion.com/crafting-player-centric-experiences -> 127_Crafting Player-Centric Experiences.md
+2025-12-12 11:31:13,279 INFO Saved: https://www.gamigion.com/saygames-is-stepping-up-its-no-ads-offer-game -> 121_SayGames is stepping up its no-ads offer game.md
+2025-12-12 11:31:17,441 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/cross-promotion-pop-up-carousel
+2025-12-12 11:31:18,680 INFO Saved: https://www.gamigion.com/interesting-offer-in-coin-master-by-moon-active -> 128_Interesting offer in Coin Master by Moon Active.md
+2025-12-12 11:31:19,701 INFO Saved: https://www.gamigion.com/cross-promotion-pop-up-carousel -> 129_Cross Promotion Pop-up Carousel.md
+2025-12-12 11:31:20,854 INFO Saved: https://www.gamigion.com/christmas-loading-screens-in-games -> 130_Christmas Loading Screens in Games.md
+2025-12-12 11:31:21,093 INFO Saved: https://www.gamigion.com/gpt-vs-royal-match-can-ai-win-a-hard-level -> 131_GPT vs Royal Match Can AI Win a Hard Level.md
+2025-12-12 11:31:26,435 INFO Saved: https://www.gamigion.com/smart-design-meets-convenience -> 133_Smart Design Meets Convenience.md
+2025-12-12 11:31:26,693 INFO Saved: https://www.gamigion.com/creative-animation-alert -> 132_Creative Animation Alert.md
+2025-12-12 11:31:28,438 INFO Saved: https://www.gamigion.com/the-power-of-partnerships-in-gaming -> 134_The Power of Partnerships in Gaming.md
+2025-12-12 11:31:33,105 INFO Saved: https://www.gamigion.com/author/kopelovich/page/10 -> 138_Coin Masters Build-Your-Own Offers.md
+2025-12-12 11:31:33,275 INFO Saved: https://www.gamigion.com/feedback-made-simple -> 135_Feedback Made Simple.md
+2025-12-12 11:31:33,965 INFO Saved: https://www.gamigion.com/teamwork-meets-fomo-in-royal-kingdom -> 136_Teamwork Meets FOMO in Royal Kingdom.md
+2025-12-12 11:31:39,944 INFO Saved: https://www.gamigion.com/ad-flow-in-sticker-book-by-lion-studios -> 137_Ad Flow in Sticker Book by Lion Studios.md
+2025-12-12 11:31:40,019 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fdynamic-offers-in-action%2F&action=register -> 139_untitled.md
+2025-12-12 11:31:42,522 INFO Saved: https://www.gamigion.com/coin-masters-build-your-own-offers-%f0%9f%90%b7 -> 140_Coin Masters Build-Your-Own Offers.md
+2025-12-12 11:31:43,292 INFO Saved: https://www.gamigion.com/twisted-tangles-smart-monetization-choices -> 141_Twisted Tangles Smart Monetization Choices.md
+2025-12-12 11:31:47,699 INFO Saved: https://www.gamigion.com/subtle-psychology-at-play-%f0%9f%94%a5 -> 142_Subtle Psychology at Play.md
+2025-12-12 11:31:47,845 INFO Saved: https://www.gamigion.com/smart-live-ops-integration-at-level-start-end -> 143_Smart Live-Ops Integration at Level StartEnd.md
+2025-12-12 11:31:48,451 INFO Saved: https://www.gamigion.com/just-discovered-something-cool-in-sticker-book -> 145_Just Discovered Something Cool in Sticker Book.md
+2025-12-12 11:31:49,275 INFO Saved: https://www.gamigion.com/bringing-friends-bigger-rewards -> 144_Bringing Friends  Bigger Rewards.md
+2025-12-12 11:31:53,776 INFO Saved: https://www.gamigion.com/power-boost-unlocked-in-travel-town -> 146_Power Boost Unlocked in Travel Town.md
+2025-12-12 11:31:55,151 INFO Saved: https://www.gamigion.com/fun-rewarding-screen-in-piggy-go -> 147_Fun  Rewarding Screen in Piggy GO.md
+2025-12-12 11:31:56,596 INFO Saved: https://www.gamigion.com/author/kopelovich/page/11 -> 152_Super Cool Event in Twisted Tangle by Rollic Games.md
+2025-12-12 11:31:58,850 INFO Saved: https://www.gamigion.com/no-ads-ui-integration-by-lion-studios -> 149_No-Ads UI Integration by Lion Studios.md
+2025-12-12 11:32:01,278 INFO Saved: https://www.gamigion.com/ad-free-options-in-tetris-block-puzzle -> 150_Ad-Free Options in Tetris Block Puzzle.md
+2025-12-12 11:32:02,171 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune
+2025-12-12 11:32:02,837 INFO Saved: https://www.gamigion.com/unlocking-skip-it-strategies-in-coin-sort-by-lion-studios -> 151_Unlocking Skip-it Strategies in Coin Sort by Lion Studios.md
+2025-12-12 11:32:03,214 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fcoin-masters-build-your-own-offers-%25f0%259f%2590%25b7%2F&action=register -> 153_untitled.md
+2025-12-12 11:32:06,997 INFO Saved: https://www.gamigion.com/rolling-rv-offers-in-fish-of-fortune -> 148_Rolling RV Offers in Fish of Fortune.md
+2025-12-12 11:32:10,298 INFO Saved: https://www.gamigion.com/super-cool-event-in-twisted-tangle-by-rollic-games -> 154_Super Cool Event in Twisted Tangle by Rollic Games.md
+2025-12-12 11:32:12,804 INFO Saved: https://www.gamigion.com/chum-chum-by-big-fish-games-super-cute-match-3-blast -> 156_Chum Chum by Big Fish Games Super Cute Match-3 Blast.md
+2025-12-12 11:32:15,309 INFO Saved: https://www.gamigion.com/happy-halloween-to-all-my-us-readers -> 157_Happy Halloween to all my US readers.md
+2025-12-12 11:32:15,651 INFO Saved: https://www.gamigion.com/coin-masters-rolling-offer-in-their-token-thunder-event -> 155_Coin Masters Rolling Offer in their Token Thunder event.md
+2025-12-12 11:32:15,679 INFO Saved: https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples-2 -> 158_Monetizing Live-Ops Events Exploring Key Examples.md
+2025-12-12 11:32:16,620 INFO Saved: https://www.gamigion.com/take-note-casual-game-developers -> 160_Take note casual game developers.md
+2025-12-12 11:32:17,344 INFO Saved: https://www.gamigion.com/royal-match-dragon-nest-event -> 159_Royal Match Dragon Nest Event.md
+2025-12-12 11:32:21,805 INFO Saved: https://www.gamigion.com/interesting-offer-in-tile-busters-buying-new-avatars -> 161_Interesting offer in Tile Busters Buying New Avatars.md
+2025-12-12 11:32:21,990 INFO Saved: https://www.gamigion.com/author/kopelovich/page/12 -> 166_Nostalgia The Appeal of Card Albums in Mobile Games.md
+2025-12-12 11:32:23,663 INFO Saved: https://www.gamigion.com/boost-your-team-boost-your-game -> 162_Boost Your Team Boost Your Game.md
+2025-12-12 11:32:26,882 INFO Saved: https://www.gamigion.com/fun-mechanic-in-dice-dreams-piggy-wheel -> 163_Fun mechanic in Dice Dreams Piggy Wheel.md
+2025-12-12 11:32:29,072 INFO Saved: https://www.gamigion.com/awesome-ad-for-solitaire-grand-harvest-by-playtika -> 165_Awesome ad for Solitaire Grand Harvest by Playtika.md
+2025-12-12 11:32:30,676 INFO Saved: https://www.gamigion.com/gossip-harbor-by-microfun -> 164_Gossip Harbor by Microfun.md
+2025-12-12 11:32:31,416 INFO Saved: https://www.gamigion.com/nostalgia-the-appeal-of-card-albums-in-mobile-games -> 168_Nostalgia The Appeal of Card Albums in Mobile Games.md
+2025-12-12 11:32:33,166 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fsuper-cool-event-in-twisted-tangle-by-rollic-games%2F&action=register -> 167_untitled.md
+2025-12-12 11:32:36,887 INFO Saved: https://www.gamigion.com/interesting-approach-in-unpuzzle-by-hypercell -> 169_Interesting approach in Unpuzzle by HYPERCELL.md
+2025-12-12 11:32:37,425 INFO Saved: https://www.gamigion.com/pin-out-master-hamster-kombat -> 170_Pin Out Master  Hamster Kombat.md
+2025-12-12 11:32:41,583 INFO Saved: https://www.gamigion.com/chest-opening-animation-in-royal-match -> 171_Chest Opening Animation in Royal Match.md
+2025-12-12 11:32:42,501 INFO Saved: https://www.gamigion.com/legend-of-mushrooms-community-building-on-discord -> 172_Legend of Mushrooms Community Building on Discord.md
+2025-12-12 11:32:46,334 INFO Saved: https://www.gamigion.com/fish-of-fortune-by-whalo -> 173_Fish of Fortune by Whalo.md
+2025-12-12 11:32:48,897 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/%f0%9f%8d%ac-sweet-success
+2025-12-12 11:32:52,911 INFO Saved: https://www.gamigion.com/unpacking-the-lava-quest-live-ops-event-in-mobile-games -> 176_Unpacking the Lava Quest Live-Ops Event in Mobile Games.md
+2025-12-12 11:32:53,358 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/voodoo-x-hasbro-collab-is-back-in-mob-control
+2025-12-12 11:32:53,410 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples
+2025-12-12 11:32:54,521 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/author/kopelovich/page/13
+2025-12-12 11:33:00,500 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/monopoly-go-x-marvel-collab-launches-this-week
+2025-12-12 11:33:01,752 INFO Saved: https://www.gamigion.com/%f0%9f%8d%ac-sweet-success -> 177_Sweet Success.md
+2025-12-12 11:33:03,353 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/power-of-partnerships-mobile-gaming-collaborations-6
+2025-12-12 11:33:04,324 INFO Saved: https://www.gamigion.com/voodoo-x-hasbro-collab-is-back-in-mob-control -> 175_Voodoo x Hasbro Collab is Back in Mob Control.md
+2025-12-12 11:33:04,793 INFO Saved: https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples -> 174_Monetizing Live-Ops Events Exploring Key Examples.md
+2025-12-12 11:33:05,909 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fnostalgia-the-appeal-of-card-albums-in-mobile-games%2F&action=register -> 181_untitled.md
+2025-12-12 11:33:05,973 INFO Saved: https://www.gamigion.com/power-of-partnerships-mobile-gaming-collaborations-6 -> 179_Power of Partnerships Mobile Gaming Collaborations 6.md
+2025-12-12 11:33:06,365 INFO Saved: https://www.gamigion.com/author/kopelovich/page/13 -> 180_Loving This Offer Design in Seaside Escape.md
+2025-12-12 11:33:11,649 INFO Saved: https://www.gamigion.com/monopoly-go-x-marvel-collab-launches-this-week -> 178_MONOPOLY GO x Marvel Collab Launches THIS WEEK.md
+2025-12-12 11:33:13,732 INFO Saved: https://www.gamigion.com/loving-this-offer-design-in-seaside-escape -> 182_Loving This Offer Design in Seaside Escape.md
+2025-12-12 11:33:18,578 INFO Saved: https://www.gamigion.com/interesting-monetization-strategy-for-event-progression -> 183_Interesting Monetization Strategy for Event Progression.md
+2025-12-12 11:33:21,662 INFO Saved: https://www.gamigion.com/monetization-insight-from-toon-blast -> 184_Monetization Insight from Toon Blast.md
+2025-12-12 11:33:23,412 INFO Saved: https://www.gamigion.com/cool-invite-reward-system-in-office-cat -> 185_Cool invite reward system in Office Cat.md
+2025-12-12 11:33:25,981 INFO Saved: https://www.gamigion.com/hey-look-a-cool-design-%f0%9f%8e%a8 -> 186_Hey Look A Cool Design.md
+2025-12-12 11:33:27,811 INFO Saved: https://www.gamigion.com/boosting-your-fun-in-royal-match -> 187_Boosting Your Fun in Royal Match.md
+2025-12-12 11:33:28,311 INFO Saved: https://www.gamigion.com/something-cool-i-found-in-raid-rush -> 188_Something Cool I Found in Raid Rush.md
+2025-12-12 11:33:28,393 INFO Saved: https://www.gamigion.com/gun-dungeons-innovative-reward-boost -> 189_Gun  Dungeons Innovative Reward Boost.md
+2025-12-12 11:33:28,601 INFO Saved: https://www.gamigion.com/how-race-events-drive-engagement-in-mobile-games -> 190_How Race Events Drive Engagement in Mobile Games.md
+2025-12-12 11:33:34,985 INFO Saved: https://www.gamigion.com/author/kopelovich/page/14 -> 194_Top Mobile Game Picks of the Week.md
+2025-12-12 11:33:35,689 INFO Saved: https://www.gamigion.com/innovative-scrolling-offers-in-coin-master -> 191_Innovative Scrolling Offers in Coin Master.md
+2025-12-12 11:33:35,968 INFO Saved: https://www.gamigion.com/adventure-island-merge-mysterious-gift -> 192_Adventure Island Merge Mysterious Gift.md
+2025-12-12 11:33:38,375 INFO Saved: https://www.gamigion.com/hole-io-smart-ad-breaks-with-rewards -> 193_Holeio Smart Ad Breaks With Rewards.md
+2025-12-12 11:33:39,972 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Floving-this-offer-design-in-seaside-escape%2F&action=register -> 195_untitled.md
+2025-12-12 11:33:41,734 INFO Saved: https://www.gamigion.com/top-mobile-game-picks-of-the-week -> 196_Top Mobile Game Picks of the Week.md
+2025-12-12 11:33:42,414 INFO Saved: https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards -> 198_Trending Live-Ops Events Team Up for Rewards.md
+2025-12-12 11:33:42,539 INFO Saved: https://www.gamigion.com/hard-levels-animation-from-twisted-tangle -> 197_Hard Levels Animation from Twisted Tangle.md
+2025-12-12 11:33:48,368 INFO Saved: https://www.gamigion.com/boosting-engagement-with-cumulative-rewards -> 200_Boosting Engagement With Cumulative Rewards.md
+2025-12-12 11:33:49,491 INFO Saved: https://www.gamigion.com/the-power-of-partnership-the-new-frontier-in-mobile-gaming-collaborations -> 199_The Power of Partnership Mobile Gaming Collaborations.md
+2025-12-12 11:33:49,910 INFO Saved: https://www.gamigion.com/trending-live-ops-events-choose-your-reward -> 201_Trending Live-Ops Events Choose Your Reward.md
+2025-12-12 11:33:50,382 INFO Saved: https://www.gamigion.com/effective-phone-connect-funnel-by-coin-master -> 202_Effective Phone Connect Funnel by Coin Master.md
+2025-12-12 11:33:53,598 INFO Saved: https://www.gamigion.com/royal-match-monetization-at-the-point-of-failure -> 203_Royal Match Monetization at the Point of Failure.md
+2025-12-12 11:33:54,364 INFO Saved: https://www.gamigion.com/the-power-of-3-day-offers-in-mobile-games -> 204_The Power of 3-Day Offers in Mobile Games.md
+2025-12-12 11:33:54,975 INFO Saved: https://www.gamigion.com/cross-promotion-done-right-in-seaside-escape -> 205_Cross-Promotion Done Right in Seaside Escape.md
+2025-12-12 11:33:55,892 INFO Saved: https://www.gamigion.com/trending-live-ops-events-grid-scavenger-hunt -> 206_Trending Live-Ops Events Grid Scavenger Hunt.md
+2025-12-12 11:33:56,735 INFO Saved: https://www.gamigion.com/author/kopelovich/page/15 -> 208_Monetization Review Cup Heroes by Voodoo.md
+2025-12-12 11:34:02,170 INFO Saved: https://www.gamigion.com/black-friday-deals-on-mobile-games -> 207_Black Friday Deals on Mobile Games.md
+2025-12-12 11:34:02,208 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Ftop-mobile-game-picks-of-the-week%2F&action=register -> 209_untitled.md
+2025-12-12 11:34:03,368 INFO Saved: https://www.gamigion.com/monetization-review-cup-heroes-by-voodoo -> 210_Monetization Review Cup Heroes by Voodoo.md
+2025-12-12 11:34:05,525 INFO Saved: https://www.gamigion.com/engaging-players-with-milestone-based-live-ops-events -> 211_Engaging Players with Milestone-Based Live Ops Events.md
+2025-12-12 11:34:05,894 INFO Saved: https://www.gamigion.com/trending-game-mechanics-of-2024-pioneering-innovation-in-mobile-gaming -> 212_Trending Game Mechanics of 2024 Innovation in Mobile Gaming.md
+2025-12-12 11:34:06,351 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fmonetization-review-cup-heroes-by-voodoo%2F&action=register -> 213_untitled.md
+2025-12-12 11:34:07,376 INFO === SCRAPING SergeiVasiuk ===
+2025-12-12 11:34:11,084 INFO Page https://www.gamigion.com/author/sergeivasiuk -> 27 links
+2025-12-12 11:34:12,780 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/2/ -> 28 links
+2025-12-12 11:34:14,449 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/3/ -> 28 links
+2025-12-12 11:34:16,122 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/4/ -> 28 links
+2025-12-12 11:34:18,101 INFO Page https://www.gamigion.com/author/sergeivasiuk/page/5/ -> 22 links
+2025-12-12 11:34:18,119 INFO SergeiVasiuk: FOUND 77 article links
+2025-12-12 11:34:18,684 INFO Unchanged: https://www.gamigion.com/journal
+2025-12-12 11:34:18,684 INFO Unchanged: https://www.gamigion.com/events
+2025-12-12 11:34:18,722 INFO Saved: https://www.gamigion.com/author/sergeivasiuk -> 006_Every Great Game is a FIGHT.md
+2025-12-12 11:34:18,903 INFO Unchanged: https://www.gamigion.com/games-radar
+2025-12-12 11:34:18,924 INFO Unchanged: https://www.gamigion.com/reports
+2025-12-12 11:34:19,216 INFO Saved: https://www.gamigion.com/about -> 005_Whos there - Gamigion Mobile Games Industry News.md
+2025-12-12 11:34:19,367 INFO Unchanged: https://www.gamigion.com/category/game-radar
+2025-12-12 11:34:19,367 INFO Unchanged: https://www.gamigion.com/category/highlights
+2025-12-12 11:34:19,521 INFO Unchanged: https://www.gamigion.com/category/journal
+2025-12-12 11:34:19,584 INFO Unchanged: https://www.gamigion.com/category/reports
+2025-12-12 11:34:19,589 INFO Unchanged: https://www.gamigion.com/category/analysis
+2025-12-12 11:34:20,022 INFO Unchanged: https://www.gamigion.com/category/events
+2025-12-12 11:34:32,693 INFO Saved: https://www.gamigion.com/every-great-game-is-a-fight -> 013_Every Great Game is a FIGHT.md
+2025-12-12 11:34:33,387 INFO Saved: https://www.gamigion.com/solo-dev-is-tough-hello-head-of-everything -> 014_Solo Dev is tough hello Head of Everything.md
+2025-12-12 11:34:33,387 INFO Saved: https://www.gamigion.com/how-to-get-10-game-ideas-in-under-2-min -> 016_How to get 10 game ideas in under 2 min.md
+2025-12-12 11:34:33,424 INFO Saved: https://www.gamigion.com/the-80-to-20-rule-in-game-dev-design -> 019_The 80 to 20 Rule in Game Dev  Design.md
+2025-12-12 11:34:33,606 INFO Saved: https://www.gamigion.com/keep-your-live-ops-game-healthy -> 020_Keep Your Live Ops Game Healthy.md
+2025-12-12 11:34:34,060 INFO Saved: https://www.gamigion.com/indian-gaming-industry-surge -> 015_Indian Gaming Industry Surge.md
+2025-12-12 11:34:34,801 INFO Saved: https://www.gamigion.com/8-things-games-do-better-than-any-art -> 017_8 Things Games Do Better Than Any Art.md
+2025-12-12 11:34:36,240 INFO Saved: https://www.gamigion.com/20-metrics-game-devs-must-track -> 018_20 Metrics Game Devs Must Track.md
+2025-12-12 11:34:42,769 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/2 -> 025_5 Game Systems to Make Your Game Stick.md
+2025-12-12 11:34:46,761 INFO Unchanged: https://www.gamigion.com/wp-login.php?action=lostpassword
+2025-12-12 11:34:47,664 INFO Saved: https://www.gamigion.com/the-gaming-industry-is-not-what-you-think -> 024_The gaming industry is NOT what you think.md
+2025-12-12 11:34:48,873 INFO Saved: https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close-2 -> 022_20 metrics all game devs should hold close.md
+2025-12-12 11:34:49,469 INFO Saved: https://www.gamigion.com/game-development-isnt-just-about-coding -> 021_Game development isnt just about coding.md
+2025-12-12 11:34:50,813 INFO Saved: https://www.gamigion.com/90-of-games-fail-at-monetization -> 023_90 of Games Fail at Monetization.md
+2025-12-12 11:34:52,883 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fevery-great-game-is-a-fight%2F&action=register -> 026_untitled.md
+2025-12-12 11:34:55,836 INFO Saved: https://www.gamigion.com/5-game-systems-to-make-your-game-stick -> 028_5 Game Systems to Make Your Game Stick.md
+2025-12-12 11:34:56,200 INFO Saved: https://www.gamigion.com/how-to-design-your-player-journey-map -> 033_How to design your player journey map.md
+2025-12-12 11:35:00,711 INFO Saved: https://www.gamigion.com/9-traps-that-kill-your-game -> 029_9 Traps That Kill Your Game.md
+2025-12-12 11:35:02,865 INFO Saved: https://www.gamigion.com/how-games-manipulate-emotions -> 030_How Games Manipulate Emotions.md
+2025-12-12 11:35:03,633 INFO Saved: https://www.gamigion.com/gaming-factory-professions -> 031_Gaming Factory Professions.md
+2025-12-12 11:35:04,320 INFO Saved: https://www.gamigion.com/musk-gaming -> 032_Musk  Gaming.md
+2025-12-12 11:35:10,275 INFO Saved: https://www.gamigion.com/are-you-interested-in-game-development -> 035_Are you interested in Game Development.md
+2025-12-12 11:35:10,631 INFO Saved: https://www.gamigion.com/mistakes-new-game-devs-make -> 034_Mistakes New Game Devs Make.md
+2025-12-12 11:35:10,706 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/3 -> 040_Boosting Retention in Your Game.md
+2025-12-12 11:35:13,722 INFO Saved: https://www.gamigion.com/craft-your-own-masters-degree-in-game-publishing -> 036_Craft your own Masters Degree in Game Publishing.md
+2025-12-12 11:35:15,828 INFO Saved: https://www.gamigion.com/control-your-career-game -> 037_Control Your Career Game.md
+2025-12-12 11:35:18,086 INFO Saved: https://www.gamigion.com/great-games-know-this-key-to-players-needs-2 -> 038_Great games know this key to players needs.md
+2025-12-12 11:35:19,105 INFO Saved: https://www.gamigion.com/whats-the-supreme-boss-level-in-game-dev -> 039_Whats the supreme boss level in Game Dev.md
+2025-12-12 11:35:19,897 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2F5-game-systems-to-make-your-game-stick%2F&action=register -> 041_untitled.md
+2025-12-12 11:35:23,974 INFO Saved: https://www.gamigion.com/boosting-retention-in-your-game -> 042_Boosting Retention in Your Game.md
+2025-12-12 11:35:25,043 INFO Saved: https://www.gamigion.com/whats-the-biggest-delusion-in-game-dev -> 043_Whats the biggest delusion in Game Dev.md
+2025-12-12 11:35:26,089 INFO Saved: https://www.gamigion.com/linkedin-expands-its-puzzle-lineup-w-tango -> 044_LinkedIn expands its puzzle lineup w Tango.md
+2025-12-12 11:35:30,775 INFO Saved: https://www.gamigion.com/10-advice-to-ruin-your-game -> 045_10 Advice to Ruin Your Game.md
+2025-12-12 11:35:31,501 INFO Saved: https://www.gamigion.com/what-to-keep-your-game-fresh -> 046_How to keep your game fresh.md
+2025-12-12 11:35:35,502 INFO Saved: https://www.gamigion.com/want-to-start-your-career-in-game-dev -> 047_Want to start your career in Game Dev.md
+2025-12-12 11:35:37,305 INFO Saved: https://www.gamigion.com/think-the-gaming-industry-is-just-for-nerds -> 048_Think the gaming industry is just for nerds.md
+2025-12-12 11:35:39,971 INFO Saved: https://www.gamigion.com/im-44-and-i-joined-it-in-my-3rd-year-at-university -> 049_Im 44 and I joined IT in my 3rd year at university.md
+2025-12-12 11:35:41,998 INFO Saved: https://www.gamigion.com/know-the-70-20-10-rule -> 050_Know the 702010 rule.md
+2025-12-12 11:35:42,032 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/4 -> 054_What does the Gaming Industry need most right now.md
+2025-12-12 11:35:44,394 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/which-ad-format-fits-gaming
+2025-12-12 11:35:44,663 INFO Saved: https://www.gamigion.com/new-game-dev-reality-check -> 051_New Game Dev Reality Check.md
+2025-12-12 11:35:45,303 INFO Saved: https://www.gamigion.com/starting-your-journey-as-a-game-developer -> 053_Starting your journey as a Game Developer.md
+2025-12-12 11:35:47,449 INFO Saved: https://www.gamigion.com/which-ad-format-fits-gaming -> 052_Which Ad Format Fits Gaming.md
+2025-12-12 11:35:52,356 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fboosting-retention-in-your-game%2F&action=register -> 055_untitled.md
+2025-12-12 11:35:54,676 INFO Saved: https://www.gamigion.com/10-ways-players-spot-bad-games -> 057_10 Ways Players Spot Bad Games.md
+2025-12-12 11:35:55,182 INFO Saved: https://www.gamigion.com/how-is-the-gaming-entertainment-curve -> 058_How is The Gaming Entertainment Curve.md
+2025-12-12 11:35:55,328 INFO Saved: https://www.gamigion.com/50-of-baby-boomers-are-playing-games -> 059_50 of Baby Boomers Are Playing Games.md
+2025-12-12 11:35:56,142 INFO Saved: https://www.gamigion.com/what-does-the-gaming-industry-need-most-right-now -> 056_What does the Gaming Industry need most right now.md
+2025-12-12 11:35:56,991 INFO Saved: https://www.gamigion.com/want-to-keep-your-players-engaged -> 061_Want to keep your players engaged.md
+2025-12-12 11:35:57,715 INFO Saved: https://www.gamigion.com/sorry-gamers-but-i-have-to-say-this -> 060_Sorry gamers but I have to say this.md
+2025-12-12 11:35:58,774 INFO Saved: https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close -> 062_20 Metrics All Game Devs Should Hold Close.md
+2025-12-12 11:36:02,777 INFO Saved: https://www.gamigion.com/author/sergeivasiuk/page/5 -> 068_10 Signs Of a Decent Game.md
+2025-12-12 11:36:04,754 INFO Saved: https://www.gamigion.com/you-can-make-millions-at-a-price-point-of-0 -> 063_You can make Millions at a price point of 0.md
+2025-12-12 11:36:07,165 INFO Saved: https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand -> 065_How to explain the 8020 rule so even a kid can understand.md
+2025-12-12 11:36:08,996 INFO Saved: https://www.gamigion.com/what-connects-game-and-states-economies -> 064_What connects Game and States Economies.md
+2025-12-12 11:36:09,632 INFO Saved: https://www.gamigion.com/how-to-boost-player-engagement -> 067_How To Boost Player Engagement.md
+2025-12-12 11:36:09,942 INFO Saved: https://www.gamigion.com/things-no-one-tells-you-about-being-a-leader -> 066_Things no one tells you about being a leader.md
+2025-12-12 11:36:10,669 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwhat-does-the-gaming-industry-need-most-right-now%2F&action=register -> 069_untitled.md
+2025-12-12 11:36:16,323 INFO Saved: https://www.gamigion.com/10-signs-of-a-decent-game -> 070_10 Signs Of a Decent Game.md
+2025-12-12 11:36:18,137 INFO Saved: https://www.gamigion.com/entertain-your-players-with-events -> 071_ENTERTAIN YOUR PLAYERS WITH EVENTS.md
+2025-12-12 11:36:23,217 INFO Saved: https://www.gamigion.com/game-development-tools-landscape -> 072_Game Development Tools Landscape.md
+2025-12-12 11:36:23,687 INFO Saved: https://www.gamigion.com/many-screw-up-live-service-games -> 073_Many screw up live service games.md
+2025-12-12 11:36:24,187 INFO Saved: https://www.gamigion.com/great-games-know-this-key-to-players-needs -> 075_Great games know this key to players needs.md
+2025-12-12 11:36:25,801 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2F10-signs-of-a-decent-game%2F&action=register -> 077_untitled.md
+2025-12-12 11:36:26,284 INFO Saved: https://www.gamigion.com/the-new-york-times-emerges-as-a-game-company -> 076_The New York Times emerges as a game company.md
+2025-12-12 11:36:26,572 INFO Saved: https://www.gamigion.com/want-to-keep-your-live-service-game-healthy -> 074_Want to keep your live service game healthy.md
+2025-12-12 11:36:27,577 INFO === SCRAPING OxanaFomina ===
+2025-12-12 11:36:34,725 INFO Page https://www.gamigion.com/author/oxanafomina -> 27 links
+2025-12-12 11:36:39,030 INFO Page https://www.gamigion.com/author/oxanafomina/page/2/ -> 28 links
+2025-12-12 11:36:44,335 INFO Page https://www.gamigion.com/author/oxanafomina/page/3/ -> 22 links
+2025-12-12 11:36:44,336 INFO OxanaFomina: FOUND 49 article links
+2025-12-12 11:36:44,878 INFO Saved: https://www.gamigion.com/about -> 005_Whos there - Gamigion Mobile Games Industry News.md
+2025-12-12 11:36:44,883 INFO Unchanged: https://www.gamigion.com/category/events
+2025-12-12 11:36:44,886 INFO Unchanged: https://www.gamigion.com/reports
+2025-12-12 11:36:45,113 INFO Unchanged: https://www.gamigion.com/category/analysis
+2025-12-12 11:36:45,113 INFO Unchanged: https://www.gamigion.com/journal
+2025-12-12 11:36:45,383 INFO Unchanged: https://www.gamigion.com/games-radar
+2025-12-12 11:36:45,516 INFO Unchanged: https://www.gamigion.com/category/game-radar
+2025-12-12 11:36:45,517 INFO Unchanged: https://www.gamigion.com/category/highlights
+2025-12-12 11:36:45,649 INFO Unchanged: https://www.gamigion.com/events
+2025-12-12 11:36:45,734 INFO Unchanged: https://www.gamigion.com/category/journal
+2025-12-12 11:36:46,136 INFO Unchanged: https://www.gamigion.com/category/reports
+2025-12-12 11:36:46,632 INFO Saved: https://www.gamigion.com/author/oxanafomina -> 006_Pay to Play Games Hexa Sort.md
+2025-12-12 11:36:54,983 INFO Saved: https://www.gamigion.com/pay-to-play-games-hexa-sort -> 013_Pay to Play Games Hexa Sort.md
+2025-12-12 11:36:58,719 INFO Saved: https://www.gamigion.com/game-deconstruction-magic-sort-by-grand-games -> 016_Game Deconstruction Magic Sort by Grand Games.md
+2025-12-12 11:36:58,775 INFO Saved: https://www.gamigion.com/royal-match-how-new-event-design-increased-revenue-by-14-6 -> 015_Royal Match How New Event Design Increased Revenue by 146.md
+2025-12-12 11:36:59,000 INFO Saved: https://www.gamigion.com/extraordinary-results-from-monopoly-gos-tycoon-racers-event -> 019_Extraordinary results from Monopoly Gos Tycoon Racers event.md
+2025-12-12 11:36:59,000 INFO Saved: https://www.gamigion.com/fishdom-by-playrix-fantastic-results -> 018_Fishdom by Playrix Fantastic Results.md
+2025-12-12 11:36:59,050 INFO Saved: https://www.gamigion.com/slots-solitaire-bingo-what-unites-successful-events -> 014_Slots Solitaire  Bingo What Unites Successful Events.md
+2025-12-12 11:36:59,260 INFO Saved: https://www.gamigion.com/the-event-strategy-that-got-players-hooked-and-paid-off -> 017_The Event Strategy That Got Players Hooked and Paid Off.md
+2025-12-12 11:37:00,788 INFO Saved: https://www.gamigion.com/smart-monetization-approach-for-hard-levels-in-match-3-games -> 020_Smart Monetization Approach for Hard Levels in Match-3 Games.md
+2025-12-12 11:37:07,473 INFO Saved: https://www.gamigion.com/author/oxanafomina/page/2 -> 025_What Do You Like Most About Your Job.md
+2025-12-12 11:37:10,179 INFO Unchanged: https://www.gamigion.com/wp-login.php?action=lostpassword
+2025-12-12 11:37:12,284 INFO Saved: https://www.gamigion.com/web-stores-impact-trends -> 021_Web Stores Impact  Trends.md
+2025-12-12 11:37:13,475 INFO Saved: https://www.gamigion.com/successful-growth-strategy-behind-dice-dreams -> 022_Successful Growth Strategy Behind Dice Dreams.md
+2025-12-12 11:37:13,501 INFO Saved: https://www.gamigion.com/multiple-paid-pass-boost-player-choice-rewards-playtimes-and-revenue -> 023_Multiple Paid Pass Boost Player Choice Rewards Playtimes And Revenue.md
+2025-12-12 11:37:16,928 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fpay-to-play-games-hexa-sort%2F&action=register -> 026_untitled.md
+2025-12-12 11:37:17,288 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives
+2025-12-12 11:37:22,933 INFO Saved: https://www.gamigion.com/what-do-you-like-most-about-your-job -> 028_What Do You Like Most About Your Job.md
+2025-12-12 11:37:25,495 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/increase-player-retention-through-in-app-purchases
+2025-12-12 11:37:25,511 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/increased-holiday-events-and-sales-in-games
+2025-12-12 11:37:29,561 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/all-players-are-paying-with-different-payment-methods
+2025-12-12 11:37:31,155 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives
+2025-12-12 11:37:32,108 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization
+2025-12-12 11:37:32,444 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/personalized-gaming-offers-through-phone-numbers
+2025-12-12 11:37:34,945 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/how-monopoly-go-leverages-coin-masters-live-ops-strategies
+2025-12-12 11:37:38,897 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/increased-holiday-events-and-sales-in-games
+2025-12-12 11:37:39,172 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/increase-player-retention-through-in-app-purchases
+2025-12-12 11:37:40,287 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/win-streak-offer-in-candy-crush-saga-by-king
+2025-12-12 11:37:43,236 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/all-players-are-paying-with-different-payment-methods
+2025-12-12 11:37:45,895 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization
+2025-12-12 11:37:46,313 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/personalized-gaming-offers-through-phone-numbers
+2025-12-12 11:37:46,525 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives
+2025-12-12 11:37:48,461 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/how-monopoly-go-leverages-coin-masters-live-ops-strategies
+2025-12-12 11:37:49,086 ERROR Giving up on https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives after 3 attempts
+2025-12-12 11:37:49,086 INFO No html for https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives
+2025-12-12 11:37:49,086 INFO Skipped/failed: https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives
+2025-12-12 11:37:53,077 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/increased-holiday-events-and-sales-in-games
+2025-12-12 11:37:53,611 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/increase-player-retention-through-in-app-purchases
+2025-12-12 11:37:55,145 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 2) for https://www.gamigion.com/win-streak-offer-in-candy-crush-saga-by-king
+2025-12-12 11:37:55,639 ERROR Giving up on https://www.gamigion.com/increased-holiday-events-and-sales-in-games after 3 attempts
+2025-12-12 11:37:55,639 INFO No html for https://www.gamigion.com/increased-holiday-events-and-sales-in-games
+2025-12-12 11:37:55,639 INFO Skipped/failed: https://www.gamigion.com/increased-holiday-events-and-sales-in-games
+2025-12-12 11:37:56,173 ERROR Giving up on https://www.gamigion.com/increase-player-retention-through-in-app-purchases after 3 attempts
+2025-12-12 11:37:56,173 INFO No html for https://www.gamigion.com/increase-player-retention-through-in-app-purchases
+2025-12-12 11:37:56,173 INFO Skipped/failed: https://www.gamigion.com/increase-player-retention-through-in-app-purchases
+2025-12-12 11:37:59,799 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/all-players-are-paying-with-different-payment-methods
+2025-12-12 11:38:01,077 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 3) for https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization
+2025-12-12 11:38:02,361 ERROR Giving up on https://www.gamigion.com/all-players-are-paying-with-different-payment-methods after 3 attempts
+2025-12-12 11:38:02,362 INFO No html for https://www.gamigion.com/all-players-are-paying-with-different-payment-methods
+2025-12-12 11:38:02,363 INFO Skipped/failed: https://www.gamigion.com/all-players-are-paying-with-different-payment-methods
+2025-12-12 11:38:03,639 ERROR Giving up on https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization after 3 attempts
+2025-12-12 11:38:03,639 INFO No html for https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization
+2025-12-12 11:38:03,639 INFO Skipped/failed: https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization
+2025-12-12 11:38:04,056 INFO Saved: https://www.gamigion.com/personalized-gaming-offers-through-phone-numbers -> 030_Personalized Gaming Offers Through Phone Numbers.md
+2025-12-12 11:38:09,895 INFO Saved: https://www.gamigion.com/unlocking-success-in-monopoly-go-first-purchases -> 036_Unlocking Success In Monopoly GO First Purchases.md
+2025-12-12 11:38:10,567 INFO Saved: https://www.gamigion.com/win-streak-offer-in-candy-crush-saga-by-king -> 034_Win Streak Offer In Candy Crush Saga By King.md
+2025-12-12 11:38:10,726 INFO Saved: https://www.gamigion.com/how-monopoly-go-leverages-coin-masters-live-ops-strategies -> 035_How Monopoly GO Leverages Coin Masters Live Ops Strategies.md
+2025-12-12 11:38:12,615 INFO Saved: https://www.gamigion.com/author/oxanafomina/page/3 -> 040_Increase Revenue and Conversions with Non-Standard Offers.md
+2025-12-12 11:38:18,026 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/boosting-monetization-season-pass-in-candy-crush-soda-saga
+2025-12-12 11:38:18,026 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/mobile-game-web-shops-analysis
+2025-12-12 11:38:22,727 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/interesting-example-of-survivorship-bias-in-live-ops
+2025-12-12 11:38:22,878 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fwhat-do-you-like-most-about-your-job%2F&action=register -> 041_untitled.md
+2025-12-12 11:38:24,214 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/boosting-virality-with-irresistible-free-subscriptions
+2025-12-12 11:38:24,633 WARNING Request error HTTPSConnectionPool(host='www.gamigion.com', port=443): Read timed out. (read timeout=12) (attempt 1) for https://www.gamigion.com/toon-blast-live-ops-piggy-bank-for-free
+2025-12-12 11:38:26,264 INFO Saved: https://www.gamigion.com/boosting-virality-with-irresistible-free-subscriptions -> 039_Boosting Virality with Irresistible Free Subscriptions.md
+2025-12-12 11:38:26,774 INFO Saved: https://www.gamigion.com/increase-revenue-and-conversions-with-non-standard-offers -> 042_Increase Revenue and Conversions with Non-Standard Offers.md
+2025-12-12 11:38:30,378 INFO Saved: https://www.gamigion.com/mobile-game-web-shops-analysis -> 038_Mobile Game Web Shops Analysis.md
+2025-12-12 11:38:31,813 INFO Saved: https://www.gamigion.com/strategy-to-convert-non-paying-users-into-paying-customers -> 043_Strategy To Convert Non-Paying Users Into Paying Customers.md
+2025-12-12 11:38:32,373 INFO Saved: https://www.gamigion.com/boosting-monetization-season-pass-in-candy-crush-soda-saga -> 037_Boosting Monetization Season Pass In Candy Crush Soda Saga.md
+2025-12-12 11:38:34,796 INFO Saved: https://www.gamigion.com/toon-blast-live-ops-piggy-bank-for-free -> 045_Toon Blast Live Ops Piggy Bank for FREE.md
+2025-12-12 11:38:38,357 INFO Saved: https://www.gamigion.com/interesting-example-of-survivorship-bias-in-live-ops -> 044_Interesting Example Of Survivorship Bias In Live Ops.md
+2025-12-12 11:38:38,357 INFO Saved: https://www.gamigion.com/boosting-game-virality-with-innovative-prize-draws -> 047_Boosting Game Virality with Innovative Prize Draws.md
+2025-12-12 11:38:39,137 INFO Saved: https://www.gamigion.com/increase-player-engagement-retention-and-monetization -> 046_Increase Player Engagement Retention And Monetization.md
+2025-12-12 11:38:39,343 INFO Saved: https://www.gamigion.com/enhancing-game-metrics-seasonal-pass-and-super-boosters -> 048_Enhancing Game Metrics Seasonal Pass and Super Boosters.md
+2025-12-12 11:38:39,417 INFO Saved: https://www.gamigion.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gamigion.com%2Fincrease-revenue-and-conversions-with-non-standard-offers%2F&action=register -> 049_untitled.md
+2025-12-12 11:38:40,434 INFO DONE: saved counts: {'FelixBraberg_Substack': 12, 'FelixBraberg_Blog': 11, 'MichaelKopelovich': 213, 'SergeiVasiuk': 77, 'OxanaFomina': 44}
