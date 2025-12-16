@@ -1,5 +1,6 @@
 ---
-title: "Games Radar - Gamigion Mobile Games Industry News"
+original_url: https://www.gamigion.com/games-radar
+title: Games Radar - Gamigion: Mobile Games Industry News
 ---
 
 # Games Radar - Gamigion: Mobile Games Industry News

@@ -1,0 +1,7 @@
+- https://docs.google.com/forms/d/e/1FAIpQLSe7hsRaMHKmZbxsM32t8J7pse8c5KoKKzFQbQ-_l5sptWaoiQ/viewform
+- https://docs.google.com/forms/d/e/1FAIpQLSe7hsRaMHKmZbxsM32t8J7pse8c5KoKKzFQbQ-_l5sptWaoiQ/viewform
+- https://docs.google.com/forms/d/e/1FAIpQLSe7hsRaMHKmZbxsM32t8J7pse8c5KoKKzFQbQ-_l5sptWaoiQ/viewform
+- https://www.dropbox.com/scl/fi/1trtkfdz94zljtagz7yvk/The-Complete-Job-Search-Playbook.pdf?rlkey=bk3ci93t9audvf0txe0s0po8j&e=1&st=fk914zlg&dl=0
+- https://www.dropbox.com/scl/fi/1trtkfdz94zljtagz7yvk/The-Complete-Job-Search-Playbook.pdf?rlkey=bk3ci93t9audvf0txe0s0po8j&e=1&st=fk914zlg&dl=0
+- https://www.dropbox.com/scl/fi/oo1uthydnxnqpvppmji3w/PROJECT-REALITY-Career-Strategy-for-Games-Industry-Professionals.pdf?rlkey=a4uc3bdlazcy9rbqjtmwe8xkj&st=nhspns62&dl=0
+- https://www.dropbox.com/scl/fi/oo1uthydnxnqpvppmji3w/PROJECT-REALITY-Career-Strategy-for-Games-Industry-Professionals.pdf?rlkey=a4uc3bdlazcy9rbqjtmwe8xkj&st=nhspns62&dl=0

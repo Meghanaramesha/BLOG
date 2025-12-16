@@ -1,5 +1,6 @@
 ---
-title: "The 1 Banner Ad Mistake Youre Still Making"
+original_url: https://felixbraberg.substack.com/p/the-1-banner-ad-mistake-youre-still
+title: The #1 Banner Ad Mistake You’re Still Making
 ---
 
 # The #1 Banner Ad Mistake You’re Still Making
@@ -24,11 +25,9 @@ Without hesitation, I replied: “Banners.**”**
 
 But not for the reason you might think. The mistake isn’t using banner placements; it’s not exposing them to 100% of the demand inventory you can access. Most publishers push live traditional banner networks without realizing that they are sitting on untapped demand.
 
-## Keep reading with a 7-day free trial
+## This post is for paid subscribers
 
-Subscribe to Mobile Ad Revenue to keep reading this post and get 7 days of free access to the full post archives.
-
-[Start trial](https://felixbraberg.substack.com/subscribe?simple=true&next=https%3A%2F%2Ffelixbraberg.substack.com%2Fp%2Fthe-1-banner-ad-mistake-youre-still&utm_source=paywall-free-trial&utm_medium=web&utm_content=181315725&coupon=31d17814)
+[Subscribe](https://felixbraberg.substack.com/subscribe?simple=true&next=https%3A%2F%2Ffelixbraberg.substack.com%2Fp%2Fthe-1-banner-ad-mistake-youre-still&utm_source=paywall&utm_medium=web&utm_content=181315725)
 
 [Already a paid subscriber? **Sign in**](https://substack.com/sign-in?redirect=%2Fp%2Fthe-1-banner-ad-mistake-youre-still&for_pub=felixbraberg&change_user=false)
 

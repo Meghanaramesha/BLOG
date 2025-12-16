@@ -1,5 +1,6 @@
 ---
-title: "Lessmores first release under Miniclip ownership"
+original_url: https://felixbraberg.substack.com/p/lessmores-first-release-under-miniclip
+title: Lessmore’s first release under Miniclip ownership
 ---
 
 # Lessmore’s first release under Miniclip ownership

@@ -1,5 +1,6 @@
 ---
-title: "Are Ads Falling Out of Fashion"
+original_url: https://felixbraberg.substack.com/p/are-ads-falling-out-of-fashion
+title: Are Ads Falling Out of Fashion?
 ---
 
 # Are Ads Falling Out of Fashion?
