@@ -1,39 +1,7 @@
----
-title: "Gaming ON Rina Onur Sirinoglu Talks Spyke Games"
----
-
 # Gaming ON: Rina Onur Sirinoglu Talks Spyke Games
 
 **Source:** https://www.gamigion.com/gaming-on-rina-onur-sirinoglu-talks-spyke-games/
 
-Last week, we had a wonderful chat withRina Onur Sirinoglu, CEO & Co-Founder ofSpyke Games, and one of the key figures behindPeak’slegendary rise.
-We talked about how far Turkey’s Mobile Gaming ecosystem has come and where it’s headed next.
-From humble beginnings to billion-dollar exits, from scrappy teams to world-class talent, all about what’s changed, what still matters, and why the next big gaming wave might just start in Istanbul.
-Some real gems in here, lezgo! 🕺🏻
-![image](https://www.gamigion.com/wp-content/uploads/2025/03/Spyke-1240x698.jpeg)
-When Peak was founded in 2010, the gaming world was a completely different place. There was virtually no mobile gaming scene, and certainly no “ecosystem” to speak of in Turkey. In those early days, we found ourselves learning by doing—figuring things out as we went along. It was the ultimate on-the-job training, and we grew together as a team because of it.
-Of course, Peak went on to do amazing things, and anyone who follows the Turkish gaming space knows that part of the story. But in the beginning, it was about trying to build something that nobody around us had much experience with. We weren’t thinking about creating an ecosystem at the time; we were just focused on making something great. But looking back, that’s exactly what ended up happening.
-Back in the early days, when we were trying to recruit, we had to convince people that gaming could be massive and explain why we were the right team in Turkey to make it happen. It wasn’t obvious to anyone back then. We were pitching a vision for an industry that didn’t exist here yet.
-Today, gaming is at the top of my mind for some of the best talent in the country. That level of interest and drive, combined with the success stories that have come out of Turkey, has created even more opportunities. I believe there are teams out there now that will eventually surpass the high bar that Peak helped set.
-Mobile gaming has become far more competitive. The speed at which new content is being created often outpaces the ability of players to consume it. So it’s no longer enough to simply make a good product and hope for the best; you need an end-to-end strategy, from ideation to marketing and beyond.
-At Spyke, we’ve built a core team with a shared history of working together, returning to Peak. That experience gives us a huge advantage in terms of execution speed and conviction in our direction. We understand that this is a marathon, and we’re prepared for the long, demanding journey.
-![image](https://www.gamigion.com/wp-content/uploads/2025/03/DSCF0155-min-1240x827.jpg)
-What we’ve carried from the past is our relentless focus on pushing ourselves to the next level with every new challenge, and never stopping the learning process. One of the best ways to do that is by surrounding yourself with smart, driven people. We aim to bring together top talent around a clear mission, give them the resources they need, and empower them to perform at their best. We work like a professional sports team. We’re all quite different, but what we share is a hunger for continued success. With every new project, we push ourselves to do our best and stretch the limits of what we’re capable of.
-Turkey is still an emerging market, and that brings with it an emerging mindset. For many bright, young people here, gaming isn’t just fun, creative, or intellectually stimulating—it’s a chance to build something that can have a global impact. That’s a powerful motivator. As a result, people work in environments that are emotionally fulfilling while also offering competitive opportunities. They’re surrounded by talented teams, working hard while they have the energy and drive to give their all.
-I think what makes Turkish teams stand out is that they often see what they do as more than just a job; it’s a mission. That mindset pushes them to go the extra mile. They work fast, they work hard, and they often deliver exceptional products, especially in mobile casual.
-I think Turkish teams have already proven they can out-execute their competitors in casual and hybrid-casual games. They’re excellent at taking what works and making it a little bit better. That approach worked well in a less crowded market.
-But as competition intensifies, incremental improvements aren’t enough. Now is the time for bolder ideas; teams need to take creative risks and focus on finding what’s truly novel and fascinating. It’s about bringing something fresh to the table, not just polishing what’s already there. Of course, that’s easier said than done, but I believe Turkish developers are more than capable of making that leap.
-![image](https://www.gamigion.com/wp-content/uploads/2025/03/Spyke-min-1240x783.jpg)
-I think we’ll see both.
-Today, commercial success on any scale starts with having an exceptional product. The days of finding success with a sub-par game are long gone. But even with a great product, if you don’t have the resources or strategy to scale, it can get stuck in the small to mid-size category.
-What separates those mid-tier hits from the next “forever franchise” is a holistic approach.
-It’s not just about the game, it’s about growth strategies, data-driven decisions, user acquisition, and sophisticated marketing tactics. It’s about growing your team and your organizational processes along the way, when your game requires more hands on deck. It’s one thing to do a cool game with 6-10 people and another to run a large-scale organization equipped to run to $bn revenues. The teams that can master both product and growth will be the ones building the next mega titles.
-Fundraising is a lot like dating. It’s about finding the right partner at the right time and moving forward in sync.
-At the end of the day, VCs are human; emotion plays a role in their decisions.
-If a few investors return to gaming and see early success, others will naturally follow. Right now, there’s a lot of activity at the early stages. It’s easier to raise pre-seed funding with a good idea or a Seed/Series A round with a young product that shows promising early metrics. What concerns me is that early success doesn’t always translate into scalable success. Metrics can shift dramatically when you try to grow.
-At Spyke, we’ve been fortunate to build products that not only scaled but became profitable. That opened up access to downstream capital and allowed us to keep growing. But over the last few years, not many studios have made it through that next stage. So while the investment market may be reopening in the earlier stage, it’s still unclear how that will play out in later stage funding.
-For both investors and founders, it’s important to keep a long-term perspective.
-Many times, probably more than I can even remember!
-Especially during the early days at Peak. At Spyke, the most significant example was our first game, Royal Riches. It was a social slots game; honestly, we didn’t have much experience in that genre. We spent time building the beta, but even early on, it was clear the game wouldn’t live up to our expectations or our ambitions for the company. We kept working on it for a while, trying to make it work, but eventually realized we didn’t have the expertise to compete in such a sophisticated and competitive space.
-![image](https://www.gamigion.com/wp-content/uploads/2025/03/image-159-1240x698.png)
-That experience taught us a valuable lesson: stick to what you know and love. When you understand a genre deeply, you can take smarter risks and make better decisions. We took everything we’d built for Royal Riches; the tech, the lessons, and pivoted. That pivot led us to develop our first puzzle game,Tile Busters. And we’ve been iterating and building from there ever since.
+Journal
+
+Elizaveta SavenkovaDecember 16
