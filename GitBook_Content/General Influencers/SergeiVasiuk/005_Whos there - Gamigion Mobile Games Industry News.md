@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/about
-title: Who’s there? - Gamigion: Mobile Games Industry News
+title: "Whos there - Gamigion Mobile Games Industry News"
 ---
 
 # Who’s there? - Gamigion: Mobile Games Industry News

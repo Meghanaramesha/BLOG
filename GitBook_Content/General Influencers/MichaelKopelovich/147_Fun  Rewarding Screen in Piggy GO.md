@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/fun-rewarding-screen-in-piggy-go
-title: Fun & Rewarding Screen in Piggy GO
+title: "Fun  Rewarding Screen in Piggy GO"
 ---
 
 # Fun & Rewarding Screen in Piggy GO

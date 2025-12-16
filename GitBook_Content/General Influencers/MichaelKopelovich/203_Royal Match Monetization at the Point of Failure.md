@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/royal-match-monetization-at-the-point-of-failure
-title: Royal Match: Monetization at the Point of Failure
+title: "Royal Match Monetization at the Point of Failure"
 ---
 
 # Royal Match: Monetization at the Point of Failure

@@ -1,3 +1,7 @@
+---
+title: "The End of GAM Networks on Mobile"
+---
+
 # The End of GAM Networks on Mobile?
 
 The End of GAM Networks on Mobile?

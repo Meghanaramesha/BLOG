@@ -1,3 +1,7 @@
+---
+title: "The Greatest Fake Onboarding of All Time"
+---
+
 original_url: https://www.gamigion.com/category/journal
 
 # The Greatest Fake Onboarding of All Time?

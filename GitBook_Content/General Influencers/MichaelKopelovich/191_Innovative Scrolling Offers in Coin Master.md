@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/innovative-scrolling-offers-in-coin-master
-title: Innovative Scrolling Offers in Coin Master
+title: "Innovative Scrolling Offers in Coin Master"
 ---
 
 # Innovative Scrolling Offers in Coin Master

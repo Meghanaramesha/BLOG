@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-approach-in-unpuzzle-by-hypercell
-title: Interesting approach in ‘Unpuzzle’ by HYPERCELL
+title: "Interesting approach in Unpuzzle by HYPERCELL"
 ---
 
 # Interesting approach in ‘Unpuzzle’ by HYPERCELL

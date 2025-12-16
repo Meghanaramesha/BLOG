@@ -1,3 +1,7 @@
+---
+title: "2.5 Gamers Podcast  Mobile Ad Revenue  Felix Braberg  Substack"
+---
+
 original_url: https://felixbraberg.substack.com/s/25-gamers-podcast
 
 # 2.5 Gamers Podcast | Mobile Ad Revenue | Felix Braberg | Substack

@@ -1,3 +1,7 @@
+---
+title: "About - Mobile Ad Revenue"
+---
+
 original_url: https://felixbraberg.substack.com/about
 
 # About - Mobile Ad Revenue

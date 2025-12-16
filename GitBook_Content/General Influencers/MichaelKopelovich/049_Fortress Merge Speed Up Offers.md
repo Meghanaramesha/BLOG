@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/fortress-merge-speed-up-offers
-title: Fortress Merge: Speed Up Offers!
+title: "Fortress Merge Speed Up Offers"
 ---
 
 # Fortress Merge: Speed Up Offers!

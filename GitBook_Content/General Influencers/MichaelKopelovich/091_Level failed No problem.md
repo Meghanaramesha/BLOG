@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/level-failed-no-problem
-title: Level failed? No problem.
+title: "Level failed No problem."
 ---
 
 # Level failed? No problem.

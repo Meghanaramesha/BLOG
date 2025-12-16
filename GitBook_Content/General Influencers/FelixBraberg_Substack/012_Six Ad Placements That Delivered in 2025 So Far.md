@@ -1,6 +1,5 @@
 ---
-original_url: https://felixbraberg.substack.com/p/six-ad-placements-that-delivered
-title: Six Ad Placements That Delivered in 2025 So Far
+title: "Six Ad Placements That Delivered in 2025 So Far"
 ---
 
 # Six Ad Placements That Delivered in 2025 So Far

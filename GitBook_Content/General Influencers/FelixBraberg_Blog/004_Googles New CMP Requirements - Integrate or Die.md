@@ -1,3 +1,7 @@
+---
+title: "Googles New CMP Requirements - Integrate or Die"
+---
+
 # Google's New CMP Requirements - Integrate or Die?
 
 Google's New CMP Requirements - Integrate or Die?

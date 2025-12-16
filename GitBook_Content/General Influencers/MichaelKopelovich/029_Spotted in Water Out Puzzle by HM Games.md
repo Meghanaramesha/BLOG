@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-water-out-puzzle-by-hm-games
-title: Spotted in Water Out Puzzle by HM Games
+title: "Spotted in Water Out Puzzle by HM Games"
 ---
 
 # Spotted in Water Out Puzzle by HM Games

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-twist-on-daily-goals-in-cake-sort-by-lion-studios
-title: Interesting twist on daily goals in Cake Sort by Lion Studios.
+title: "Interesting twist on daily goals in Cake Sort by Lion Studios."
 ---
 
 # Interesting twist on daily goals in Cake Sort by Lion Studios.

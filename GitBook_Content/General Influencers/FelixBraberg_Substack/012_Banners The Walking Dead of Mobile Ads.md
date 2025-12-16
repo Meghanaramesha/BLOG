@@ -1,3 +1,7 @@
+---
+title: "Banners The Walking Dead of Mobile Ads"
+---
+
 original_url: https://felixbraberg.substack.com/p/banners-the-walking-dead-of-mobile
 
 # Banners: The Walking Dead of Mobile Ads

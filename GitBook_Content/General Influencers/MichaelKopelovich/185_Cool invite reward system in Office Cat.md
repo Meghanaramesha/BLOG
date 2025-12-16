@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/cool-invite-reward-system-in-office-cat
-title: Cool invite reward system in Office Cat!
+title: "Cool invite reward system in Office Cat"
 ---
 
 # Cool invite reward system in Office Cat!

@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue"
+---
+
 # Mobile Ad Revenue
 
 Banners: The Walking Dead of Mobile Ads

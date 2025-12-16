@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/creative-animation-alert
-title: Creative Animation Alert!
+title: "Creative Animation Alert"
 ---
 
 # Creative Animation Alert!

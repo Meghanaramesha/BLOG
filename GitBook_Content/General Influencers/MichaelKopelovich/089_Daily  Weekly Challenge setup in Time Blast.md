@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/daily-weekly-challenge-setup-in-time-blast
-title: Daily + Weekly Challenge setup in Time Blast
+title: "Daily  Weekly Challenge setup in Time Blast"
 ---
 
 # Daily + Weekly Challenge setup in Time Blast

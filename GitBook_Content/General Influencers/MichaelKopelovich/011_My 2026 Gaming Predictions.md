@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/journal
-title: My 2026 Gaming Predictions??
+title: "My 2026 Gaming Predictions"
 ---
 
 # My 2026 Gaming Predictions??

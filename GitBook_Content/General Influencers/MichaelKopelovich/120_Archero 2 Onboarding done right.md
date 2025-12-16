@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/archero-2-onboarding-done-right
-title: Archero 2: Onboarding done right!
+title: "Archero 2 Onboarding done right"
 ---
 
 # Archero 2: Onboarding done right!

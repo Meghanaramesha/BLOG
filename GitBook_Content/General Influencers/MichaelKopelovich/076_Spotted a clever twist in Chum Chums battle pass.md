@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-a-clever-twist-in-chum-chums-battle-pass
-title: Spotted a clever twist in Chum Chum’s battle pass!
+title: "Spotted a clever twist in Chum Chums battle pass"
 ---
 
 # Spotted a clever twist in Chum Chum’s battle pass!

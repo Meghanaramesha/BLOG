@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/noticed-this-cross-promo-in-word-trip-by-playsimple-games
-title: Noticed this cross-promo in Word Trip by PlaySimple Games
+title: "Noticed this cross-promo in Word Trip by PlaySimple Games"
 ---
 
 # Noticed this cross-promo in Word Trip by PlaySimple Games

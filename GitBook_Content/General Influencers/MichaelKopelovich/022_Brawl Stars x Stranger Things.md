@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/brawl-stars-x-stranger-things
-title: Brawl Stars x Stranger Things
+title: "Brawl Stars x Stranger Things"
 ---
 
 # Brawl Stars x Stranger Things

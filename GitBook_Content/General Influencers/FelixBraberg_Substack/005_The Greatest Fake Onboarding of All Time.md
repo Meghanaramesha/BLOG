@@ -1,3 +1,7 @@
+---
+title: "The Greatest Fake Onboarding of All Time"
+---
+
 original_url: https://felixbraberg.substack.com/p/the-greatest-fake-onboarding-of-all
 
 # The Greatest Fake Onboarding of All Time?

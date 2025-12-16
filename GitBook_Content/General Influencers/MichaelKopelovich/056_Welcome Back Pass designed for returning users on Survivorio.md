@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/welcome-back-pass-designed-for-returning-users-on-survivor-io
-title: Welcome Back Pass designed for returning users on Survivor.io
+title: "Welcome Back Pass designed for returning users on Survivor.io"
 ---
 
 # Welcome Back Pass designed for returning users on Survivor.io

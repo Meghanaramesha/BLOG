@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/happy-halloween-to-all-my-us-readers
-title: Happy Halloween to all my US readers!
+title: "Happy Halloween to all my US readers"
 ---
 
 # Happy Halloween to all my US readers!

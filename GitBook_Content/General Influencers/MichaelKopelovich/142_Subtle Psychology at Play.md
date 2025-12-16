@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/subtle-psychology-at-play-%f0%9f%94%a5
-title: Subtle Psychology at Play? 🔥
+title: "Subtle Psychology at Play "
 ---
 
 # Subtle Psychology at Play? 🔥

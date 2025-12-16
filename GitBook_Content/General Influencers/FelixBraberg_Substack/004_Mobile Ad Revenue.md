@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue"
+---
+
 # Mobile Ad Revenue
 
 The Mobile Ad Monetization Newsletter #21

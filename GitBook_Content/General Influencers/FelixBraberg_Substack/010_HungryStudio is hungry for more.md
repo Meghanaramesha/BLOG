@@ -1,3 +1,7 @@
+---
+title: "HungryStudio is hungry for more"
+---
+
 original_url: https://felixbraberg.substack.com/p/hungrystudio-is-hungry-for-more
 
 # HungryStudio is hungry for more!

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-triple-factory-visual-reward-path-integrated-into-the-ftue
-title: Spotted in Triple Factory: Visual reward path integrated into the FTUE.
+title: "Spotted in Triple Factory Visual reward path integrated into the FTUE."
 ---
 
 # Spotted in Triple Factory: Visual reward path integrated into the FTUE.

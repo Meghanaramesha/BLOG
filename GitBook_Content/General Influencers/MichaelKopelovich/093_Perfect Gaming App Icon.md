@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/perfect-gaming-app-icon
-title: Perfect Gaming App Icon?
+title: "Perfect Gaming App Icon"
 ---
 
 # Perfect Gaming App Icon?

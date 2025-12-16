@@ -1,3 +1,7 @@
+---
+title: "The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers"
+---
+
 original_url: https://www.felixbraberg.com/post/the-price-of-progress-the-revenue-impact-of-google-deprecating-placements-and-gam-resellers
 
 # The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers

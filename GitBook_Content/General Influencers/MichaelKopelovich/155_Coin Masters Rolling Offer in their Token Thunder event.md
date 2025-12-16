@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/coin-masters-rolling-offer-in-their-token-thunder-event
-title: Coin Master’s “Rolling Offer” in their Token Thunder event
+title: "Coin Masters Rolling Offer in their Token Thunder event"
 ---
 
 # Coin Master’s “Rolling Offer” in their Token Thunder event

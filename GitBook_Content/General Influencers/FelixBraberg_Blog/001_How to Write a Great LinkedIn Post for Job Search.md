@@ -1,3 +1,7 @@
+---
+title: "How to Write a Great LinkedIn Post for Job Search"
+---
+
 # How to Write a Great LinkedIn Post for Job Search
 
 [![View profile for Amir Satvat](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)](https://www.linkedin.com/in/amirsatvat?trk=public_post_feed-actor-image) 

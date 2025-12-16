@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-something-interesting-in-legend-of-mushroom
-title: Spotted something interesting in Legend of Mushroom
+title: "Spotted something interesting in Legend of Mushroom"
 ---
 
 # Spotted something interesting in Legend of Mushroom

@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue"
+---
+
 # Mobile Ad Revenue
 
 End Cards: The Silent Driver of Player Retention

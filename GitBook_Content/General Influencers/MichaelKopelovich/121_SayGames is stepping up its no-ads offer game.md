@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/saygames-is-stepping-up-its-no-ads-offer-game
-title: SayGames is stepping up its no-ads offer game!
+title: "SayGames is stepping up its no-ads offer game"
 ---
 
 # SayGames is stepping up its no-ads offer game!

@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue"
+---
+
 # Mobile Ad Revenue
 
 Candy Crush is Crushing it with Ad Revenue

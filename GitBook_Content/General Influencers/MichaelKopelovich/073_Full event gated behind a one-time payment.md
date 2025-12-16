@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/full-event-gated-behind-a-one-time-payment
-title: Full event gated behind a one-time payment.
+title: "Full event gated behind a one-time payment."
 ---
 
 # Full event gated behind a one-time payment.

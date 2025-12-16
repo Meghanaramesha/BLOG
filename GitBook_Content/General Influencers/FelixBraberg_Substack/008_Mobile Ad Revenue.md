@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue"
+---
+
 # Mobile Ad Revenue
 
 Lessmore’s first release under Miniclip ownership

@@ -1,3 +1,7 @@
+---
+title: "Frozen Citys 3 million a month Admon blunder"
+---
+
 # Frozen City’s $3 million a month Admon blunder
 
 Frozen City’s $3 million a month Admon blunder

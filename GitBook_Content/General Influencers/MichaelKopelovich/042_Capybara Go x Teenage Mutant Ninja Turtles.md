@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/capybara-go-x-teenage-mutant-ninja-turtles
-title: Capybara Go! x Teenage Mutant Ninja Turtles!
+title: "Capybara Go x Teenage Mutant Ninja Turtles"
 ---
 
 # Capybara Go! x Teenage Mutant Ninja Turtles!

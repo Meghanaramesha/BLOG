@@ -1,3 +1,7 @@
+---
+title: "From 44 to 72 Vietnams Studio Surge Continues"
+---
+
 original_url: https://felixbraberg.substack.com/p/from-44-to-72-vietnams-studio-surge
 
 # From 44 to 72: Vietnam’s Studio Surge Continues

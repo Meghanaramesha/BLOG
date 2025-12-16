@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/most-news-tabs-in-social-casino-games-are-forgettable
-title: Most “news” tabs in social casino games are forgettable.
+title: "Most news tabs in social casino games are forgettable."
 ---
 
 # Most “news” tabs in social casino games are forgettable.

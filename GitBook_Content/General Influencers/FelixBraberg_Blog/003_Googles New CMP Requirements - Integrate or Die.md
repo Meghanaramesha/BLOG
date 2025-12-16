@@ -1,3 +1,7 @@
+---
+title: "Googles New CMP Requirements - Integrate or Die"
+---
+
 original_url: https://www.felixbraberg.com/post/google-s-new-cmp-requirements-integrate-or-die
 
 # Google's New CMP Requirements - Integrate or Die?

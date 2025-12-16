@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/twisted-tangles-smart-monetization-choices
-title: Twisted Tangle’s Smart Monetization Choices!
+title: "Twisted Tangles Smart Monetization Choices"
 ---
 
 # Twisted Tangle’s Smart Monetization Choices!

@@ -1,3 +1,7 @@
+---
+title: "The End of GAM and Admob Placement Refreshes"
+---
+
 original_url: https://www.felixbraberg.com/post/the-end-of-gam-and-admob-placement-refreshes
 
 # The End of GAM and Admob Placement Refreshes

@@ -1,3 +1,7 @@
+---
+title: "8 Jolly Ad Monetization Tips for Black Friday Weekend"
+---
+
 original_url: https://felixbraberg.substack.com/p/8-jolly-ad-monetization-tips-for
 
 # 8 Jolly Ad Monetization Tips for Black Friday Weekend

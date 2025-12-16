@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/make-any-purchase-and-get-rewarded
-title: Make ANY purchase and get rewarded?
+title: "Make ANY purchase and get rewarded"
 ---
 
 # Make ANY purchase and get rewarded?

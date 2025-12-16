@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/would-love-to-see-more-games-implementing-this
-title: Would love to see more games implementing this!
+title: "Would love to see more games implementing this"
 ---
 
 # Would love to see more games implementing this!

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/ad-flow-in-sticker-book-by-lion-studios
-title: Ad Flow in Sticker Book by Lion Studios
+title: "Ad Flow in Sticker Book by Lion Studios"
 ---
 
 # Ad Flow in Sticker Book by Lion Studios

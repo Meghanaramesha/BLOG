@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue"
+---
+
 # Mobile Ad Revenue
 
 ![User's avatar](https://substackcdn.com/image/fetch/$s_!Hxbu!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc204f75c-0ca4-49b9-b32b-b5aaa10e71d3_1024x1024.png)

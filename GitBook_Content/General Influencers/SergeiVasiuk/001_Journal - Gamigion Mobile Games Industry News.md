@@ -1,3 +1,7 @@
+---
+title: "Journal - Gamigion Mobile Games Industry News"
+---
+
 original_url: https://www.gamigion.com/journal
 
 # Journal - Gamigion: Mobile Games Industry News

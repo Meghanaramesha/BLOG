@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/fan-of-event-loading-screens-in-mobile-games
-title: Fan of event loading screens in mobile games!
+title: "Fan of event loading screens in mobile games"
 ---
 
 # Fan of event loading screens in mobile games!

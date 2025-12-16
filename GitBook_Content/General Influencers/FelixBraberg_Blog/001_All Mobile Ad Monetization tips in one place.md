@@ -1,3 +1,7 @@
+---
+title: "All Mobile Ad Monetization tips in one place"
+---
+
 # All Mobile Ad Monetization tips in one place
 
 All Mobile Ad Monetization tips in one place

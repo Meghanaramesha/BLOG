@@ -1,3 +1,7 @@
+---
+title: "Journal"
+---
+
 # Journal
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/AI-in-Gaming-Competitive-Intelligence-Workflow.jpg)](https://www.gamigion.com/ai-in-gaming-competitive-intelligence-workflow/) 

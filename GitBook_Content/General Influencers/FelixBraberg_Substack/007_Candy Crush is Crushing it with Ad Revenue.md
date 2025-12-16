@@ -1,3 +1,7 @@
+---
+title: "Candy Crush is Crushing it with Ad Revenue"
+---
+
 original_url: https://felixbraberg.substack.com/p/candy-crush-is-crushing-it-with-ad
 
 # Candy Crush is Crushing it with Ad Revenue

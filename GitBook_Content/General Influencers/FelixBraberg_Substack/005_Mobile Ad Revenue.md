@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue"
+---
+
 # Mobile Ad Revenue
 
 8 Jolly Ad Monetization Tips for Black Friday Weekend

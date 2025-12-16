@@ -1,3 +1,7 @@
+---
+title: "Is Amazon Publisher Services about to go supernova in Mobile"
+---
+
 original_url: https://www.felixbraberg.com/post/is-amazon-publisher-services-about-to-go-supernova-in-mobile
 
 # Is Amazon Publisher Services about to go supernova in Mobile?

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/%f0%9f%8e%af-event-calendars-in-mobile-games
-title: 🎯 Event Calendars in Mobile Games
+title: " Event Calendars in Mobile Games"
 ---
 
 # 🎯 Event Calendars in Mobile Games

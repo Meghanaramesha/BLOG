@@ -1,3 +1,7 @@
+---
+title: "Archive - Mobile Ad Revenue"
+---
+
 original_url: https://felixbraberg.substack.com/archive
 
 # Archive - Mobile Ad Revenue

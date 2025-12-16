@@ -1,3 +1,7 @@
+---
+title: "End Cards The Silent Driver of Player Retention"
+---
+
 original_url: https://felixbraberg.substack.com/p/end-cards-the-silent-driver-of-player
 
 # End Cards: The Silent Driver of Player Retention

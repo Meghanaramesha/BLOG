@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/hooked-on-little-farm-story
-title: Hooked on Little Farm Story!
+title: "Hooked on Little Farm Story"
 ---
 
 # Hooked on Little Farm Story!

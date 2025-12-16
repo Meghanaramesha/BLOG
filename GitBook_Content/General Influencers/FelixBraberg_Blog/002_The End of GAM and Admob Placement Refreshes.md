@@ -1,3 +1,7 @@
+---
+title: "The End of GAM and Admob Placement Refreshes"
+---
+
 # The End of GAM and Admob Placement Refreshes
 
 The End of GAM and Admob Placement Refreshes

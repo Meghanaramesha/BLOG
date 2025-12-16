@@ -1,3 +1,7 @@
+---
+title: "The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers"
+---
+
 # The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers
 
 The Price of Progress - The Revenue Impact of Google Deprecating Placements and GAM Resellers

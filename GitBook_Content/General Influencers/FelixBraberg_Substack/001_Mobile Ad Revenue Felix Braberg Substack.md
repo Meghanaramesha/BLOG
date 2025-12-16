@@ -1,3 +1,7 @@
+---
+title: "Mobile Ad Revenue  Felix Braberg  Substack"
+---
+
 original_url: https://felixbraberg.substack.com
 
 # Mobile Ad Revenue | Felix Braberg | Substack

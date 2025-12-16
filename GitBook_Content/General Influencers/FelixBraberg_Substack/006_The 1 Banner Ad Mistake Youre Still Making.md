@@ -1,3 +1,7 @@
+---
+title: "The 1 Banner Ad Mistake Youre Still Making"
+---
+
 original_url: https://felixbraberg.substack.com/p/the-1-banner-ad-mistake-youre-still
 
 # The #1 Banner Ad Mistake You’re Still Making

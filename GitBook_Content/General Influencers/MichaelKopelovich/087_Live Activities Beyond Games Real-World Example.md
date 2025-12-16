@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/live-activities-beyond-games-real-world-example
-title: Live Activities Beyond Games: Real-World Example
+title: "Live Activities Beyond Games Real-World Example"
 ---
 
 # Live Activities Beyond Games: Real-World Example

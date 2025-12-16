@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/ad-free-options-in-tetris-block-puzzle
-title: Ad-Free Options in Tetris Block Puzzle
+title: "Ad-Free Options in Tetris Block Puzzle"
 ---
 
 # Ad-Free Options in Tetris Block Puzzle
