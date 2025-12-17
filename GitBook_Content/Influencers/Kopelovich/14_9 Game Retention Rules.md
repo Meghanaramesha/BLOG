@@ -1,3 +1,7 @@
+---
+title: "9 Game Retention Rules"
+---
+
 # 9 Game Retention Rules
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

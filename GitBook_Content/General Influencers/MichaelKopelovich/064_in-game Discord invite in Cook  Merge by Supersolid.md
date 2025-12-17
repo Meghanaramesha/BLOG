@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/in-game-discord-invite-in-cook-merge-by-supersolid
-title: in-game Discord invite in Cook & Merge by Supersolid!
+title: "in-game Discord invite in Cook  Merge by Supersolid"
 ---
 
 # in-game Discord invite in Cook & Merge by Supersolid!

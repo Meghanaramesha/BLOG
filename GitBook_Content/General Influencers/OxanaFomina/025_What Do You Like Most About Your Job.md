@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/oxanafomina/page/2
-title: What Do You Like Most About Your Job?
+title: "What Do You Like Most About Your Job"
 ---
 
 # What Do You Like Most About Your Job?

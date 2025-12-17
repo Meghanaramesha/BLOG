@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/unpacking-the-lava-quest-live-ops-event-in-mobile-games
-title: Unpacking the “Lava Quest” Live-Ops Event in Mobile Games
+title: "Unpacking the Lava Quest Live-Ops Event in Mobile Games"
 ---
 
 # Unpacking the “Lava Quest” Live-Ops Event in Mobile Games

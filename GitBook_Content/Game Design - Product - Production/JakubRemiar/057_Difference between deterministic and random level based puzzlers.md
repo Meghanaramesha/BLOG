@@ -1,3 +1,7 @@
+---
+title: "Difference between deterministic and random level based puzzlers"
+---
+
 # Difference between deterministic and random level based puzzlers?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Difference-between-deterministic-and-random-level-based-puzzlers.jpg)

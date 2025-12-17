@@ -1,3 +1,7 @@
+---
+title: "Bringing your Game Idea to Life"
+---
+
 # Bringing your Game Idea to Life?
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

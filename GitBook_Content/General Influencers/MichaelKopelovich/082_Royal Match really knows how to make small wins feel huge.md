@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/6
-title: Royal Match really knows how to make small wins feel huge.
+title: "Royal Match really knows how to make small wins feel huge."
 ---
 
 # Royal Match really knows how to make small wins feel huge.

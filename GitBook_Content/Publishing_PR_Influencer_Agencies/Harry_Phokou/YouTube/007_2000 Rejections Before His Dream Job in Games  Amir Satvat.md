@@ -1,3 +1,7 @@
+---
+title: "2000 Rejections Before His Dream Job in Games  Amir Satvat"
+---
+
 # 2,000 Rejections Before His Dream Job in Games | Amir Satvat
 
 **Creator:** Harry Phokou

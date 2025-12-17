@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/mobile-game-monetization-design-insights-september-recap
-title: Mobile Game Monetization & Design Insights: Sep 8-14
+title: "Mobile Game Monetization  Design Insights Sep 8-14"
 ---
 
 # Mobile Game Monetization & Design Insights: Sep 8-14

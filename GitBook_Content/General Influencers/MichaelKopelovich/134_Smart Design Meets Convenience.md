@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/smart-design-meets-convenience
-title: Smart Design Meets Convenience!
+title: "Smart Design Meets Convenience"
 ---
 
 # Smart Design Meets Convenience!

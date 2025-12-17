@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/reports
-title: Reports - Gamigion: Mobile Games Industry News
+title: "Reports - Gamigion Mobile Games Industry News"
 ---
 
 # Reports - Gamigion: Mobile Games Industry News

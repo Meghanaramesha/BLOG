@@ -1,3 +1,7 @@
+---
+title: "AppLovins Gaming Portfolio"
+---
+
 # AppLovin’s Gaming Portfolio
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/AppLovins-Gaming-Portfolio.jpg)

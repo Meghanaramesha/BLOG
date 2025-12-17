@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/11
-title: Unlocking Skip-it Strategies in “Coin Sort” by Lion Studios
+title: "Unlocking Skip-it Strategies in Coin Sort by Lion Studios"
 ---
 
 # Unlocking Skip-it Strategies in “Coin Sort” by Lion Studios

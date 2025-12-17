@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/8
-title: Interesting take on a rolling offer from Coin Master
+title: "Interesting take on a rolling offer from Coin Master"
 ---
 
 # Interesting take on a rolling offer from Coin Master

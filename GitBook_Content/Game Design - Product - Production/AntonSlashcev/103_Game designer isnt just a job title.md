@@ -1,3 +1,7 @@
+---
+title: "Game designer isnt just a job title."
+---
+
 # Game designer isn’t just a job title.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Game-designer-isnt-just-a-job-title.jpg)

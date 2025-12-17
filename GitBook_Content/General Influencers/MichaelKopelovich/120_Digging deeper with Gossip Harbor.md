@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/digging-deeper-with-gossip-harbor
-title: Digging deeper with Gossip Harbor!
+title: "Digging deeper with Gossip Harbor"
 ---
 
 # Digging deeper with Gossip Harbor!

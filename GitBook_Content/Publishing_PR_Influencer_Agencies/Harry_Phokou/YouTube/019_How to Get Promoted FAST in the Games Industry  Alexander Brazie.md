@@ -1,3 +1,7 @@
+---
+title: "How to Get Promoted FAST in the Games Industry  Alexander Brazie"
+---
+
 # How to Get Promoted FAST in the Games Industry – Alexander Brazie
 
 **Creator:** Harry Phokou

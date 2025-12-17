@@ -1,3 +1,7 @@
+---
+title: "Jigsolitaire by Gamincat scaled already to 100K a day"
+---
+
 # Jigsolitaire by Gamincat scaled already to $100K a day!
 
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/Jigsolitaire-by-Gamincat-scaled-already-to-100K-a-day.jpg)](https://www.gamigion.com/jigsolitaire-by-gamincat-scaled-already-to-100k-a-day/) 

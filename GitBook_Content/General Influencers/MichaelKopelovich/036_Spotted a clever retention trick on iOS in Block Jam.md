@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-a-clever-retention-trick-on-ios-in-block-jam
-title: Spotted a clever retention trick on iOS in Block Jam
+title: "Spotted a clever retention trick on iOS in Block Jam"
 ---
 
 # Spotted a clever retention trick on iOS in Block Jam

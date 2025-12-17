@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/events
-title: PGC London 🇬🇧 19-20 January
+title: "PGC London  19-20 January"
 ---
 
 # PGC London 🇬🇧 19-20 January

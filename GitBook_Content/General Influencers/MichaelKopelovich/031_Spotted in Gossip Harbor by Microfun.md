@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-gossip-harbor-by-microfun
-title: Spotted in Gossip Harbor by Microfun
+title: "Spotted in Gossip Harbor by Microfun"
 ---
 
 # Spotted in Gossip Harbor by Microfun

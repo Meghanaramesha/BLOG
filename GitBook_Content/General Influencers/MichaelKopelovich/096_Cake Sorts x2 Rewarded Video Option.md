@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/7
-title: Cake Sort’s x2 Rewarded Video Option
+title: "Cake Sorts x2 Rewarded Video Option"
 ---
 
 # Cake Sort’s x2 Rewarded Video Option

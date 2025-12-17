@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/5
-title: Welcome Back event?
+title: "Welcome Back event"
 ---
 
 # Welcome Back event?

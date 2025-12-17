@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/take-note-casual-game-developers
-title: Take note, casual game developers!
+title: "Take note casual game developers"
 ---
 
 # Take note, casual game developers!

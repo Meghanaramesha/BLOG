@@ -1,3 +1,7 @@
+---
+title: "Lucky Defense Scaled to 300K a Day -"
+---
+
 # Lucky Defense Scaled to $300K a Day -
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-223.png)

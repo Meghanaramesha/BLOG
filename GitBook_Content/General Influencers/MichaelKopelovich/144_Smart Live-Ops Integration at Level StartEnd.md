@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/smart-live-ops-integration-at-level-start-end
-title: Smart Live-Ops Integration at Level Start/End
+title: "Smart Live-Ops Integration at Level StartEnd"
 ---
 
 # Smart Live-Ops Integration at Level Start/End

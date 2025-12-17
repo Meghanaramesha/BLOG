@@ -1,3 +1,7 @@
+---
+title: "Gossip Harbor Increased its Event Grid 5x"
+---
+
 # Gossip Harbor Increased its Event Grid 5x
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

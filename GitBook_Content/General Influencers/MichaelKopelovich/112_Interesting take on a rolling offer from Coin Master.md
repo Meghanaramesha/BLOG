@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-take-on-a-rolling-offer-from-coin-master
-title: Interesting take on a rolling offer from Coin Master
+title: "Interesting take on a rolling offer from Coin Master"
 ---
 
 # Interesting take on a rolling offer from Coin Master

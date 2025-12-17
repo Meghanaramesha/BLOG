@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/9
-title: Reaching Every Player Type!
+title: "Reaching Every Player Type"
 ---
 
 # Reaching Every Player Type!

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/game-radar
-title: Don’t Miss These New Mobile Games –  December 5 to 11, 2025
+title: "Dont Miss These New Mobile Games   December 5 to 11 2025"
 ---
 
 # Don’t Miss These New Mobile Games –  December 5 to 11, 2025

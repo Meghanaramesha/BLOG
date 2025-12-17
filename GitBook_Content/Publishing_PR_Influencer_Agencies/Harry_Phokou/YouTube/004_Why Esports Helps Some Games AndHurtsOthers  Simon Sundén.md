@@ -1,3 +1,7 @@
+---
+title: "Why Esports Helps Some Games AndHurtsOthers  Simon Sundn"
+---
+
 # Why Esports Helps Some Games And Hurts Others | Simon Sundén
 
 **Creator:** Harry Phokou

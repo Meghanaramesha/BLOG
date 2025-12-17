@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/highlights
-title: A (Not So) Brief History of The Merge Genre!
+title: "A (Not So) Brief History of The Merge Genre"
 ---
 
 # A (Not So) Brief History of The Merge Genre!

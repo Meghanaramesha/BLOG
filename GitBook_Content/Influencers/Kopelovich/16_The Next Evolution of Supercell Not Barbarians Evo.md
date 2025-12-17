@@ -1,3 +1,7 @@
+---
+title: "The Next Evolution of Supercell Not Barbarians Evo"
+---
+
 # The Next Evolution of Supercell: Not Barbarians Evo
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

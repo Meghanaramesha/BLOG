@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/really-liked-this-small-ui-touch-in-block-jam
-title: Really liked this small UI touch in Block Jam
+title: "Really liked this small UI touch in Block Jam"
 ---
 
 # Really liked this small UI touch in Block Jam

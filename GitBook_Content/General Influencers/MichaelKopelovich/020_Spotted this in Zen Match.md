@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-this-in-zen-match
-title: Spotted this in Zen Match!
+title: "Spotted this in Zen Match"
 ---
 
 # Spotted this in Zen Match!

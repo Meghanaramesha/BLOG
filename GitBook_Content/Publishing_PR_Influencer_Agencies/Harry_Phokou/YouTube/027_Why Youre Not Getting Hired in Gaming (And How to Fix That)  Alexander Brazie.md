@@ -1,3 +1,7 @@
+---
+title: "Why Youre Not Getting Hired in Gaming (And How to Fix That)  Alexander Brazie"
+---
+
 # Why You’re Not Getting Hired in Gaming (And How to Fix That) | Alexander Brazie
 
 **Creator:** Harry Phokou

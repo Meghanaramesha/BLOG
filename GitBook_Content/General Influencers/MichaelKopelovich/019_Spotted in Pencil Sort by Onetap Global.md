@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-pencil-sort-by-onetap-global
-title: Spotted in Pencil Sort by Onetap Global
+title: "Spotted in Pencil Sort by Onetap Global"
 ---
 
 # Spotted in Pencil Sort by Onetap Global

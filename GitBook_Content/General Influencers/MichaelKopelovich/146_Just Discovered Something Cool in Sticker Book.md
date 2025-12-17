@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/just-discovered-something-cool-in-sticker-book
-title: Just Discovered Something Cool in Sticker Book!
+title: "Just Discovered Something Cool in Sticker Book"
 ---
 
 # Just Discovered Something Cool in Sticker Book!

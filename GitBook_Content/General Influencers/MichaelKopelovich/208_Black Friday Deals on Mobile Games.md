@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/15
-title: Black Friday Deals on Mobile Games
+title: "Black Friday Deals on Mobile Games"
 ---
 
 # Black Friday Deals on Mobile Games

@@ -1,3 +1,7 @@
+---
+title: "JigSolitaire 150KDay with 0 Solitaire and 0 IAPs"
+---
+
 # JigSolitaire: $150K/Day with 0 Solitaire and 0 IAPs
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

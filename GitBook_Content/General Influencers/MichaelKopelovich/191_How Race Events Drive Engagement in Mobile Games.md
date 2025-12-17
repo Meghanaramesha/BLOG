@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-race-events-drive-engagement-in-mobile-games
-title: How Race Events Drive Engagement in Mobile Games
+title: "How Race Events Drive Engagement in Mobile Games"
 ---
 
 # How Race Events Drive Engagement in Mobile Games

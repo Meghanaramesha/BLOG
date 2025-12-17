@@ -1,3 +1,7 @@
+---
+title: "Why Most Game Launches Fail and What Studios Miss  Joe Hills"
+---
+
 # Why Most Game Launches Fail and What Studios Miss | Joe Hills
 
 **Creator:** Harry Phokou

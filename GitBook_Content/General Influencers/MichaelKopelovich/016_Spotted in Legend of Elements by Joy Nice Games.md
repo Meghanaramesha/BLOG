@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-legend-of-elements-by-joy-nice-games
-title: Spotted in Legend of Elements by Joy Nice Games
+title: "Spotted in Legend of Elements by Joy Nice Games"
 ---
 
 # Spotted in Legend of Elements by Joy Nice Games

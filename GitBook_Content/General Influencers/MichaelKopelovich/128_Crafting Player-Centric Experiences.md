@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/crafting-player-centric-experiences
-title: Crafting Player-Centric Experiences
+title: "Crafting Player-Centric Experiences"
 ---
 
 # Crafting Player-Centric Experiences

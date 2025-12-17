@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/12
-title: Awesome ad for Solitaire Grand Harvest by Playtika
+title: "Awesome ad for Solitaire Grand Harvest by Playtika"
 ---
 
 # Awesome ad for Solitaire Grand Harvest by Playtika

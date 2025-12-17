@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/oxanafomina/page/3
-title: Increase Revenue and Conversions with Non-Standard Offers
+title: "Increase Revenue and Conversions with Non-Standard Offers"
 ---
 
 # Increase Revenue and Conversions with Non-Standard Offers

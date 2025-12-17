@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/trending-live-ops-events-grid-scavenger-hunt
-title: Trending Live-Ops Events: Grid Scavenger Hunt
+title: "Trending Live-Ops Events Grid Scavenger Hunt"
 ---
 
 # Trending Live-Ops Events: Grid Scavenger Hunt

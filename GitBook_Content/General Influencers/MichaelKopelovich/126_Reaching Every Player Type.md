@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/reaching-every-player-type
-title: Reaching Every Player Type!
+title: "Reaching Every Player Type"
 ---
 
 # Reaching Every Player Type!

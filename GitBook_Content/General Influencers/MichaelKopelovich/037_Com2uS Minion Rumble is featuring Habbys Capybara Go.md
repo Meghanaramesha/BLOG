@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/com2us-minion-rumble-is-featuring-habbys-capybara-go
-title: Com2uS’ Minion Rumble is featuring Habby’s Capybara Go!
+title: "Com2uS Minion Rumble is featuring Habbys Capybara Go"
 ---
 
 # Com2uS’ Minion Rumble is featuring Habby’s Capybara Go!

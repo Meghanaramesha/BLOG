@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-offer-in-tile-busters-buying-new-avatars
-title: Interesting offer in Tile Busters: Buying New Avatars
+title: "Interesting offer in Tile Busters Buying New Avatars"
 ---
 
 # Interesting offer in Tile Busters: Buying New Avatars

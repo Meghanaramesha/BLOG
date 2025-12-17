@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-power-of-partnership-mobile-gaming-collaborations-2
-title: The Power of Partnership: Mobile Gaming Collaborations
+title: "The Power of Partnership Mobile Gaming Collaborations"
 ---
 
 # The Power of Partnership: Mobile Gaming Collaborations

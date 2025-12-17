@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/monetizing-live-ops-events-exploring-key-examples-2
-title: Monetizing Live-Ops Events: Exploring Key Examples
+title: "Monetizing Live-Ops Events Exploring Key Examples"
 ---
 
 # Monetizing Live-Ops Events: Exploring Key Examples

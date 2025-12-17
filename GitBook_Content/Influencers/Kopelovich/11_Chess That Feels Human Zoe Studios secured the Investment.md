@@ -1,3 +1,7 @@
+---
+title: "Chess That Feels Human Zoe Studios secured the Investment"
+---
+
 # Chess That Feels Human? Zoe Studios secured the Investment!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

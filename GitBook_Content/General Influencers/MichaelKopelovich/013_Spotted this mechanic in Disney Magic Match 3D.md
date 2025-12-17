@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-this-mechanic-in-disney-magic-match-3d
-title: Spotted this mechanic in Disney Magic Match 3D!
+title: "Spotted this mechanic in Disney Magic Match 3D"
 ---
 
 # Spotted this mechanic in Disney Magic Match 3D!

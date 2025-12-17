@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/trending-live-ops-events-team-up-for-rewards
-title: Trending Live-Ops Events: Team Up for Rewards!
+title: "Trending Live-Ops Events Team Up for Rewards"
 ---
 
 # Trending Live-Ops Events: Team Up for Rewards!

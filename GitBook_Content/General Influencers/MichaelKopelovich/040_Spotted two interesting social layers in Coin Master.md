@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/3
-title: Spotted two interesting social layers in Coin Master
+title: "Spotted two interesting social layers in Coin Master"
 ---
 
 # Spotted two interesting social layers in Coin Master

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.felixbraberg.com/post/3-ad-monetization-tips-on-how-maximize-fill-in-india
-title: 3 Ad Monetization tips on how maximize fill in India
+title: "3 Ad Monetization tips on how maximize fill in India"
 ---
 
 # 3 Ad Monetization tips on how maximize fill in India

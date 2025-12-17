@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/teamwork-meets-fomo-in-royal-kingdom
-title: Teamwork Meets FOMO in Royal Kingdom
+title: "Teamwork Meets FOMO in Royal Kingdom"
 ---
 
 # Teamwork Meets FOMO in Royal Kingdom

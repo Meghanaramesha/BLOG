@@ -1,3 +1,7 @@
+---
+title: "Rollics First-Ever Game Jam 12 Teams 36 Hours Game Wars"
+---
+
 # Rollic’s First-Ever Game Jam: 12 Teams, 36 Hours, Game Wars!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

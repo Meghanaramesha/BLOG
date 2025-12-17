@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/engaging-players-with-milestone-based-live-ops-events
-title: Engaging Players with Milestone-Based Live Ops Events
+title: "Engaging Players with Milestone-Based Live Ops Events"
 ---
 
 # Engaging Players with Milestone-Based Live Ops Events

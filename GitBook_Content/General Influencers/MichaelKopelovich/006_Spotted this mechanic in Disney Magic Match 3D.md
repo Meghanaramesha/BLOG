@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich
-title: Spotted this mechanic in Disney Magic Match 3D!
+title: "Spotted this mechanic in Disney Magic Match 3D"
 ---
 
 # Spotted this mechanic in Disney Magic Match 3D!

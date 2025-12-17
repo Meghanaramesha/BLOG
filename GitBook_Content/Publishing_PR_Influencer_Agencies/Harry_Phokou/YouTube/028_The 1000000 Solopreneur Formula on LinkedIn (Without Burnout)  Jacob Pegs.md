@@ -1,3 +1,7 @@
+---
+title: "The 1000000 Solopreneur Formula on LinkedIn (Without Burnout)  Jacob Pegs"
+---
+
 # The $1,000,000 Solopreneur Formula on LinkedIn (Without Burnout) | Jacob Pegs
 
 **Creator:** Harry Phokou

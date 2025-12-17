@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-approach-by-dice-dreams
-title: Interesting Approach by Dice Dreams
+title: "Interesting Approach by Dice Dreams"
 ---
 
 # Interesting Approach by Dice Dreams

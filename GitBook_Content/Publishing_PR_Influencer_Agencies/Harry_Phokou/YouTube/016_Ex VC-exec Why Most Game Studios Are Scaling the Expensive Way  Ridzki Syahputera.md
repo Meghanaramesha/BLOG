@@ -1,3 +1,7 @@
+---
+title: "Ex VC-exec Why Most Game Studios Are Scaling the Expensive Way  Ridzki Syahputera"
+---
+
 # Ex VC-exec: Why Most Game Studios Are Scaling the Expensive Way | Ridzki Syahputera
 
 **Creator:** Harry Phokou

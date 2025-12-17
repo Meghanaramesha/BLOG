@@ -1,3 +1,7 @@
+---
+title: "Why Game Marketing Starts Before You Write a Line of Code  Andrew Pappas"
+---
+
 # Why Game Marketing Starts Before You Write a Line of Code | Andrew Pappas
 
 **Creator:** Harry Phokou

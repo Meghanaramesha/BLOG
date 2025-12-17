@@ -1,3 +1,7 @@
+---
+title: "Supercells Squad Buster is releasing a major pivot update"
+---
+
 # Supercell’s Squad Buster is releasing a major pivot update
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Supercells-Squad-Buster-is-releasing-a-major-pivot-update.jpg)

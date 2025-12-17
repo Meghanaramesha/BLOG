@@ -1,3 +1,7 @@
+---
+title: "Mobile Games to keep dominating global entertainment in 2026"
+---
+
 # Mobile Games to keep dominating global entertainment in 2026
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

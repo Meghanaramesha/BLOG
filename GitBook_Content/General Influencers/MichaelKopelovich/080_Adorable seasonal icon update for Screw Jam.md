@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/adorable-seasonal-icon-update-for-screw-jam
-title: Adorable seasonal icon update for Screw Jam
+title: "Adorable seasonal icon update for Screw Jam"
 ---
 
 # Adorable seasonal icon update for Screw Jam

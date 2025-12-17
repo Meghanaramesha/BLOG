@@ -1,3 +1,7 @@
+---
+title: "From Indie Game Dev to CEO Staying Focused Under Pressure  Jenny Xu"
+---
+
 # From Indie Game Dev to CEO: Staying Focused Under Pressure | Jenny Xu
 
 **Creator:** Harry Phokou

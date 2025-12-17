@@ -1,3 +1,7 @@
+---
+title: "How to utilize your in-game friends lists with Social helper mechanics"
+---
+
 # How to utilize your in-game friends lists with “Social helper” mechanics?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/How-to-utilize-your-in-game-friends-lists-with-22Social-helper22-mechanics.jpg)

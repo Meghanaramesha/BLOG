@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/category/journal
-title: Spent weeks blaming creatives for inconsistent ROAS.
+title: "Spent weeks blaming creatives for inconsistent ROAS."
 ---
 
 # Spent weeks blaming creatives for inconsistent ROAS.

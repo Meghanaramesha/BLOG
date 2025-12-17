@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/sort-games-monetization-complete-guide
-title: Sort Games Monetization: Complete Guide
+title: "Sort Games Monetization Complete Guide"
 ---
 
 # Sort Games Monetization: Complete Guide

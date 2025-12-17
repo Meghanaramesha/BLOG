@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/kopelovich/page/2
-title: Spotted something cool in Royal Match!
+title: "Spotted something cool in Royal Match"
 ---
 
 # Spotted something cool in Royal Match!

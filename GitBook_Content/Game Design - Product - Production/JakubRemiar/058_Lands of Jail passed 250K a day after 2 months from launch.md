@@ -1,3 +1,7 @@
+---
+title: "Lands of Jail passed 250K a day after 2 months from launch."
+---
+
 # Lands of Jail passed $250K a day, after 2 months from launch.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Lands-of-Jail-passed-250K-a-day-after-2-months-from-launch.jpg)

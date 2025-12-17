@@ -1,3 +1,7 @@
+---
+title: "Why Most Game Studios Will Fail in 2025 (And How to Survive)  Hendrik Lesser"
+---
+
 # Why Most Game Studios Will Fail in 2025 (And How to Survive) | Hendrik Lesser
 
 **Creator:** Harry Phokou

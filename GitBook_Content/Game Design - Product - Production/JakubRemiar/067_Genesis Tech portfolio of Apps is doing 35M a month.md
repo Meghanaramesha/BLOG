@@ -1,3 +1,7 @@
+---
+title: "Genesis Tech portfolio of Apps is doing 35M a month"
+---
+
 # Genesis Tech portfolio of Apps is doing $35M a month
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Genesis-Tech-portfolio-of-Apps-is-doing-35M-a-month.jpg)

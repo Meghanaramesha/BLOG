@@ -1,3 +1,7 @@
+---
+title: "Huuuge Games Lays Off 122 Employees"
+---
+
 # Huuuge Games Lays Off 122 Employees
 
 **Source:** https://www.gamigion.com/huuuge-games-lays-off-122-employees/

@@ -1,3 +1,7 @@
+---
+title: "Biggest Mobile Games by DAU"
+---
+
 # Biggest Mobile Games by DAU?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Biggest-Mobile-Games-by-DAU.jpg)

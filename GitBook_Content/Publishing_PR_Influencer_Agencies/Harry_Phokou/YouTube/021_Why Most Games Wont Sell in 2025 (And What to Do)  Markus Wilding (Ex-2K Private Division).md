@@ -1,3 +1,7 @@
+---
+title: "Why Most Games Wont Sell in 2025 (And What to Do)  Markus Wilding (Ex-2K Private Division)"
+---
+
 # Why Most Games Won’t Sell in 2025 (And What to Do) | Markus Wilding (Ex-2K, Private Division)
 
 **Creator:** Harry Phokou

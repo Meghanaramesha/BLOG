@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/dynamic-offers-in-action
-title: Dynamic Offers in Action!
+title: "Dynamic Offers in Action"
 ---
 
 # Dynamic Offers in Action!

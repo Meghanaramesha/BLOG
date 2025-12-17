@@ -1,3 +1,7 @@
+---
+title: "30 Years Vet The 1 Mistake Studios Make Going Global  Kate Edwards"
+---
+
 # 30+ Years Vet: The #1 Mistake Studios Make Going Global | Kate Edwards
 
 **Creator:** Harry Phokou

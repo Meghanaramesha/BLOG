@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-event-in-royal-kingdom
-title: Interesting event in Royal Kingdom
+title: "Interesting event in Royal Kingdom"
 ---
 
 # Interesting event in Royal Kingdom

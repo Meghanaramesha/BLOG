@@ -1,3 +1,7 @@
+---
+title: "What Is Game Economy Design Really  Charlie Czerkawski"
+---
+
 # What Is Game Economy Design Really? | Charlie Czerkawski
 
 **Creator:** Harry Phokou

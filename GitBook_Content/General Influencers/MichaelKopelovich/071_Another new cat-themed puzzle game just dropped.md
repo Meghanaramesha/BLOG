@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/another-new-cat-themed-puzzle-game-just-dropped
-title: Another new cat-themed puzzle game just dropped
+title: "Another new cat-themed puzzle game just dropped"
 ---
 
 # Another new cat-themed puzzle game just dropped

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/author/oxanafomina
-title: Pay to Play Games: Hexa Sort
+title: "Pay to Play Games Hexa Sort"
 ---
 
 # Pay to Play Games: Hexa Sort

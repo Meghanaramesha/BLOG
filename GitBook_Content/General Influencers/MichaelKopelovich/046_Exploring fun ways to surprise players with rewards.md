@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/exploring-fun-ways-to-surprise-players-with-rewards
-title: Exploring fun ways to surprise players with rewards.
+title: "Exploring fun ways to surprise players with rewards."
 ---
 
 # Exploring fun ways to surprise players with rewards.

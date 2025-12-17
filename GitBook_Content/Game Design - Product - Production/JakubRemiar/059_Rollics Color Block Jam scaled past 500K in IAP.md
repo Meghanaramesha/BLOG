@@ -1,3 +1,7 @@
+---
+title: "Rollics Color Block Jam scaled past 500K in IAP"
+---
+
 # Rollic’s Color Block Jam scaled past $500K in IAP
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Rollics-Color-Block-Jam-scaled-past-500K-in-IAP.jpg)

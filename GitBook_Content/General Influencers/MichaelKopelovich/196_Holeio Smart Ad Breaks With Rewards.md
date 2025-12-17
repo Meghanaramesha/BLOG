@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/hole-io-smart-ad-breaks-with-rewards
-title: Hole.io: Smart Ad Breaks With Rewards
+title: "Hole.io Smart Ad Breaks With Rewards"
 ---
 
 # Hole.io: Smart Ad Breaks With Rewards

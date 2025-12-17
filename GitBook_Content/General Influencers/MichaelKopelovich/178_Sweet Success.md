@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/%f0%9f%8d%ac-sweet-success
-title: 🍬 Sweet Success!
+title: " Sweet Success"
 ---
 
 # 🍬 Sweet Success!

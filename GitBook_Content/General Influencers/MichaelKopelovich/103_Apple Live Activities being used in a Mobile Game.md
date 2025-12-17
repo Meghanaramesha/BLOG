@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/apple-live-activities-being-used-in-a-mobile-game
-title: Apple Live Activities being used in a Mobile Game
+title: "Apple Live Activities being used in a Mobile Game"
 ---
 
 # Apple Live Activities being used in a Mobile Game

@@ -1,3 +1,7 @@
+---
+title: "PlaySimples Word Search Explorer makes 163K a day in Ad Revenue"
+---
+
 # PlaySimple’s Word Search Explorer makes $163K a day in Ad Revenue
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/PlaySimples-Word-Search-Explorer-makes-163K-a-day-in-Ad-Revenue.jpg)

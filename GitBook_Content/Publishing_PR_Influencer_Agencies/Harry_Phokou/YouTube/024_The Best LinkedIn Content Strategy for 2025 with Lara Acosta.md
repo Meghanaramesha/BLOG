@@ -1,3 +1,7 @@
+---
+title: "The Best LinkedIn Content Strategy for 2025 with Lara Acosta"
+---
+
 # The Best LinkedIn Content Strategy for 2025 with Lara Acosta
 
 **Creator:** Harry Phokou

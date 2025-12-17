@@ -1,3 +1,7 @@
+---
+title: "Why Great Games Still Fail Without Great Marketing  Matt Hitchcock"
+---
+
 # Why Great Games Still Fail Without Great Marketing | Matt Hitchcock
 
 **Creator:** Harry Phokou

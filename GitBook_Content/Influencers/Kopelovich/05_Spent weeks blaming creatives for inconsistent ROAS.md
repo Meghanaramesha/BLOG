@@ -1,3 +1,7 @@
+---
+title: "Spent weeks blaming creatives for inconsistent ROAS."
+---
+
 # Spent weeks blaming creatives for inconsistent ROAS.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

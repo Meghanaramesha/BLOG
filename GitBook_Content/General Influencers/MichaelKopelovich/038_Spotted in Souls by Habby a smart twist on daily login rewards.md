@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/spotted-in-souls-by-habby-a-smart-twist-on-daily-login-rewards
-title: Spotted in Souls by Habby: a smart twist on daily login rewards.
+title: "Spotted in Souls by Habby a smart twist on daily login rewards."
 ---
 
 # Spotted in Souls by Habby: a smart twist on daily login rewards.

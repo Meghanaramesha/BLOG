@@ -1,3 +1,7 @@
+---
+title: "Exploring Queerness in Black Mirrors Striking Vipers Episode"
+---
+
 # Exploring Queerness in Black Mirror's Striking Vipers Episode
 
 [ART](#)

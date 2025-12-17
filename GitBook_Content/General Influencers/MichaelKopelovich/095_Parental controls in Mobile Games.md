@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/parental-controls-in-mobile-games
-title: Parental controls in Mobile Games?
+title: "Parental controls in Mobile Games"
 ---
 
 # Parental controls in Mobile Games?

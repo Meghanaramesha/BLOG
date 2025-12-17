@@ -1,3 +1,7 @@
+---
+title: "Century Gamess Kingshot just passed 1M a Day"
+---
+
 # Century Games’s Kingshot just passed $1M a Day
 
 Century Games’s Kingshot just passed $1 Mil. a day 🤑 in revenue in less than 3 months from launch, scaling downloads to 200K a day. Do you know on which game it based its onboarding? 🕵

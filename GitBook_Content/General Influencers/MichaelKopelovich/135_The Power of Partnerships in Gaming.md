@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-power-of-partnerships-in-gaming
-title: The Power of Partnerships in Gaming
+title: "The Power of Partnerships in Gaming"
 ---
 
 # The Power of Partnerships in Gaming
