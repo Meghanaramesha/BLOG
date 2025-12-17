@@ -1,0 +1,2198 @@
+{
+  "https://www.gamigion.com/9-game-retention-rules/": {
+    "hash": "e98055de0759650f04d9bb0bfa24518d5e0c435a16d3eeea52f0e230a4e0e942",
+    "file": "001_9 Game Retention Rules.md"
+  },
+  "https://www.gamigion.com/game-design-formulas/": {
+    "hash": "d53c0555996d5029cdf762c50cfbc4be6f81b4f7f0a75f4add86a748e84bb5de",
+    "file": "002_Game Design Formulas.md"
+  },
+  "https://www.gamigion.com/mobile-game-unit-economy/": {
+    "hash": "c37c835e6075a20c8193cb041883a4a14803f5900ed3e1ecc639193c6ef8595f",
+    "file": "003_Mobile Game Unit Economy.md"
+  },
+  "https://www.gamigion.com/5-rules-to-keep-players-engaged/": {
+    "hash": "40839167043af2fe7245f436fea37b9a422fc4751f8023d4202168861ef21806",
+    "file": "004_5 Rules to Keep Players Engaged.md"
+  },
+  "https://www.gamigion.com/5-deadly-traps-for-new-game-studios/": {
+    "hash": "d68980d032eec7c97380a1775d42505eb643ca6f16822745ba6fb8458911b7e9",
+    "file": "005_5 Deadly Traps For New Game Studios.md"
+  },
+  "https://www.gamigion.com/liveops-do-and-donts/": {
+    "hash": "5e21ec17a8c49166fb20a1328c6db89836e186acf05426a99f23ccd9863c3a7f",
+    "file": "006_LiveOps Do and Donts.md"
+  },
+  "https://www.gamigion.com/royal-match-4b-game-design-playbook/": {
+    "hash": "17fa9abc9f7c4f2d82eea831e7d0e9eb8a9b81b34a8ca03acab2093661cb5e4a",
+    "file": "007_Royal Match 4B Game Design Playbook.md"
+  },
+  "https://www.gamigion.com/how-to-design-fuuu-factor-for-puzzle-games/": {
+    "hash": "5e9c01e8c12177e9ca071426eee40b46769a346f11ed15c0608ec8501ffb7603",
+    "file": "008_How to Design FUUU Factor for Puzzle Games.md"
+  },
+  "https://www.gamigion.com/10-years-of-mobile-games-in-numbers/": {
+    "hash": "ac084bb490eed0bc8226ddeb39fd727b0f89532f7ee0308602a8426e87b774d5",
+    "file": "009_10 Years of Mobile Games in Numbers.md"
+  },
+  "https://www.gamigion.com/the-best-game-devs-dont-work-at-blizzard-riot-or-supercell/": {
+    "hash": "125e637bdb43aaaf9ce604c7bd00d6291a7e7fea6bdb4706892a440079f6a28a",
+    "file": "010_The best game devs dont work at Blizzard Riot or Supercell.md"
+  },
+  "https://www.gamigion.com/how-to-design-social-interaction/": {
+    "hash": "47c282b01fa7acbe4963c10e0f28fe9680f9275b9c62f9343cda3758dbfda2a8",
+    "file": "011_How to Design Social Interaction.md"
+  },
+  "https://www.gamigion.com/fancy-hole-100-levels-breakdown/": {
+    "hash": "79df9f770e13d0cec636ead9a68095489357fe7a046f24e1eb7d17b7e43fd938",
+    "file": "012_Fancy Hole 100 Levels Breakdown.md"
+  },
+  "https://www.gamigion.com/how-to-structure-game-ftue/": {
+    "hash": "c420b089620eceb542d115d24c18fc9a65e9ac19155ea2caf1abda1422dc6504",
+    "file": "013_How to Structure Game FTUE.md"
+  },
+  "https://www.gamigion.com/the-voodoo-playbook/": {
+    "hash": "2b63c2607b8c8bee78312c92d4a046a9e7bf1e99b56ce8173547e29f35d96284",
+    "file": "014_The Voodoo Playbook.md"
+  },
+  "https://www.gamigion.com/hybrid-casual-features-tier-list/": {
+    "hash": "20cd82f7e4381b438c570d536b604cad57568beb86d6bb9feb5f7bfe045b9ffd",
+    "file": "015_Hybrid-Casual Features Tier-List.md"
+  },
+  "https://www.gamigion.com/21-qs-to-ask-about-every-new-game-concept/": {
+    "hash": "f3d9e6d1b029642b8086248345487918e724a009e1296a81f2e6396760f8bb5a",
+    "file": "016_21 Qs to ask about every new Game Concept.md"
+  },
+  "https://www.gamigion.com/game-design-iceberg/": {
+    "hash": "537574defef502a33f3f667f910a9cd8cf873ea8531d6b6ca9349a0716f6c24d",
+    "file": "017_Game Design Iceberg.md"
+  },
+  "https://www.gamigion.com/5-biggest-mistakes-in-game-mutorials/": {
+    "hash": "ee0e00c96cf57590cc06e0da488b27602eb28aba4e5d6a99f982ee70e3f66466",
+    "file": "018_5 Biggest Mistakes in Game Tutorials.md"
+  },
+  "https://www.gamigion.com/game-aspects-breakdown-2/": {
+    "hash": "335edcab2626277a7a7d9ea41c63f2d8bb02929746cf3e87ba68e22261c995f0",
+    "file": "019_Game Aspects Breakdown.md"
+  },
+  "https://www.gamigion.com/9-rules-of-great-game-design/": {
+    "hash": "4a5ca02c1491b5eb04a6928c090364e4e310330f51cc3b693b11edd444376734",
+    "file": "020_9 Rules of Great Game Design.md"
+  },
+  "https://www.gamigion.com/youre-ahead-of-97-of-game-devs-if/": {
+    "hash": "eb2d5b34f76d8e8b4ee25726ed59bb3ac755a70d76ac50459bda951b232003a9",
+    "file": "021_Youre ahead of 97 of Game Devs if.md"
+  },
+  "https://www.gamigion.com/essential-game-design-patterns/": {
+    "hash": "d0dba52c899f415845f2dcc069560d1e6316cb1db17167cb01eafebdfeed26ad",
+    "file": "022_Essential Game Design Patterns.md"
+  },
+  "https://www.gamigion.com/top-fastest-growing-puzzle-games-in-2025/": {
+    "hash": "854692a90723dc3d51580b2731bebf0c076fc3671c27ddb7a8fd29857eca9506",
+    "file": "023_Top Fastest-Growing Puzzle Games in 2025.md"
+  },
+  "https://www.gamigion.com/building-emotional-bonds-with-players/": {
+    "hash": "ac8f5abdc1d67f9b42d23bf556233ccb69f15f9839a365c38fe4ef880ff987c3",
+    "file": "024_Building Emotional Bonds with Players.md"
+  },
+  "https://www.gamigion.com/one-simple-truth-mobile-game-devs-often-forget/": {
+    "hash": "e875d1564e94d10f790d30e862dd1853fb3da2cd6350182cdaf27b6682ef20bc",
+    "file": "025_One simple truth mobile game devs often forget.md"
+  },
+  "https://www.gamigion.com/poor-monetization-can-kill-a-great-game/": {
+    "hash": "9691d4fd51ee3994eea434e1a66f1e6fe62b0e04726ad6cde7d62d8425de439b",
+    "file": "026_Poor monetization can kill a great game.md"
+  },
+  "https://www.gamigion.com/how-to-evaluate-game-ftue/": {
+    "hash": "cd5ffcb1198799688a0cf96c4934068ed01d93c1f266ef23a1fa75ff643b5b6d",
+    "file": "027_How to Evaluate Game FTUE.md"
+  },
+  "https://www.gamigion.com/game-retention-breakdown/": {
+    "hash": "d00b7d79904a0d8ab490385144df8abb4e4a518187cd986d4a91d18bad549949",
+    "file": "028_Game Retention Breakdown.md"
+  },
+  "https://www.gamigion.com/one-page-game-concept/": {
+    "hash": "8dd5be33b7e84f0a52466d0af0d8d731aff1fec9993de4c60f9b5bcb42f65822",
+    "file": "029_One Page Game Concept.md"
+  },
+  "https://www.gamigion.com/game-publishers-vs-investors/": {
+    "hash": "67991fe4777674c3d743d4cf07a7de42baad9fd21b5e902552305dd69ba70c74",
+    "file": "030_Game Publishers vs Investors.md"
+  },
+  "https://www.gamigion.com/turkish-mobile-gaming-scene-is-on-fire/": {
+    "hash": "30485ec803b5bf65f682486bb3804c4e17616da6000e113267d5cdf870ecc2fc",
+    "file": "031_Turkish Mobile Gaming scene is on FIRE.md"
+  },
+  "https://www.gamigion.com/royal-match-feature-stack/": {
+    "hash": "820a8221c2f4ca8f2038b1a8087af41ab7e5e82423ccff445c5183a1b648a5cc",
+    "file": "032_Royal Match Feature Stack.md"
+  },
+  "https://www.gamigion.com/4-phases-to-create-a-hit-mobile-game/": {
+    "hash": "c77278dd02f7f054fcfd69b0f200f9adea4fe2b9b82c6211cdbc6e7cd1ad974a",
+    "file": "033_4 Phases to Create a Hit Mobile Game.md"
+  },
+  "https://www.gamigion.com/what-makes-a-game-fun-2/": {
+    "hash": "083d547882be5325b066918c825a2a571702fb25a07553ce1e3843f42ec2d3c8",
+    "file": "034_What Makes a Game Fun.md"
+  },
+  "https://www.gamigion.com/steam-vs-mobile-gaming-revenue/": {
+    "hash": "954283bc3cdb4be033b4d1840640268b68b5e8bf4f4a2831a6a2c9e3eabfaae2",
+    "file": "035_Steam vs Mobile Gaming Revenue.md"
+  },
+  "https://www.gamigion.com/the-rise-of-rollic-games/": {
+    "hash": "bb12a2a96efd015add9e2c396519c40c5d65d7dc8e34fa97dadc4bdc51bccf3a",
+    "file": "036_The Rise of Rollic Games.md"
+  },
+  "https://www.gamigion.com/midcore-games-features-tier-list/": {
+    "hash": "baa6c825b21a405829234eed35d4998a473b73b58980c230fb0f45e56ccd5d75",
+    "file": "037_Midcore Games Features Tier-List.md"
+  },
+  "https://www.gamigion.com/milestone-rewards-guide/": {
+    "hash": "ca65d91715c5c61b93b31784e8445b835d5e6f843bed640a4748cf9da2022e28",
+    "file": "038_Milestone Rewards Guide.md"
+  },
+  "https://www.gamigion.com/mobile-strategy-games-are-booming-in-2025/": {
+    "hash": "df1b76f872d7826cb24115ec7853b058a73a7af66a33556ae52e823914b86a08",
+    "file": "039_Mobile Strategy Games Are Booming in 2025.md"
+  },
+  "https://www.gamigion.com/puzzle-game-key-aspects-breakdown/": {
+    "hash": "84dd428e642d07bb1c14be705756f6601740522b80227bbd3999275f33c48310",
+    "file": "040_Puzzle Game Key Aspects Breakdown.md"
+  },
+  "https://www.gamigion.com/getting-a-game-dev-degree-is-the-worst-use-of-time-and-money/": {
+    "hash": "e9c91bb9faebdf61146b04a2adf7124ad5173731c2749359619b7c102e566572",
+    "file": "041_Getting a Game Dev Degree is the WORST use of time and money.md"
+  },
+  "https://www.gamigion.com/how-to-boost-your-game-ltv/": {
+    "hash": "b3ef5b528f8477ffc0945ba075ceb99d4727ecb8ad6c9bd19651f2636d8081b1",
+    "file": "042_How to Boost Your Game LTV.md"
+  },
+  "https://www.gamigion.com/iterate-or-kill-your-game/": {
+    "hash": "c5f744a0c0a81e6c5f1e6100e208f989387acdfca87ca8d7c1880381a26f972f",
+    "file": "043_Iterate or Kill Your Game.md"
+  },
+  "https://www.gamigion.com/50-game-design-skills/": {
+    "hash": "ce5a2566416b1d729a5d5ae1d9d49fd9a7c81ddc3a04fc652a295e4e65f14456",
+    "file": "044_50 Game Design Skills.md"
+  },
+  "https://www.gamigion.com/fastest-mobile-games-to-1b/": {
+    "hash": "fce5f1b4da51dbe04f7cd83a274b2b67a0c3c4f3db5593793f96d22f7df18a5e",
+    "file": "045_Fastest Mobile Games to 1B.md"
+  },
+  "https://www.gamigion.com/12-game-design-tricks/": {
+    "hash": "d9e5c89ab35b2bcdd6a9e799ea3ec5594e99e38f676c59b9df89cbff0ba5aaf0",
+    "file": "046_12 Game Design Tricks.md"
+  },
+  "https://www.gamigion.com/hybrid-casual-game-development-guide/": {
+    "hash": "ee3ca4e8ef1743dcef122d7b7cab6d34a2a574f1efb4e0e0da9dd74b1292cd93",
+    "file": "047_Hybrid-Casual Game Development Guide.md"
+  },
+  "https://www.gamigion.com/how-to-set-player-goals/": {
+    "hash": "2480069e9c961f14782f0cc0157693bd61e5db5dc5c1de0f9ccc81c37e9eca29",
+    "file": "048_How to Set Player Goals.md"
+  },
+  "https://www.gamigion.com/mobile-games-heatmap-2025-h1/": {
+    "hash": "210a2b443a0b578eeb5c212e558a9316b4d9197a8f9bbac2ba405e8520584f94",
+    "file": "049_Mobile Games Heatmap 2025 H1.md"
+  },
+  "https://www.gamigion.com/10-must-have-features-for-puzzle-games/": {
+    "hash": "46dd4b207dcdf95f2446935f1667bc148f2e14caed87754551fce81e28b47adb",
+    "file": "050_10 Must-Have Features for Puzzle Games.md"
+  },
+  "https://www.gamigion.com/how-to-design-progression-in-games/": {
+    "hash": "43199bc6dc3d2a6b95be574b111db15218f509d6032b74635113fbff95b7a06e",
+    "file": "051_How to design progression in games.md"
+  },
+  "https://www.gamigion.com/how-do-you-grow-player-ltv/": {
+    "hash": "bc572f1fd1955a98c21ecb489766225042e05c23e95e814452b1c5ff1b1a69b5",
+    "file": "052_How do you grow player LTV.md"
+  },
+  "https://www.gamigion.com/10-common-game-dev-mistakes/": {
+    "hash": "bff18451a01dbd79f563780cf64269b510792ce9995e414c9a3c28c3991baee4",
+    "file": "053_10 common game dev mistakes.md"
+  },
+  "https://www.gamigion.com/homescapes-level-design-insights/": {
+    "hash": "e1fd5a784a474c52f944edc67ec5ace7246a62ab5e03fbefb2febc50f0c6e157",
+    "file": "054_Homescapes Level Design Insights.md"
+  },
+  "https://www.gamigion.com/more-money-raised-%e2%89%a0-higher-chances-of-success/": {
+    "hash": "f3d3b98ecab6d97ff0543ac0ff8b26b951e10ab58b610d984dd69005e414e4cb",
+    "file": "055_More money raised  higher chances of success.md"
+  },
+  "https://www.gamigion.com/self-publishing-games-vs-working-with-a-publisher/": {
+    "hash": "525104d2156004c2f851087665418d53cc38f832f1ba12c0296b294487f637c1",
+    "file": "056_Self-publishing games vs working with a publisher.md"
+  },
+  "https://www.gamigion.com/top-mobile-game-publishers-in-2020-2025/": {
+    "hash": "d5c2bcecb09c8146b94067699a279180027d94b8309765a10f87501055333953",
+    "file": "057_Top mobile game publishers in 20202025.md"
+  },
+  "https://www.gamigion.com/15-mobile-game-design-rules/": {
+    "hash": "d7d1156ba161c2b252697c5863e940579e356830ec4466db99126a9c7543b5f6",
+    "file": "058_15 Mobile Game Design Rules.md"
+  },
+  "https://www.gamigion.com/combat-balance-breakdown/": {
+    "hash": "68b682b34cac1f5e628632b84753d1a008887fee858a400d740c005a72f71672",
+    "file": "059_Combat Balance Breakdown.md"
+  },
+  "https://www.gamigion.com/puzzle-game-features-tier-list/": {
+    "hash": "18d0bea1d7528a86fa529ec330976ea7c9cf053e3230b51ccf2ec5a31129d63d",
+    "file": "060_Puzzle Game Features Tier List.md"
+  },
+  "https://www.gamigion.com/7-monetization-layers/": {
+    "hash": "f8acbe398888b18f984899126d2a5ac027e019cad8a3d3fe3efed1a282d5f370",
+    "file": "061_7 Monetization Layers.md"
+  },
+  "https://www.gamigion.com/new-games-2025-h1-analysis/": {
+    "hash": "0e62551bd9c233d0556835b99a6d1c3a1efa5c68ba550fbc8d575c8e81677685",
+    "file": "062_New Games 2025 H1 Analysis.md"
+  },
+  "https://www.gamigion.com/10-best-converting-offers-in-mobile-games/": {
+    "hash": "65103d5810b9cd9743a52504eca77e6b551e051e60d38a43f3408ee24f3a7572",
+    "file": "063_10 Best Converting Offers in Mobile Games.md"
+  },
+  "https://www.gamigion.com/mobile-game-prototype-checklist/": {
+    "hash": "dc01c47b369a83d2f50873ad3338e1c491b0ae1756ee57ebfd32bd436b587ca8",
+    "file": "064_Mobile Game Prototype Checklist.md"
+  },
+  "https://www.gamigion.com/game-dev-can-feel-like-chaos/": {
+    "hash": "73cfbcb9853e54feda3fee3fda092598e668c365f31772c8f8cb429f65afdddf",
+    "file": "065_Game Dev can feel like chaos.md"
+  },
+  "https://www.gamigion.com/how-to-make-your-game-addictive/": {
+    "hash": "86cfaad9d2df4b9f4af0defa27974cb71d80b1f73fab8f4c43bf4949dd9bfa87",
+    "file": "066_How to Make Your Game Addictive.md"
+  },
+  "https://www.gamigion.com/hyper-hybrid-casual-midcore-comparison/": {
+    "hash": "e874b98b60d203a12d3064a9d0749db3e16ab54c0d300076dc0932f04993a6b9",
+    "file": "067_Hyper  Hybrid  Casual  Midcore Comparison.md"
+  },
+  "https://www.gamigion.com/how-to-generate-hit-game-ideas-3/": {
+    "hash": "65da3b89e1dae5fcdb3f7862463f5c5733e8d33b9d04f20504da67670ca0ce30",
+    "file": "068_How to generate hit game ideas.md"
+  },
+  "https://www.gamigion.com/daily-tasks-retention-fuel/": {
+    "hash": "a5ac7d2be02f7fd093ade9798cfe6254f5438d5fb9d3bdd1da27e01f93825580",
+    "file": "069_Daily tasks  retention fuel.md"
+  },
+  "https://www.gamigion.com/15-documents-every-game-developer-needs/": {
+    "hash": "f5f675ecb6863352392220f404e37fedc9f3dbbf221c99813e3f80c08094de48",
+    "file": "070_15 Documents Every Game Developer Needs.md"
+  },
+  "https://www.gamigion.com/match-3-games-features-full-breakdown/": {
+    "hash": "979bd862593165cbbc2ead108603052699717a79c17275e74c25a2d53d5d004b",
+    "file": "071_Match-3 Games Features Full Breakdown.md"
+  },
+  "https://www.gamigion.com/why-most-new-game-studios-fail/": {
+    "hash": "b30bef8f5021d6e806e6b45cfc9c3ee2d3c0e12522bde12604e64e0e42ec893d",
+    "file": "072_Why most new game studios fail.md"
+  },
+  "https://www.gamigion.com/core-loop-in-top-casual-games-2/": {
+    "hash": "8f8727a588b779d4b67fb4ecd15b3bb431498c6f2a00ad5cb0295e035dd3f6a7",
+    "file": "073_Core Loop in Top Casual Games.md"
+  },
+  "https://www.gamigion.com/20-new-features-in-casual-games/": {
+    "hash": "2de879574a113b0e36aac340e8ba6a24a9644de0aa1783fde33c5965548780cb",
+    "file": "074_20 New Features in Casual Games.md"
+  },
+  "https://www.gamigion.com/performance-of-mobile-puzzle-genres-in-2025/": {
+    "hash": "e194a5d49f12d460605b7e3e34f45ae9f93bbfc8a4929a42a8a0279d80724789",
+    "file": "075_Performance of mobile puzzle genres in 2025.md"
+  },
+  "https://www.gamigion.com/royal-match-level-design-insights/": {
+    "hash": "066b75168a9ae263dc3ae389623b4639247290060d0e7776790c528b434a7047",
+    "file": "076_Royal Match Level Design Insights.md"
+  },
+  "https://www.gamigion.com/game-development-is-full-of-myths/": {
+    "hash": "4e8f94c55d4f30079c673d0dc040c2796f5cb79affc6e89d90ca3dcaf8f9c723",
+    "file": "077_Game development is full of myths.md"
+  },
+  "https://www.gamigion.com/what-makes-a-game-feel-great/": {
+    "hash": "b920cd380d097f338a39367e37089a63a9251f8391b63dce040158be25b5be28",
+    "file": "078_What makes a game FEEL great.md"
+  },
+  "https://www.gamigion.com/royal-match-earns-more-than-all-playrix-titles-combined/": {
+    "hash": "47105891bee9a9faf40fa14fae514d85e900e2178bc079d8a8e098bbdcfd6e03",
+    "file": "079_Royal Match earns MORE than all Playrix titles combined.md"
+  },
+  "https://www.gamigion.com/how-to-design-difficulty-in-puzzle-games-2/": {
+    "hash": "a0384cab54aee26184caa2b8e7b5b562855c43770f123d3704103ae27df3a343",
+    "file": "080_How to Design Difficulty in Puzzle Games.md"
+  },
+  "https://www.gamigion.com/64-lessons-after-10-years-in-game-development/": {
+    "hash": "8dbefef7122b9bd5c58dc4150065c0d26672283a490c2cd76a8a75fae5053083",
+    "file": "081_64 lessons after 10 years in Game Development.md"
+  },
+  "https://www.gamigion.com/launching-a-new-game/": {
+    "hash": "10619cf8e6d5b0098c35ff832801c0abb4bead28d425104923e90ff784862b93",
+    "file": "082_Launching a new game.md"
+  },
+  "https://www.gamigion.com/why-is-your-day-7-retention-so-low/": {
+    "hash": "15bd2ec2386dc418c9eb892c922538b7dbaec228ede708d777da9900788b93de",
+    "file": "083_Why is your Day 7 retention so low.md"
+  },
+  "https://www.gamigion.com/how-to-design-clans/": {
+    "hash": "2fdb9a81cfae9d13cbe9c9b511df73326b1356167dc8e64b17e1fbf33834ee95",
+    "file": "084_How to design Clans.md"
+  },
+  "https://www.gamigion.com/how-to-choose-the-right-game-publisher/": {
+    "hash": "53e8f0c9b8f3c189c5c4b14baefa5c18dffbdf6eff3c62c8ba149df89514b211",
+    "file": "085_How to choose the right game publisher.md"
+  },
+  "https://www.gamigion.com/top-growing-declining-publishers-in-h1-2025/": {
+    "hash": "8b45f845012fcc87a4ab913347843da463eac59f9432e81afce6a3a77a6ac5d3",
+    "file": "086_Top Growing  Declining Publishers in H1 2025.md"
+  },
+  "https://www.gamigion.com/color-block-jam-economy/": {
+    "hash": "cc4355b564dfae792ebf1bd112ac60da03492bceb91ad27a357d9e25e2eeb05e",
+    "file": "087_Color Block Jam Economy.md"
+  },
+  "https://www.gamigion.com/24-truths-about-game-dev-nobody-wants-to-hear/": {
+    "hash": "1390e7c41c9929f448f78d6bf8998c96892e28924ff4b5d61dd6a7a5173b8e49",
+    "file": "088_24 truths about Game Dev nobody wants to hear.md"
+  },
+  "https://www.gamigion.com/season-pass-guide/": {
+    "hash": "6d7bfad076a99966336dedaafcdd70b18f21c5daa82df5d669269b0091e7c56a",
+    "file": "089_Season Pass Guide.md"
+  },
+  "https://www.gamigion.com/making-an-indie-game-is-actually-easy/": {
+    "hash": "44cf7141aee1b028148627ebb29e8f88b53b03f765d4c9a4fddbe5c1b70c2f7b",
+    "file": "090_Making an indie game is actually easy.md"
+  },
+  "https://www.gamigion.com/layers-of-engagement-in-games-2/": {
+    "hash": "b9c960b68f988d52defd53a1416804453691b079ec3592514608de7ca9116e98",
+    "file": "091_Layers of Engagement in Games.md"
+  },
+  "https://www.gamigion.com/boost-your-games-engagement-add-happy-hours/": {
+    "hash": "931e33810c3b4795afb14052948ecf4f682e7c09e5669ca8c3f9a4e77c3271db",
+    "file": "092_Boost your games engagement add Happy Hours.md"
+  },
+  "https://www.gamigion.com/the-puzzle-genre-is-overheating/": {
+    "hash": "d76a448c6db1048f442642063d8c4b15dabdf5ac3a1c589d133b19a17d3dcbc1",
+    "file": "093_The puzzle genre is overheating.md"
+  },
+  "https://www.gamigion.com/kingshot-launched-just-a-few-months-ago-already-30m-a-month/": {
+    "hash": "21e37f4f3079c86ad76d2738fbeee9367e2fcf14502d3bdd7adab49627ebed57",
+    "file": "094_Kingshot launched just a few months ago already 30M a month.md"
+  },
+  "https://www.gamigion.com/the-real-difference-between-good-and-bad-games/": {
+    "hash": "987c573e1ba3f77ddea1605dd6a49584a860bfdd01c38b85d686f83fa979f569",
+    "file": "095_The real difference between good and bad games.md"
+  },
+  "https://www.gamigion.com/new-event-in-royal-match-puzzle-break/": {
+    "hash": "26d85a519dd7892a08ee7dcf52d0cc7afda944241d16bd7d7275732da11f6cc2",
+    "file": "096_New event in Royal Match Puzzle Break.md"
+  },
+  "https://www.gamigion.com/mobile-gaming-q1-2025-in-numbers/": {
+    "hash": "387d5f4c3422ecdeebd587d4573c74540e4625fb783f3448e9e7d819618275b9",
+    "file": "097_Mobile gaming Q1 2025 in numbers.md"
+  },
+  "https://www.gamigion.com/3-layers-of-game-monetization/": {
+    "hash": "27ffcdd3662015e16197b2c9bc7227d9275774b6e3e67074a812879dcfb11b8d",
+    "file": "098_3 Layers of Game Monetization.md"
+  },
+  "https://www.gamigion.com/game-aspects-breakdown/": {
+    "hash": "f9f166397666c8debfcb2d66d325dcbd86ea56c87d4e1b4c1d488a33b9c99a44",
+    "file": "099_Game Aspects Breakdown.md"
+  },
+  "https://www.gamigion.com/20-biggest-gamedev-lies/": {
+    "hash": "defc23c75b34b8b1471c55597e4939a71e6fd11d70137fba35d6c6ea5bc8a958",
+    "file": "100_20 biggest gamedev lies.md"
+  },
+  "https://www.gamigion.com/dos-and-donts-in-game-analysis/": {
+    "hash": "16dae0e84b68bc463090c9f56e0d0ba5e916b2eb291f8dd4338a8aa3bc351815",
+    "file": "101_Dos and Donts in game analysis.md"
+  },
+  "https://www.gamigion.com/core-gameplay-is-king/": {
+    "hash": "88f191cea9acb7b1944959d24ffc289018f500b157a8f9f1b26083716fe5c521",
+    "file": "102_Core Gameplay is King.md"
+  },
+  "https://www.gamigion.com/game-designer-isnt-just-a-job-title/": {
+    "hash": "b48ae706ecb31a9ac02c8fb0213f092d51e54fbc60f711f0215ddfd05fc96c6e",
+    "file": "103_Game designer isnt just a job title.md"
+  },
+  "https://www.gamigion.com/treasure-hunt-event-guide/": {
+    "hash": "e7cc79fffc0a0bc5c07092455b2ab195c26c3db1a46daa5ab0ef7be5b67c46dd",
+    "file": "104_Treasure Hunt Event Guide.md"
+  },
+  "https://www.gamigion.com/10-video-tutorials-on-mobile-game-monetization/": {
+    "hash": "a2c9cd9775a726078593407af50f03d28276f8f0a6c60e9ae30f0a7172e609bf",
+    "file": "105_10 Video Tutorials on Mobile Game Monetization.md"
+  },
+  "https://www.gamigion.com/most-game-choices-are-boring/": {
+    "hash": "ba0c713d27441f6ed8837e244a6d9bc18ca82f51b24842f634443ce4a20a0876",
+    "file": "106_Most game choices are boring.md"
+  },
+  "https://www.gamigion.com/mobile-game-design-is-mostly-dead/": {
+    "hash": "88706df60c01f860dd52611bba9feab55773e0e8f9f99e796b10b293d1d27c1e",
+    "file": "107_Mobile game design is mostly dead.md"
+  },
+  "https://www.gamigion.com/prioritizing-what-to-improve-next-in-the-game-is-tough/": {
+    "hash": "72532070462ccd8d75b07cfe38ddb1599c799077ba0e42934237bd4fe9f941b4",
+    "file": "108_Prioritizing what to improve next in the game is tough.md"
+  },
+  "https://www.gamigion.com/arcade-genres-success-tier-list/": {
+    "hash": "d172a9439c9ff774651d7d948caf77f99849f1110b561c3ceac7b413ee89988c",
+    "file": "109_Arcade Genres Success Tier-list.md"
+  },
+  "https://www.gamigion.com/mobile-games-use-various-psychological-tricks-2/": {
+    "hash": "a71692be8cea678941fbb7e8d0f5831414b37803856f201c1546360edd9db766",
+    "file": "110_Mobile games use various psychological tricks.md"
+  },
+  "https://www.gamigion.com/mobile-game-meta-guide/": {
+    "hash": "06406f1352781b692e66b39fb43252af6ecc1d68d09c68283d74fdb3cefd15d3",
+    "file": "111_Mobile Game Meta Guide.md"
+  },
+  "https://www.gamigion.com/gaming-industry-professions/": {
+    "hash": "bbbd8c9bd317a4be5a3df9000b90169fe655ce87f5cf4bb4ab772e0ce553410a",
+    "file": "112_Gaming Industry Professions.md"
+  },
+  "https://www.gamigion.com/dream-games-knows-how-to-keep-players-engaged/": {
+    "hash": "ffa6159d28613f4b1c79b706271a9ef7b371ba58bdb9f9ef54b910ed134e8534",
+    "file": "113_Dream Games knows how to keep players engaged.md"
+  },
+  "https://www.gamigion.com/nut-sort-hit-3m-monthly-downloads/": {
+    "hash": "27b4dcfa68db6aa310f6472db4d1f3d0d303c353a4b7aa97cf57c7ee30a2d25b",
+    "file": "114_Nut Sort hit 3M monthly downloads.md"
+  },
+  "https://www.gamigion.com/mobile-game-monetization-is-both-art-and-science/": {
+    "hash": "8cc0dcbb937fd460e7fe9bad29b440f33fb0c867039ed9e06f8ae93bc7750449",
+    "file": "115_Mobile game monetization is both art and science.md"
+  },
+  "https://www.gamigion.com/color-block-jam-is-the-most-successful-new-puzzle-in-2025/": {
+    "hash": "e202ff0724918ace0726721863e4a5cd167e2d0f3e60194f5302ff0b2eca9f53",
+    "file": "116_Color Block Jam is the most successful new puzzle in 2025.md"
+  },
+  "https://www.gamigion.com/a-new-game-studio-is-doomed-if-you-see-these-deadly-signs/": {
+    "hash": "42e73a9c3d50fc86cbbc50cb188d41f747d2c12f9047ef6243d74078703be3d7",
+    "file": "117_A new game studio is doomed if you see these deadly signs.md"
+  },
+  "https://www.gamigion.com/how-to-pitch-your-game/": {
+    "hash": "4694bb29841f323946a0c579dbc3a03d97b220da4d5100eef3bd9c9c5809d087",
+    "file": "118_How To Pitch Your Game.md"
+  },
+  "https://www.gamigion.com/top-games-hook-you-fast/": {
+    "hash": "a6b48dec6dd66b5a9eeae7ef8f5b98abf033a9b648baec748a201e38970ebbe5",
+    "file": "119_Top games hook you fast.md"
+  },
+  "https://www.gamigion.com/a-great-game-isnt-built-on-luck/": {
+    "hash": "82b765ff0a9ac6475b4fe95e0ed79eb7c776dac6065fb6155fac7613acedd379",
+    "file": "120_A great game isnt built on luck.md"
+  },
+  "https://www.gamigion.com/hypercasual-games-are-cooked/": {
+    "hash": "2eec6d284e763a7803aa2c404a8dd2ea31ef611405259922d6911b56ab49ca44",
+    "file": "121_Hypercasual games are cooked.md"
+  },
+  "https://www.gamigion.com/how-to-make-your-game-look-good/": {
+    "hash": "3179d4b15b3c746ce21483965aaec7f4d7196fc03b886d92d5cf612fddd8708b",
+    "file": "122_How to make your game look good.md"
+  },
+  "https://www.gamigion.com/how-does-a-live-ops-system-work-2/": {
+    "hash": "561331ebe537156326c430569aaa6aba266f6eae9949f67fae9ca19082100970",
+    "file": "123_How does a Live Ops system work.md"
+  },
+  "https://www.gamigion.com/80-gamedev-tools-cheat-sheet/": {
+    "hash": "b7cc235ae1a64eecbbae82619d09db675c8a823ba8a1f37898671ff03fd79cb9",
+    "file": "124_80 GameDev Tools Cheat Sheet.md"
+  },
+  "https://www.gamigion.com/social-casino-liveops-strategy/": {
+    "hash": "70ae35eafe1284e2a74424f2a29a5b3a16167a7d2d5f3bfac168dbc26665adc4",
+    "file": "125_Social Casino LiveOps Strategy.md"
+  },
+  "https://www.gamigion.com/how-to-improve-your-mobile-game-metrics/": {
+    "hash": "18ea98b0b69f33e65fc84d18150a44c8f3272fb2aa117bdfea497a63b404e501",
+    "file": "126_How to improve your mobile game metrics.md"
+  },
+  "https://www.gamigion.com/the-fastest-growing-mobile-games-of-2025/": {
+    "hash": "2a14ff40159107f5e16448538c04c9d98e616c1b5bd7d03ad2083e7bb161fd06",
+    "file": "127_The fastest-growing mobile games of 2025.md"
+  },
+  "https://www.gamigion.com/first-30-days-checklist-for-mobile-games/": {
+    "hash": "dbe821e010747b2aae6313688e90a673c590bb55b88ad914a3ad561237ffefbb",
+    "file": "128_First 30 Days Checklist for Mobile Games.md"
+  },
+  "https://www.gamigion.com/gardenscapes-billion-dollar-liveops-strategy/": {
+    "hash": "598f4855a6b8beba329d3c670c9f8cdaebc8962b6be3a60588492b0bb7453802",
+    "file": "129_Gardenscapes Billion-Dollar LiveOps Strategy.md"
+  },
+  "https://www.gamigion.com/season-pass-can-drive-both-engagement-and-monetization/": {
+    "hash": "ba9096128fc9ac781eda8af99aa5517519b73f68a0b55f972e28505a74d67776",
+    "file": "130_Season Pass can drive both engagement and monetization.md"
+  },
+  "https://www.gamigion.com/casual-game-trends-in-march-2025/": {
+    "hash": "6fff852df51b7193674c8c0a09eddb5db60d572204df7139d71de331b2ee67ec",
+    "file": "131_Casual game trends in March 2025.md"
+  },
+  "https://www.gamigion.com/playtesting-can-make-or-break-your-game/": {
+    "hash": "44d164e33c4ff4782b64105fd79986f113dfbc2bb0d7f1ddfe949d713cf33d64",
+    "file": "132_Playtesting can make or break your game.md"
+  },
+  "https://www.gamigion.com/most-monopolized-puzzle-genres-2025/": {
+    "hash": "dae5f521e2c7b2feacf7237ecfbf5bcbb5dbea5eb2a80280f25e26ba179c4510",
+    "file": "133_Most Monopolized Puzzle Genres 2025.md"
+  },
+  "https://www.gamigion.com/10-funding-options-to-bring-your-game-to-life/": {
+    "hash": "bdfb381334a85af4b57f2de3b2a609612da71256009b1288ae2b9b592549a45f",
+    "file": "134_10 funding options to bring your game to life.md"
+  },
+  "https://www.gamigion.com/best-game-devs-dont-work-at-blizzard-riot-king-playrix-or-supercell/": {
+    "hash": "231e722d57eb1ac29825cc607f4d60fc4523794529144ce2373cc5eefb3811db",
+    "file": "135_Best Game Devs dont work at Blizzard Riot King Playrix or Supercell.md"
+  },
+  "https://www.gamigion.com/liveops-isnt-just-about-events-its-a-strategy/": {
+    "hash": "664ed0140b78a80650af6c03a75178a425f4f9478dfae898cc91501a0d41e541",
+    "file": "136_LiveOps isnt just about events Its a strategy.md"
+  },
+  "https://www.gamigion.com/puzzle-games-are-harder-to-make-than-they-look/": {
+    "hash": "b459740d893cfdea56f5dfa669090cf1445932f01730998cb871f34eeec9c0bd",
+    "file": "137_Puzzle games are harder to make than they look.md"
+  },
+  "https://www.gamigion.com/three-stages-of-mobile-game-production/": {
+    "hash": "edf2adf5a97a6216b96297136899913017fbf28e82b49bd6e0f866531f08963e",
+    "file": "138_Three Stages of Mobile Game Production.md"
+  },
+  "https://www.gamigion.com/how-to-increase-game-retention-2/": {
+    "hash": "00b0d4a5a8d65d8597f9a8e2f4e4746e8cc0617204a04a8905af27168b0e4d77",
+    "file": "139_How to increase game retention.md"
+  },
+  "https://www.gamigion.com/puzzle-genres-heatmap-2024/": {
+    "hash": "e1788d5b214248bdce16c297e026fa392a881b52f0390ea96a22a5f5813be1da",
+    "file": "140_Puzzle Genres Heatmap 2024.md"
+  },
+  "https://www.gamigion.com/adventure-events-are-one-of-the-most-engaging-features/": {
+    "hash": "d547dc53751e20d0becd3055773f26af85fffe617cc2fc9c0ba79d41169ad5d7",
+    "file": "141_Adventure events are one of the most engaging features.md"
+  },
+  "https://www.gamigion.com/old-vs-new-mobile-gaming/": {
+    "hash": "1c562fe1e75437ed4da12571f7a846cb8710e4719935b236fa0d52dadde98edf",
+    "file": "142_Old Vs New Mobile Gaming.md"
+  },
+  "https://www.gamigion.com/ip-collaborations-arent-just-cool-theyre-game-changers/": {
+    "hash": "09d532ed151a2ac1a97f6c5f0de083c7d2804556c7d0a4d2ea134dfcf3edb492",
+    "file": "143_IP collaborations arent just cool theyre game changers.md"
+  },
+  "https://www.gamigion.com/mobile-games-use-various-psychological-tricks/": {
+    "hash": "355749c6b476f2ee4465d91b73c519755aa34b0b12dde22f5d86ab5c4d62cd16",
+    "file": "144_Mobile games use various psychological tricks.md"
+  },
+  "https://www.gamigion.com/puzzle-genres-tier-list/": {
+    "hash": "f0713cc8052946dc1a55f7dfed70fa947669e6b55c770f6f4ed7cf9eeffa68d2",
+    "file": "145_Puzzle Genres Tier-list.md"
+  },
+  "https://www.gamigion.com/how-to-make-a-game-players-will-love/": {
+    "hash": "87e970b05f0faa2066109c738aca8184b14ffe790b4c2ca0cf71646c12a1155f",
+    "file": "146_How to make a Game players will LOVE.md"
+  },
+  "https://www.gamigion.com/how-to-design-a-core-game-loop/": {
+    "hash": "d1e0f12f327f46baef829572f8352aa918bab9931b1edf46d27d3389a56ed203",
+    "file": "147_How to Design a Core Game Loop.md"
+  },
+  "https://www.gamigion.com/top-1-game-producers/": {
+    "hash": "ed1527928ad62dc249165f484f362e930cfd323858282acbee941ea403a2d1ca",
+    "file": "148_Top 1 Game Producers.md"
+  },
+  "https://www.gamigion.com/9-key-pillars-of-game-design/": {
+    "hash": "67f6c12894edd784a41d83eff38d02a2c33d056a19c69ff2d9ee79ddb27e4e22",
+    "file": "149_9 Key Pillars of Game Design.md"
+  },
+  "https://www.gamigion.com/live-ops-events-cheatsheet/": {
+    "hash": "ca6691664423eacf25d0d1e4722b98929b57545f9f4674dfc1d973c8f716971c",
+    "file": "150_Live-ops events cheatsheet.md"
+  },
+  "https://www.gamigion.com/boost-playtime-in-your-game/": {
+    "hash": "7113f8e13824e02f1a4d4cfd096f44cac36431907833138956fa082a330a2e2d",
+    "file": "151_Boost playtime in your Game.md"
+  },
+  "https://www.gamigion.com/most-popular-rewarded-ads-placements-in-hybrid-casual/": {
+    "hash": "c7bfe1d16c29e6743372541c1d5c724239300ec98f025e2d3c2abe88da8748f6",
+    "file": "152_Most Popular Rewarded Ads Placements in Hybrid-Casual.md"
+  },
+  "https://www.gamigion.com/10-ways-to-monetize-a-game/": {
+    "hash": "b19bdeb574b4122f3d9da9896aa62d3b4266d2aa7aa1d896105166e54dc48e45",
+    "file": "153_10 Ways to Monetize a Game.md"
+  },
+  "https://www.gamigion.com/game-tutorial-guide/": {
+    "hash": "5d9a537e3a56132e116ca25393a3643b91295c1da3f32f7faba4c2b365d9e4ae",
+    "file": "154_Game Tutorial Guide.md"
+  },
+  "https://www.gamigion.com/churn-breakdown-in-mobile-games/": {
+    "hash": "f42cc87081d77a2e8b48b189a8bac542a963487c5f1f62006b66f69ae3cb2a31",
+    "file": "155_Churn Breakdown in Mobile Games.md"
+  },
+  "https://www.gamigion.com/system-successful-games-formula/": {
+    "hash": "c80d9eb4661836348281d1528e5452f34887788119d813ca456cc81d265725b2",
+    "file": "156_System Successful Games Formula.md"
+  },
+  "https://www.gamigion.com/how-to-evaluate-game-ideas/": {
+    "hash": "9c0a644f82e81dbdad67c4bdfc676d874ea8c08b87028e00e48631cb27fe8370",
+    "file": "157_How to Evaluate Game Ideas.md"
+  },
+  "https://www.gamigion.com/gossip-harbors-live-ops-strategy/": {
+    "hash": "16f0e2980deb10292741a5d37c276ce2d49acb8e9659f07197d7222059ee169a",
+    "file": "158_Gossip Harbors Live Ops Strategy.md"
+  },
+  "https://www.gamigion.com/ads-monetization-guide-for-mobile-games/": {
+    "hash": "2717d31bde923580da47a39d78cae689adc579fc592ef7d3b10e0864a7529980",
+    "file": "159_Ads Monetization Guide For Mobile Games.md"
+  },
+  "https://www.gamigion.com/want-to-review-a-new-game-like-a-pro/": {
+    "hash": "98cefb62ff2965371d1adcb2d985086f2b9b2320a0c34bb0d3653b965203fa6c",
+    "file": "160_Want to review a new game like a pro.md"
+  },
+  "https://www.gamigion.com/habby-dominates-the-roguelike-genre/": {
+    "hash": "4958d3f2d4b44b29b662e3f7e3f51f2679e69cfb554ff69344c254ae75095de8",
+    "file": "161_Habby Dominates the Roguelike Genre.md"
+  },
+  "https://www.gamigion.com/fastest-growing-mobile-games-of-2025/": {
+    "hash": "0c4ea4c59e14b7373f003a77eff0a8e3f95e059d3e6d71e9550b001e97f5aee5",
+    "file": "162_Fastest-growing Mobile Games of 2025.md"
+  },
+  "https://www.gamigion.com/games-are-about-emotions/": {
+    "hash": "25bbf60472bd2d495b8a803b4ba0e44f92ebaf712eb9f606a1a0610e2fdd826c",
+    "file": "163_Games are about emotions.md"
+  },
+  "https://www.gamigion.com/whos-actually-playing-your-game/": {
+    "hash": "4b09af6f85364ed58785b834c0b04027e7221fc902f3b1e2757799c120c58dfa",
+    "file": "164_Whos actually playing your game.md"
+  },
+  "https://www.gamigion.com/daily-bonus-guide/": {
+    "hash": "98e8b0c9220aaca70996db884f4077ffa492d6bdaa3c04a3fc4402d2495ae09b",
+    "file": "165_Daily Bonus Guide.md"
+  },
+  "https://www.gamigion.com/how-to-design-a-winstreak/": {
+    "hash": "695aac7cd759db317ada885935e83e6b147cac985902403073cb2835cea46669",
+    "file": "166_How to Design a Winstreak.md"
+  },
+  "https://www.gamigion.com/what-makes-a-game-fun/": {
+    "hash": "a1bc4281fb5e6643738b9518b49412533e46f080c3748c90ea4f218d788429d7",
+    "file": "167_What makes a game fun.md"
+  },
+  "https://www.gamigion.com/lucky-wheel-guide/": {
+    "hash": "68c76f77a11564b7abf0a955ab54326dfa9ba7f1fb2e5c6f6443770db8c6b7d5",
+    "file": "168_Lucky Wheel Guide.md"
+  },
+  "https://www.gamigion.com/3-layers-of-game-design/": {
+    "hash": "0b20e5fb6eacada621cc27431090c287f890155d2027809e8eeadf10c9dab4b2",
+    "file": "169_3 Layers of Game Design.md"
+  },
+  "https://www.gamigion.com/20-key-mobile-game-metrics/": {
+    "hash": "676282a0b0d30e97afab23c7342fcfff1b85181e5687e62a4cfe0796431ac2f1",
+    "file": "170_20 Key Mobile Game Metrics.md"
+  },
+  "https://www.gamigion.com/playrix-liveops-strategy/": {
+    "hash": "3ef6c1285b0e2cb03db97f37bcff5c7ed4147d8c523cd344c826787d7ad5ec2a",
+    "file": "171_Playrix LiveOps Strategy.md"
+  },
+  "https://www.gamigion.com/casual-games-liveops-in-q1-2025/": {
+    "hash": "0e0a8d2053eb5f1b012ba0493c4c8a1e9c0b183167b28930b940286768cab48b",
+    "file": "172_Casual Games LiveOps in Q1 2025.md"
+  },
+  "https://www.gamigion.com/10-signs-you-are-working-on-a-dead-game/": {
+    "hash": "17d86a626fccadd1be2aecdf3a94e585a8afbfb0b12bec2a307d48710a170616",
+    "file": "173_10 signs you are working on a DEAD Game.md"
+  },
+  "https://www.gamigion.com/monopoly-go-top-revenue-driving-events/": {
+    "hash": "5a8d9eb35dbd62281b31bdf1a3c8255fc3603693fe3994b8e865f5560c590940",
+    "file": "174_Monopoly GO Top Revenue-Driving Events.md"
+  },
+  "https://www.gamigion.com/game-dev-career-guide/": {
+    "hash": "ed8239d29bb02e2488acf9c127c5939e8068ad35f4cd9848c98f9e85574b23dc",
+    "file": "175_Game Dev Career Guide.md"
+  },
+  "https://www.gamigion.com/mobile-game-publishers-heatmap-in-2024/": {
+    "hash": "3dcf018bb06f0163f1181ed499b1170a3aa4c69d7d8836c649cee1211261cc68",
+    "file": "176_Mobile Game Publishers Heatmap in 2024.md"
+  },
+  "https://www.gamigion.com/lava-quest-breakdown/": {
+    "hash": "a21a128e4541b97be300a5c2a04accfa336b7bab4e178dc6df738190278d7061",
+    "file": "177_Lava Quest Breakdown.md"
+  },
+  "https://www.gamigion.com/how-to-design-daily-missions/": {
+    "hash": "e9aaf04cc4af9569481f8a856f737cbb8dab8f9f1932118a0f8aefe882aee7bf",
+    "file": "178_How to Design Daily Missions.md"
+  },
+  "https://www.gamigion.com/how-do-you-design-an-addictive-game/": {
+    "hash": "6dcabf19029556ab5eae70a804cc0555a0375cdf7fa27bf5abbabfb77f69908d",
+    "file": "179_How do you design an addictive game.md"
+  },
+  "https://www.gamigion.com/game-narratives-arent-just-text/": {
+    "hash": "ee03543ddd564d49b63d67ed8b849228f3b26dc12af8b9b93df483a25fc2b7bc",
+    "file": "180_Game narratives arent just text.md"
+  },
+  "https://www.gamigion.com/core-loop-in-top-casual-games/": {
+    "hash": "1040a0d9c6de83dd2cadfdc23ad9672927f5eb7c135099d5986dd0f5d834c647",
+    "file": "181_Core Loop in Top Casual Games.md"
+  },
+  "https://www.gamigion.com/what-makes-a-game-unforgettable/": {
+    "hash": "558e8a3fbee02601bc8fc606cd74ff62da23162fb340caab5ac64d44f420bb7a",
+    "file": "182_What makes a game unforgettable.md"
+  },
+  "https://www.gamigion.com/7-step-mobile-game-prototyping-framework/": {
+    "hash": "a347aa25c5ee13ed987d94932da718ab0afa7878931321518c97c90c76a18b0b",
+    "file": "183_7-Step Mobile Game Prototyping Framework.md"
+  },
+  "https://www.gamigion.com/royal-kingdom-vs-royal-match/": {
+    "hash": "c7b57edb7e2579f3cb0f3e8d60822a2447ee8da8accd168ef5829703c3e4939c",
+    "file": "184_Royal Kingdom vs Royal Match.md"
+  },
+  "https://www.gamigion.com/blue-ocean-subgenres-in-mobile-gaming-in-2025/": {
+    "hash": "1691b082b90aa2aad8e4bec4b61bd09e8ce509bb8b4b125f24fe6d10ce6e4d9a",
+    "file": "185_Blue Ocean Subgenres in Mobile Gaming in 2025.md"
+  },
+  "https://www.gamigion.com/how-to-balance-your-mobile-game/": {
+    "hash": "53fbec5517c949f4a39599ec39a78947e130e1c8d6ea1e581ebc7eb62e91c52a",
+    "file": "186_How to Balance Your Mobile Game.md"
+  },
+  "https://www.gamigion.com/20-costly-production-mistakes-and-how-to-avoid-them/": {
+    "hash": "9026b26faef77e21f76c8366230e1c361cba5bce8493d1ff1899754a370c2608",
+    "file": "187_20 Costly Production Mistakes and How to Avoid Them.md"
+  },
+  "https://www.gamigion.com/25-live-ops-features-starter-pack/": {
+    "hash": "4128d9e6d181bc3d8515686b00ae83749a6eef40f9508e003217cfa9116d1333",
+    "file": "188_25 Live-Ops Features Starter Pack.md"
+  },
+  "https://www.gamigion.com/10-game-design-rules-you-must-know/": {
+    "hash": "e95a1f5f2ed04807d23ba762316960b03c960693a0ad8b05ecad6a1504947ff5",
+    "file": "189_10 Game Design Rules You Must Know.md"
+  },
+  "https://www.gamigion.com/analyze-1000-games-in-5-min-with-ai/": {
+    "hash": "3393d8f76e7d5aee382ddb7ddbaf0dc7b28a83861d4d9a3122d7c39de6cb6188",
+    "file": "190_Analyze 1000 Games in 5 min with AI.md"
+  },
+  "https://www.gamigion.com/60-gamedev-learning-resources/": {
+    "hash": "cfee49e5b7fde5b9ffadbd2b947364b330b75e69512cbbed64f2a3d37b113fb7",
+    "file": "191_60 Gamedev Learning Resources.md"
+  },
+  "https://www.gamigion.com/designing-a-great-first-time-user-experience/": {
+    "hash": "19b9ee61d2788b43dbb9a65f383fb85ef4373f96f6bbd39f902aa3792d09fb28",
+    "file": "192_Designing a Great First-Time User Experience.md"
+  },
+  "https://www.gamigion.com/top-casual-games-liveops-strategy/": {
+    "hash": "6cf43ba6ce664236c9e55705ffed33b29adc17941fa1a2092e3ebea43713f693",
+    "file": "193_Top Casual Games LiveOps Strategy.md"
+  },
+  "https://www.gamigion.com/want-to-be-a-top-1-game-producer-2/": {
+    "hash": "421726d0a9ed64f9c3783dda5834c7a67311f604130b7f3f7958ea933c81cf7a",
+    "file": "194_Want to be a top 1 game producer.md"
+  },
+  "https://www.gamigion.com/how-to-use-player-segmentation-to-boost-ltv/": {
+    "hash": "f689b3a32640c1677489ab77ba4cfd779b8d08acdae4a3c8d0f64fc164d2184f",
+    "file": "195_How to use Player Segmentation to boost LTV.md"
+  },
+  "https://www.gamigion.com/here-is-the-worst-way-to-generate-game-ideas/": {
+    "hash": "849146668f1ef6500b6868254df05e8cfde5a809c7f0545e31ca9bce4d57c8f3",
+    "file": "196_Here is the WORST way to generate game ideas.md"
+  },
+  "https://www.gamigion.com/10-live-ops-traps-to-avoid/": {
+    "hash": "028b753277f2743947363d0987c278ed8744cea6b814a5a3b42210e0e685da09",
+    "file": "197_10 Live Ops traps to avoid.md"
+  },
+  "https://www.gamigion.com/10-game-genres-to-avoid-in-2025/": {
+    "hash": "ca488a58eaef98dcc494cfdb0ce6a57248011e9961712b8b31da26981064a3e2",
+    "file": "198_10 Game Genres to Avoid in 2025.md"
+  },
+  "https://www.gamigion.com/the-harsh-reality-of-mobile-game-dev-in-2025/": {
+    "hash": "9709639bc710d9a61e053863c3ab876bb63f3bb053334c1006a5168645b2f232",
+    "file": "199_The harsh reality of Mobile Game Dev in 2025.md"
+  },
+  "https://www.gamigion.com/live-ops-holiday-events-cheatsheet/": {
+    "hash": "dd31034d1e9f63837b6bc1feb9fbb5ba42574d4778956397654c7cbd3c2d0b42",
+    "file": "200_Live Ops Holiday Events Cheatsheet.md"
+  },
+  "https://www.gamigion.com/your-game-features-arent-usps/": {
+    "hash": "45a75bb3077cc482ce46d56dabd46962603158593c56b9b3fb5d95567d30447a",
+    "file": "201_Your game features arent USPs.md"
+  },
+  "https://www.gamigion.com/step-by-step-process-for-reviewing-new-games/": {
+    "hash": "c6677e4fe91df3cb81e5e2aaa6cd0dcc4b2f5de1d153119b2e4041ee9ab1d659",
+    "file": "202_Step-by-step process for reviewing new games.md"
+  },
+  "https://www.gamigion.com/30-small-game-changes-big-impact/": {
+    "hash": "16fed203bbe025bceb35127d19f2c264319987e3390042947301391a201abd3c",
+    "file": "203_30 small game changes  BIG impact.md"
+  },
+  "https://www.gamigion.com/how-diversified-are-the-largest-game-publishers-2/": {
+    "hash": "9b4f645c5a0d272f6f29b0b5b76b6bd89b8762b9dff2718ed399773aa9dc1811",
+    "file": "204_How diversified are the largest game publishers.md"
+  },
+  "https://www.gamigion.com/20-lessons-from-running-a-game-studio/": {
+    "hash": "04c630f74fbf3b6145431e30a175d6c9f84d84e8239ace452ebe3f0f6bc13e3e",
+    "file": "205_20 Lessons From Running a Game Studio.md"
+  },
+  "https://www.gamigion.com/my-honest-advice-for-game-producers/": {
+    "hash": "658d4ef5c5359d118d7005db0352c95c0f74f9ca53e134e1f4bb4cfb8a935497",
+    "file": "206_My honest advice for Game Producers.md"
+  },
+  "https://www.gamigion.com/10-years-of-game-dev-in-100-no-bs-advice/": {
+    "hash": "a373c0d96b0b4b606888bf99553ac15b0cf11f3b7e66b9c4bbb65bd5ba7825dd",
+    "file": "207_10 Years of Game Dev in 100 No BS Advice.md"
+  },
+  "https://www.gamigion.com/how-to-design-difficulty-in-puzzle-games/": {
+    "hash": "ae30a77b78826b1047cdbb2b9b419e470197814743240c12146025b2948910b3",
+    "file": "208_How to Design Difficulty in Puzzle Games.md"
+  },
+  "https://www.gamigion.com/top-tools-for-game-development-in-2025/": {
+    "hash": "58699704bc46c9a5f3628c20a4bd614145a377a188c701f69c7f52a09f8ae52e",
+    "file": "209_Top Tools for Game Development in 2025.md"
+  },
+  "https://www.gamigion.com/social-engagement-time-in-mobile-games/": {
+    "hash": "b429135328de90cf62d80afb7db14cfd28197e8be003cb404d5e3ff863622669",
+    "file": "210_Social Engagement Time in Mobile Games.md"
+  },
+  "https://www.gamigion.com/10-signs-you-might-be-working-on-a-dead-game-%f0%9f%9a%a9/": {
+    "hash": "1f0dfa4ace9ffa5c5758e315cd309a5f91dcd04ce38481aee3df40ec77e15610",
+    "file": "211_10 signs you might be working on a dead game .md"
+  },
+  "https://www.gamigion.com/live-ops-features-to-boost-retention/": {
+    "hash": "a8c88fa6ee9b3d4cbfb13c5eb4e5aa09ddaa93505edf21b9604557388a2833cf",
+    "file": "212_Live Ops features to boost Retention.md"
+  },
+  "https://www.gamigion.com/mobile-gaming-in-2024/": {
+    "hash": "c7de62add762f15be29fff288b37fe069ba16e1b1c80763f7106caf13b31f994",
+    "file": "213_Mobile Gaming in 2024.md"
+  },
+  "https://www.gamigion.com/rd-framework-for-game-prototyping-2/": {
+    "hash": "01387ee01b78a96d58161812fe52139522d16675c76a079687a9e6d1d29d887c",
+    "file": "214_RD Framework for Game Prototyping.md"
+  },
+  "https://www.gamigion.com/liveops-full-breakdown/": {
+    "hash": "efdd6b0fcc80e39d0c5db854a55c844dd8e1d50ff1c6d8eb300a77f8cc3e2592",
+    "file": "215_LiveOps Full Breakdown.md"
+  },
+  "https://www.gamigion.com/my-top-10-predictions-for-mobile-gaming-in-2025/": {
+    "hash": "2e5dd1ed0bd960a2281577d1f6f33fdc0c9a445826c416611310e493286d68a5",
+    "file": "216_My Top 10 Predictions for Mobile Gaming in 2025.md"
+  },
+  "https://www.gamigion.com/mobile-games-downloads-heatmap-2024/": {
+    "hash": "7bc4b1b1c906de6a7c157de11cf14209110d9db8b6cfbfb837ec01ba6d34e71d",
+    "file": "217_Mobile Games Downloads Heatmap 2024.md"
+  },
+  "https://www.gamigion.com/push-notifications-guide/": {
+    "hash": "8b6332c36dd91a909204c935864aa8d69f18ab64af5696d6520f9facf7b17501",
+    "file": "218_Push Notifications Guide.md"
+  },
+  "https://www.gamigion.com/game-development-looks-simple-on-the-surface/": {
+    "hash": "452da4072f4d8fc3809ae2b75b1ab6190d0c4c1f835f19c628760109a419abc7",
+    "file": "219_Game Development looks simple on the surface.md"
+  },
+  "https://www.gamigion.com/core-vs-meta-in-mobile-games-2/": {
+    "hash": "b48eef1b84ac070a61f88a881473adcb3eec8fc944c9e275477e0124cfbca607",
+    "file": "220_Core vs Meta in Mobile Games.md"
+  },
+  "https://www.gamigion.com/how-to-generate-hit-game-ideas-2/": {
+    "hash": "74645ccb7ad10082a4d1a86393e73f33dfcff99a551076fbec112c26c37f23da",
+    "file": "221_How to generate hit game ideas.md"
+  },
+  "https://www.gamigion.com/avoid-these-mobile-game-genres-in-2025/": {
+    "hash": "536c93d143078fd4bf407f3c661f71652234246f84d4a0c8b13a7216a76a9924",
+    "file": "222_AVOID these mobile game genres in 2025.md"
+  },
+  "https://www.gamigion.com/how-narrative-pipeline-in-game-dev-works/": {
+    "hash": "d583ab3d8d6f02dbd52706c6c0f09c122eb05f827b850f3c5a58aa8cec32f06f",
+    "file": "223_How Narrative Pipeline in Game Dev Works.md"
+  },
+  "https://www.gamigion.com/ftue-guide-for-casual-games/": {
+    "hash": "804e7ee53643162a58fd99f1cd5a1aba99f1364daa70cf896caff88cbf7fa6e3",
+    "file": "224_FTUE Guide For Casual Games.md"
+  },
+  "https://www.gamigion.com/had-a-chance-to-dress-up-your-game-for-christmas/": {
+    "hash": "222e9c8240038dc0dbae211f7a988ba8708ac39a9b7f0d3e1976d2769e9dbbb3",
+    "file": "225_Had a chance to dress up your game for Christmas.md"
+  },
+  "https://www.gamigion.com/10-rules-every-game-designer-must-follow/": {
+    "hash": "4040a86a28d634c966151b12c1b9a56c29000984c3bca5c432ee67b86d972f5b",
+    "file": "226_10 Rules every game designer must follow.md"
+  },
+  "https://www.gamigion.com/daily-bonus-do-donts/": {
+    "hash": "6696b81833c72c484e45c39a8a73d92bcfaf34aa9c47472c3bc294a65be47c9f",
+    "file": "227_Daily Bonus Do  Donts.md"
+  },
+  "https://www.gamigion.com/30-best-game-assets-in-2024/": {
+    "hash": "2109388f4e8904a373632b2c265799046ccd98bd8ce01e6ac4bc859ddb5e7b2a",
+    "file": "228_30 Best Game Assets in 2024.md"
+  },
+  "https://www.gamigion.com/mobile-games-liveops-cheat-sheet/": {
+    "hash": "5ea7a9c2dd7f85d3ebeca570d8beb1b0833a51c8f8580c290459b5c155d9765d",
+    "file": "229_Mobile Games LiveOps Cheat Sheet.md"
+  },
+  "https://www.gamigion.com/retention-is-key-for-game-success/": {
+    "hash": "6eff97d75e5056475deee87ba32947536d5861808575b11d19cfdfe39fdbc5bb",
+    "file": "230_Retention is key for game success.md"
+  },
+  "https://www.gamigion.com/how-to-analyze-mobile-trends-in-just-a-few-minutes/": {
+    "hash": "6a158bf8860372917b3a2f174fd8bb9809ff1b60ecdc1f003bb073c92b1e009d",
+    "file": "231_How to analyze mobile trends in just a few minutes.md"
+  },
+  "https://www.gamigion.com/what-makes-a-game-truly-engaging/": {
+    "hash": "02e5a81eebf8d2a25957acd5fb3b181ff567a8ad7bc09bab3963d4ac52f02e2b",
+    "file": "232_What makes a game truly engaging.md"
+  },
+  "https://www.gamigion.com/time-limited-bonuses-are-a-game-changer-for-mobile/": {
+    "hash": "71c41c858d69ec078df54582c369ab8acad82cc212331b0f89cabec0795fc528",
+    "file": "233_Time-limited bonuses are a game-changer for mobile.md"
+  },
+  "https://www.gamigion.com/how-does-a-live-ops-system-work/": {
+    "hash": "cc09bfd166eabf330a8230e380a9144e7c7d51dd5274edbcbe5f1401debecc1f",
+    "file": "236_How does a Live Ops system work.md"
+  },
+  "https://www.gamigion.com/mobile-game-retention-cheatsheet/": {
+    "hash": "59b87bb81e34d177285ab2e8659b965b526e5ffad47db5d62d959feb2698f187",
+    "file": "237_Mobile Game Retention Cheatsheet.md"
+  },
+  "https://www.gamigion.com/1b-playbook-behind-royal-match-success/": {
+    "hash": "114710356d06e8bfc7d0af12d3b08a2a26a741389e621479f2e64c2c68945bdc",
+    "file": "238_1B Playbook behind Royal Match success.md"
+  },
+  "https://www.gamigion.com/what-to-do-if-your-game-has-low-retention/": {
+    "hash": "5db6617b7e8ad3d7ddd135dbb21774a75b47c37e5bc6aaf8dd95279f991073ce",
+    "file": "239_What to do if your game has low retention.md"
+  },
+  "https://www.gamigion.com/from-hyper-to-hybrid-casual-mob-control-playbook/": {
+    "hash": "259de0e056af768088ef121380a873dc8296b1b19f51d90cf1dab73b7da6f990",
+    "file": "240_From Hyper to Hybrid Casual Mob Control Playbook.md"
+  },
+  "https://www.gamigion.com/top-3-long-term-retention-champions/": {
+    "hash": "ae1bb6a3e2bb84ce8d4d35b8c2c4e3e040a765c9f99bf2db54274b347225e865",
+    "file": "241_TOP 3 Long-term Retention Champions.md"
+  },
+  "https://www.gamigion.com/10-ways-to-get-your-game-funded/": {
+    "hash": "6fca2ce2fce3ded0ac4191a92434d917c783281929239de3053303caca432739",
+    "file": "242_10 Ways To Get Your Game Funded.md"
+  },
+  "https://www.gamigion.com/which-game-engine-should-you-choose-for-your-game/": {
+    "hash": "0249efacbcb419d060cae66d640f82693d1f0de8d8da4eed7706508a018483c8",
+    "file": "243_Which game engine should you choose for your game.md"
+  },
+  "https://www.gamigion.com/i-analyzed-19977-new-mobile-games-launched-in-2024/": {
+    "hash": "ab31b18c6942f4817e43724842b70784dac4e327dd7c7cd16de78dcc239adbb0",
+    "file": "244_I analyzed 19977 new mobile games launched in 2024.md"
+  },
+  "https://www.gamigion.com/top-10-social-features-in-casual-games/": {
+    "hash": "7b89220e06438338bcaaa9681794c1830d867d504093129e5fa6b52a9b2e6abc",
+    "file": "245_Top 10 Social Features in Casual Games.md"
+  },
+  "https://www.gamigion.com/20-traps-that-ruin-your-live-ops-how-to-avoid/": {
+    "hash": "209da97241a42002d83ae2b423f8b3e03a78115b0c4d5220cd6808667c4eafbf",
+    "file": "246_20 traps that ruin your Live Ops  How to Avoid.md"
+  },
+  "https://www.gamigion.com/350-feature-references-from-the-top-100-mobile-games/": {
+    "hash": "f7c275134ea8ba9584f353a9ba980851f22a6fca80f69aac84d61e20d9b7eaef",
+    "file": "247_350 feature references from the top 100 mobile games.md"
+  },
+  "https://www.gamigion.com/gamedev-learning-resources/": {
+    "hash": "e1e56060b74259c9a061082b9404c87c8017e32e8f91f1356c19ba5a00c5c2e4",
+    "file": "248_Gamedev Learning Resources.md"
+  },
+  "https://www.gamigion.com/hybrid-casual-games-key-monetization-insights/": {
+    "hash": "0cc2689d58b165c1d3eda0192ac4db5a2fc56250b2ddb52acda072cb213df88a",
+    "file": "249_Hybrid Casual Games Key Monetization Insights.md"
+  },
+  "https://www.gamigion.com/mobile-games-heatmap-for-2024/": {
+    "hash": "605b20a0495a2c527155f159e40acfaa8747e7ffed5cf0b639e194a3d75afe5c",
+    "file": "250_Mobile Games Heatmap for 2024.md"
+  },
+  "https://www.gamigion.com/ultimate-career-advice-for-newcomers-in-gamedev/": {
+    "hash": "7a11de6bc5da0bd2e413160db1eac270f04883e9fb73526aed7a94ecfdc62058",
+    "file": "251_Ultimate career advice for newcomers in GameDev.md"
+  },
+  "https://www.gamigion.com/what-top-creatives-casual-games-are-using/": {
+    "hash": "b0076dc7c06d44bee56f636f77e418bd4038ed90ef0d199310cbe9480e405387",
+    "file": "252_What top creatives casual games are using.md"
+  },
+  "https://www.gamigion.com/think-games-are-made-only-by-programmers/": {
+    "hash": "90fbc4ebdf4294fe8dc925a381b4f3fd1a9055b51fc8ed0ea05d1585ffbf82b6",
+    "file": "253_Think games are made only by programmers.md"
+  },
+  "https://www.gamigion.com/which-game-metrics-drive-the-most-roas-impact/": {
+    "hash": "27d8bc5ec54b9b108901d75f34dab59a2d64ee854b15518ec804376caa056792",
+    "file": "254_Which game metrics drive the most ROAS impact.md"
+  },
+  "https://www.gamigion.com/season-pass-101/": {
+    "hash": "754afae55415d823c6255d708f7ca925749a9141028e8daa658b5fc9e53ca373",
+    "file": "255_Season Pass 101.md"
+  },
+  "https://www.gamigion.com/how-to-analyze-your-game-competitors/": {
+    "hash": "4d56e50594af97d43ae0c4a653519c32dc97e9cf4f345682818e98ebb95c5b94",
+    "file": "256_How to Analyze Your Game Competitors.md"
+  },
+  "https://www.gamigion.com/why-do-launched-games-fail/": {
+    "hash": "1387574c8206655bdd7d4f9d1920df5054bd9b93cc585229507be72d3f866349",
+    "file": "257_Why do launched games fail.md"
+  },
+  "https://www.gamigion.com/mobile-game-loop-breakdown/": {
+    "hash": "735a43e6903dfdf900dea9ccde3f9f4b56145a1d7507b27ff95e243ba9e8f8dc",
+    "file": "258_Mobile game loop breakdown.md"
+  },
+  "https://www.gamigion.com/how-cup-heroes-monetizes-its-success/": {
+    "hash": "dd9044f9c6ab82f899c3285249ae7a2947c1877b87d8be033cfcbd5c213787fe",
+    "file": "259_How Cup Heroes Monetizes Its Success.md"
+  },
+  "https://www.gamigion.com/top-progression-mechanics-from-peak-games/": {
+    "hash": "83ac3d4e494187c43dd88b61f6064ff95b427f322c5c17421bae150cdf371f3f",
+    "file": "260_Top Progression Mechanics from Peak Games.md"
+  },
+  "https://www.gamigion.com/how-to-evaluate-your-game-ideas/": {
+    "hash": "07090d62a4b6da7d3ceca7489df3ecf9d67d3f77f31659ac6496e6c67d616598",
+    "file": "261_How to Evaluate Your Game Ideas.md"
+  },
+  "https://www.gamigion.com/devs-can-forget-about-marketing-as-publishers-handle-it/": {
+    "hash": "4406f0d986a48e344ac4a16265d1aeae7ff7c603e867ec5e839a7967b517781b",
+    "file": "262_Devs can forget about marketing as publishers handle it.md"
+  },
+  "https://www.gamigion.com/puzzle-games-loss-aversion-to-monetize-level-fails/": {
+    "hash": "4b874ab02a0626df836a875298034aeee71f2f407a4496eb00b6a06944c0f18b",
+    "file": "263_Puzzle Games Loss Aversion to monetize level fails.md"
+  },
+  "https://www.gamigion.com/the-3-stages-of-mobile-game-production/": {
+    "hash": "be3a465743cbf1a13f59b3ceeefb51302d21b6729d0394b3f0de11809c0cbdc6",
+    "file": "264_The 3 Stages of Mobile Game Production.md"
+  },
+  "https://www.gamigion.com/30-small-things-that-make-games-more-fun/": {
+    "hash": "360f01c5f364d58ca149b709973bec6de719aede6bdae37956007fdf94b73139",
+    "file": "265_30 Small Things that Make Games More Fun.md"
+  },
+  "https://www.gamigion.com/10-popular-monetization-features-for-mobile-games/": {
+    "hash": "80b093cfc2c0c187803658b9439afef6e3e4041a661944d547691ad507ec2429",
+    "file": "266_10 Popular Monetization Features for Mobile Games.md"
+  },
+  "https://www.gamigion.com/high-arpu-vs-low-arpu-what-drives-the-difference/": {
+    "hash": "0e697bbe662993bc07017d952fe05eb11bce0c3b2651459acfcd4f3d1f5460a4",
+    "file": "267_High ARPU vs Low ARPU What Drives the Difference.md"
+  },
+  "https://www.gamigion.com/how-the-mobile-market-changed-from-2015-to-2024/": {
+    "hash": "543470cd0572203d25b1b6dc1abe12175bf9a2de68638a3d25e3cdc560f8e85c",
+    "file": "268_How the Mobile Market Changed from 2015 to 2024.md"
+  },
+  "https://www.gamigion.com/no-monetization-strategy-can-fix-a-bad-game/": {
+    "hash": "217fc57baabd065319bfb96350cd5305f7a8f4ea4af0b77772a07eaa1200cb49",
+    "file": "269_No monetization strategy can fix a bad game.md"
+  },
+  "https://www.gamigion.com/blue-ocean-puzzle-subgenres-highest-success-rate/": {
+    "hash": "1c62d2ba3de190356a39b26827596eda82e995dc8b0640c468315a523f042853",
+    "file": "270_Blue Ocean Puzzle Subgenres Highest Success Rate.md"
+  },
+  "https://www.gamigion.com/22-lessons-learned-from-working-on-billion-dollar-games/": {
+    "hash": "0736c67c67680a8c17d4ed72a688734ca88e3f7ad9beffe13a66fa68e980a17b",
+    "file": "271_22 Lessons Learned from Working on Billion-Dollar Games.md"
+  },
+  "https://www.gamigion.com/what-makes-movement-in-games-feel-fast/": {
+    "hash": "9e061d24a24bc2e58caf1094ed5db750eab6c41f9bc9c0d03a05b8fabd0c4495",
+    "file": "272_What makes movement in games feel fast.md"
+  },
+  "https://www.gamigion.com/top-mobile-casual-games-benchmark-metrics/": {
+    "hash": "01d8fab929cb8c9d4444c6e38b6cb023d8f2f3edc997baa1cd29dd3d59758d5a",
+    "file": "273_Top Mobile Casual Games Benchmark Metrics.md"
+  },
+  "https://www.gamigion.com/25-unusual-tips-for-game-designers/": {
+    "hash": "12cff2d9ece4b7f790a59f5e16d99dc3b397d4580fb4adfba42484a7a82bae24",
+    "file": "274_25 Unusual Tips for Game Designers.md"
+  },
+  "https://www.gamigion.com/meta-vs-progression-in-games-whats-the-difference/": {
+    "hash": "8a094f91c5be85330f65368e7b6ba062f915f3804eaa1557d0054e5859459725",
+    "file": "275_Meta vs Progression in Games Whats the Difference.md"
+  },
+  "https://www.gamigion.com/when-starting-the-development-of-a-new-game/": {
+    "hash": "70242602b3aee6141aabe25c8736eabbb528060744fee0bb96ccab933e306de5",
+    "file": "276_When starting the Development of a New Game.md"
+  },
+  "https://www.gamigion.com/q3-was-tough-for-hypercasual/": {
+    "hash": "4685c7f72d2c0f0910f0674420a3b108b5412491d3c0027cf8247099ca5662b7",
+    "file": "277_Q3 was tough for hypercasual.md"
+  },
+  "https://www.gamigion.com/how-to-find-the-perfect-game-idea/": {
+    "hash": "bc16fc010ac0639d6658640b405705cbfa0477cc8fa2839e93a11111121bf607",
+    "file": "278_How to Find the Perfect Game Idea.md"
+  },
+  "https://www.gamigion.com/top-mobile-game-launches-of-2024-so-far/": {
+    "hash": "cdb42ad4f508e0186d27123b433d6c1c1a2c34d3c777aeb2303ed738c52ac7a4",
+    "file": "279_Top mobile game launches of 2024 so far.md"
+  },
+  "https://www.gamigion.com/%e2%9c%85-green-and-%f0%9f%9a%a9-red-flags-for-game-producers/": {
+    "hash": "d73795c0bd98446a276d3a0bc15a1032f9aae15973c70842fb179cb0e3a9afb8",
+    "file": "280_ Green and  Red Flags for Game Producers.md"
+  },
+  "https://www.gamigion.com/how-to-make-a-game-feel-juicy/": {
+    "hash": "6ae1799447a542344f82a584a892d934e33e5fffb19a61299f9a085dc34423cf",
+    "file": "281_How to Make a Game Feel Juicy.md"
+  },
+  "https://www.gamigion.com/19-pieces-of-advice-for-beginning-game-developers/": {
+    "hash": "82bbfc252f2bda1ccbed7d1d50fd0e9039ec0c9dbe617675e8b1109cba8b5152",
+    "file": "282_40 Pieces of Advice for Beginning Game Devs.md"
+  },
+  "https://www.gamigion.com/top-revenue-driving-events-in-royal-match/": {
+    "hash": "99458ef91b860112278d24d92ed42b40af090ca6edb63892a41178837578db95",
+    "file": "283_Top Revenue-Driving Events in Royal Match.md"
+  },
+  "https://www.gamigion.com/top-ai-tools-for-game-development/": {
+    "hash": "bd16529ad4ee114df2073eb83bfb46499e793bd8e5921378f2cee4e07d550f58",
+    "file": "284_Top AI Tools for Game Development.md"
+  },
+  "https://www.gamigion.com/optimizing-ftue-first-30-minutes-of-30-top-casual-games/": {
+    "hash": "17a054540db3d00529799ec0a65b15117b6f182a09027ec72e7a9259127d57bf",
+    "file": "285_Optimizing FTUE First 30 Minutes of 30 Top Casual Games.md"
+  },
+  "https://www.gamigion.com/how-to-increase-game-arpu/": {
+    "hash": "0467c5082832b6a6c61032ac68dcd406713d81400b37b8ece74576ed71ff5a0a",
+    "file": "286_How to Increase Game ARPU.md"
+  },
+  "https://www.gamigion.com/why-is-superplay-valued-at-2b/": {
+    "hash": "97e1e3dc34f627dd980ba1b529bb739b4c7836ea54d954ffe813b177f9c9454d",
+    "file": "287_Why is SuperPlay valued at 2B.md"
+  },
+  "https://www.gamigion.com/layers-of-game-ltv/": {
+    "hash": "d8c26d43efffd7b7ca2d838d0700abc0a9b7eff963c3a713d2fcd1744df8bea0",
+    "file": "288_Layers of Game LTV.md"
+  },
+  "https://www.gamigion.com/success-rate-of-top-mobile-game-publishers/": {
+    "hash": "2f65ea8dcf42e260ed89c832c94f2e3d04feba18cf27d3d4fb62c44ae3b8b016",
+    "file": "289_Success Rate of Top Mobile Game Publishers.md"
+  },
+  "https://www.gamigion.com/do-and-donts-in-gamedev-for-new-studios/": {
+    "hash": "83fc34444b3aa7bf761bbdbf0a45d9aa5e50483dc42226db7ed21b0e7a352b84",
+    "file": "290_Do and Donts in GameDev For New Studios.md"
+  },
+  "https://www.gamigion.com/key-metrics-every-mobile-game-developer-should-know/": {
+    "hash": "a239a25759fb14279bc54c9dc6c5b7e5036321524caecd37441c1a7073d80bcf",
+    "file": "291_Key Metrics Every Mobile Game Developer Should Know.md"
+  },
+  "https://www.gamigion.com/technical-knowledge-isnt-just-for-game-devs/": {
+    "hash": "f0c9efeb96cf9f29daca9bbdac7b68a3a43c235e2affecaef6dde7196bebcadc",
+    "file": "292_Technical knowledge isnt just for Game Devs.md"
+  },
+  "https://www.gamigion.com/want-to-break-into-game-development-in-2024/": {
+    "hash": "d99be86baae433ec6a9279bde9aed82342f6ddf96df9033a15cbaf6fc011ebe5",
+    "file": "293_Want to break into game development in 2024.md"
+  },
+  "https://www.gamigion.com/roadmap-to-improve-game-ltv/": {
+    "hash": "4d7b42d2c2b0283a38d2ebb3ab5a2e54ad9cc1902d140aa29b90908209437f27",
+    "file": "294_Roadmap to Improve Game LTV.md"
+  },
+  "https://www.gamigion.com/live-ops-features-starter-pack/": {
+    "hash": "476572a47002b83cf87c0df59e43fdc64b5ea48c62a3702088662fed3df3ab84",
+    "file": "295_Live-Ops Features Starter Pack.md"
+  },
+  "https://www.gamigion.com/list-of-10-free-open-source-game-development-tools/": {
+    "hash": "a42661408819ee1e0993252a9841036c5cd8b01ead0ffea191ae149ebbdf95fd",
+    "file": "296_List of 10 Free  Open Source Game Development Tools.md"
+  },
+  "https://www.gamigion.com/engaging-ftue-make-or-break-your-game/": {
+    "hash": "d0def23abbbb06a2612b6be4831e746c3c9b967a89fea3fbdaafde3f38aa91bb",
+    "file": "297_Engaging FTUE Make or Break Your Game.md"
+  },
+  "https://www.gamigion.com/match-factory-grew-from-1m-to-17m-in-9-months/": {
+    "hash": "f808685d0c6065313fde8dfd150ec9c7c76e4783dbbbf9d72dec40a5ef69655e",
+    "file": "298_Match Factory Grew From 1M to 17M in 9 Months.md"
+  },
+  "https://www.gamigion.com/most-popular-engagement-mechanics-in-mobile-games-2024/": {
+    "hash": "01ff5c6de7cef343246bb8f0491ea32a083288bd1024601d0be5899e4d18e274",
+    "file": "299_Most Popular Engagement Mechanics in Mobile Games 2024.md"
+  },
+  "https://www.gamigion.com/player-journey-funnel-breakdown/": {
+    "hash": "d791c83c9cd8d3ddab7e4ac3891c21db7d09d4e0d42ee95817a8140e16b30d63",
+    "file": "300_Player Journey Funnel Breakdown.md"
+  },
+  "https://www.gamigion.com/fomo-secret-sauce-for-driving-iap/": {
+    "hash": "26f57561e8105c7fadeae57b830fe89cbbdc20ea674a21c33cc130ca7e06dbe5",
+    "file": "301_FOMO Secret Sauce For Driving IAP.md"
+  },
+  "https://www.gamigion.com/which-setting-should-you-choose-for-your-mobile-game/": {
+    "hash": "2e97f752d113f5f82748b8ec0adfb11f5eaa73e4b2c142ab1e3d661c68cee9a4",
+    "file": "302_Which setting should you choose for your mobile game.md"
+  },
+  "https://www.gamigion.com/career-paths-for-game-designers/": {
+    "hash": "b017197053c45b5a3f7a76f642b37ec52bcefcc5571876663ab9bde817da7024",
+    "file": "303_Career Paths for Game Designers.md"
+  },
+  "https://www.gamigion.com/mobile-gaming-is-in-trouble/": {
+    "hash": "98d736f45065bee1f0d4cbe7e5f0718fba8e6b9136784aec0238f99e8e1118bc",
+    "file": "304_Mobile Gaming is in trouble.md"
+  },
+  "https://www.gamigion.com/classic-retention-vs-24-hour-vs-rolling-retention/": {
+    "hash": "63adc6c8ca77d576fad4db12bf0f8aadd2b310da72a9b3d40242d8f64c316ae0",
+    "file": "305_Classic Retention vs 24-Hour vs Rolling Retention.md"
+  },
+  "https://www.gamigion.com/squad-busters-is-back/": {
+    "hash": "ad75a74ebddc060acedc48e93e42e89dd70310ae1b3d33c57bd0582616ffaee1",
+    "file": "306_Squad Busters is back.md"
+  },
+  "https://www.gamigion.com/key-insights-from-appmagics-h124-casual-games-report/": {
+    "hash": "44bb8486f4d7eec492b49a84ad0e79ff51f34ddfa59167bbd78f567e339d73c5",
+    "file": "307_Key Insights from AppMagics H124 Casual Games Report.md"
+  },
+  "https://www.gamigion.com/core-vs-meta-in-mobile-games/": {
+    "hash": "a80a0a0b743195fb9118bc6ee88f4dd99ea01bfc1faac74b828c86a1d7442d60",
+    "file": "308_Core vs Meta in Mobile Games.md"
+  },
+  "https://www.gamigion.com/match-3-gaming-landscape-2021-vs-2024/": {
+    "hash": "50cb99f44e1ee45a8ac64cc7a4925bb2b46558b39e69f302266ad75651d67e79",
+    "file": "309_Match-3 Gaming Landscape 2021 vs 2024.md"
+  },
+  "https://www.gamigion.com/how-diversified-are-the-largest-game-publishers/": {
+    "hash": "0dd9e341a8cfcc303231a7e11fff174e28c620c854a5c82a1cbe9d7827385904",
+    "file": "310_How Diversified Are The Largest Game Publishers.md"
+  },
+  "https://www.gamigion.com/brawl-stars-monthly-revenue-increased-by-500/": {
+    "hash": "ef40d19485524c3c189de7aac9a3fae98577d32de7e44419ffc9a35448ac8230",
+    "file": "311_Brawl Stars Monthly Revenue Increased By 500.md"
+  },
+  "https://www.gamigion.com/what-percentage-of-game-time-are-players-socially-engaged/": {
+    "hash": "ac0bee763bc055fa1d1bf2d69f87537a98f1dc173dd25fefd4575d93d0d7def5",
+    "file": "312_What Percentage Of Game Time Are Players Socially Engaged.md"
+  },
+  "https://www.gamigion.com/want-to-be-a-top-1-game-producer/": {
+    "hash": "8114e19083b13e90437d3d3054fa055ee7fbb1ed1d8c8e064be9ae0e8b5847ba",
+    "file": "313_Want To Be A Top 1 Game Producer.md"
+  },
+  "https://www.gamigion.com/squad-busters-revenue-drop-by-50/": {
+    "hash": "da60a57a306625feaaeb6c5afb6b2a8eb038a097fe12cac561f2c8a8e214e644",
+    "file": "314_Squad Busters Revenue Drop by 50 For 2nd Month In A Row.md"
+  },
+  "https://www.gamigion.com/80-gamedev-tools-cheat-sheet-2-0/": {
+    "hash": "6102fa273ff201b52d1ab0df22983ff89813d8de6260dfde0c37367074d6a384",
+    "file": "315_80 GameDev Tools Cheat Sheet 20.md"
+  },
+  "https://www.gamigion.com/how-to-increase-game-retention/": {
+    "hash": "16c19bc9d26b7d3009ffc28abd6309bc4f3800c9c840e1146a38e9d8d20e2b95",
+    "file": "316_How to Increase Game Retention.md"
+  },
+  "https://www.gamigion.com/8-essential-skills-for-game-producers/": {
+    "hash": "2b1560911aeb9bfcf373835e0492c20b021b4a93ed2fd3194b813455fb65c688",
+    "file": "317_8 Essential Skills for Game Producers.md"
+  },
+  "https://www.gamigion.com/improve-monetization-or-engagement/": {
+    "hash": "3ff1a372cc5cad3a8e03eb2f655d679870e4fb6478ea4c08f1dd81029cbc6702",
+    "file": "318_Improve Monetization or Engagement.md"
+  },
+  "https://www.gamigion.com/are-downloads-and-revenue-indicators-of-success/": {
+    "hash": "04c0011adf76646d867e7a8d9968af9b55b2c82188798d891afb1c23844dff18",
+    "file": "319_Are Downloads and Revenue Indicators of Success.md"
+  },
+  "https://www.gamigion.com/10-game-monetization-models/": {
+    "hash": "4de72124cde264740a9b11a4f895f1fddcf4d6b64523694796fa0bb2c89d5a96",
+    "file": "320_10 Game Monetization Models.md"
+  },
+  "https://www.gamigion.com/15-red-flags-for-game-producers/": {
+    "hash": "a2a4096d71e28d83129f45831c9932ac511f06ebdf7e686ff9799ccfbab98f25",
+    "file": "321_15 Red Flags For Game Producers.md"
+  },
+  "https://www.gamigion.com/all-key-game-metrics-in-one-place/": {
+    "hash": "56efb57414efb2ffb57d266cfae652ed99e4104e47cca32a3ee360d5c20a7f33",
+    "file": "322_All Key Game Metrics In One Place.md"
+  },
+  "https://www.gamigion.com/game-development-tools-cheat-sheet/": {
+    "hash": "ba8eed58fb251381de7b1f89b0e17178a27bea5ff1de37ecf02a64c9e4af389b",
+    "file": "323_Game Development Tools Cheat Sheet.md"
+  },
+  "https://www.gamigion.com/user-journey-in-mobile-games/": {
+    "hash": "ce8c8357b94b03edeb31101ee6520c108e7417e4b4080d1c1cb0c5e4fa0c0999",
+    "file": "324_User Journey in Mobile Games.md"
+  },
+  "https://www.gamigion.com/live-ops-feature-pipeline-a-complete-guide/": {
+    "hash": "f5b7db35a6a464531eda883b4be9c4e100424a08b733684b5df58dae08f84e3c",
+    "file": "325_Live Ops Feature Pipeline A Complete Guide -.md"
+  },
+  "https://www.gamigion.com/there-is-no-single-right-approach-to-a-feature/": {
+    "hash": "40b525c37162ad85ba9b888d82ffcf10be2ceb3255493a76b4e74247c6235dfd",
+    "file": "326_There Is No Single Right Approach To A Feature.md"
+  },
+  "https://www.gamigion.com/game-publishers-vs-investors-key-differences/": {
+    "hash": "98bf4f466aeef467bf4bc64f1f32eaa2a27c0d249f3c73c87744d36eec1a67ca",
+    "file": "327_Game Publishers vs Investors Key Differences.md"
+  },
+  "https://www.gamigion.com/desire-beats-pain-in-game-monetization/": {
+    "hash": "0e5bcb00935d5f728db4558b4a472cd2fe5432c24523369153edf494ff62f1d4",
+    "file": "328_Desire Beats Pain In Game Monetization.md"
+  },
+  "https://www.gamigion.com/12-key-money-metrics-in-mobile-game-development/": {
+    "hash": "c76a54f0abec62265c07a3af5a0fe01ec93f74744eb9e78e2917e96e8901f5f1",
+    "file": "329_12 Key Money Metrics in Mobile Game Development.md"
+  },
+  "https://www.gamigion.com/what-is-the-process-of-creating-a-narrative-in-games/": {
+    "hash": "b416218c326736d33ccf77d875ff2b32818629c8301ed45881cc8bbd13bd78c3",
+    "file": "330_What Is The Process Of Creating a Narrative In Games.md"
+  },
+  "https://www.gamigion.com/game-retention-cheatsheet/": {
+    "hash": "6727cf85ee7e41b4bcb90a80e9c3b2bfb2ff5f58c80706a13faac7af6a7c7d3c",
+    "file": "331_Game Retention Cheatsheet.md"
+  },
+  "https://www.gamigion.com/passion-for-games-is-a-huge-business-advantage/": {
+    "hash": "8a7ea4813fcbe1b8e82c809f5b64218de00e5b4ddeba376967e31294ffed70d8",
+    "file": "332_Passion For Games Is A Huge Business Advantage.md"
+  },
+  "https://www.gamigion.com/most-game-tutorials-suck/": {
+    "hash": "d73d39cd708d746ad5e83e69c8d1893d60ef89e0fc7543cf9730952f449d24ab",
+    "file": "333_Most Game Tutorials Suck.md"
+  },
+  "https://www.gamigion.com/ultimate-cheat-sheet-for-mobile-game-marketing/": {
+    "hash": "2f1a056c13ba30c843c91be595116c7804a79cddbec4dd3474676a719355d999",
+    "file": "334_Ultimate Cheat Sheet for Mobile Game Marketing.md"
+  },
+  "https://www.gamigion.com/live-ops-product-management-cycle-breakdown/": {
+    "hash": "09bed3533539db61e971bf7e20fa36ab5890daf3d740ea44412e35b1cc2a3c06",
+    "file": "335_Live-Ops Product Management Cycle Breakdown.md"
+  },
+  "https://www.gamigion.com/do-not-make-new-mobile-games/": {
+    "hash": "658ee7f5e3ad38bd680753c2221e1dcc983b77879a3f30e3c53c83dbb3219a6e",
+    "file": "336_Dont Make New Mobile Games -.md"
+  },
+  "https://www.gamigion.com/how-to-review-game-builds-like-a-pro/": {
+    "hash": "64bf72c211d23a1826e0c073bb7f6c4f9dbb075c7b3028d65c0b575bf42b2282",
+    "file": "337_How To Review Game Builds Like a Pro.md"
+  },
+  "https://www.gamigion.com/mobile-games-live-ops-cheat-sheet/": {
+    "hash": "906e06534a3d923b830911e434f1605fa9da83ec273ec3010607c3e419433d31",
+    "file": "338_Mobile Games Live-Ops Cheat Sheet.md"
+  },
+  "https://www.gamigion.com/how-to-generate-hit-game-ideas/": {
+    "hash": "9e2b8ac607b83342a737636102ae079117fbf168b3ea3547b72731054e3996bf",
+    "file": "339_How to Generate Hit Game Ideas.md"
+  },
+  "https://www.gamigion.com/rd-framework-for-game-prototyping/": {
+    "hash": "fd4bda5792b5ba90cea6ca8064c1b0fd9bc5544fbbe90fbbbc60246777fe10e2",
+    "file": "340_RD Framework for Game Prototyping.md"
+  },
+  "https://www.gamigion.com/how-to-make-players-pay-in-f2p-games/": {
+    "hash": "31f6d47494b8071c75a616403b64544572d0b224ecce49c1b61f62f2598b92a0",
+    "file": "341_How to Make Players Pay in F2P games.md"
+  },
+  "https://www.gamigion.com/players-are-not-idiots/": {
+    "hash": "42121c4f2bf453f99831f1f69f44f6ecdad3cc520229c39e4298c5bfaddac856",
+    "file": "342_Players Are Not Idiots.md"
+  },
+  "https://www.gamigion.com/layers-of-engagement-in-games/": {
+    "hash": "f4c82c9d0d810ff92bf4bd429a423765185b260c66d851b0d172ab9b8c4435dd",
+    "file": "343_Layers of Engagement in Games.md"
+  },
+  "https://www.gamigion.com/build-game-monetisation-around-skins-and-customization/": {
+    "hash": "aba2133e6353fc72d6ba2c889c76f4101772ea20927b8a35da4bbb4ecf9eccad",
+    "file": "001_Build game monetisation around skins and customization.md"
+  },
+  "https://www.gamigion.com/elo-in-pvp-games-matchmaking-with-custom-game-requirements/": {
+    "hash": "7e3a8cb02ed0d113d4a75bd8ccf4e183ed49debde358d9f71a23a1b181ef24f8",
+    "file": "002_ELO in PvP Games Matchmaking with Custom Game Requirements.md"
+  },
+  "https://www.gamigion.com/girls-und-panzer-partnership-in-wot/": {
+    "hash": "6f8fae0b92b54b01f162c4122703fbc33348e989235018c0ab7ec5494cae950d",
+    "file": "003_Girls und Panzer Partnership in WoT.md"
+  },
+  "https://www.gamigion.com/game-systems-avoiding-post-launch-design-pitfalls/": {
+    "hash": "9051bc793946adabd7e4386809f55335ca9a58aa042e7678e23c947b08f51295",
+    "file": "004_Game Systems Avoiding Post-Launch Design Pitfalls.md"
+  },
+  "https://www.gamigion.com/game-matchmaker-cheat-sheet/": {
+    "hash": "606967815ff1ed211166185ed97faa8ffeb132491a1ebc7dc9cb0f776bd98908",
+    "file": "005_Game Matchmaker Cheat Sheet.md"
+  },
+  "https://www.gamigion.com/this-year-looks-truly-special-for-the-mmorpg-genre/": {
+    "hash": "4ff07613295e2c4a38667c283a9666a66f5ff1626d365dac2b8f189b5d529379",
+    "file": "006_This year looks truly special for the MMORPG genre.md"
+  },
+  "https://www.gamigion.com/in-game-customization-cheatsheet/": {
+    "hash": "b75c89e64c9ad83d057de17053d1ecaccc5336ac149d4bb59c68fa21607e00ce",
+    "file": "007_In-Game Customization CheatSheet.md"
+  },
+  "https://www.gamigion.com/10-years-ago-i-decided-to-start-working-on-f2p-games/": {
+    "hash": "d19c916fe1ee4f9747563cb3aa085403dd3b2b0cf6c383fcc998595e0a0b3f85",
+    "file": "008_10 years ago I decided to start working on f2p games.md"
+  },
+  "https://www.gamigion.com/unexpected-impact-of-dota-on-f2p-rpgs-in-asia/": {
+    "hash": "d0b1df9dbcd339c6b96812a71d490464e87b81215c436fe2c4a8a9e224f3c795",
+    "file": "009_Unexpected impact of Dota on f2p RPGs in Asia.md"
+  },
+  "https://www.gamigion.com/pvp-game-with-esports-and-hardcore-competitive-features/": {
+    "hash": "6e732d8858ae4e07bd9bd99b595d4820594d1aa3075067845c5ccad28f1c2318",
+    "file": "010_PvP game with Esports and hardcore competitive features.md"
+  },
+  "https://www.gamigion.com/2017-guns-of-boom-was-released-to-global-launch/": {
+    "hash": "0772a5d5521064a8c1d27cf16d76efc6e6735c492243918309b72479023ee0de",
+    "file": "011_2017 Guns of Boom was released to global launch.md"
+  },
+  "https://www.gamigion.com/what-is-happening-in-the-industry/": {
+    "hash": "f8721848b7eb2d016d6c57c27e6604a9043b95bb238a1b303d27c1fdd676ebad",
+    "file": "012_What is happening in the industry.md"
+  },
+  "https://www.gamigion.com/honkai-3rd-part-2-is-it-a-new-game-or-just-a-new-season/": {
+    "hash": "cf9abbd1963a02eb634bc62665a0f4c3cb912a20a17f628d9486a7369627b0a8",
+    "file": "013_Honkai 3rd part 2  Is it a new game or just a new season.md"
+  },
+  "https://www.gamigion.com/balancing-clarity-and-efficiency-in-rpg-ability-scaling/": {
+    "hash": "6475931d68d0b2c6da28e798726db65fcb85ea2a54041ede5e55794b632ef917",
+    "file": "014_Balancing Clarity and Efficiency in RPG Ability Scaling.md"
+  },
+  "https://www.gamigion.com/reviving-player-engagement-game-changing-updates/": {
+    "hash": "5a0fcac50b36d464aef349e4b86b76052874ff3572d9ae2dea6c2f9cd1b30e20",
+    "file": "015_Reviving Player Engagement Game-Changing Updates.md"
+  },
+  "https://www.gamigion.com/how-to-build-a-place-for-game-design-talks-in-your-team/": {
+    "hash": "d5d7e6dcf5e99813a0f7120144c9e8d157811c0c9d7fc368a638439592751303",
+    "file": "016_How to build a place for Game Design talks in your team.md"
+  },
+  "https://www.gamigion.com/what-acquiring-warner-bros-means-for-games/": {
+    "hash": "8a0244fa39bb8b1444eb90b392e4c2c81d6373ef6d215f78299157f0e54568a5",
+    "file": "001_What acquiring Warner Bros means for Games.md"
+  },
+  "https://www.gamigion.com/why-people-love-the-2048-game-and-its-popularity-on-flights/": {
+    "hash": "5f3d87475a9a71dcccbd34f0b3e1bb4fdfea4f567e091f63e4004d47a19c3a26",
+    "file": "002_Why People Love the 2048 Game and Its Popularity on Flights.md"
+  },
+  "https://www.gamigion.com/gaming-genres-in-2025-saturation-vs-opportunity/": {
+    "hash": "e2ce5a61685c885cfc91867a46ded46480ed3114e202919570c18e129f64ad3f",
+    "file": "003_Gaming Genres in 2025 Saturation vs Opportunity.md"
+  },
+  "https://www.gamigion.com/best-free-resources-for-game-developers/": {
+    "hash": "78b3398d727eb56c9588877685713f2da36903d83177255c13e026485dba338e",
+    "file": "004_Best free resources for game developers.md"
+  },
+  "https://www.gamigion.com/career-guide-for-your-first-gaming-job/": {
+    "hash": "46884bc9034053077dcf9250339e2eea61b0efa097deed512af1678647146346",
+    "file": "005_Career Guide for Your First Gaming Job.md"
+  },
+  "https://www.gamigion.com/breaking-into-the-gaming-industry-is-tough/": {
+    "hash": "f388d50485a2e4c41795611b7f805bf10d3af2a314e4a98c692978c59cae3295",
+    "file": "006_Breaking into the gaming industry is tough.md"
+  },
+  "https://www.gamigion.com/game-development-hell-is-a-real-challenge/": {
+    "hash": "a94c559efb6e33fee742b4ccbbda6b86778fc3bf55645337ef9849b8d12659c2",
+    "file": "007_Game Development Hell Is A Real Challenge.md"
+  },
+  "https://www.gamigion.com/gaming-lingo-top-gaming-terms-cheat-sheet/": {
+    "hash": "f95cb0dc5d2042eddf9b1212a401786f0154456d5ddfed5eb322b4b8d6deba8f",
+    "file": "008_Gaming Lingo Top Gaming Terms Cheat Sheet.md"
+  },
+  "https://www.gamigion.com/communication-is-a-huge-problem-in-game-development/": {
+    "hash": "075729e95d6cbd1d665f2678da459b89ca19c6586ab773485a668473d20abb93",
+    "file": "009_Communication Is A Huge Problem In Game Development.md"
+  },
+  "https://www.gamigion.com/will-ai-take-my-job/": {
+    "hash": "c220145f61d468569a043d78b6a543cc99854f8f1e56ebedaf5921ea7311ae33",
+    "file": "010_Will AI Take My Job.md"
+  },
+  "https://www.gamigion.com/simple-games-can-be-influential/": {
+    "hash": "699705d6d2abd606d90d2f34dfae72b9e4c71fc073623c4755872afffd8bb481",
+    "file": "011_Simple Games Can Be Influential.md"
+  },
+  "https://www.gamigion.com/cut-meetings-to-boost-creativity/": {
+    "hash": "0ac16b7794655df71de471acc3f1d905794096ecec6d11187a3228b177ffaaff",
+    "file": "012_Cut Meetings To Boost Creativity.md"
+  },
+  "https://www.gamigion.com/the-ultimate-guide-to-careers-in-the-gaming-industry/": {
+    "hash": "dd18fd5607a8413d9b344104b39c0561ad3750dbe4631e57c72bfde6a5780e7a",
+    "file": "013_The Ultimate Guide to Careers in the Gaming Industry.md"
+  },
+  "https://www.gamigion.com/scopely-earns-a-place-among-the-giants/": {
+    "hash": "c4fb0683b72fa2b1be96886cf5c81aca4ab8de515f703ef0f98279b53f28f101",
+    "file": "014_Scopely Earns a Place Among the Giants.md"
+  },
+  "https://www.gamigion.com/the-value-of-qa-metrics-in-predicting-game-success/": {
+    "hash": "f1618f6a84ba8249e4bbf9087c8eb7f3e5cd349269b7e0aabec8f54474a2c0ed",
+    "file": "015_The Value of QA Metrics in Predicting Game Success.md"
+  },
+  "https://www.gamigion.com/why-players-are-jumping-the-ship/": {
+    "hash": "a16aadcb744daa36fdf72da766949807db132834f65afc7ed371824de1dc76e6",
+    "file": "016_Why Players Are Jumping The Ship.md"
+  },
+  "https://www.gamigion.com/knowing-your-game-is-half-the-battle/": {
+    "hash": "1663ca7dab34307a83ec061c5366b74d484b3d57fc4634ce106f2f93bc79151c",
+    "file": "017_Knowing Your Game Is Half the Battle.md"
+  },
+  "https://www.gamigion.com/top-10-tools-every-game-developer-must-know/": {
+    "hash": "3c1004d3c47c5e6a88fa6e123f4a5e9c47b42a51aaf69492f9537e7b592eb048",
+    "file": "018_Top 10 Tools Every Game Developer Must Know.md"
+  },
+  "https://www.gamigion.com/jigsolitaire-by-gamincat-scaled-already-to-100k-a-day/": {
+    "hash": "2c33d084ebee6cc946f7a7dd78c6c421a6603d200c2035686b0ad1476c5c7f0f",
+    "file": "001_Jigsolitaire by Gamincat scaled already to 100K a day.md"
+  },
+  "https://www.gamigion.com/sunday-city-by-kefir-already-scaled-past-70k-a-day/": {
+    "hash": "2dafe50e09d569b699e54739eba16e55a16b400fdcd587dedd70f81ba5bf5a27",
+    "file": "002_Sunday City by Kefir already scaled past 70K a day.md"
+  },
+  "https://www.gamigion.com/pixel-flow-by-loom-games-just-breached-through-300k-a-day/": {
+    "hash": "a8dedc06a3ab879b633248ccb6e756b2e1585e60c7d190bdeecbda242c1d385c",
+    "file": "003_Pixel Flow by Loom Games just breached through 300K a day.md"
+  },
+  "https://www.gamigion.com/unravel-master-by-eo-game-supersonic-scaled-past-50k-a-day/": {
+    "hash": "8d5ce6aec524eb92ef012f304bc94893cf4094cca6f22122cc1e4d3fffc51ff4",
+    "file": "004_Unravel Master scaled past 50K a day.md"
+  },
+  "https://www.gamigion.com/rogue-lite-run-imprints-is-the-most-exciting-mechanic-for-me/": {
+    "hash": "dd1894bf12f1e1a871d47b6cae297ca7bd938e5d5d292786f15262d323beea33",
+    "file": "005_Rogue-lite Run Imprints is the most exciting mechanic for me.md"
+  },
+  "https://www.gamigion.com/ad-ad-creatives-continues-to-take-over/": {
+    "hash": "e097f16d54560f8d035a75eb2035f05d3ebdaca6ecf79a460a46ac9d1f5a38d5",
+    "file": "006_AI Ad Creatives Continues to Take Over.md"
+  },
+  "https://www.gamigion.com/west-game-ii-scaled-already-past-50k-a-day/": {
+    "hash": "5f06ccf8037ed2054ac416ec7fd04f83fa624b080c8ae6b571c75f5332ba913a",
+    "file": "007_West Game II scaled already past 50K a day.md"
+  },
+  "https://www.gamigion.com/royal-kingdom-match-3-game-uses-4x-creatives-from-kingshot/": {
+    "hash": "3e92d8ad39b19cfb1ffa512320ad58d8a1c4b1554bae39ac5e9726fa1104a5f1",
+    "file": "008_Royal Kingdom Match-3 Game uses 4X Creatives from Kingshot.md"
+  },
+  "https://www.gamigion.com/collectible-sticker-album-keeps-spreading-learn-why/": {
+    "hash": "77fa75f7488015afd82851e4a92f2dc06a02de0e7139e4b359b843f7ba3a1d02",
+    "file": "009_Collectible sticker album keeps spreading Learn WHY.md"
+  },
+  "https://www.gamigion.com/boat-game-by-supercell-is-currently-in-its-second-alpha/": {
+    "hash": "64dfb805b53300a50c7ee128e95db87a20ce3041ecc5d313a4b221233fce4b7a",
+    "file": "010_Boat Game by Supercell is currently in its second alpha.md"
+  },
+  "https://www.gamigion.com/is-clash-royale-supercells-last-stand/": {
+    "hash": "12d5fbcbd3d7b8ae2089faf043becfc97b019d2a5899d05df9c70ad0bba60fc5",
+    "file": "011_Is Clash Royale Supercells Last stand.md"
+  },
+  "https://www.gamigion.com/legend-of-elements-by-joy-net-games-scaled-to-100k-a-day/": {
+    "hash": "b74114efd5cf7547ccf9abd7fb05ffc3cf0a579be560af490286a72f2e82f301",
+    "file": "012_Legend of Elements by Joy Net Games scaled to 100K a day.md"
+  },
+  "https://www.gamigion.com/monopoly-bingo-scaled-to-100k-a-day/": {
+    "hash": "8af107f79768fb1de07883811a1dc5f9cb69e9bc79c18b4b6f5a17c259b1bfc1",
+    "file": "013_Monopoly Bingo scaled to 100K a day.md"
+  },
+  "https://www.gamigion.com/sudoku-master-by-hungry-studio-50k-a-day-with-600k-dau/": {
+    "hash": "f652712ae4c1f7c88a7801fea238cd76246da17b2decaf0009b7b419481b307f",
+    "file": "014_Sudoku Master by Hungry Studio 50K a Day with 600K DAU.md"
+  },
+  "https://www.gamigion.com/already-1-year-since-the-launch-of-pokemon-tcg-pocket/": {
+    "hash": "ba76ee8519e3a9940ac62e18766c8a39922afb7ba4fd7b52467716f4124c266a",
+    "file": "015_Already 1 year since the launch of Pokemon TCG Pocket.md"
+  },
+  "https://www.gamigion.com/huntopia-masterclass-in-monetization-ui-flows/": {
+    "hash": "67633de6bf4db2e8496e3bc859716141c6a3188a076a52088ca8157464c110b5",
+    "file": "016_Huntopia Masterclass in Monetization UI Flows.md"
+  },
+  "https://www.gamigion.com/2-most-important-product-trends-in-2025/": {
+    "hash": "1b5b9c00576eabe581e6463651e67c841485ac449d9c4b11b891bbce9ac6d43d",
+    "file": "017_2 Most Important Product Trends in 2025.md"
+  },
+  "https://www.gamigion.com/ai-will-actually-raise-the-bar-to-entry-not-lower-it/": {
+    "hash": "e006caee59516d08c32b78a97179176913f3674b2f07f352944452dfcf84a0f2",
+    "file": "018_AI will actually raise the bar to entry not lower it.md"
+  },
+  "https://www.gamigion.com/finally-exclusive-podcast-with-habby-for-ya/": {
+    "hash": "3cddcdf01a2d7f549116e58f1167dcb322ef46a8deee34dc51b06de6d638b27c",
+    "file": "019_Finally EXCLUSIVE Podcast with Habby for ya.md"
+  },
+  "https://www.gamigion.com/microfuns-gossip-harbor-just-breached-3-million-a-day/": {
+    "hash": "01fddb5c1d31d56f4be6e291a0baf8cb1772dfe8c339e77d57de0fe2b20e62ba",
+    "file": "020_Microfuns Gossip Harbor just breached 3 Million a day.md"
+  },
+  "https://www.gamigion.com/supercells-clash-royale-just-broke-through-3-million-a-day/": {
+    "hash": "c97c5289779c3027dd013f7ea6d89bd7a1417593a45d55fb5926f480eed56661",
+    "file": "021_Supercells Clash Royale just broke through 3 Million a Day.md"
+  },
+  "https://www.gamigion.com/eu-digital-fairness-act-europe-is-pulling-a-china/": {
+    "hash": "165a5d55761d355ae08a255c758400f2f28a1225d38fb93810ea7cdca331b071",
+    "file": "022_EU Digital Fairness Act Europe is Pulling a China.md"
+  },
+  "https://www.gamigion.com/by-2027-50-of-all-mobile-ads-will-be-ai-generated/": {
+    "hash": "8d30f82f7c9b77483a324e12ec17a2a6b254f1ab2cc41dc6c3fd716c871780ef",
+    "file": "023_By 2027 50 of all Mobile Ads will be AI generated.md"
+  },
+  "https://www.gamigion.com/megabonk-just-passed-117k-concurent-users-on-steam/": {
+    "hash": "e629cc2879caed918603118f21f64334b4dd3e7bb5c82ce1714980ca28cae9ef",
+    "file": "024_Megabonk just passed 117K Concurent users on Steam.md"
+  },
+  "https://www.gamigion.com/megabonk-is-the-new-steam-indie-hit-of-the-year/": {
+    "hash": "4e12abbf90ff0eebc68d65ee1b03bcc8165b55d0c0198d4251f2e3a27dd762b1",
+    "file": "025_Megabonk is the new Steam indie hit of the year.md"
+  },
+  "https://www.gamigion.com/grand-games-just-soft-launched-block-star-attacking-the-block-genre/": {
+    "hash": "4e1cd3cca15d80cba6abc797ddfa3e6ef33cb5d674dc76985158691ff9381ccb",
+    "file": "026_Grand Games just soft launched Block Star attacking the Block genre.md"
+  },
+  "https://www.gamigion.com/gaming-investments-applovin-unity-and-ugly-labubu-dolls/": {
+    "hash": "58bb8454ab10c51cf8b7eb4bc02f1035593fdbebe2e4ee2ac26acb13449788ea",
+    "file": "027_Gaming Investments AppLovin Unity and Ugly Labubu Dolls.md"
+  },
+  "https://www.gamigion.com/match-villains-by-good-job-games-keeps-scaling-aggressively/": {
+    "hash": "08deace78b5504e1bf006408ce74a74e2f76380a9ad4140cf3d97d30d0fde90c",
+    "file": "028_Match Villains by Good Job Games keeps scaling aggressively.md"
+  },
+  "https://www.gamigion.com/wechat-minigames-market-did-last-year-7b-expected-to-grow-15-this-year/": {
+    "hash": "4d6302c1d5654117cc2a4874642d332f7f2b2c7bd6d22e18c839b6f673d2e7e8",
+    "file": "029_WeChat Minigames market did last year 7B expected to grow 15 this year.md"
+  },
+  "https://www.gamigion.com/soft-launch-sonar-is-back-with-16-new-soft-launched-games/": {
+    "hash": "0f1f5e03b1f8356e22315a67dbe851376c957f9d9ac5ff6b2341440d7c5d5e13",
+    "file": "030_Soft-launch Sonar is back with 16 new soft launched games.md"
+  },
+  "https://www.gamigion.com/review-radar-9-is-back-with-15-games/": {
+    "hash": "241a5cac6361a97d455335696db42cb7848ad836d5001ec736ede3f751fd5403",
+    "file": "031_Review Radar 9 is back with 15 games.md"
+  },
+  "https://www.gamigion.com/little-farm-story-by-saygames-scaled-to-70k-a-day/": {
+    "hash": "4523e6301e4d189cffcbff95a99023a55ac42bd4b3c9e66e185b5d92674a1160",
+    "file": "032_Little Farm Story by SayGames scaled to 70K a day.md"
+  },
+  "https://www.gamigion.com/global-games-market-at-188-billion-this-year-mobile-still-leads/": {
+    "hash": "7e02adc36c5612b7e7a542c362548ec574f461f92b9bf420c83f30ce15974c8e",
+    "file": "033_Global games market at 188 billion this year Mobile still leads.md"
+  },
+  "https://www.gamigion.com/royal-match-by-dream-games-makes-45-million-a-day/": {
+    "hash": "82ee62a1360c068073f8c7f5fefdc25b7c57d523f4a739c6f340ea4c997f7084",
+    "file": "034_Royal Match by Dream Games makes 45 million a day.md"
+  },
+  "https://www.gamigion.com/acecraft-by-moonton-scaled-to-300k-a-day-during-first-week/": {
+    "hash": "67f7c8698726205be23a993aebce11084f58c469fa96374145e825c589051f7a",
+    "file": "035_Acecraft by Moonton scaled to 300K a day during first week.md"
+  },
+  "https://www.gamigion.com/epic-plane-evolution-by-voodoo-scaled-past-170k-a-day/": {
+    "hash": "f7e3a55a59af2a71856d07edfdb679b91e6da33b6adce982a6583bfe398cb684",
+    "file": "036_Epic Plane Evolution by Voodoo scaled past 170K a day.md"
+  },
+  "https://www.gamigion.com/path-of-exile-2-is-back-at-350k-concurrent-users-just-on-steam/": {
+    "hash": "0041d46bc7b7ff05932e58e7baf9edd5af9835a37f6bf1a88fe6c2b3b74d9ea8",
+    "file": "037_Path of Exile 2 is back at 350K concurrent users just on Steam.md"
+  },
+  "https://www.gamigion.com/grand-gamess-car-match-has-already-crossed-100k-a-day/": {
+    "hash": "1e59b08c88ca51f97c30ada15b54d1f0aa1491bb27351d21fcd36de8c3222577",
+    "file": "038_Grand Gamess Car Match has already crossed 100K a Day.md"
+  },
+  "https://www.gamigion.com/clash-royale-made-105m-in-30-days-top-game-after-8-years/": {
+    "hash": "86e4e1a28e7d4aa218436615242e411965df252a800e4dd0e303f68cce5c2c28",
+    "file": "039_Clash Royale made 105M in 30 Days Top Game After 8 Years.md"
+  },
+  "https://www.gamigion.com/war-drone-3d-by-miniclip-already-scaled-to-70k-a-day/": {
+    "hash": "fd8dda516dad11800af794770ad8bca0febb5c81ee132ec4bbe030223393fd66",
+    "file": "040_War Drone 3D by Miniclip already scaled to 70K a day.md"
+  },
+  "https://www.gamigion.com/why-is-retention-the-most-important-metric-of-your-game/": {
+    "hash": "7ac93e0fb538ac6aa1406130c29af52172c07e413e82bcaae33d587ee40bf01e",
+    "file": "041_Why is retention the most important metric of your game.md"
+  },
+  "https://www.gamigion.com/top-mobile-games-by-revenue-for-the-last-6-months/": {
+    "hash": "ba24ad2a93f4840d1a9bf80c7d03df7e2418b20890556fba19aa28ad275b2adf",
+    "file": "042_Top mobile games by revenue for the last 6 months.md"
+  },
+  "https://www.gamigion.com/tasty-travels-from-century-games-already-passed-200k-a-day/": {
+    "hash": "2ef955d57033b48dcd860f3c993ca245c219426de231f318dda59210a54e3244",
+    "file": "043_Tasty Travels from Century Games already passed 200K a day.md"
+  },
+  "https://www.gamigion.com/uma-musume-has-the-best-in-class-roguelite-system-design/": {
+    "hash": "ec7f6fefc8b11506d7ac43f8cac3c5b7717eac5d31d72a9bbd0a51d71ed34e40",
+    "file": "044_Uma Musume has the best in class roguelite system design.md"
+  },
+  "https://www.gamigion.com/knit-out-by-rollic-already-scaled-past-100k-a-day-revenue/": {
+    "hash": "41660392637f6b21024d2038360faaa72f61077ce08919dad1574b9e8527c6fc",
+    "file": "045_Knit Out by Rollic already scaled past 100k a day revenue.md"
+  },
+  "https://www.gamigion.com/uma-musume-pretty-derby-daily-300k-iaps-80k-downloads/": {
+    "hash": "237cc489b1e848c6aa11d68546392298bef86be535eec94689ab500b20d9e045",
+    "file": "046_Uma Musume Pretty Derby Daily 300K IAPs  80K Downloads.md"
+  },
+  "https://www.gamigion.com/offline-capable-mobile-shooter-fps-strike-ops-is-doing-50k-a-day/": {
+    "hash": "9b88ee7a7ba4f630a0b72bc82cbbf704927e8c1de963ef9efa5d821e19b77b37",
+    "file": "047_OFFLINE Capable Mobile Shooter FPS Strike Ops is doing 50K a Day.md"
+  },
+  "https://www.gamigion.com/tasty-travels-by-century-games-already-scaled-past-170k-a-day/": {
+    "hash": "c76f3ed8c782b1dad9a9fc1aedd11ec70890f014cd11525c957c7d57dbf0310a",
+    "file": "048_Tasty Travels by Century Games already scaled past 170k a day.md"
+  },
+  "https://www.gamigion.com/raid-rush-by-panteon-scaled-already-past-100k-revenue-a-day/": {
+    "hash": "045f087b7db6413ffb2175552f207405500655ebe98fcf77d3c57f62c62a9b31",
+    "file": "049_Raid Rush by Panteon scaled already past 100K revenue a day.md"
+  },
+  "https://www.gamigion.com/are-you-capturing-the-spend-depth-of-your-live-ops-events-to-its-maximum/": {
+    "hash": "e9e5c64cfaaa8e406bfbf0909e7ceac5b5a6abba25aecd4b1e5ca855056ac754",
+    "file": "050_Are you capturing the spend depth of your live-ops events to its maximum.md"
+  },
+  "https://www.gamigion.com/2b-later-umamusume-pretty-derby-launches-globally/": {
+    "hash": "f09d5266eba991b72d4415d2ed0cc615635c55cbe923cc1ac6a074a7bda3686f",
+    "file": "051_2B Later Umamusume Pretty Derby Launches Globally.md"
+  },
+  "https://www.gamigion.com/puzzle-dragons-5-billion-made-0-influence-in-the-west/": {
+    "hash": "c2ffcc73847a00790a948fc3d5dba9d80b29c1591b0b18c05919a0a70753f242",
+    "file": "052_Puzzle  Dragons 5 Billion Made 0 Influence in the West.md"
+  },
+  "https://www.gamigion.com/ai-hooks-in-mobile-game-creatives-are-evolving/": {
+    "hash": "4f0c1c2c0f545a3c0f55d4c85020ee0a44d2e6ca2e1a81436e7ad186ae52f17c",
+    "file": "053_AI hooks in mobile game creatives are evolving.md"
+  },
+  "https://www.gamigion.com/review-radar-8-is-back-with-15-games/": {
+    "hash": "0317cf06b345809d5f9171bd1afff41924cad3c489d09447332a000f26914140",
+    "file": "054_Review Radar 8 is back with 15 games.md"
+  },
+  "https://www.gamigion.com/century-games-into-match-3-arena-4x-giant-to-crack-the-puzzle-code/": {
+    "hash": "9a25736a25914990089767d3c288ea8b6934084bb0af3a02daa1024af55c6a03",
+    "file": "055_Century Games into Match-3 Arena 4X Giant to Crack the Puzzle Code.md"
+  },
+  "https://www.gamigion.com/biggest-mobile-games-by-dau/": {
+    "hash": "d2f5585978fb8d69b386a2fe45ca9b742b6181ab56285199ea890d23e565fb49",
+    "file": "056_Biggest Mobile Games by DAU.md"
+  },
+  "https://www.gamigion.com/difference-between-deterministic-and-random-level-based-puzzlers/": {
+    "hash": "08a8ee18c75515b9c0ae0562f6a3188ca871c292ba1221f1527c07485ac044ff",
+    "file": "057_Difference between deterministic and random level based puzzlers.md"
+  },
+  "https://www.gamigion.com/lands-of-jail-passed-250k-a-day-after-2-months-from-launch/": {
+    "hash": "a4f3830fb3b951f45841fd51f389f486558d03c5b29891addcc695562dc81e33",
+    "file": "058_Lands of Jail passed 250K a day after 2 months from launch.md"
+  },
+  "https://www.gamigion.com/rollics-color-block-jam-scaled-past-500k-in-iap/": {
+    "hash": "f4c1514a15ac43a8a9f690e7f20d32d9735ed0da9789ffea4f52d533537fc578",
+    "file": "059_Rollics Color Block Jam scaled past 500K in IAP.md"
+  },
+  "https://www.gamigion.com/top-steam-games-that-can-go-mobile/": {
+    "hash": "f9cbf2c5924651a9fb36fff6088ce9effab1c1179e037259e9f24bb487c462e7",
+    "file": "060_Top Steam Games that can go Mobile.md"
+  },
+  "https://www.gamigion.com/century-gamess-kingshot-just-passed-1-miillion-a-day/": {
+    "hash": "b8f3d0d6a677635f4c14d09b0d4910f8f27165ba7ebec8946b3422276ea248c0",
+    "file": "061_Century Gamess Kingshot just passed 1M a Day.md"
+  },
+  "https://www.gamigion.com/playsimples-word-search-explorer-makes-163k-a-day-in-ad-revenue/": {
+    "hash": "78661d22093372d1db43283cc1f3e5e490339d1b9aab3ea84035ffb9605a2e4d",
+    "file": "062_PlaySimples Word Search Explorer makes 163K a day in Ad Revenue.md"
+  },
+  "https://www.gamigion.com/how-to-utilize-your-in-game-friends-lists-with-social-helper-mechanics/": {
+    "hash": "af037203db309d18cea75413f5e3f23773841b62563fdd932ea8c25dbd486350",
+    "file": "063_How to utilize your in-game friends lists with Social helper mechanics.md"
+  },
+  "https://www.gamigion.com/supercells-squad-buster-is-releasing-a-major-pivot-update/": {
+    "hash": "2b83779d9eb32bfe6de6ce1c25c016cb3fe3c03f1d4ff9c7d14e660fcecfa86a",
+    "file": "064_Supercells Squad Buster is releasing a major pivot update.md"
+  },
+  "https://www.gamigion.com/gacha-accessibility-range/": {
+    "hash": "65bcfa98bd4e9aab890515b01743e30d5170a2de8c37eb942017b7e47cec1657",
+    "file": "065_Gacha Accessibility Range.md"
+  },
+  "https://www.gamigion.com/abi-game-studios-dreamy-room-scaled-to-100k-a-day/": {
+    "hash": "144ccf0b75158c6dc42d04666f5eb0d5b3c92932bf69e5134e85b3368d4fd2f2",
+    "file": "066_ABI Game Studios Dreamy Room scaled to 100K a Day.md"
+  },
+  "https://www.gamigion.com/genesis-tech-portfolio-of-apps-is-doing-35m-a-month/": {
+    "hash": "f811f627afd57bb49d6bc5b9c87615119466acb5c854ba6912ce2eda61d35925",
+    "file": "067_Genesis Tech portfolio of Apps is doing 35M a month.md"
+  },
+  "https://www.gamigion.com/rogue-lite-self-balancing/": {
+    "hash": "51b483684047079d3f5b24db5e252db419165f4be9eae807029ec2da2b71d7e6",
+    "file": "068_Rogue-Lite Self-Balancing.md"
+  },
+  "https://www.gamigion.com/chess-com-app-record-revenue-after-16-years/": {
+    "hash": "cc58e6209c9ea11c80132950eb621f6683202915dc5bb18cdf8f65f2f77ab886",
+    "file": "069_Chesscom App Record revenue after 16 years.md"
+  },
+  "https://www.gamigion.com/dc-dark-legion-scaled-to-300k-a-day/": {
+    "hash": "9a27a94a4ffb1980ce4fef1bb3cf98b1cfeb9a41c699051c3d5fdf44303dbd3a",
+    "file": "070_DC Dark Legion scaled to 300K a Day.md"
+  },
+  "https://www.gamigion.com/matching-story-scaled-to-300k-a-day/": {
+    "hash": "6563b9bac643e10bca749a1cfc25e6c540a1ae8756c928f1377bc5cec4c8f75e",
+    "file": "071_Matching Story scaled to 300K a Day.md"
+  },
+  "https://www.gamigion.com/the-whole-merge-subgenre-did-83m-iap-last-month/": {
+    "hash": "1ea30a7561e6a84bd8bc72937947d0e3e73c9a983f1bf4d4fb5c589d25b93b7c",
+    "file": "072_The whole Merge subgenre did 83M IAP last month.md"
+  },
+  "https://www.gamigion.com/supercells-clash-of-clans-wwe-update/": {
+    "hash": "7c8cf9797405a557df227887f28298de6d1daeb122d09242c76feb8bf61df949",
+    "file": "073_Supercells Clash of Clans WWE Update.md"
+  },
+  "https://www.gamigion.com/monster-strike-just-hit-8-billion/": {
+    "hash": "9c5985801b41cb9751560da91192dec79d9f5cab7022a769b3485f3561ec2162",
+    "file": "074_Monster Strike just hit 8 Billion.md"
+  },
+  "https://www.gamigion.com/publishing-the-most-successful-vr-games-on-mobile/": {
+    "hash": "c5769b598731479775b49244830c94c045ee6e0f727e2fff8456107e00a3aa49",
+    "file": "075_Publishing the most successful VR Games on Mobile.md"
+  },
+  "https://www.gamigion.com/how-does-pvp-counter-play-systems-work/": {
+    "hash": "c5253d9d181e888c25820f21303b339be88e9d4de9256bf504109812ff326155",
+    "file": "076_How does PvP counter play systems work.md"
+  },
+  "https://www.gamigion.com/century-gamess-kingshot-300k-a-day/": {
+    "hash": "1c6d1c60cb6b60364a25911cbda9248b259e94c8b17c8c3ce5d0da91b723e523",
+    "file": "077_Century Gamess Kingshot 300K a Day.md"
+  },
+  "https://www.gamigion.com/300k-a-day-rivergames-last-z-survival-shooter/": {
+    "hash": "e023aa0de807d8c793626b939678e24d525af31a35437aac7a1b816c3a6f0b55",
+    "file": "078_300K a Day Rivergames Last Z Survival Shooter.md"
+  },
+  "https://www.gamigion.com/supercell-global-launched-mo-co-last-week-and/": {
+    "hash": "eeac353de1f345a22e5749f9e96120d6767e170114c833301fbe87b0f41f38bc",
+    "file": "079_Supercell global launched Moco last week And.md"
+  },
+  "https://www.gamigion.com/rivergames-portfolio-7m-a-day/": {
+    "hash": "30162ae6c7a3c61867af2c5644bd40592365be158225ac2ca2bb3dd883a88558",
+    "file": "080_Rivergames Portfolio 7M A Day.md"
+  },
+  "https://www.gamigion.com/new-match-3-block-genre/": {
+    "hash": "49b96d96e18fb50bec506fe5c75ef44ca2ecd77ebd8a37900023e9f93600edec",
+    "file": "081_New Match-3 Block Genre.md"
+  },
+  "https://www.gamigion.com/soft-launch-sonar-8/": {
+    "hash": "83f8abf9f7b7e06433f665d5c1eca99867f4107de50df89af160319697d71326",
+    "file": "082_Soft-launch Sonar 8.md"
+  },
+  "https://www.gamigion.com/elemental-system-is-a-key-system-for-pve-rpgs/": {
+    "hash": "20c2188c9f76b0c1005a2cd1174c2070839bdb4440963cc662176e3360d8e37b",
+    "file": "083_Elemental system is a key system for PvE RPGs.md"
+  },
+  "https://www.gamigion.com/match-villains-by-good-job-games-scaled-to-60k-a-day/": {
+    "hash": "4ddce5a6e5155317bcadfca1d358410db87ae312571d189807ee0b9776672bbd",
+    "file": "084_Match Villains by Good Job Games scaled to 60K a Day.md"
+  },
+  "https://www.gamigion.com/600k-downloads-a-day-i-am-cat-i-am-security/": {
+    "hash": "63c3406d7e4952f7ca18ddc7dde96f707001bf332c65048273f88d88f61dc599",
+    "file": "085_600K Downloads a Day I am Cat  I am Security.md"
+  },
+  "https://www.gamigion.com/low-cpi-cheat-code-any-ips-any-ads/": {
+    "hash": "6c14e0341f4e64a12f7b0e1f1025a5923bef0e1d67ccb22856dba1e7216fdd0e",
+    "file": "086_Low CPI Cheat Code Any IPs Any Ads.md"
+  },
+  "https://www.gamigion.com/the-secret-behind-royal-matchs-4m-a-day/": {
+    "hash": "a613c20f1cfcf337a19faae9563a48db8becff0fa3b7f65e59406f9b5b7f3628",
+    "file": "087_The Secret Behind Royal Matchs 4M a Day.md"
+  },
+  "https://www.gamigion.com/all-in-hole-by-homa-scaled-to-300k-a-day/": {
+    "hash": "84383d691268a1f125acb7622aeae34245ea4b08bc65e238695504e2c3142206",
+    "file": "088_All in Hole by Homa Scaled to 300K a Day.md"
+  },
+  "https://www.gamigion.com/tripledot-is-making-1-3m-a-day/": {
+    "hash": "9631c0a5307fe4531ce723f517bbd7d4636e8c8718226769c8fb8d7e85b849fb",
+    "file": "089_Tripledot is making 13M a Day.md"
+  },
+  "https://www.gamigion.com/magic-sort-by-grand-games-continues-to-scale-to-120k-per-day/": {
+    "hash": "58cbad70b20139bebb54713a375fe2ed8597034c7e7ff798a364aea7f4752d2a",
+    "file": "090_Magic Sort by Grand Games continues to scale to 120K per day.md"
+  },
+  "https://www.gamigion.com/love-deepspace-did-30m-last-month/": {
+    "hash": "73b4c59816eb8ca80a13e24cd1e5cde59953051f57c3c3c581c6ee84e50b8119",
+    "file": "091_Love  Deepspace did 30M last month.md"
+  },
+  "https://www.gamigion.com/kings-candy-crush-solitaire-what-went-wrong/": {
+    "hash": "e63df0122ba1e7a311fc1d8573e91dadd993edf14f4a7de920a1712509c21b10",
+    "file": "092_Kings Candy Crush Solitaire What Went Wrong.md"
+  },
+  "https://www.gamigion.com/vita-mahjong-scaled-past-150k-a-day/": {
+    "hash": "d5435785f1c47a2999735547e2aa27011e755f195ea98ec47d2743ae66bb3948",
+    "file": "093_Vita Mahjong scaled past 150K a Day.md"
+  },
+  "https://www.gamigion.com/key-vietnamese-mobile-game-publishers/": {
+    "hash": "dbf255c627f7d242134227011d43b659dc7b58520155d46f9f74b3c00b25be1b",
+    "file": "094_Key Vietnamese Mobile Game Publishers.md"
+  },
+  "https://www.gamigion.com/supercell-teased-their-boat-game/": {
+    "hash": "5cb069ea1338c78c5c14cecdbfc726fb04e976f80c0e229554c287484022aa33",
+    "file": "095_Supercell teased their Boat Game.md"
+  },
+  "https://www.gamigion.com/goods-puzzle-scaled-past-300k-a-day/": {
+    "hash": "bc592d4ecad7680db7b76c9e198c19d290592305762c2fffb2b121996b91b102",
+    "file": "096_Goods Puzzle Scaled Past 300K a Day.md"
+  },
+  "https://www.gamigion.com/warning-heavy-game-design-here/": {
+    "hash": "cde7f777f38e93c64af015057ba8a493b655b366549c134888f586114960fb19",
+    "file": "097_Warning Heavy Game Design Here.md"
+  },
+  "https://www.gamigion.com/candy-crush-solitaire-by-king/": {
+    "hash": "68d8945a2d7265b4f824bfa3d2eae782d127134040ba6396a0d445ec628adf8a",
+    "file": "098_Candy Crush Solitaire by King.md"
+  },
+  "https://www.gamigion.com/scopely-to-buy-pokemon-go-from-niantic/": {
+    "hash": "91a744f33e6d464ac11c452ee074ff1a75fb86fc928d971febf1c6b890b621f8",
+    "file": "099_Scopely to buy Pokemon GO from Niantic.md"
+  },
+  "https://www.gamigion.com/applovins-gaming-portfolio/": {
+    "hash": "fa5b4cdd6ff82be82853c8f77afd7b2cb4c9901b654a7bb544963f3ad068096f",
+    "file": "100_AppLovins Gaming Portfolio.md"
+  },
+  "https://www.gamigion.com/state-of-4x-games/": {
+    "hash": "23af81dd972a8965328b767b48e3a86f7ecaff6e2f6306f56055795952eb811b",
+    "file": "101_State of 4X Games.md"
+  },
+  "https://www.gamigion.com/pokemon-tcg-pocket-hit-record-daily-revenue-of-8m-day/": {
+    "hash": "81f51502f20aed6a7bbe7ace13d39d4774d7a68e917876d2fddc852251dd52de",
+    "file": "102_Pok\u00e9mon TCG Pocket hit record daily revenue of 8MDay.md"
+  },
+  "https://www.gamigion.com/review-radar-7/": {
+    "hash": "3ef01cca922645a3b342e0d1da36ee0ded265ec7f58b49f2aa0703564660b0d4",
+    "file": "103_Review Radar 7.md"
+  },
+  "https://www.gamigion.com/color-block-jam-by-rollic-scaled-to-300k-a-day/": {
+    "hash": "5b5dc90e1648e863b44c767fb4c38bdfc581a0d7633f5b66e90052549aabffbb",
+    "file": "104_Color Block Jam by Rollic scaled to 300K A Day.md"
+  },
+  "https://www.gamigion.com/behind-archero-2/": {
+    "hash": "317d4ce1507938d255ccabf37bf4ca97ac5e98acb28643c019b230ffe70095bb",
+    "file": "105_Behind Archero 2.md"
+  },
+  "https://www.gamigion.com/project-r-i-s-e-by-supercell/": {
+    "hash": "6985a808882754e894c6a310e4d5fa2a2256bab767846743a9ceb0adf3baa8e0",
+    "file": "106_Project RISE by Supercell.md"
+  },
+  "https://www.gamigion.com/block-blast-by-hungry-studio-is-doing-1m-a-day/": {
+    "hash": "523b654f2cba8749bc8be40afd1172d84ad5730de82407bce578965eb8ae2f4e",
+    "file": "107_Block Blast by Hungry Studio is doing 1M a Day.md"
+  },
+  "https://www.gamigion.com/my-2025-product-trends-for-mobile-games-predictions/": {
+    "hash": "7a224c37ad5594ceeb4e3eb3301f2f3c8d2504758984aad276dcdaddb43d8e29",
+    "file": "108_My 2025 Product trends for Mobile Games Predictions.md"
+  },
+  "https://www.gamigion.com/dark-and-darker-by-krafton/": {
+    "hash": "f1c95375786097003d0fa080cf69ffebfb99720374624e7bf1dc76eae2be61b5",
+    "file": "109_Dark and Darker by Krafton.md"
+  },
+  "https://www.gamigion.com/solitaire-genre-is-getting-super-hot/": {
+    "hash": "43482e9b75c7c49b057b09bba3d26344a8d180f5eefb5ed0a14119f477cd5ecd",
+    "file": "110_Solitaire genre is getting super hot.md"
+  },
+  "https://www.gamigion.com/path-of-exile-2-did-some-very-smart-decisions/": {
+    "hash": "c71a643260b1c786b30bc90c8411bb4ac02635e4287faa6fd1a7c2086adebcbf",
+    "file": "111_Path of Exile 2 did some very smart decisions.md"
+  },
+  "https://www.gamigion.com/soft-launch-sonar-7/": {
+    "hash": "b2ce0580d6f18102b505a7ab07e23be5d5e0ffec950617ccbcb75a77326fc99a",
+    "file": "112_Soft-launch Sonar 7.md"
+  },
+  "https://www.gamigion.com/blossom-sort-by-zeromaze-scaled-to-60k-a-day/": {
+    "hash": "9c108fb001611a9557b9635c5940ca546c24849ec837dac82e21afedb64d8ef5",
+    "file": "113_Blossom Sort by Zeromaze scaled to 60K a day.md"
+  },
+  "https://www.gamigion.com/history-of-match-3/": {
+    "hash": "02efb1c8fb626196b287fdffe3ee1be50a35460eec69f949093b4156812fa25f",
+    "file": "114_History of Match 3.md"
+  },
+  "https://www.gamigion.com/us-only-soft-launch-top-girl-scaled-to-80k-day/": {
+    "hash": "1721f59e0019d4d3367684b42a02f3d460136a284350c5ed13865aacaaf9bdf7",
+    "file": "115_US Only soft-launch Top Girl scaled to 80KDay.md"
+  },
+  "https://www.gamigion.com/dark-war-survival-by-rivergame-scaled-to-300k-a-day/": {
+    "hash": "f5cbecce579e8c052a9b6031af764be827166b0ea3483c04e2773f6d2ec8e1e3",
+    "file": "116_Dark War Survival by Rivergame scaled to 300K a Day.md"
+  },
+  "https://www.gamigion.com/pokemons-winning-formula-4m-day/": {
+    "hash": "93b6d9776f5eba12a0e59ee4851db15df814ed705a656745ff543c2c18852be3",
+    "file": "117_Pokemons Winning Formula 4MDay.md"
+  },
+  "https://www.gamigion.com/archero-2-global-launched-last-week-5th-iteration/": {
+    "hash": "d323bdfb4921ea33b05438f56572f76b6f2d19b388049ed699ff34d3952c5a7f",
+    "file": "118_Archero 2 global launched last week 5th iteration.md"
+  },
+  "https://www.gamigion.com/pokemon-tcg-pocket-is-already-past-60-mil/": {
+    "hash": "39479423c75348ab6032ed079881760fd017dbeea9a139214f27e691f4ab370d",
+    "file": "119_Pok\u00e9mon TCG Pocket Past 60M.md"
+  },
+  "https://www.gamigion.com/pokemon-tcg-pocket-is-making-more-than-5m-a-day/": {
+    "hash": "61c4b0d7f5e56009c8cafa7d77816df4cbb44cdc63e28877e061efde55a51a31",
+    "file": "120_Pokemon TCG Pocket is making more than 5M A Day.md"
+  },
+  "https://www.gamigion.com/my-supermarket-simulator-3d-by-game-district-is-the-winner/": {
+    "hash": "285ca6621f805a9383ba35ae4830dbdfb495f6cd80192612066c1d6f981cb0ec",
+    "file": "121_My Supermarket Simulator 3D by Game District is the winner.md"
+  },
+  "https://www.gamigion.com/supercell-ran-the-2nd-beta-test-for-project-r-i-s-e/": {
+    "hash": "223b2614064bb811729105c7426d4c555f533fc8d2a2f4739613bd7624f5c6f6",
+    "file": "122_Supercell ran the 2nd Beta test for Project RISE.md"
+  },
+  "https://www.gamigion.com/hexa-sort-is-crushing-it-with-15m-a-month/": {
+    "hash": "44119445edecdace89d317de31bc0bb23a34ad90db4c3e6f7b90040585860821",
+    "file": "123_Hexa Sort is crushing it with 15M A Month.md"
+  },
+  "https://www.gamigion.com/soft-launch-sonar-6/": {
+    "hash": "5bac40397e6941adbafa2e37e5143c28986455c1bb9705f87fac2efdcd1a41d3",
+    "file": "124_Soft-launch Sonar 6.md"
+  },
+  "https://www.gamigion.com/balatro-makes-40k-a-day-as-a-premium-game/": {
+    "hash": "272d80f128c91e424a903d4061363f3866970cbf25f2748dc9764af95ab9b5c3",
+    "file": "125_Balatro makes 40K a day as a premium game.md"
+  },
+  "https://www.gamigion.com/scopely-marvel-collaboration/": {
+    "hash": "991c7f8b6912fd0448f2b06ab6d9d89c6a30a12d7723d6f70704fd3394fde2e0",
+    "file": "126_Scopely  Marvel Collaboration.md"
+  },
+  "https://www.gamigion.com/money-printing-machine-reelshort-by-crazy-maple/": {
+    "hash": "9e5c81cad152c14706a0a55291e574592991a29b4b851172cdfa47649aeab584",
+    "file": "127_Money-printing Machine ReelShort by Crazy Maple.md"
+  },
+  "https://www.gamigion.com/review-radar-6-is-back-with-13-games/": {
+    "hash": "ad689274528962381dbacb594221310a6e49db487e70fe0516f0e6a40cc3bb95",
+    "file": "128_Review Radar 6 is back with 13 Games.md"
+  },
+  "https://www.gamigion.com/super-smart-advertising-of-last-war-by-rivergame/": {
+    "hash": "585b0c847d1aafe4ff925ef424375027280ee4fcedd878989a7f8d0dae3865c2",
+    "file": "129_Super Smart Advertising of Last War by Rivergame.md"
+  },
+  "https://www.gamigion.com/elder-scrolls-castles-by-microsoft-70k-40k-installs-a-day/": {
+    "hash": "6059f35d9d985b16611818697fddc91da290f4daf4e5cd88305e1772b9094a15",
+    "file": "130_Elder Scrolls Castles by Microsoft 70K  40K Installs a Day.md"
+  },
+  "https://www.gamigion.com/wechat-minigames-made-2-3-billion-in-h1-2024/": {
+    "hash": "e0ec2ee03bef2e5069c8809e6c34f13446e4d7285b0ebffdcf5e46cf09c2493c",
+    "file": "131_WeChat Minigames made 23 billion in H1 2024.md"
+  },
+  "https://www.gamigion.com/minigame-market-mau-will-exceed-500-million-users-in-china/": {
+    "hash": "53d5862f8dc394c8fb09d5e326c0752cb705d33b75a984569975d0422b30e51f",
+    "file": "132_Minigame Market MAU will exceed 500 Million Users in China.md"
+  },
+  "https://www.gamigion.com/impulse-brain-training-scaled-to-6-m-a-month/": {
+    "hash": "f5a089121be96205ec437c2c62b8b350a33f50e9e00adf5c5cd735574fa27169",
+    "file": "133_Impulse  Brain Training Scaled to 6 M A Month.md"
+  },
+  "https://www.gamigion.com/office-cat-by-treeplla-130k-a-day/": {
+    "hash": "4a39f178dcce0293e05bf749e941f493ed5ed1be33753758ea4caae131427530",
+    "file": "134_Office Cat by Treeplla 130K a Day.md"
+  },
+  "https://www.gamigion.com/lucky-defense-scaled-to-300k-a-day/": {
+    "hash": "b74f2272a741708dd9cd4020a3412858bba4f68e03abcd274264642031d789df",
+    "file": "135_Lucky Defense Scaled to 300K a Day -.md"
+  },
+  "https://www.gamigion.com/idle-outpost-scaled-to-150k-a-day-in-july/": {
+    "hash": "7ab03402533cfd45d1dc3479d307cc294c17c85d9830823d183ee5d6e6a1968e",
+    "file": "136_Idle Outpost Scaled to 150K a Day in July.md"
+  },
+  "https://www.gamigion.com/squad-busters-radical-changes-on-a-quest-for-lasting-success/": {
+    "hash": "08d6852d66ce1f5c06b2da49bb82a0c6e54e3fe657a1e033addb2d5b5f436aae",
+    "file": "137_Squad Busters Radical Changes - A Quest For Lasting Succes.md"
+  },
+  "https://www.gamigion.com/supercells-squad-busters-a-major-update/": {
+    "hash": "029ce5ff7207753c01a1417de9003db4fab203151f50486da5b2cb37846e7a22",
+    "file": "138_Supercells Squad Busters A Major Update.md"
+  },
+  "https://www.gamigion.com/august-13th-stormgate-launches-into-f2p-early-access/": {
+    "hash": "fda70dcf84e03d189216873950e1ccb8c039eea5c012b9b40d40ea2cced8e99d",
+    "file": "139_August 13th Stormgate Launches into F2P Early Access.md"
+  },
+  "https://www.gamigion.com/soft-launch-sonar-5/": {
+    "hash": "b76d4839e2a83c4c6042f6ae4f6f366890ae919c4bc55da11c9ad0acdae0b151",
+    "file": "140_Soft-launch Sonar 5.md"
+  },
+  "https://www.gamigion.com/testing-r-i-s-e-pre-alpha-the-new-game-from-supercell/": {
+    "hash": "9e4d1206ceabae71864e76d434d3b831fcf0db6452066e5325dc239924696af3",
+    "file": "141_Testing RISE Pre-Alpha The New Game from Supercell.md"
+  },
+  "https://www.gamigion.com/how-did-azur-games-get-past-10-billion-installs/": {
+    "hash": "3f2e14165feb77d6faba8a4839aa6bb76d768e697e14da30f88848f37f36ff0e",
+    "file": "142_How did Azur Games get past 10 Billion installs.md"
+  },
+  "https://www.gamigion.com/zenless-zone-zero-by-mihoyo-50m-in-3-weeks/": {
+    "hash": "d8ee79ca34b392607fe70e93deb03cc26f827237fd0c54d283fde8757a1c8f04",
+    "file": "143_Zenless Zone Zero by miHoYo 50M in 3 Weeks.md"
+  },
+  "https://www.gamigion.com/chrome-valley-customs-male-match-3-audience/": {
+    "hash": "d4d4ce0fdabed46f627c306d124452081b195dbcf8b9ab6e295b173300840c34",
+    "file": "144_Chrome Valley Customs Male Match 3 Audience.md"
+  },
+  "https://www.gamigion.com/what-does-r-i-s-e-mean-for-supercells-action-rpg-strategy/": {
+    "hash": "822e8c08f1344ee39527e669dc2ec18730eb33fdb742b7193023fa77ff2fbb7e",
+    "file": "145_What Does RISE Mean for Supercells Action RPG Strategy.md"
+  },
+  "https://www.gamigion.com/game-analysis-the-evolution-of-idle-rpg-systems/": {
+    "hash": "1d671c0986353e8bc10bd55bebf8ded19ac82bed3b6dc51127a8b8461b04094e",
+    "file": "146_Game Analysis The Evolution of Idle RPG Systems.md"
+  },
+  "https://www.gamigion.com/game-analysis-the-evolution-of-squad-busters/": {
+    "hash": "e63a9ea599444ca1620d89441652b4a460193298a321d729b652164c80398d55",
+    "file": "147_Game Analysis The Evolution of Squad Busters -.md"
+  },
+  "https://www.gamigion.com/static-boards-moving-parts-inside-hybridcasual-dynamism/": {
+    "hash": "149778f95dd86f4deaa19dfcd0340fb0763a39f64100aa4e3f54dfa9185ff219",
+    "file": "001_Static Boards Moving Parts Inside Hybridcasual Dynamism.md"
+  },
+  "https://www.gamigion.com/static-puzzles-in-a-dynamic-market/": {
+    "hash": "97117ff22b85d7778355548ec1b28a6d331a69fdc9e14ef1c0335dbb9b5b9b2f",
+    "file": "002_Static Puzzles in a Dynamic Market.md"
+  },
+  "https://www.gamigion.com/hybridcasual-puzzles-the-next-big-battleground-in-2026/": {
+    "hash": "f2843749e423edfdefb120dec498c6fa1c4ca8159fe5011112ca9f07205f3464",
+    "file": "003_Hybridcasual Puzzles The Next Big Battleground in 2026.md"
+  },
+  "https://www.gamigion.com/the-puzzle-market-might-be-a-red-ocean-but-its-far-from-exhausted/": {
+    "hash": "7101ab7d325914336e4d2308d012a13d7088ba48fbb3f11d221c10c4de61c2a4",
+    "file": "004_The puzzle market might be a red ocean but its far from exhausted.md"
+  },
+  "https://www.gamigion.com/the-evolution-of-the-juice-bar-event/": {
+    "hash": "a43094d2a876de38bcc074aa18f56f47b5d2ac41e49dc780bee5ea76cab297a7",
+    "file": "005_The Evolution of the Juice Bar Event.md"
+  },
+  "https://www.gamigion.com/sometimes-a-single-gold-bar-makes-all-the-difference/": {
+    "hash": "1dbdbd7aa76fab783a6eedeb265f22bd397f425fee50d5f028cfe39aa23a88fc",
+    "file": "006_Sometimes a single gold bar makes all the difference.md"
+  },
+  "https://www.gamigion.com/why-you-need-to-keep-failing-even-when-youre-at-the-top/": {
+    "hash": "012b6ab673741e823517d366ad61284b52437654ed98e59a1d96e8a14846d638",
+    "file": "007_Why You Need to Keep Failing Even When Youre at the Top.md"
+  },
+  "https://www.gamigion.com/match-villains-a-dracula-led-heist-into-the-most-brutal-market-in-mobile/": {
+    "hash": "967ad4bfa958385a403ec6bc59acba57e1d11cccad944df2d964e06636a53eb7",
+    "file": "008_Match Villains A Dracula-Led Heist Into the Most Brutal Market in Mobile.md"
+  },
+  "https://www.gamigion.com/how-social-gameplay-can-help-your-game-grow-at-every-stage/": {
+    "hash": "8744343b791716f900b51e539d5339b2d98c06c22e23be49697be0a7bbbad129",
+    "file": "009_How Social Gameplay Can Help Your Game Grow At Every Stage.md"
+  },
+  "https://www.gamigion.com/how-liveops-events-can-help-games-reach-wider-audiences/": {
+    "hash": "638677d1ef1875b9f27af160c103a9cc249948c215e633528ad8a35d4bc324cd",
+    "file": "010_How LiveOps Events Can Help Games Reach Wider Audiences.md"
+  },
+  "https://www.gamigion.com/royal-kingdoms-hollywood-power-play-last-hurrah-or-royal-rebirth/": {
+    "hash": "db85f65bb10b43deef2d392375ff0854da01055703085ad1c5ff44b4eefaa743",
+    "file": "011_Royal Kingdoms Hollywood Power Play Last Hurrah or Royal Rebirth.md"
+  },
+  "https://www.gamigion.com/when-visuals-drive-performance/": {
+    "hash": "d4e8515ac223d311427beb5fe5fc35d7247a274015420ddb672cb7b3b4b38cba",
+    "file": "012_When Visuals Drive Performance.md"
+  },
+  "https://www.gamigion.com/why-now-is-the-worst-time-to-launch-a-match-3/": {
+    "hash": "37ccf19c429dd99adcf41cb523633e19318117a9d8d9f35ebfa45fe785e6b827",
+    "file": "013_Why Now Is the Worst Time to Launch a Match-3.md"
+  },
+  "https://www.gamigion.com/helping-your-players-in-a-smart-way/": {
+    "hash": "83f348058578b9ed90957afe6a9ae930e29fc17dee5cc1b09d1e244cba67e0e9",
+    "file": "014_Helping Your Players In a Smart Way.md"
+  },
+  "https://www.gamigion.com/engaging-mini-games-and-where-to-find-them/": {
+    "hash": "56b32416a9efce5166000a3eac71bca6cabb1ae8263ec2cb10aa15a7a2c4a803",
+    "file": "015_Engaging Mini Games and Where to Find Them.md"
+  },
+  "https://www.gamigion.com/the-importance-of-personalization-in-gaming/": {
+    "hash": "83ece12c9ec7c07a7ec3c9dd01fc5fc67cbb156d2b00c84e943fbc6d985be121",
+    "file": "016_The Importance of Personalization in Gaming.md"
+  },
+  "https://www.gamigion.com/collectible-albums-a-new-frontier-in-motivating-players/": {
+    "hash": "4efa56b61e35b3a938f8e74553f9cbac674bb342f151b40db16be7748426739d",
+    "file": "017_Collectible Albums A New Frontier in Motivating Players.md"
+  },
+  "https://www.gamigion.com/the-hidden-value-of-subtle-design/": {
+    "hash": "3d8662be33a2994f03296280faf066ac9e67d50c020c78c27c603c5c007f1222",
+    "file": "018_The Hidden Value of Subtle Design.md"
+  },
+  "https://www.gamigion.com/why-some-puzzle-games-are-more-addicting/": {
+    "hash": "2876362a907d9b67570d5106298cfc0d171325cd7f9e07fe5f9328459adf7515",
+    "file": "019_Why Some Puzzle Games are More Addicting.md"
+  },
+  "https://www.gamigion.com/the-sweet-art-of-feature-adaptation/": {
+    "hash": "eae78428f179acb51e9284b2fe8dfe90004ec30f0c4e7127dce56de100f42383",
+    "file": "020_The Sweet Art of Feature Adaptation.md"
+  },
+  "https://www.gamigion.com/daily-missions-and-rewards-in-puzzle-games/": {
+    "hash": "3a31805edfefce1e5c823337a9a11eac5e3449e65fe343705e0099d6605dbfae",
+    "file": "021_Daily Missions and Rewards in Puzzle Games.md"
+  },
+  "https://www.gamigion.com/time-blast-will-it-revive-the-rest-of-the-genre/": {
+    "hash": "3baf9a4ea0f255c06b30e6adad9e5781237497eaf5ea1587c3895aa5f2757daf",
+    "file": "022_Time Blast Will it revive the Rest of the Genre.md"
+  },
+  "https://www.gamigion.com/win-streak-gift-that-keeps-on-giving/": {
+    "hash": "10bb334f0a5081b363bb6ffabdc413e9da818a91a7958ceef7532c2835db2eda",
+    "file": "023_Win Streak Gift That Keeps on Giving.md"
+  },
+  "https://www.gamigion.com/iteration-over-innovation-case-makeover-match/": {
+    "hash": "44adae9f44cb60e6a9085819ba5063d3f22427b70df92f31b6e90453cee753f3",
+    "file": "024_Iteration over Innovation Case Makeover Match.md"
+  },
+  "https://www.gamigion.com/applovins-modern-community-and-the-power-of-game-narrative/": {
+    "hash": "ee0b5b4cdd27e04644d29a00b7e6d73b62a368956b4a99a9a3082504aead073d",
+    "file": "025_AppLovins Modern Community and The Power of Game Narrative.md"
+  },
+  "https://www.gamigion.com/tile-busters-leaving-the-reddest-ocean-to-find-a-blue-spot/": {
+    "hash": "b09f621c8851067c230b7c0b72938de5e13db331217092841f5508b3c68d3bc2",
+    "file": "026_Tile Busters Leaving The Reddest Ocean To Find A Blue Spot.md"
+  },
+  "https://www.gamigion.com/tile-match-the-new-match-3-or-the-new-merge/": {
+    "hash": "286cf9187449af479479211307361ba63b2dd422e0dae1134cafd8e4e6831234",
+    "file": "027_Tile Match The new Match-3 or the new Merge.md"
+  }
+}
